@@ -1,0 +1,92 @@
+---
+// The law block of a text (DESIGN.md 4.1): authentic text of the cited §, chapter and § numbers,
+// the Riigi Teataja note required by the Riigi Teataja Act § 12(1), key facts, and its own audio.
+import {
+  ACT_HEADINGS,
+  citation,
+  displayNumber,
+  resolveLaw,
+  riigiTeatajaUrl,
+  type ResolvedLaw,
+} from '../lib/content';
+import type { ActId, TextEntry } from '../lib/types';
+import { url } from '../lib/url';
+
+interface Props {
+  text: TextEntry;
+}
+
+const { text } = Astro.props;
+const resolved = text.law.map((id) => {
+  const r = resolveLaw(id);
+  if (!r) throw new Error(`Text ${text.id}: unknown law id "${id}"`);
+  return r;
+});
+const acts = [...new Set(resolved.map((r) => r.act.act))] as ActId[];
+const byAct = acts.map((act) => ({ act, items: resolved.filter((r) => r.act.act === act) }));
+
+function chapterLine(r: ResolvedLaw): string {
+  if (!r.chapter) return '';
+  return `${r.chapter.number}. peatükk. ${r.chapter.title}`;
+}
+---
+
+<section class="law" lang="et">
+  {
+    byAct.map(({ act, items }) => (
+      <>
+        <h2>{ACT_HEADINGS[act]}</h2>
+        {items.map((r) => (
+          <div class="provision">
+            <p class="chapter">{chapterLine(r)}</p>
+            <h3>
+              {citation(r.id)}
+              {r.paragraph.title && !r.part ? `. ${r.paragraph.title}` : ''}
+            </h3>
+            {(r.part ? [r.part] : r.paragraph.parts).map((part) => (
+              <>
+                <p>
+                  {part.label && <span class="label">{part.label} </span>}
+                  {part.repealed ? '[Kehtetu]' : part.text}
+                </p>
+                {part.points.length > 0 && (
+                  <ol class="points">
+                    {(r.point ? [r.point] : part.points).map((pt) => (
+                      <li value={Number(pt.number.split('_')[0])}>
+                        {displayNumber(pt.number)}) {pt.repealed ? '[Kehtetu]' : pt.text}
+                      </li>
+                    ))}
+                  </ol>
+                )}
+              </>
+            ))}
+            <p class="note">
+              Ametlik tekst on avaldatud Riigi Teatajas:{' '}
+              <a href={riigiTeatajaUrl(r.act, r.paragraph)}>{r.act.title}</a> ({r.act.reference}).
+            </p>
+          </div>
+        ))}
+      </>
+    ))
+  }
+  {
+    text.facts.length > 0 && (
+      <>
+        <h3>Peamised faktid</h3>
+        <ul class="facts">
+          {text.facts.map((f) => (
+            <li>{f.text}</li>
+          ))}
+        </ul>
+      </>
+    )
+  }
+  {
+    text.audio && (
+      <figure class="player">
+        <audio controls preload="none" src={url(text.audio.law)} />
+        <figcaption>Heli: Neurokõne (TartuNLP)</figcaption>
+      </figure>
+    )
+  }
+</section>

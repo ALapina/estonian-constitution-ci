@@ -1,0 +1,2820 @@
+{
+  "act": "kods",
+  "title": "Kodakondsuse seadus",
+  "edition": "126062025008",
+  "reference": "RT I, 26.06.2025, 8",
+  "inForceFrom": "2025-07-06",
+  "url": "https://www.riigiteataja.ee/akt/126062025008",
+  "importedAt": "2026-11-18",
+  "preamble": null,
+  "chapters": [
+    {
+      "id": "kods-ch1",
+      "number": "1",
+      "title": "Üldsätted",
+      "paragraphs": [
+        "kods-1",
+        "kods-2",
+        "kods-2_1",
+        "kods-2_2",
+        "kods-2_3",
+        "kods-2_4",
+        "kods-3",
+        "kods-4"
+      ]
+    },
+    {
+      "id": "kods-ch2",
+      "number": "2",
+      "title": "Eesti kodakondsuse omandamise ja saamise tingimused",
+      "paragraphs": [
+        "kods-5",
+        "kods-6",
+        "kods-7",
+        "kods-8",
+        "kods-8_1",
+        "kods-8_2",
+        "kods-8_3",
+        "kods-9",
+        "kods-10",
+        "kods-11",
+        "kods-12"
+      ]
+    },
+    {
+      "id": "kods-ch3",
+      "number": "3",
+      "title": "Alaealisena Eesti kodakondsuse saamise tingimused",
+      "paragraphs": [
+        "kods-13",
+        "kods-14",
+        "kods-14_1",
+        "kods-15"
+      ]
+    },
+    {
+      "id": "kods-ch4",
+      "number": "4",
+      "title": "Eesti kodakondsuse taastamise tingimused",
+      "paragraphs": [
+        "kods-16",
+        "kods-17"
+      ]
+    },
+    {
+      "id": "kods-ch5",
+      "number": "5",
+      "title": "Eesti kodakondsuse saamise ja taastamise kord",
+      "paragraphs": [
+        "kods-18",
+        "kods-19",
+        "kods-20",
+        "kods-21"
+      ]
+    },
+    {
+      "id": "kods-ch6",
+      "number": "6",
+      "title": "Eesti kodakondsuse kaotamise tingimused ja kord",
+      "paragraphs": [
+        "kods-22",
+        "kods-23",
+        "kods-24",
+        "kods-25",
+        "kods-26",
+        "kods-27",
+        "kods-28",
+        "kods-29",
+        "kods-30"
+      ]
+    },
+    {
+      "id": "kods-ch7",
+      "number": "7",
+      "title": "Lõppsätted",
+      "paragraphs": [
+        "kods-31",
+        "kods-32",
+        "kods-33",
+        "kods-34",
+        "kods-35",
+        "kods-36",
+        "kods-36_1",
+        "kods-36_2",
+        "kods-36_3",
+        "kods-36_4",
+        "kods-36_5",
+        "kods-37",
+        "kods-38"
+      ]
+    }
+  ],
+  "paragraphs": {
+    "kods-1": {
+      "id": "kods-1",
+      "number": "1",
+      "title": "Eesti kodanik",
+      "chapter": "kods-ch1",
+      "parts": [
+        {
+          "id": "kods-1-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodanik on isik, kes käesoleva seaduse jõustumisel on Eesti kodakondsuses, samuti isik, kes on käesoleva seaduse alusel omandanud, saanud või taastanud Eesti kodakondsuse.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-1-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti kodanik ei või olla samal ajal mõne muu riigi kodakondsuses, arvestades käesoleva seaduse §-s 3 sätestatud erisusi.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-2": {
+      "id": "kods-2",
+      "number": "2",
+      "title": "Eesti kodakondsuse omandamine, saamine, taastamine ja kaotamine",
+      "chapter": "kods-ch1",
+      "parts": [
+        {
+          "id": "kods-2-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsus:",
+          "points": [
+            {
+              "id": "kods-2-lg1-p1",
+              "number": "1",
+              "text": "omandatakse sünniga;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2-lg1-p2",
+              "number": "2",
+              "text": "saadakse naturalisatsiooni korras;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2-lg1-p3",
+              "number": "3",
+              "text": "taastatakse isikule, kes on kaotanud Eesti kodakondsuse alaealisena;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2-lg1-p4",
+              "number": "4",
+              "text": "kaotatakse Eesti kodakondsusest vabastamise, selle äravõtmise või mõne muu riigi kodakondsuse vastuvõtmisega.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-2-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti kodakondsus omandatakse, saadakse, taastatakse ja kaotatakse käesolevas seaduses sätestatud tingimustel ja korras.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Käesolevas seaduses sätestatud haldusmenetlusele kohaldatakse haldusmenetluse seaduse sätteid, arvestades käesoleva seaduse erisusi.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-2_1": {
+      "id": "kods-2_1",
+      "number": "2_1",
+      "title": "Eesti kodakondsuse saanud, taastanud või kaotanud isikute andmekogu",
+      "chapter": "kods-ch1",
+      "parts": [
+        {
+          "id": "kods-2_1-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsuse saanud, taastanud või kaotanud isikute andmekogu (edaspidi käesolevas paragrahvis andmekogu) on valdkonna eest vastutava ministri asutatud andmekogu, mille põhimääruse kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_1-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Andmekogu pidamise eesmärk on tagada avalik kord ja riigi julgeolek Eesti kodakondsuse saanud, taastanud või kaotanud isikute ning nende esitatud taotluste andmete töötlemise kaudu.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_1-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Andmekogu pidamise eesmärgi ja Euroopa Liidu õigusaktis, välislepingus, seaduses või määruses sätestatud ülesande täitmiseks töödeldakse Eesti kodakondsuse taotlemise, taastamise või kaotamise menetluses kogutud ning sellises menetluses antud haldusakti ja sooritatud toimingu kohta järgmisi andmeid:",
+          "points": [
+            {
+              "id": "kods-2_1-lg3-p1",
+              "number": "1",
+              "text": "isiku üldandmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p2",
+              "number": "2",
+              "text": "isiku sünnikoht;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p3",
+              "number": "3",
+              "text": "isiku foto või näokujutis;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p4",
+              "number": "4",
+              "text": "isiku perekonnaseisuandmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p5",
+              "number": "5",
+              "text": "isiku hariduse andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p6",
+              "number": "6",
+              "text": "isiku töötamise andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p7",
+              "number": "7",
+              "text": "isiku terviseseisundi andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p8",
+              "number": "8",
+              "text": "isikule mõistetud või määratud karistuse andmed, sealhulgas karistusregistri arhiivi andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p9",
+              "number": "9",
+              "text": "isiku maksuvõla andmed maksukorralduse seaduse § 32 tähenduses;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p10",
+              "number": "10",
+              "text": "isiku välisriigi kodakondsus, mille ta on omandanud või mida ta taotleb, Eesti kodakondsusest loobumise või vabastamise põhjus ning senisest kodakondsusest vabastamise ja välisriigi kodakondsuse saamise andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p11",
+              "number": "11",
+              "text": "Eestis sündinud isiku vanema Eestisse elama asumise aeg ja asjaolud;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p12",
+              "number": "12",
+              "text": "isiku Eestisse elama asumise aeg ja asjaolud ning koos temaga Eestisse saabunud isiku üldandmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p13",
+              "number": "13",
+              "text": "isiku lähedase sugulase üldandmed, sünnikoht ja seos isikuga;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p14",
+              "number": "14",
+              "text": "andmed isiku seose kohta välisriigi sõjaväe-, luure- või julgeolekuorganisatsiooniga;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p15",
+              "number": "15",
+              "text": "rahvusvahelise kaitse saaja rahvusvahelise kaitse saamist tõendava dokumendi andmed ja andmed selle kohta, et olukord rahvusvahelise kaitse saaja päritoluriigis ei ole muutunud;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p16",
+              "number": "16",
+              "text": "isiku seadusliku esindaja üldandmed ja sünnikoht;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg3-p17",
+              "number": "17",
+              "text": "menetlustoimingu ja otsuse andmed.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_1-lg3_1",
+          "number": "3_1",
+          "label": "(3¹)",
+          "text": "Isiku tuvastamisel ja isikusamasuse kontrollimisel isikut tõendavate dokumentide seaduse § 15⁵ tähenduses võib töödelda isiku identiteediandmeid, mis on kantud andmekogusse.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_1-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Andmekogu vastutav töötleja on Politsei- ja Piirivalveamet.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_1-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Andmekogu põhimääruses sätestatakse andmekogu pidamise kord, sealhulgas:",
+          "points": [
+            {
+              "id": "kods-2_1-lg5-p1",
+              "number": "1",
+              "text": "andmeandjad ja nendelt saadavad andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg5-p2",
+              "number": "2",
+              "text": "täpsem andmekoosseis;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg5-p3",
+              "number": "3",
+              "text": "andmekogudevaheline andmevahetus;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg5-p4",
+              "number": "4",
+              "text": "vastutava töötleja ülesanded;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg5-p5",
+              "number": "5",
+              "text": "volitatud töötleja ja tema ülesanded;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg5-p6",
+              "number": "6",
+              "text": "andmetele juurdepääsu andmise ja andmete väljastamise kord;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg5-p7",
+              "number": "7",
+              "text": "andmete säilitamise täpsemad tähtajad;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_1-lg5-p8",
+              "number": "8",
+              "text": "muud korralduslikud küsimused.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_1-lg5_1",
+          "number": "5_1",
+          "label": "(5¹)",
+          "text": "Isiku tuvastamise või isikusamasuse kontrollimise eesmärgil töödeldavad biomeetrilised andmed kustutatakse andmekogust viivitamata pärast võrdlusuuringu tegemist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_1-lg5_2",
+          "number": "5_2",
+          "label": "(5²)",
+          "text": "Andmekogu andmeid säilitatakse tähtajatult. Andmete säilitamise lühemad tähtajad sätestatakse andmekogu põhimääruses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_1-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Eraõiguslikes ja avalik-õiguslikes suhetes võib andmekogus olevad andmed käesoleva paragrahvi lõikes 3 nimetatud menetlustes antud haldusaktide ja sooritatud toimingute kohta võtta aluseks andmetena Eesti kodakondsuse saamise, taastamise, kaotamise või omamise kohta.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-2_2": {
+      "id": "kods-2_2",
+      "number": "2_2",
+      "title": "Riigilõiv",
+      "chapter": "kods-ch1",
+      "parts": [
+        {
+          "id": "kods-2_2-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Riigilõivu tasutakse riigilõivuseaduses sätestatud määras järgmiste toimingute sooritamise ja haldusaktide andmise taotluste läbivaatamise eest:",
+          "points": [
+            {
+              "id": "kods-2_2-lg1-p1",
+              "number": "1",
+              "text": "Eesti kodakondsuse saamise taotluse läbivaatamine;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_2-lg1-p2",
+              "number": "2",
+              "text": "Eesti kodakondsuse taastamise taotluse läbivaatamine;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_2-lg1-p3",
+              "number": "3",
+              "text": "Eesti kodakondsusest vabastamise taotluse läbivaatamine.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_2-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Taotluse läbi vaatamata jätmisel riigilõivu ei tagastata.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-2_3": {
+      "id": "kods-2_3",
+      "number": "2_3",
+      "title": "Eriliiki isikuandmete töötlemine",
+      "chapter": "kods-ch1",
+      "parts": [
+        {
+          "id": "kods-2_3-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Käesolevas seaduses sätestatud menetluste puhul on haldusorganil õigus töödelda terviseandmeid ja biomeetrilisi andmeid.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-2_4": {
+      "id": "kods-2_4",
+      "number": "2_4",
+      "title": "Automaatse biomeetrilise isikutuvastuse süsteemi andmekogu",
+      "chapter": "kods-ch1",
+      "parts": [
+        {
+          "id": "kods-2_4-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Automaatse biomeetrilise isikutuvastuse süsteemi andmekogu (edaspidi andmekogu ABIS) on elektrooniline andmekogu, mille eesmärk käesoleva seaduse tähenduses on töödelda kodakondsuse saamise või taastamise menetluste käigus võetud biomeetrilisi andmeid isiku tuvastamiseks ja isikusamasuse kontrollimiseks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_4-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Käesolevas seaduses sätestatud menetlustes võib isiku tuvastamiseks ja isikusamasuse kontrollimiseks töödelda isikut tõendavate dokumentide seaduse, konsulaarseaduse, kriminaalmenetluse seadustiku, vangistusseaduse, välismaalasele rahvusvahelise kaitse andmise seaduse, välismaalaste seaduse, väljasõidukohustuse ja sissesõidukeelu seaduse ning väärteomenetluse seadustiku alusel andmekogusse ABIS kantud andmeid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_4-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Käesoleva paragrahvi lõikes 2 nimetatud seaduste alusel andmekogusse ABIS kantud andmeid võib töödelda avaliku korra ja riigi julgeoleku tagamise eesmärgil isiku tuvastamiseks ja isikusamasuse kontrollimiseks üksnes juhul, kui isikut ei ole võimalik tuvastada või tema isikusamasust kontrollida käesoleva seaduse alusel andmekogusse ABIS kantud andmete alusel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_4-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Andmekogusse ABIS kantud andmete töötlemisele kohaldatakse isikut tõendavate dokumentide seaduse §-s 15⁵ sätestatut.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_4-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Andmekogu ABIS asutab ja selle põhimääruse kehtestab Vabariigi Valitsus määrusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_4-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Andmekogu ABIS vastutav töötleja on Politsei- ja Piirivalveamet.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_4-lg7",
+          "number": "7",
+          "label": "(7)",
+          "text": "Andmekogu ABIS põhimääruses sätestatakse andmekogu ABIS pidamise kord, sealhulgas:",
+          "points": [
+            {
+              "id": "kods-2_4-lg7-p1",
+              "number": "1",
+              "text": "andmeandjad ja nendelt saadavad andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_4-lg7-p2",
+              "number": "2",
+              "text": "täpsem andmekoosseis;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_4-lg7-p3",
+              "number": "3",
+              "text": "andmekogudevaheline andmevahetus;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_4-lg7-p4",
+              "number": "4",
+              "text": "vastutava töötleja ülesanded;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_4-lg7-p5",
+              "number": "5",
+              "text": "volitatud töötleja ja tema ülesanded;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_4-lg7-p6",
+              "number": "6",
+              "text": "andmetele juurdepääsu andmise ja andmete väljastamise kord;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_4-lg7-p7",
+              "number": "7",
+              "text": "andmete säilitamise täpsemad tähtajad;",
+              "repealed": false
+            },
+            {
+              "id": "kods-2_4-lg7-p8",
+              "number": "8",
+              "text": "muud korralduslikud küsimused.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_4-lg7_1",
+          "number": "7_1",
+          "label": "(7¹)",
+          "text": "Käesoleva seaduse alusel andmekogusse ABIS kantud andmeid säilitatakse tähtajatult. Andmete säilitamise lühemad tähtajad sätestatakse andmekogu ABIS põhimääruses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-2_4-lg8",
+          "number": "8",
+          "label": "(8)",
+          "text": "Andmekogus ABIS sisalduvad andmed on juurdepääsupiiranguga ning on tunnistatud asutusesiseseks kasutamiseks mõeldud teabeks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-3": {
+      "id": "kods-3",
+      "number": "3",
+      "title": "Mitme kodakondsuse omamise erisused",
+      "chapter": "kods-ch1",
+      "parts": [
+        {
+          "id": "kods-3-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Isik, kes omandab või saab alaealisena nii Eesti kui ka mõne muu riigi kodakondsuse, peab pärast 18-aastaseks saamist kolme aasta jooksul loobuma kas Eesti või mõne muu riigi kodakondsusest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-3-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti kodakondsust saada või taastada sooviva isiku suhtes ei kohaldata senisest kodakondsusest vabastamise nõuet, kui isik on saanud Eesti Vabariigilt või muult Euroopa Liidu liikmesriigilt rahvusvahelise kaitse, olukord tema päritoluriigis ei ole oluliselt muutunud ning isik ei saa seetõttu senisest kodakondsusest loobuda.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-4": {
+      "id": "kods-4",
+      "number": "4",
+      "title": "Kodakondsustunnistus",
+      "chapter": "kods-ch1",
+      "parts": [
+        {
+          "id": "kods-4-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti kodakondsuse saanud või taastanud isikule antakse käesolevas seaduses sätestatud korras kodakondsustunnistus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-5": {
+      "id": "kods-5",
+      "number": "5",
+      "title": "Eesti kodakondsuse omandamine sünniga",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-5-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Sünniga omandab Eesti kodakondsuse:",
+          "points": [
+            {
+              "id": "kods-5-lg1-p1",
+              "number": "1",
+              "text": "laps, kelle sündimise ajal vähemalt üks tema vanematest on Eesti kodakondsuses;",
+              "repealed": false
+            },
+            {
+              "id": "kods-5-lg1-p2",
+              "number": "2",
+              "text": "pärast isa surma sündinud laps, kelle isa oli surma hetkel Eesti kodakondsuses.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-5-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eestis leitud laps, kelle vanemad ei ole teada, tunnistatakse lapse eestkostja taotlusel kohtu korras Eesti kodakondsuse omandanuks sünniga.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-5-lg2_1",
+          "number": "2_1",
+          "label": "(2¹)",
+          "text": "Eesti kodakondsuses oleva lapsendaja kirjalikul taotlusel loeb Vabariigi Valitsuse volitatud valitsusasutus oma otsusega välismaalasest alaealise lapse Eesti kodakondsuse sünniga omandanuks, kui lapsendaja oli lapse sündimise ajal Eesti kodakondsuses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-5-lg2_2",
+          "number": "2_2",
+          "label": "(2²)",
+          "text": "Kui kirjaliku taotluse esitab Eesti kodakondsuses olev lapsendaja, kes ei olnud lapse sünni ajal Eesti kodanik, loeb Vabariigi Valitsuse volitatud valitsusasutus oma otsusega välismaalasest alaealise lapse Eesti kodakondsuse omandanuks lapsendajale Eesti kodakondsuse andmise päevast arvates.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-5-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Kelleltki ei tohi võtta sünniga omandatud Eesti kodakondsust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-5-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Käesoleva paragrahvi 2¹. ja 2². lõikes nimetatud otsus tehakse kahe kuu jooksul taotluse esitamisest arvates. Otsus tehakse lapsendajale viivitamata kirjalikult teatavaks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-6": {
+      "id": "kods-6",
+      "number": "6",
+      "title": "Tingimused Eesti kodakondsuse saamiseks",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-6-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Välismaalane, kes soovib saada Eesti kodakondsust, peab:",
+          "points": [
+            {
+              "id": "kods-6-lg1-p1",
+              "number": "1",
+              "text": "olema vähemalt 15-aastane;",
+              "repealed": false
+            },
+            {
+              "id": "kods-6-lg1-p2",
+              "number": "2",
+              "text": "omama pikaajalise elaniku elamisluba või alalist elamisõigust;",
+              "repealed": false
+            },
+            {
+              "id": "kods-6-lg1-p2_1",
+              "number": "2_1",
+              "text": "olema elanud enne Eesti kodakondsuse saamise taotluse esitamise päeva Eestis elamisloa või elamisõiguse alusel vähemalt kaheksa aastat, millest viis aastat püsivalt;",
+              "repealed": false
+            },
+            {
+              "id": "kods-6-lg1-p2_2",
+              "number": "2_2",
+              "text": "",
+              "repealed": true
+            },
+            {
+              "id": "kods-6-lg1-p2_3",
+              "number": "2_3",
+              "text": "omama registreeritud elukohta Eestis;",
+              "repealed": false
+            },
+            {
+              "id": "kods-6-lg1-p3",
+              "number": "3",
+              "text": "oskama eesti keelt vastavalt käesoleva seaduse §-s 8 sätestatud nõuetele;",
+              "repealed": false
+            },
+            {
+              "id": "kods-6-lg1-p4",
+              "number": "4",
+              "text": "tundma Eesti Vabariigi põhiseadust ja kodakondsuse seadust vastavalt käesoleva seaduse §-s 9 sätestatud nõuetele;",
+              "repealed": false
+            },
+            {
+              "id": "kods-6-lg1-p5",
+              "number": "5",
+              "text": "omama legaalset püsivat sissetulekut;",
+              "repealed": false
+            },
+            {
+              "id": "kods-6-lg1-p6",
+              "number": "6",
+              "text": "olema lojaalne Eesti riigile;",
+              "repealed": false
+            },
+            {
+              "id": "kods-6-lg1-p7",
+              "number": "7",
+              "text": "andma vande: «Taotledes Eesti kodakondsust, tõotan olla ustav Eesti põhiseaduslikule korrale.»",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-7": {
+      "id": "kods-7",
+      "number": "7",
+      "title": "Legaalne püsiv sissetulek",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-7-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Legaalseks püsivaks sissetulekuks loetakse:",
+          "points": [
+            {
+              "id": "kods-7-lg1-p1",
+              "number": "1",
+              "text": "seaduslikult teenitud tasu töö-, teenistus- või tsiviilõigusliku lepingu või liikmelisuse alusel;",
+              "repealed": false
+            },
+            {
+              "id": "kods-7-lg1-p2",
+              "number": "2",
+              "text": "seaduslikust äritegevusest või omandist saadav tulu;",
+              "repealed": false
+            },
+            {
+              "id": "kods-7-lg1-p3",
+              "number": "3",
+              "text": "pension;",
+              "repealed": false
+            },
+            {
+              "id": "kods-7-lg1-p4",
+              "number": "4",
+              "text": "stipendium;",
+              "repealed": false
+            },
+            {
+              "id": "kods-7-lg1-p5",
+              "number": "5",
+              "text": "elatis;",
+              "repealed": false
+            },
+            {
+              "id": "kods-7-lg1-p6",
+              "number": "6",
+              "text": "seaduse alusel makstavad toetused;",
+              "repealed": false
+            },
+            {
+              "id": "kods-7-lg1-p7",
+              "number": "7",
+              "text": "ülalpidamine legaalse püsiva sissetulekuga perekonnaliikmelt.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-8": {
+      "id": "kods-8",
+      "number": "8",
+      "title": "Eesti keele oskuse nõuded ja hindamine",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-8-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti keele oskus käesoleva seaduse mõistes on eesti üldkeele igapäevaeluks vajalik oskus, mis vastab vähemalt keeleseaduses sätestatud B-1 tasemele või sellele vastavale tasemele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti keele oskuse nõuded isikule, kes soovib saada Eesti kodakondsust, on järgmised:",
+          "points": [
+            {
+              "id": "kods-8-lg2-p1",
+              "number": "1",
+              "text": "saab enamikes igapäevaelu olukordades hakkama;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8-lg2-p2",
+              "number": "2",
+              "text": "oskab kirjeldada kogemusi, sündmusi, unistusi ja eesmärke ning lühidalt põhjendada ja selgitada oma seisukohti ja plaane;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8-lg2-p3",
+              "number": "3",
+              "text": "mõistab kõike olulist endale tuttaval teemal, nagu töö, kool ja vaba aeg;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8-lg2-p4",
+              "number": "4",
+              "text": "oskab koostada lihtsat teksti tuttaval või enda jaoks huvipakkuval teemal.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-8-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Eesti keele oskust hinnatakse eksamil. Eksami läbiviimise korra kehtestab Vabariigi Valitsus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Eksami sooritanud isikule antakse vastav tunnistus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Eksamit ei pea sooritama isik, kes on omandanud eesti keeles põhi-, kesk- või kõrghariduse.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Käesoleva seaduse § 35 3. lõikes nimetatud isik sooritab eksami käesoleva seaduse § 35 7. lõikes nimetatud eksperdikomisjoni otsuses ettenähtud ulatuses ja viisil.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-8_1": {
+      "id": "kods-8_1",
+      "number": "8_1",
+      "title": "Keeleõppe kulude hüvitamine",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-8_1-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Käesoleva seaduse § 8 lõikes 3 nimetatud eesti keele eksami ning käesoleva seaduse § 9 lõikes 2 nimetatud Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami positiivselt sooritanud isikule hüvitatakse tasemeeksamiks ettevalmistamisele suunatud eesti keele täienduskoolituse läbiviimiseks tegevusluba omavale täienduskoolitusasutusele eesti keele õppe eest tasutud õppemaksust kuni 100 protsenti Vabariigi Valitsuse kehtestatud piirmäära ulatuses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_1-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Keeleõppekulude hüvitamise korraldab Haridus- ja Noorteamet.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_1-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Keeleõppekulude hüvitamiseks esitab eesti keele eksami ning Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami positiivselt sooritanud isik hiljemalt kolm kuud pärast mõlema eksami sooritamist Haridus- ja Noorteametile avalduse, millele on lisatud isikut tõendava dokumendi koopia ning õppemaksu tasumist tõendav dokument või selle ametlikult kinnitatud ärakiri.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_1-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Haridus- ja Noorteamet kannab õppemaksu hüvitise eesti keele eksami ning Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami positiivselt sooritanud isiku avalduses näidatud pangakontole hiljemalt kahe kuu jooksul pärast avalduse esitamist.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-8_2": {
+      "id": "kods-8_2",
+      "number": "8_2",
+      "title": "Keeleõppe korraldamine",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-8_2-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Siseministeeriumi valitsemisalas asuv rakenduskõrgkool (edaspidi ka keeleõppe korraldaja) korraldab keeleõpet välismaalasele Eesti kodakondsuse taotlemiseks vajaliku keeleoskustaseme saavutamiseks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_2-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Keeleõppe õppekohtade arvu kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_2-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Keeleõppe korraldamine hõlmab eesti keele A1-, A2- ja B1-taseme õpet, välismaalasega keeleõppelepingu (edaspidi leping) sõlmimist käesolevas seaduses sätestatud tingimustel ning lepingu rikkumise korral keeleõppekulude ja hüvitise sissenõudmist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_2-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Valdkonna eest vastutav minister võib keeleõppe korraldamiseks sõlmida halduslepingu, milles lepitakse kokku vähemalt järgmises:",
+          "points": [
+            {
+              "id": "kods-8_2-lg4-p1",
+              "number": "1",
+              "text": "õpetatav keeleoskustase ja õppemooduli maht;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8_2-lg4-p2",
+              "number": "2",
+              "text": "keeleõppe korraldamise aeg ja koht;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8_2-lg4-p3",
+              "number": "3",
+              "text": "lepingu sõlmimise ja selle lõpetamise korraldus;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8_2-lg4-p4",
+              "number": "4",
+              "text": "hüvitise maksmise korraldus;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8_2-lg4-p5",
+              "number": "5",
+              "text": "keeleõppes osalemise korraldus;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8_2-lg4-p6",
+              "number": "6",
+              "text": "keeleõppekulude ja saadud hüvitise tagasinõude menetlemise korraldus.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_2-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Halduslepingu täitmise üle teeb järelevalvet Siseministeerium.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_2-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Kui haldusleping lõpetatakse ühepoolselt või esineb muu põhjus, mis takistab käesoleva paragrahvi lõikes 4 nimetatud halduslepingu alusel jätkata haldusülesande saanud isikul haldusülesande täitmist, korraldab haldusülesande edasise täitmise Siseministeeriumi valitsemisalas asuv rakenduskõrgkool.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-8_3": {
+      "id": "kods-8_3",
+      "number": "8_3",
+      "title": "Keeleõppes osalemine",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-8_3-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Välismaalasega, kes soovib saada Eesti kodakondsust, võib sõlmida ühekordse lepingu keeleõppe läbimiseks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Lepingu võib sõlmida välismaalasega:",
+          "points": [
+            {
+              "id": "kods-8_3-lg2-p1",
+              "number": "1",
+              "text": "kes on vähemalt 15-aastane;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8_3-lg2-p2",
+              "number": "2",
+              "text": "kes on elanud Eestis elamisloa või elamisõiguse alusel vähemalt viis aastat;",
+              "repealed": false
+            },
+            {
+              "id": "kods-8_3-lg2-p3",
+              "number": "3",
+              "text": "kes ei ole viimase kahe aasta jooksul enne lepingu sõlmimist osalenud Eesti Vabariigi riigieelarvest rahastatud või kaasrahastatud soovitava taseme eesti keele õppes ja",
+              "repealed": false
+            },
+            {
+              "id": "kods-8_3-lg2-p4",
+              "number": "4",
+              "text": "kelle suhtes ei esine käesoleva seaduse § 21 lõikes 1 sätestatud asjaolu.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Lepingu sõlmimiseks 15–18-aastase alaealisega peab olema tema vanema või eestkostja nõusolek.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Käesoleva paragrahvi lõike 2 punktides 2 ja 4 sätestatud tingimuste täitmist kontrollib keeleõppe korraldaja taotlusel Politsei- ja Piirivalveamet.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Lepinguga võtab välismaalane kohustuse läbida keeleõpe kuni eesti keele B1-taseme saavutamiseni, täita käesoleva seaduse §-s 6 sätestatud tingimused ja esitada Eesti kodakondsuse taotlus ühe aasta jooksul pärast eesti keele B1-taseme eksami sooritamist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Kui välismaalane ei vasta käesoleva paragrahvi lõikes 5 nimetatud tähtaja jooksul käesoleva seaduse § 6 punktis 2¹ sätestatud tingimusele, võib ta kokkuleppel keeleõppe korraldajaga esitada Eesti kodakondsuse taotluse kolme aasta jooksul pärast eesti keele B1-taseme eksami sooritamist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg7",
+          "number": "7",
+          "label": "(7)",
+          "text": "Lepingu sõlminud välismaalasele, kellele on keeleõppes osalemiseks antud tasustamata õppepuhkust, makstakse ühe keeleoskustaseme kohta 20 kalendripäeva hüvitist tema keskmise palga alusel töölepingu seaduse § 29 lõike 8 alusel kehtestatud korras. Hüvitise arvutamise ülemmäär on Statistikaameti poolt viimati avaldatud Eesti aasta keskmine brutokuupalk.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg8",
+          "number": "8",
+          "label": "(8)",
+          "text": "Leping loetakse täidetuks, kui välismaalane on täitnud käesoleva paragrahvi lõigetes 5 ja 6 sätestatud tingimused.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg9",
+          "number": "9",
+          "label": "(9)",
+          "text": "Kui välismaalane ei täida lepingut või kui välismaalane ei vastanud lepingu sõlmimise ajal lepingu sõlmimise tingimustele, nõuab keeleõppe korraldaja välismaalaselt sisse keeleõppekulud ja talle makstud hüvitise.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg10",
+          "number": "10",
+          "label": "(10)",
+          "text": "Keeleõppe korraldaja väljastab välismaalasele keeleõppekulude ja hüvitise teatise, mille alusel tuleb õppekulude ja hüvitise hüvitamiseks kohustatud välismaalasel õppekulud ja talle makstud hüvitis tagasi maksta. Keeleõppekulude ja hüvitise teatis on täitedokument täitemenetluse seadustiku § 2 lõike 1 punkti 21 tähenduses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg11",
+          "number": "11",
+          "label": "(11)",
+          "text": "Keeleõppe korraldaja võib välismaalase vabastada kohustusest tagasi maksta keeleõppekulud ja hüvitis, kui tal ei ole lepingut võimalik täita mõjuval põhjusel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg12",
+          "number": "12",
+          "label": "(12)",
+          "text": "Keeleõppe korraldaja ei või välismaalaselt võtta tasu keeleõppe korraldamise ega lepingu haldamise eest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg13",
+          "number": "13",
+          "label": "(13)",
+          "text": "Keeleõppelepingu sõlmimise, keeleõppes osalemise, hüvitise maksmise, õppekulude ja hüvitise arvestamise ja tagasi maksmise tingimused ja korra ning esitatavate isikuandmete loetelu kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-8_3-lg14",
+          "number": "14",
+          "label": "(14)",
+          "text": "Käesoleva paragrahvi lõikes 13 nimetatud õppekulude ja hüvitise arvestamise aluseks võetakse õppemooduli maksumus, õppemoodulis osalemise kordade arv ja välismaalasele makstud hüvitis.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-9": {
+      "id": "kods-9",
+      "number": "9",
+      "title": "Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise nõuded ja hindamine",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-9-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Isik, kes soovib saada Eesti kodakondsust, peab tundma:",
+          "points": [
+            {
+              "id": "kods-9-lg1-p1",
+              "number": "1",
+              "text": "Eesti riigikorra põhialuseid, mis on sätestatud Eesti Vabariigi põhiseaduse I ja III peatükis;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg1-p2",
+              "number": "2",
+              "text": "igaühe põhiõigusi, vabadusi ja kohustusi, mis on sätestatud Eesti Vabariigi põhiseaduse II peatükis;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg1-p3",
+              "number": "3",
+              "text": "Riigikogu, Vabariigi Presidendi, Vabariigi Valitsuse ja kohtu pädevust vastavalt Eesti Vabariigi põhiseadusele;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg1-p4",
+              "number": "4",
+              "text": "Eesti kodakondsuse omandamise, saamise, taastamise ja kaotamise tingimusi ning korda vastavalt kodakondsuse seadusele.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmist hinnatakse eksamil, mis toimub eesti keeles. Eksami läbiviimise korra kehtestab Vabariigi Valitsus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg2_1",
+          "number": "2_1",
+          "label": "(2¹)",
+          "text": "Eksamite koostamist koordineerib, eksamid korraldab ja tunnistused väljastab Haridus- ja Noorteamet.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg2_2",
+          "number": "2_2",
+          "label": "(2²)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-9-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Eksami sooritanud isikule antakse vastav tunnistus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Käesoleva seaduse § 35 3. lõikes nimetatud isik sooritab eksami käesoleva seaduse § 35 7. lõikes nimetatud eksperdikomisjoni otsuses ettenähtud ulatuses ja viisil.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksamite korraldamiseks ja tunnistuste üle arvestuse pidamiseks asutab Vabariigi Valitsus andmekogu (edaspidi testide andmekogu).",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Testide andmekogu põhimääruse, sealhulgas andmete koosseisu, nende säilitamise tähtajad ja juurdepääsuõigused, kehtestab Vabariigi Valitsus määrusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg7",
+          "number": "7",
+          "label": "(7)",
+          "text": "Testide andmekogu vastutav töötleja on Haridus- ja Noorteamet ning volitatud töötleja määratakse andmekogu põhimääruses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg7_1",
+          "number": "7_1",
+          "label": "(7¹)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-9-lg8",
+          "number": "8",
+          "label": "(8)",
+          "text": "Eksamite ja tunnistuste andmekogus olevatele andmetele on juurdepääsuõigus eksamite ja tunnistuste andmekogusse kantud isikul teda puudutavate andmete osas, samuti teistel isikutel seaduse või välislepinguga ettenähtud ülesannete täitmiseks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg9",
+          "number": "9",
+          "label": "(9)",
+          "text": "Testide andmekogusse kogutakse järgmisi andmeid:",
+          "points": [
+            {
+              "id": "kods-9-lg9-p1",
+              "number": "1",
+              "text": "eksami sooritamise andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg9-p2",
+              "number": "2",
+              "text": "eksami läbiviimisega seotud andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg9-p3",
+              "number": "3",
+              "text": "testiandmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg9-p4",
+              "number": "4",
+              "text": "hindamisandmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg9-p5",
+              "number": "5",
+              "text": "eksami vaiete andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg9-p6",
+              "number": "6",
+              "text": "tunnistuste andmed;",
+              "repealed": false
+            },
+            {
+              "id": "kods-9-lg9-p7",
+              "number": "7",
+              "text": "statistilised andmed.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg10",
+          "number": "10",
+          "label": "(10)",
+          "text": "Testide andmekogu põhimääruses võib täpsustada käesoleva paragrahvi lõikes 9 nimetatud andmete koosseisu ja andmekogusse kandmise korda.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-9-lg11",
+          "number": "11",
+          "label": "(11)",
+          "text": "Testide andmekogusse kantud andmetel on informatiivne ja statistiline tähendus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-10": {
+      "id": "kods-10",
+      "number": "10",
+      "title": "Eesti kodakondsuse saamine eriliste teenete eest",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-10-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Käesoleva seaduse § 6 punktides 2–4 sätestatud tingimused võidakse jätta kohaldamata isiku puhul, kellel on erilisi teeneid Eesti riigi ees.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-10-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Erilisteks teeneteks loetakse saavutusi teaduse, kultuuri, spordi või muul alal.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-10-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Eesti kodakondsus võidakse eriliste teenete eest anda mitte rohkem kui kümnele isikule aastas.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-10-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Ettepaneku Eesti kodakondsuse andmiseks eriliste teenete eest võib teha Vabariigi Valitsuse liige.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-10-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Eesti kodakondsuse andmist eriliste teenete eest peab Vabariigi Valitsus põhjendama. Eriliste teenete eest Eesti kodakondsuse andmisest keeldumist ei põhjendata.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-10-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Vabariigi Valitsuse liikme nimi, kes tegi ettepaneku kodakondsuse andmiseks, ning põhjendus, mille eest kodakondsus anti, avaldatakse Riigi Teatajas.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-11": {
+      "id": "kods-11",
+      "number": "11",
+      "title": "Püsivalt Eestis viibimine",
+      "chapter": "kods-ch2",
+      "parts": [],
+      "repealed": true
+    },
+    "kods-12": {
+      "id": "kods-12",
+      "number": "12",
+      "title": "Eesti kodakondsuse saamiseks esitatavad dokumendid",
+      "chapter": "kods-ch2",
+      "parts": [
+        {
+          "id": "kods-12-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsuse saamiseks esitab isik taotluse, millele lisab Eesti kodakondsuse andmise otsustamisel tähtsust omavaid asjaolusid tõendavad dokumendid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-12-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti kodakondsuse saamise taotluse esitamisel on isik kohustatud tõendama, et ta on vabastatud senisest kodakondsusest või vabastatakse sellest Eesti kodakondsuse saamise tõttu või ta on tunnistatud kodakondsuseta isikuks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-12-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Käesoleva seaduse § 3 2. lõikes nimetatud isiku suhtes ei kohaldata käesoleva paragrahvi 2. lõikes sätestatut.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-12-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Eesti kodakondsuse saamise taotluses esitatavate andmete ja taotlusele lisatavate dokumentide loetelu ning taotluse esitamise nõuded kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-13": {
+      "id": "kods-13",
+      "number": "13",
+      "title": "Alaealisena Eesti kodakondsuse saamine",
+      "chapter": "kods-ch3",
+      "parts": [
+        {
+          "id": "kods-13-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Alla 15-aastane alaealine saab Eesti kodakondsuse, kui seda taotlevad alaealisele tema vanemad, kes on Eesti kodakondsuses, või Eesti kodakondsuses olev vanem ametlikult kinnitatud allkirjadega kokkuleppel Eesti kodakondsuses mitteoleva vanemaga või alaealist üksi kasvatav vanem, kes on Eesti kodakondsuses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Alla 15-aastane alaealine, kellele taotletakse vastavalt käesoleva paragrahvi 1. lõikele Eesti kodakondsust, peab elama püsivalt Eestis Eesti elamisloa või elamisõiguse alusel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg2_1",
+          "number": "2_1",
+          "label": "(2¹)",
+          "text": "Alla üheaastane alaealine, kellele taotletakse vastavalt käesoleva paragrahvi 1. lõikele Eesti kodakondsust, peab viibima Eestis, kuid ei pea omama Eesti elamisluba või elamisõigust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Alla 15-aastane alaealine, kellele on määratud eestkoste, saab Eesti kodakondsuse Eesti kodakondsuses oleva eestkostja taotlusel, kui alaealine elab püsivalt Eestis Eesti elamisloa või elamisõiguse alusel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg3_1",
+          "number": "3_1",
+          "label": "(3¹)",
+          "text": "Alla üheaastane alaealine, kellele on määratud eestkoste, saab Eesti kodakondsuse Eesti kodakondsuses oleva eestkostja taotlusel, kui alaealine viibib Eestis, sõltumata Eesti elamisloa või elamisõiguse omamisest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Alla 15-aastane alaealine, kes on Eestis sündinud või kes asub kohe pärast sündi koos vanema või vanematega püsivalt Eestisse elama, saab Eesti kodakondsuse naturalisatsiooni korras sünni hetkest arvates, kui tema vanemad või last üksi kasvatav vanem, keda ükski riik ei pea kehtivate seaduste alusel oma kodanikuks, on lapse sünni hetkeks elanud Eestis seaduslikult vähemalt viis aastat.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg4_1",
+          "number": "4_1",
+          "label": "(4¹)",
+          "text": "Alaealine, kes on Eestis sündinud või kes asub kohe pärast sündi koos Eesti alalisest elanikust vanema või vanematega püsivalt Eestisse elama ja omab pikaajalise elaniku elamisluba või alalist elamisõigust ja kelle ühte vanematest ei pea ükski riik kehtivate seaduste alusel oma kodanikuks ja kelle teine vanem on muu riigi kodanik, saab Eesti kodakondsuse seadusliku esindaja taotlusel, kui alaealise vanem või vanavanem oli 1991. aasta 20. augusti seisuga Eesti elanik.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg4_2",
+          "number": "4_2",
+          "label": "(4²)",
+          "text": "Käesoleva paragrahvi 4¹. lõikes nimetatud alaealise suhtes, kes on teise riigi kodanik, jõustub Vabariigi Valitsuse otsus Eesti kodakondsuse andmise kohta sellele päevale järgnevast päevast, kui Vabariigi Valitsuse volitatud valitsusasutusele on esitatud tõend, et ta on muu riigi kodakondsusest vabastatud.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Käesoleva paragrahvi 4. lõike alusel antud Eesti kodakondsusest loobumiseks on vanematel või last üksi kasvataval vanemal õigus esitada Vabariigi Valitsuse volitatud valitsusasutusele taotlus enne lapse üheaastaseks saamist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg5_1",
+          "number": "5_1",
+          "label": "(5¹)",
+          "text": "Käesoleva paragrahvi 5. lõikes nimetatud juhul loetakse laps sünni hetkest alates isikuks, keda ükski riik ei pea kehtivate seaduste alusel oma kodanikuks, kuni Eesti või muu riigi kodakondsuse saamiseni.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-13-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Käesoleva paragrahvi 4., 4¹. ja 5¹. lõikes sätestatud määratlus isikutest, keda ükski riik ei pea kehtivate seaduste alusel oma kodanikuks, hõlmab ka isikuid, kes olid enne 1991. aasta 20. augustit NSV Liidu kodanikud ja keda ükski muu riik ei ole pidanud kehtivate seaduste alusel oma kodanikuks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-14": {
+      "id": "kods-14",
+      "number": "14",
+      "title": "Alaealisena Eesti kodakondsuse saamine koos vanemaga",
+      "chapter": "kods-ch3",
+      "parts": [
+        {
+          "id": "kods-14-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Alla 15-aastane alaealine saab koos oma Eesti kodakondsust taotleva vanemaga Eesti kodakondsuse vanemate või alaealist üksi kasvatava vanema taotlusel, kui alaealine elab püsivalt Eestis Eesti elamisloa või elamisõiguse alusel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-14-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Alla üheaastane alaealine saab koos oma Eesti kodakondsust taotleva vanemaga Eesti kodakondsuse vanemate või alaealist üksi kasvatava vanema taotlusel, kui alaealine viibib Eestis, sõltumata Eesti elamisloa või elamisõiguse omamisest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-14_1": {
+      "id": "kods-14_1",
+      "number": "14_1",
+      "title": "Alaealist üksi kasvatav vanem",
+      "chapter": "kods-ch3",
+      "parts": [
+        {
+          "id": "kods-14_1-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Alaealist üksi kasvatavaks loetakse vanem, kui:",
+          "points": [
+            {
+              "id": "kods-14_1-lg1-p1",
+              "number": "1",
+              "text": "rahvastikuregistris puuduvad andmed lapse teise vanema kohta või on andmed kantud rahvastikuregistrisse ühe vanema ütluse alusel;",
+              "repealed": false
+            },
+            {
+              "id": "kods-14_1-lg1-p2",
+              "number": "2",
+              "text": "teiselt vanemalt on hooldusõigus täielikult ära võetud;",
+              "repealed": false
+            },
+            {
+              "id": "kods-14_1-lg1-p3",
+              "number": "3",
+              "text": "teine vanem on seadusega kehtestatud korras tunnistatud tagaotsitavaks ja ta on olnud tagaotsitav ühe aasta jooksul;",
+              "repealed": false
+            },
+            {
+              "id": "kods-14_1-lg1-p4",
+              "number": "4",
+              "text": "teine vanem on piiratud teovõimega või teadmata kadunud;",
+              "repealed": false
+            },
+            {
+              "id": "kods-14_1-lg1-p5",
+              "number": "5",
+              "text": "teine vanem on surnud;",
+              "repealed": false
+            },
+            {
+              "id": "kods-14_1-lg1-p6",
+              "number": "6",
+              "text": "vanemate abielu ei ole sõlmitud või kooselu registreeritud või laps jäi abielu lahutamisel või kooselulepingu lõpetamisel Eestis elava vanema juurde, kusjuures teine vanem ei ela Eestis ning on kaotanud kontakti lapse ja last kasvatava vanemaga.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-15": {
+      "id": "kods-15",
+      "number": "15",
+      "title": "Alaealisele kodakondsuse saamiseks esitatavad dokumendid",
+      "chapter": "kods-ch3",
+      "parts": [
+        {
+          "id": "kods-15-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Alaealisele käesoleva seaduse §-des 13 ja 14 sätestatud juhtudel Eesti kodakondsuse saamise taotluses esitatavate andmete ja taotlusele lisatavate dokumentide loetelu ning taotluse esitamise nõuded kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-15-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-15-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        }
+      ],
+      "repealed": false
+    },
+    "kods-16": {
+      "id": "kods-16",
+      "number": "16",
+      "title": "Eesti kodakondsuse taastamise õigus",
+      "chapter": "kods-ch4",
+      "parts": [
+        {
+          "id": "kods-16-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Igaühel, kes on alaealisena kaotanud Eesti kodakondsuse, on õigus selle taastamisele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-16-lg1_1",
+          "number": "1_1",
+          "label": "(1¹)",
+          "text": "Alaealisena Eesti kodakondsuse kaotanud isikuna mõistetakse ka isikut, kelle suhtes on vanemate või alaealist üksi kasvatava vanema soovil kohaldatud käesoleva seaduse § 13 5. lõikes ja § 36³ 2. lõikes sätestatut.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-16-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti kodakondsust taastada sooviv isik peab elama püsivalt Eestis Eesti elamisloa või elamisõiguse alusel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-17": {
+      "id": "kods-17",
+      "number": "17",
+      "title": "Eesti kodakondsuse taastamiseks esitatavad dokumendid",
+      "chapter": "kods-ch4",
+      "parts": [
+        {
+          "id": "kods-17-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsuse taastamiseks esitab isik taotluse, millele lisab Eesti kodakondsuse taastamise otsustamisel tähtsust omavaid asjaolusid tõendavad dokumendid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-17-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti kodakondsuse taastamise taotluse esitamisel on isik kohustatud tõendama, et ta on vabastatud senisest kodakondsusest või vabastatakse sellest Eesti kodakondsuse saamise tõttu või ta on tunnistatud kodakondsuseta isikuks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-17-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Käesoleva seaduse §-s 3 nimetatud isiku suhtes ei kohaldata käesoleva paragrahvi 2. lõikes sätestatut.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-17-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Eesti kodakondsuse taastamise taotluses esitatavate andmete ja taotlusele lisatavate dokumentide loetelu ning taotluse esitamise nõuded kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-18": {
+      "id": "kods-18",
+      "number": "18",
+      "title": "Dokumentide esitamine",
+      "chapter": "kods-ch5",
+      "parts": [
+        {
+          "id": "kods-18-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsuse saamiseks või taastamiseks vajalikud dokumendid esitab isik Vabariigi Valitsuse poolt volitatud valitsusasutusele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-18-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Alla 15-aastase alaealise või täisealise piiratud teovõimega isiku eest esitab käesoleva paragrahvi 1. lõikes nimetatud dokumendid ja sooritab käesolevas seaduses sätestatud toimingud tema vanem või Eesti kodakondsuses olev eestkostja.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-19": {
+      "id": "kods-19",
+      "number": "19",
+      "title": "Eesti kodakondsuse saamiseks või taastamiseks esitatud dokumentide registreerimine ja menetlemine",
+      "chapter": "kods-ch5",
+      "parts": [
+        {
+          "id": "kods-19-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Vabariigi Valitsuse volitatud valitsusasutus registreerib Eesti kodakondsuse saamise või taastamise taotluse ja võtab selle menetlusse, kui isik esitab koos taotlusega kodakondsuse saamiseks käesoleva seaduse § 12 4. lõikes, alla 15-aastase alaealise puhul §-s 15 ning kodakondsuse taastamiseks § 17 4. lõikes ettenähtud dokumendid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-19-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Vabariigi Valitsuse volitatud valitsusasutus väljastab isikule tema taotluse registreerimise ja menetlusse võtmise kohta tõendi, mille vormi kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-19-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Vabariigi Valitsuse volitatud valitsusasutus edastab Eesti kodakondsuse saamise taotluse koos põhjendatud ettepanekuga Eesti kodakondsuse andmise otsustamiseks Vabariigi Valitsusele kuue kuu jooksul taotluse registreerimisest ja menetlusse võtmisest arvates.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-19-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Vabariigi Valitsuse volitatud valitsusasutus edastab esitatud taotluse alla 15-aastasele alaealisele Eesti kodakondsuse saamiseks koos põhjendatud ettepanekuga Eesti kodakondsuse andmise otsustamiseks Vabariigi Valitsusele kolme kuu jooksul taotluse registreerimisest arvates.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-19-lg4_1",
+          "number": "4_1",
+          "label": "(4¹)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-19-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Vabariigi Valitsuse volitatud valitsusasutus edastab Eesti kodakondsuse taastamise taotluse koos põhjendatud ettepanekuga Eesti kodakondsuse taastamise otsustamiseks Vabariigi Valitsusele kuue kuu jooksul taotluse registreerimisest arvates.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-19-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        }
+      ],
+      "repealed": false
+    },
+    "kods-20": {
+      "id": "kods-20",
+      "number": "20",
+      "title": "Eesti kodakondsuse andmise või taastamise otsustamine",
+      "chapter": "kods-ch5",
+      "parts": [
+        {
+          "id": "kods-20-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsuse andmise või taastamise otsustab Vabariigi Valitsus, välja arvatud juhul, kui Eesti kodakondsus saadakse käesoleva seaduse § 13 4. lõike alusel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-20-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Vabariigi Valitsuse Eesti kodakondsuse andmise või taastamise korraldus jõustub allakirjutamise päeval, kui korralduses eneses ei sätestata muud tähtaega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-20-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Vastavalt Vabariigi Valitsuse korraldusele anda või taastada Eesti kodakondsus seda soovivale isikule, annab Vabariigi Valitsuse poolt volitatud valitsusasutus talle kodakondsustunnistuse.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-21": {
+      "id": "kods-21",
+      "number": "21",
+      "title": "Eesti kodakondsuse andmisest või taastamisest keeldumine",
+      "chapter": "kods-ch5",
+      "parts": [
+        {
+          "id": "kods-21-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsust ei anta ega taastata isikule, kes:",
+          "points": [
+            {
+              "id": "kods-21-lg1-p1",
+              "number": "1",
+              "text": "on Eesti kodakondsuse taotlemisel valeandmete esitamisega varjanud asjaolusid, mis välistavad talle Eesti kodakondsuse andmise või taastamise;",
+              "repealed": false
+            },
+            {
+              "id": "kods-21-lg1-p2",
+              "number": "2",
+              "text": "ei järgi Eesti põhiseaduslikku korda või ei täida Eesti seadusi;",
+              "repealed": false
+            },
+            {
+              "id": "kods-21-lg1-p3",
+              "number": "3",
+              "text": "on tegutsenud Eesti riigi ja tema julgeoleku vastu;",
+              "repealed": false
+            },
+            {
+              "id": "kods-21-lg1-p4",
+              "number": "4",
+              "text": "on toime pannud kuriteo, mille eest talle on mõistetud vabadusekaotus kestusega üle ühe aasta ja kelle karistatus ei ole kustunud või keda on kriminaalkorras korduvalt karistatud tahtlike kuritegude eest;",
+              "repealed": false
+            },
+            {
+              "id": "kods-21-lg1-p5",
+              "number": "5",
+              "text": "on töötanud või töötab välisriigi luure- või julgeolekuteenistuses;",
+              "repealed": false
+            },
+            {
+              "id": "kods-21-lg1-p6",
+              "number": "6",
+              "text": "on teeninud kaadrisõjaväelasena välisriigi relvajõududes, sealt reservi arvatud või erru läinud, samuti tema abikaasale või registreeritud elukaaslasele, kes on saabunud Eestisse seoses sõjaväelase lähetamisega teenistusse, reservi või erru.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-21-lg1_1",
+          "number": "1_1",
+          "label": "(1¹)",
+          "text": "Eesti kodakondsus võidakse erandina anda või taastada isikule, keda on kriminaalkorras korduvalt karistatud tahtlike kuritegude eest ja kelle karistatus on kustunud, võttes arvesse kuriteo toimepanemise asjaolusid ning süüdlase isikut.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-21-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti kodakondsus võidakse anda või taastada välisriigi relvajõududest erru läinud isikule, kes on olnud sünniga Eesti kodakondsuse omandanud isikuga abielus või registreeritud kooselus vähemalt viis aastat ja see abielu ei ole lahutatud või see kooseluleping ei ole lõpetatud.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-21-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Eesti kodakondsust ei anta isikule, kelle vanem või eestkostja esitas talle Eesti kodakondsuse taotlemisel valeandmeid asjaolude kohta, mis omavad tähtsust Eesti kodakondsuse andmise otsustamisel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-22": {
+      "id": "kods-22",
+      "number": "22",
+      "title": "Eesti kodakondsuse kaotamine",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-22-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti kodakondsus kaob:",
+          "points": [
+            {
+              "id": "kods-22-lg1-p1",
+              "number": "1",
+              "text": "Eesti kodakondsusest vabastamisega;",
+              "repealed": false
+            },
+            {
+              "id": "kods-22-lg1-p2",
+              "number": "2",
+              "text": "Eesti kodakondsuse äravõtmisega;",
+              "repealed": false
+            },
+            {
+              "id": "kods-22-lg1-p3",
+              "number": "3",
+              "text": "mõne muu riigi kodakondsuse vastuvõtmisega.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-23": {
+      "id": "kods-23",
+      "number": "23",
+      "title": "Eesti kodakondsusest vabastamiseks esitatavad dokumendid",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-23-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsusest vabastamiseks esitab isik taotluse, millele lisab Eesti kodakondsuse vabastamise otsustamisel tähtsust omavaid asjaolusid tõendavad dokumendid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-23-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti kodakondsusest vabastamise taotluses esitatavate andmete ja taotlusele lisatavate dokumentide loetelu ning taotluse esitamise nõuded kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-24": {
+      "id": "kods-24",
+      "number": "24",
+      "title": "Dokumentide esitamine",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-24-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Dokumendid Eesti kodakondsusest vabastamiseks esitatakse Vabariigi Valitsuse poolt volitatud valitsusasutusele või Eesti välisesindusele, kui isik elab püsivalt välisriigis.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-24-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Alla 15-aastase alaealise või täisealise piiratud teovõimega isiku eest esitab käesoleva paragrahvi 1. lõikes nimetatud dokumendid tema vanem või eestkostja.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-25": {
+      "id": "kods-25",
+      "number": "25",
+      "title": "Eesti kodakondsusest vabastamiseks esitatud dokumentide registreerimine ja menetlemine",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-25-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsusest vabastamiseks esitatud dokumendid registreeritakse ja võetakse menetlusse Vabariigi Valitsuse poolt volitatud valitsusasutuses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-25-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Vabariigi Valitsuse poolt volitatud valitsusasutus väljastab isikule tema dokumentide registreerimise ja menetlusse võtmise kohta tõendi, mille vormi kehtestab valdkonna eest vastutav minister määrusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-25-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Vabariigi Valitsuse poolt volitatud valitsusasutus esitab isiku dokumendid ühe aasta jooksul nende registreerimise päevast arvates Vabariigi Valitsusele Eesti kodakondsusest vabastamise otsustamiseks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-26": {
+      "id": "kods-26",
+      "number": "26",
+      "title": "Piirangud Eesti kodakondsusest vabastamisel",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-26-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Isikut võidakse Eesti kodakondsusest mitte vabastada, kui:",
+          "points": [
+            {
+              "id": "kods-26-lg1-p1",
+              "number": "1",
+              "text": "tagajärjeks on kodakondsusetus;",
+              "repealed": false
+            },
+            {
+              "id": "kods-26-lg1-p2",
+              "number": "2",
+              "text": "isikul on täitmata kohustused Eesti riigi ees;",
+              "repealed": false
+            },
+            {
+              "id": "kods-26-lg1-p3",
+              "number": "3",
+              "text": "",
+              "repealed": true
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-27": {
+      "id": "kods-27",
+      "number": "27",
+      "title": "Eesti kodakondsusest vabastamise otsustamine",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-27-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti kodakondsusest vabastamise otsustab Vabariigi Valitsus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-28": {
+      "id": "kods-28",
+      "number": "28",
+      "title": "Eesti kodakondsuse äravõtmine",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-28-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsus võetakse ära Vabariigi Valitsuse korraldusega isikult, kes on:",
+          "points": [
+            {
+              "id": "kods-28-lg1-p1",
+              "number": "1",
+              "text": "",
+              "repealed": true
+            },
+            {
+              "id": "kods-28-lg1-p2",
+              "number": "2",
+              "text": "",
+              "repealed": true
+            },
+            {
+              "id": "kods-28-lg1-p3",
+              "number": "3",
+              "text": "püüdnud vägivaldsel teel muuta Eesti põhiseaduslikku korda;",
+              "repealed": false
+            },
+            {
+              "id": "kods-28-lg1-p4",
+              "number": "4",
+              "text": "Eesti kodakondsuse saamisel või taastamisel varjanud valeandmete esitamisega asjaolusid, mis oleksid välistanud talle Eesti kodakondsuse andmise või taastamise;",
+              "repealed": false
+            },
+            {
+              "id": "kods-28-lg1-p5",
+              "number": "5",
+              "text": "mõne muu riigi kodakondsuses, kuid ei ole vabastatud Eesti kodakondsusest.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-28-lg1_1",
+          "number": "1_1",
+          "label": "(1¹)",
+          "text": "Eesti kodakondsuse võib ära võtta Vabariigi Valitsuse korraldusega isikult:",
+          "points": [
+            {
+              "id": "kods-28-lg1_1-p1",
+              "number": "1",
+              "text": "kelle kohta on jõustunud süüdimõistev kohtuotsus inimsusevastase kuriteo või agressioonikuriteo või karistusseadustiku §-s 232, 234², 237–237³ või 237⁵ sätestatud kuriteo eest;",
+              "repealed": false
+            },
+            {
+              "id": "kods-28-lg1_1-p2",
+              "number": "2",
+              "text": "kes on astunud välisriigi riigi- või sõjaväeteenistusse või luure- või julgeolekuteenistusse või relvi valdavasse ja sõjaväeliselt korraldatud või sõjalisi harjutusi harrastavasse välisriigi organisatsiooni, kui see kujutab ohtu avalikule korrale või riigi julgeolekule.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-28-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Kelleltki ei tohi veendumuste pärast võtta Eesti kodakondsust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-28-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Käesoleva paragrahvi 1. ja 1¹. lõige ei laiene isikutele, kes on omandanud Eesti kodakondsuse sünniga.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-28-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Isiku suhtes, kes on saanud Eesti kodakondsuse alaealisena, kohaldatakse samuti käesoleva paragrahvi 1. lõike punktis 5 sätestatut, arvestades käesoleva seaduse § 3 1. lõikes sätestatud erisust.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-29": {
+      "id": "kods-29",
+      "number": "29",
+      "title": "Eesti kodakondsuse kaotamine mõne muu riigi kodakondsuse vastuvõtmise või Eesti kodakondsusest loobumisega",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-29-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Isik loetakse Vabariigi Valitsuse volitatud valitsusasutuse poolt Eesti kodakondsuse kaotanuks mõne muu riigi kodakondsuse vastuvõtmise või Eesti kodakondsusest loobumisega mõne muu riigi kodakondsuse kasuks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-29-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Isiku suhtes, kes on saanud Eesti kodakondsuse alaealisena, kohaldatakse samuti käesoleva paragrahvi 1. lõikes sätestatut, arvestades käesoleva seaduse § 3 1. lõikes sätestatud erisust.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-30": {
+      "id": "kods-30",
+      "number": "30",
+      "title": "Eesti kodakondsust tõendavate dokumentide tagastamine",
+      "chapter": "kods-ch6",
+      "parts": [
+        {
+          "id": "kods-30-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Isik, kes on kaotanud Eesti kodakondsuse, tagastab Eesti kodakondsust tõendavad dokumendid Vabariigi Valitsuse poolt volitatud valitsusasutusele.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-31": {
+      "id": "kods-31",
+      "number": "31",
+      "title": "Nõusolek alaealisele Eesti kodakondsuse andmiseks, taastamiseks või tema Eesti kodakondsusest vabastamiseks",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-31-lg1",
+          "number": "1",
+          "label": null,
+          "text": "15-18-aastasele alaealisele Eesti kodakondsuse andmiseks, taastamiseks või tema Eesti kodakondsusest vabastamiseks peab olema tema vanema või eestkostja nõusolek.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-32": {
+      "id": "kods-32",
+      "number": "32",
+      "title": "Kodakondsuse andmine ekslikult Eesti kodanikuna määratletud isikule",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-32-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Isiku, kelle Vabariigi Valitsuse volitatud valitsusasutus määratles Eesti kodaniku isikut tõendava dokumendi väljaandmise menetluses ekslikult Eesti kodanikuna, loeb Vabariigi Valitsuse volitatud valitsusasutus, arvestades käesoleva paragrahvi lõigetes 2 ja 3 sätestatut, Eesti kodakondsuse omandanuks sellel õiguslikul alusel, nagu ta ekslikult Eesti kodanikuna määratleti.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-32-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Vabariigi Valitsuse volitatud valitsusasutus võib jätta isiku, kelle nimetatud asutus määratles Eesti kodaniku isikut tõendava dokumendi väljaandmise menetluses ekslikult Eesti kodanikuna, käesoleva paragrahvi lõikes 1 nimetatud alusel Eesti kodakondsuse omandanuks lugemata, kui isiku suhtes esineb käesoleva seaduse § 21 lõike 1 punktides 2–6 või § 28 lõike 1 punktis 3 või lõikes 1¹ sätestatud asjaolu.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-32-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Isiku, kelle Vabariigi Valitsuse volitatud valitsusasutus määratles isikut tõendava dokumendi väljaandmise menetluses ekslikult Eesti kodanikuna, võib nimetatud asutus jätta käesoleva paragrahvi lõike 1 kohaselt Eesti kodakondsuse omandanuks lugemata, kui on tuvastatud, et ta määratleti isikut tõendava dokumendi väljaandmise menetluses ekslikult Eesti kodanikuna võltsitud või valeandmeid sisaldava dokumendi või teadvalt valeandmete esitamise tõttu.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-32-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "Käesoleva paragrahvi lõiget 1 kohaldatakse ning lõikeid 2 ja 3 ei kohaldata isiku suhtes, kelle Vabariigi Valitsuse volitatud valitsusasutus määratles ekslikult Eesti kodanikuna teise isiku kaudu, kelle nimetatud asutus oli määratlenud Eesti kodaniku isikut tõendava dokumendi väljaandmise menetluses ekslikult Eesti kodanikuna.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-32-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "Vähemalt 15-aastase isiku taotlusel võib Vabariigi Valitsuse volitatud valitsusasutus jätta tema suhtes käesoleva paragrahvi lõike 1 kohaldamata.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-32-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Alla 15-aastase ja täisealise piiratud teovõimega isiku suhtes võib Vabariigi Valitsuse volitatud valitsusasutus jätta käesoleva paragrahvi lõike 1 kohaldamata tema seadusliku esindaja taotlusel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-32-lg7",
+          "number": "7",
+          "label": "(7)",
+          "text": "Isiku suhtes, kes on teise riigi kodanik, jõustub Vabariigi Valitsuse volitatud valitsusasutuse käesoleva paragrahvi lõikes 1 nimetatud otsus Eesti kodanikuks lugemise kohta sellele päevale järgnevast päevast, kui isik esitab Vabariigi Valitsuse volitatud valitsusasutusele tõendi, et ta on teise riigi kodakondsusest vabastatud.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-32-lg8",
+          "number": "8",
+          "label": "(8)",
+          "text": "Isikule naturalisatsiooni korras Eesti kodakondsuse, Eesti elamisloa või elamisõiguse andmise otsus on kehtetu käesoleva paragrahvi lõikes 1 nimetatud Eesti kodakondsuse omandanuks lugemise otsuse jõustumise päevast arvates.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-32-lg9",
+          "number": "9",
+          "label": "(9)",
+          "text": "Kui isiku suhtes kohaldatakse käesoleva paragrahvi lõikes 1 sätestatut, on kuni sel alusel isiku Eesti kodakondsuse omandanuks lugemise otsuse tegemiseni isiku õigused ja kohustused, mis lähtusid tema õiguslikust seisundist naturalisatsiooni korras Eesti kodakondsuse saanud isiku või välismaalasena, õiguspäraselt tekkinud.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-33": {
+      "id": "kods-33",
+      "number": "33",
+      "title": "Dokumentide vastuvõtmise eritingimused ja aja arvestamine",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-33-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Enne 1990. aasta 1. juulit Eestisse asunud või Eestis sündinud isiku suhtes, kes taotleb Eesti kodakondsust, ei rakendata käesoleva seaduse § 6 punktis 2 sätestatud pikaajalise elaniku elamisloa või alalise elamisõiguse omamise nõuet.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-34": {
+      "id": "kods-34",
+      "number": "34",
+      "title": "Eesti keele oskuse erinõuded",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-34-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Vähemalt 65-aastane Eesti kodakondsust taotlev isik on keeleeksamil vabastatud käesoleva seaduse § 8 2. lõike punktis 4 sätestatud nõuete täitmisest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-34-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-34-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-34-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        }
+      ],
+      "repealed": false
+    },
+    "kods-35": {
+      "id": "kods-35",
+      "number": "35",
+      "title": "Eesti kodakondsuse saamise eritingimused",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-35-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Täisealine piiratud teovõimega Eesti kodakondsust taotlev isik on vabastatud käesoleva seaduse § 6 punktides 3–7 sätestatud tingimuste täitmisest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Käesoleva seaduse § 6 punktides 3 ja 4 sätestatud tingimuste täitmisest on vabastatud isik, kes terviseseisundi tõttu pole võimeline neid nõudeid täitma.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Isik, kes terviseseisundi tõttu pole võimeline käesoleva seaduse § 6 punktides 3 ja 4 sätestatud tingimusi täielikult täitma, sooritab käesoleva seaduse §-des 8 ja 9 nimetatud eksami sellises ulatuses ja sellisel viisil, mida tema terviseseisund võimaldab.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg3_1",
+          "number": "3_1",
+          "label": "(3¹)",
+          "text": "Isiku suhtes, kes taotleb pärast 15-aastaseks saamist Eesti kodakondsust ja on enne 15-aastaseks saamist viibinud Eestis vähemalt kaheksa aastat, sõltumata sellest, kas tal on olnud sellel ajal elamisluba või elamisõigus või mitte, ning kes ei vasta käesoleva seaduse § 6 punktides 2 ja 2¹ sätestatud tingimustele, kohaldatakse nimetatud tingimuste asemel järgmisi tingimusi:",
+          "points": [
+            {
+              "id": "kods-35-lg3_1-p1",
+              "number": "1",
+              "text": "ta ei ole asunud püsivalt elama teise riiki;",
+              "repealed": false
+            },
+            {
+              "id": "kods-35-lg3_1-p2",
+              "number": "2",
+              "text": "ta omab Eesti kodakondsuse andmise ajal kehtivat elamisluba või elamisõigust ja",
+              "repealed": false
+            },
+            {
+              "id": "kods-35-lg3_1-p3",
+              "number": "3",
+              "text": "ta on elanud Eestis elamisloa või elamisõiguse alusel kuus kuud pärast Eesti kodakondsuse saamise sooviavalduse registreerimisele järgnevat päeva.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg4",
+          "number": "4",
+          "label": "(4)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-35-lg5",
+          "number": "5",
+          "label": "(5)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-35-lg6",
+          "number": "6",
+          "label": "(6)",
+          "text": "Käesoleva paragrahvi 2. lõikes nimetatud isiku kohta teeb eksperdikomisjon otsuse, mis vabastab isiku käesoleva seaduse § 6 punktides 3 ja 4 sätestatud nõuete täitmisest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg7",
+          "number": "7",
+          "label": "(7)",
+          "text": "Käesoleva paragrahvi 3. lõikes nimetatud isiku kohta teeb käesoleva seaduse §-des 8 ja 9 nimetatud eksami sooritamiseks eksperdikomisjon otsuse selle kohta, millisel viisil on isik võimeline eksamit sooritama ja millisest eksami osa sooritamisest on isik vabastatud.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg8",
+          "number": "8",
+          "label": "(8)",
+          "text": "Käesoleva paragrahvi 2. ja 3. lõikes nimetatud isik esitab eksperdikomisjoni pöördumiseks isiku raviarsti teatise, mis kinnitab isiku võimetust terviseseisundi tõttu täita kas täielikult või osaliselt käesoleva seaduse § 6 punktides 3 ja 4 sätestatud nõudeid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg9",
+          "number": "9",
+          "label": "(9)",
+          "text": "Käesoleva paragrahvi 6.–8. lõikes nimetatud eksperdikomisjoni otsuse peale võib kolmekümne päeva jooksul otsuse kättesaamise päevast arvates esitada kaebuse halduskohtule.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg10",
+          "number": "10",
+          "label": "(10)",
+          "text": "Kodakondsuse taotleja eesti keele ning kodakondsuse seaduse ja Eesti Vabariigi põhiseaduse tundmise eksami sooritamise ulatuse ja viisi määramise või nimetatud eksamite sooritamisest vabastamise tingimused ja korra kehtestab Vabariigi Valitsus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg10_1",
+          "number": "10_1",
+          "label": "(10¹)",
+          "text": "Käesoleva paragrahvi 6.–9. lõikes nimetatud eksperdikomisjoni teenindamise korraldab Haridus- ja Noorteamet.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-35-lg10_2",
+          "number": "10_2",
+          "label": "(10²)",
+          "text": "",
+          "points": [],
+          "repealed": true
+        },
+        {
+          "id": "kods-35-lg11",
+          "number": "11",
+          "label": "(11)",
+          "text": "Käesoleva paragrahvi 6.–9. lõikes nimetatud eksperdikomisjoni moodustab ja selle töökorralduse kehtestab käskkirjaga valdkonna eest vastutav minister kooskõlastatult valdkonna eest vastutava ministriga.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-36": {
+      "id": "kods-36",
+      "number": "36",
+      "title": "Halduskohtusse pöördumise õigus",
+      "chapter": "kods-ch7",
+      "parts": [],
+      "repealed": true
+    },
+    "kods-36_1": {
+      "id": "kods-36_1",
+      "number": "36_1",
+      "title": "Keeleõppe kulude hüvitamise rakendamine",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-36_1-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Kuni 2005. aasta 31. detsembrini hüvitatakse eesti keele eksami ning Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami positiivselt sooritanud isikule koolitusluba omavale erakoolile eesti keele õppe eest tasutud õppemaksust kuni 50 protsenti Vabariigi Valitsuse kehtestatud piirmäära ulatuses.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-36_1-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Eesti keele eksami ning Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami positiivselt sooritanud isikule, kes on eesti keele õpet alustanud enne 2004. aasta 1. jaanuari, hüvitatakse eesti keele õppe eest tasutud õppemaks ka juhul, kui õpet läbiviiv koolitusasutus ei oma koolitusluba.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-36_1-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Käesoleva seaduse § 8¹ lõikes 1 kehtestatud nõuet, et eesti keele õppe eest tasutud õppemaksu hüvitamist saab taotleda, kui täienduskoolitusasutusele on antud tegevusluba tasemeeksamiks ettevalmistamisele suunatud eesti keele koolituse läbiviimiseks, kohaldatakse pärast 2016. aasta 30. juunit alustatud eesti keele õppe puhul. Varem alustatud eesti keele õppe puhul lähtutakse enne käesoleva sätte jõustumist kehtinud hüvitamise nõuetest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-36_2": {
+      "id": "kods-36_2",
+      "number": "36_2",
+      "title": "Enne 2016. aasta 1. jaanuari esitatud Eesti kodakondsuse saamise või taastamise sooviavalduse menetlemine",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-36_2-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Isikute suhtes, kes on esitanud Eesti kodakondsuse saamise või taastamise sooviavalduse enne 2016. aasta 1. jaanuari, kohaldatakse 2016. aasta 1. jaanuaril jõustunud Eesti kodakondsuse saamise või taastamise tingimusi.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-36_2-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Kui isik on esitanud Eesti kodakondsuse saamise sooviavalduse ajavahemikul 30. juunist kuni 31. detsembrini 2015. aastal, edastab Vabariigi Valitsuse volitatud valitsusasutus sooviavalduse Vabariigi Valitsusele otsustamiseks üheksa kuu jooksul sooviavalduse menetlusse võtmise või puuduste kõrvaldamise päevast arvates.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-36_3": {
+      "id": "kods-36_3",
+      "number": "36_3",
+      "title": "Enne 2016. aasta 1. jaanuari sündinud alaealise Eesti kodakondsuse saamine",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-36_3-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Alla 15-aastane alaealine, kes on sündinud Eestis enne 2016. aasta 1. jaanuari, saab Eesti kodakondsuse naturalisatsiooni korras 2016. aasta 1. jaanuarist arvates, kui:",
+          "points": [
+            {
+              "id": "kods-36_3-lg1-p1",
+              "number": "1",
+              "text": "tema vanemad või last üksi kasvatav vanem, keda ükski riik ei pea kehtivate seaduste alusel oma kodanikuks, on elanud Eestis seaduslikult vähemalt viis aastat;",
+              "repealed": false
+            },
+            {
+              "id": "kods-36_3-lg1-p2",
+              "number": "2",
+              "text": "alla 15-aastane alaealine elab püsivalt Eestis.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "kods-36_3-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Käesoleva paragrahvi 1. lõikes nimetatud alaealine ei saa Eesti kodakondsust käesoleva paragrahvi 1. lõikes nimetatud tingimuste täitmise korral, kui tema vanemad või last üksi kasvatav vanem esitab Vabariigi Valitsuse volitatud valitsusasutusele taotluse lapse Eesti kodakondsusest loobumiseks enne 2017. aasta 1. jaanuari.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-36_3-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Käesoleva paragrahvi 1. lõike punktis 1 sätestatud määratlus isikutest, keda ükski riik ei pea kehtivate seaduste alusel oma kodanikuks, hõlmab ka isikuid, kes olid enne 1991. aasta 20. augustit NSV Liidu kodanikud ja keda ükski muu riik ei ole pidanud kehtivate seaduste alusel oma kodanikuks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-36_4": {
+      "id": "kods-36_4",
+      "number": "36_4",
+      "title": "Alla 18-aastaste Eesti kodakondsuse kaotanuks lugemise menetlemine mõne muu riigi kodakondsuse vastuvõtmise või Eesti kodakondsusest loobumisega",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-36_4-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Vabariigi Valitsuse volitatud valitsusasutuse poolt käesoleva seaduse § 29 alusel algatatud Eesti kodakondsuse kaotanuks lugemise menetlus mõne muu riigi kodakondsuse vastuvõtmise või Eesti kodakondsusest loobumisega mõne muu riigi kodakondsuse kasuks, peatatakse alla 18-aastaste alaealiste suhtes kuni 2016. aasta 1. jaanuarini.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-36_4-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Pärast 2016. aasta 1. jaanuari lõpetatakse käesoleva paragrahvi 1. lõikes nimetatud menetlused.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-36_5": {
+      "id": "kods-36_5",
+      "number": "36_5",
+      "title": "Enne 2022. aasta 1. juulit võetud biomeetriliste andmete töötlemine",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-36_5-lg1",
+          "number": "1",
+          "label": "(1)",
+          "text": "Eesti kodakondsuse saanud, taastanud või kaotanud isikute andmekogu infotehnoloogilisse andmekogusse kantud fotod ja näokujutised kantakse andmekogusse ABIS hiljemalt 2022. aasta 30. juunil.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-36_5-lg2",
+          "number": "2",
+          "label": "(2)",
+          "text": "Enne 2022. aasta 1. juulit Eesti kodakondsuse saanud, taastanud või kaotanud isikute andmekogu infotehnoloogilisse andmekogusse kantud fotosid ja näokujutisi võib säilitada samal ajal andmekogus ABIS säilitatavate andmetega, kuid kõige kauem 2025. aasta 30. juunini.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "kods-36_5-lg3",
+          "number": "3",
+          "label": "(3)",
+          "text": "Pärast andmekogu ABIS loomist kuni andmekogu ABIS üleminekusätete rakendumise lõpptähtpäevani võib töödelda fotosid ja näokujutisi Eesti kodakondsuse saanud, taastanud või kaotanud isikute andmekogu infotehnoloogilises andmekogus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-37": {
+      "id": "kods-37",
+      "number": "37",
+      "title": "Varasemate õigusaktide kehtetuks tunnistamine",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-37-lg1",
+          "number": "1",
+          "label": null,
+          "text": "[Käesolevast tekstist välja jäetud.]",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "kods-38": {
+      "id": "kods-38",
+      "number": "38",
+      "title": "Seaduse jõustumine",
+      "chapter": "kods-ch7",
+      "parts": [
+        {
+          "id": "kods-38-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Käesolev seadus jõustub 1995. aasta 1. aprillil.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    }
+  }
+}

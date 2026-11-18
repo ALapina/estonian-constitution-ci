@@ -1,0 +1,35 @@
+{
+  "id": "tts-fixture",
+  "slot": "tts-fixture",
+  "stage": 0,
+  "area": 3,
+  "type": "serial",
+  "title": "Lisa ja Riigikogu",
+  "law": ["ps-60"],
+  "editions": { "ps": "111042025003" },
+  "tags": [],
+  "segments": [
+    { "speaker": "narrator", "text": "Lisa on 16-aastane.", "para": 0 },
+    { "speaker": "narrator", "text": "Ta sai Eesti kodakondsuse 2016. aastal, kodakondsuse seaduse § 36³ järgi.", "para": 0 },
+    { "speaker": "lisa", "text": "Riigikogus on 101 liiget. Ma tahan ka hääletada!", "para": 1 },
+    { "speaker": "narrator", "text": "Aga Riigikogu valimistel hääletavad ainult kodanikud, kes on vähemalt 18-aastased.", "para": 2 }
+  ],
+  "newWords": [
+    { "form": "hääletada", "lemma": "hääletama", "translation": "голосовать" },
+    { "form": "liiget", "lemma": "liige", "translation": "член" }
+  ],
+  "facts": [
+    { "text": "Riigikogus on 101 liiget. (§ 60)", "ref": "ps-60-lg1" },
+    { "text": "Riigikogu liikmeks võib kandideerida hääleõiguslik Eesti kodanik, kes on vähemalt 21-aastane. (§ 60)", "ref": "ps-60-lg2" }
+  ],
+  "questions": [
+    {
+      "type": "truefalse",
+      "text": "Riigikogus on 101 liiget.",
+      "options": ["õige", "vale"],
+      "answer": 0,
+      "explanation": "Õige. Riigikogul on 101 liiget. (§ 60)",
+      "ref": "ps-60-lg1"
+    }
+  ]
+}

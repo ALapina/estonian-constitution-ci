@@ -1,0 +1,71 @@
+{
+  "act": "ps",
+  "title": "Eesti Vabariigi põhiseadus",
+  "edition": "111042025003",
+  "reference": "RT I, 11.04.2025, 3",
+  "inForceFrom": "2026-03-01",
+  "url": "https://www.riigiteataja.ee/akt/111042025003",
+  "importedAt": "2026-11-18",
+  "preamble": null,
+  "chapters": [
+    {
+      "id": "ps-ch4",
+      "number": "IV",
+      "title": "RIIGIKOGU",
+      "paragraphs": [
+        "ps-60"
+      ]
+    }
+  ],
+  "paragraphs": {
+    "ps-60": {
+      "id": "ps-60",
+      "number": "60",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-60-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogul on sada üks liiget. Riigikogu liikmed valitakse vabadel valimistel proportsionaalsuse põhimõtte alusel. Valimised on üldised, ühetaolised ja otsesed. Hääletamine on salajane.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-60-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogusse võib kandideerida iga vähemalt kahekümne ühe aastane hääleõiguslik Eesti kodanik.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-60-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riigikogu korralised valimised toimuvad märtsikuu esimesel pühapäeval neljandal aastal, mis järgneb Riigikogu eelmiste valimiste aastale.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-60-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Riigikogu erakorralised valimised toimuvad põhiseaduse §-des 89, 97, 105 ja 119 ettenähtud juhtudel varemalt kakskümmend ja hiljemalt nelikümmend päeva pärast valimiste väljakuulutamist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-60-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Riigikogu valimise korra sätestab Riigikogu valimise seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    }
+  }
+}

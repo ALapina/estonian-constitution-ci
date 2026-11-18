@@ -1,0 +1,5009 @@
+{
+  "act": "ps",
+  "title": "Eesti Vabariigi põhiseadus",
+  "edition": "111042025003",
+  "reference": "RT I, 11.04.2025, 3",
+  "inForceFrom": "2026-03-01",
+  "url": "https://www.riigiteataja.ee/akt/111042025003",
+  "importedAt": "2026-11-18",
+  "preamble": "Kõikumatus usus ja vankumatus tahtes kindlustada ja arendada riiki,\nmis on loodud Eesti rahva riikliku enesemääramise kustumatul õigusel ja välja kuulutatud 1918. aasta 24. veebruaril,\nmis on rajatud vabadusele, õiglusele ja õigusele,\nmis on kaitseks sisemisele ja välisele rahule ning pandiks praegustele ja tulevastele põlvedele nende ühiskondlikus edus ja üldises kasus,\nmis peab tagama eesti rahvuse, keele ja kultuuri säilimise läbi aegade –\nvõttis Eesti rahvas 1938. aastal jõustunud põhiseaduse § 1 alusel 1992. aasta 28. juuni rahvahääletusel vastu järgmise põhiseaduse.",
+  "chapters": [
+    {
+      "id": "ps-ch1",
+      "number": "I",
+      "title": "ÜLDSÄTTED",
+      "paragraphs": [
+        "ps-1",
+        "ps-2",
+        "ps-3",
+        "ps-4",
+        "ps-5",
+        "ps-6",
+        "ps-7"
+      ]
+    },
+    {
+      "id": "ps-ch2",
+      "number": "II",
+      "title": "PÕHIÕIGUSED, VABADUSED JA KOHUSTUSED",
+      "paragraphs": [
+        "ps-8",
+        "ps-9",
+        "ps-10",
+        "ps-11",
+        "ps-12",
+        "ps-13",
+        "ps-14",
+        "ps-15",
+        "ps-16",
+        "ps-17",
+        "ps-18",
+        "ps-19",
+        "ps-20",
+        "ps-21",
+        "ps-22",
+        "ps-23",
+        "ps-24",
+        "ps-25",
+        "ps-26",
+        "ps-27",
+        "ps-28",
+        "ps-29",
+        "ps-30",
+        "ps-31",
+        "ps-32",
+        "ps-33",
+        "ps-34",
+        "ps-35",
+        "ps-36",
+        "ps-37",
+        "ps-38",
+        "ps-39",
+        "ps-40",
+        "ps-41",
+        "ps-42",
+        "ps-43",
+        "ps-44",
+        "ps-45",
+        "ps-46",
+        "ps-47",
+        "ps-48",
+        "ps-49",
+        "ps-50",
+        "ps-51",
+        "ps-52",
+        "ps-53",
+        "ps-54",
+        "ps-55"
+      ]
+    },
+    {
+      "id": "ps-ch3",
+      "number": "III",
+      "title": "RAHVAS",
+      "paragraphs": [
+        "ps-56",
+        "ps-57",
+        "ps-58"
+      ]
+    },
+    {
+      "id": "ps-ch4",
+      "number": "IV",
+      "title": "RIIGIKOGU",
+      "paragraphs": [
+        "ps-59",
+        "ps-60",
+        "ps-61",
+        "ps-62",
+        "ps-63",
+        "ps-64",
+        "ps-65",
+        "ps-66",
+        "ps-67",
+        "ps-68",
+        "ps-69",
+        "ps-70",
+        "ps-71",
+        "ps-72",
+        "ps-73",
+        "ps-74",
+        "ps-75",
+        "ps-76"
+      ]
+    },
+    {
+      "id": "ps-ch5",
+      "number": "V",
+      "title": "VABARIIGI PRESIDENT",
+      "paragraphs": [
+        "ps-77",
+        "ps-78",
+        "ps-79",
+        "ps-80",
+        "ps-81",
+        "ps-82",
+        "ps-83",
+        "ps-84",
+        "ps-85"
+      ]
+    },
+    {
+      "id": "ps-ch6",
+      "number": "VI",
+      "title": "VABARIIGI VALITSUS",
+      "paragraphs": [
+        "ps-86",
+        "ps-87",
+        "ps-88",
+        "ps-89",
+        "ps-90",
+        "ps-91",
+        "ps-92",
+        "ps-93",
+        "ps-94",
+        "ps-95",
+        "ps-96",
+        "ps-97",
+        "ps-98",
+        "ps-99",
+        "ps-100",
+        "ps-101"
+      ]
+    },
+    {
+      "id": "ps-ch7",
+      "number": "VII",
+      "title": "SEADUSANDLUS",
+      "paragraphs": [
+        "ps-102",
+        "ps-103",
+        "ps-104",
+        "ps-105",
+        "ps-106",
+        "ps-107",
+        "ps-108",
+        "ps-109",
+        "ps-110"
+      ]
+    },
+    {
+      "id": "ps-ch8",
+      "number": "VIII",
+      "title": "RAHANDUS JA RIIGIEELARVE",
+      "paragraphs": [
+        "ps-111",
+        "ps-112",
+        "ps-113",
+        "ps-114",
+        "ps-115",
+        "ps-116",
+        "ps-117",
+        "ps-118",
+        "ps-119"
+      ]
+    },
+    {
+      "id": "ps-ch9",
+      "number": "IX",
+      "title": "VÄLISSUHTED JA VÄLISLEPINGUD",
+      "paragraphs": [
+        "ps-120",
+        "ps-121",
+        "ps-122",
+        "ps-123"
+      ]
+    },
+    {
+      "id": "ps-ch10",
+      "number": "X",
+      "title": "RIIGIKAITSE",
+      "paragraphs": [
+        "ps-124",
+        "ps-125",
+        "ps-126",
+        "ps-127",
+        "ps-128",
+        "ps-129",
+        "ps-130",
+        "ps-131"
+      ]
+    },
+    {
+      "id": "ps-ch11",
+      "number": "XI",
+      "title": "RIIGIKONTROLL",
+      "paragraphs": [
+        "ps-132",
+        "ps-133",
+        "ps-134",
+        "ps-135",
+        "ps-136",
+        "ps-137",
+        "ps-138"
+      ]
+    },
+    {
+      "id": "ps-ch12",
+      "number": "XII",
+      "title": "ÕIGUSKANTSLER",
+      "paragraphs": [
+        "ps-139",
+        "ps-140",
+        "ps-141",
+        "ps-142",
+        "ps-143",
+        "ps-144",
+        "ps-145"
+      ]
+    },
+    {
+      "id": "ps-ch13",
+      "number": "XIII",
+      "title": "KOHUS",
+      "paragraphs": [
+        "ps-146",
+        "ps-147",
+        "ps-148",
+        "ps-149",
+        "ps-150",
+        "ps-151",
+        "ps-152",
+        "ps-153"
+      ]
+    },
+    {
+      "id": "ps-ch14",
+      "number": "XIV",
+      "title": "KOHALIK OMAVALITSUS",
+      "paragraphs": [
+        "ps-154",
+        "ps-155",
+        "ps-156",
+        "ps-157",
+        "ps-158",
+        "ps-159",
+        "ps-160"
+      ]
+    },
+    {
+      "id": "ps-ch15",
+      "number": "XV",
+      "title": "PÕHISEADUSE MUUTMINE",
+      "paragraphs": [
+        "ps-161",
+        "ps-162",
+        "ps-163",
+        "ps-164",
+        "ps-165",
+        "ps-166",
+        "ps-167",
+        "ps-168"
+      ]
+    }
+  ],
+  "paragraphs": {
+    "ps-1": {
+      "id": "ps-1",
+      "number": "1",
+      "title": null,
+      "chapter": "ps-ch1",
+      "parts": [
+        {
+          "id": "ps-1-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti on iseseisev ja sõltumatu demokraatlik vabariik, kus kõrgeima riigivõimu kandja on rahvas.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-1-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Eesti iseseisvus ja sõltumatus on aegumatu ning võõrandamatu.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-2": {
+      "id": "ps-2",
+      "number": "2",
+      "title": null,
+      "chapter": "ps-ch1",
+      "parts": [
+        {
+          "id": "ps-2-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti riigi maa-ala, territoriaalveed ja õhuruum on lahutamatu ja jagamatu tervik.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-2-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Eesti on riiklikult korralduselt ühtne riik, mille territooriumi haldusjaotuse sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-3": {
+      "id": "ps-3",
+      "number": "3",
+      "title": null,
+      "chapter": "ps-ch1",
+      "parts": [
+        {
+          "id": "ps-3-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigivõimu teostatakse üksnes põhiseaduse ja sellega kooskõlas olevate seaduste alusel. Rahvusvahelise õiguse üldtunnustatud põhimõtted ja normid on Eesti õigussüsteemi lahutamatu osa.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-3-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Seadused avaldatakse ettenähtud korras. Täitmiseks kohustuslikud saavad olla üksnes avaldatud seadused.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-4": {
+      "id": "ps-4",
+      "number": "4",
+      "title": null,
+      "chapter": "ps-ch1",
+      "parts": [
+        {
+          "id": "ps-4-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu, Vabariigi Presidendi, Vabariigi Valitsuse ja kohtute tegevus on korraldatud võimude lahususe ja tasakaalustatuse põhimõttel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-5": {
+      "id": "ps-5",
+      "number": "5",
+      "title": null,
+      "chapter": "ps-ch1",
+      "parts": [
+        {
+          "id": "ps-5-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti loodusvarad ja loodusressursid on rahvuslik rikkus, mida tuleb kasutada säästlikult.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-6": {
+      "id": "ps-6",
+      "number": "6",
+      "title": null,
+      "chapter": "ps-ch1",
+      "parts": [
+        {
+          "id": "ps-6-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti riigikeel on eesti keel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-7": {
+      "id": "ps-7",
+      "number": "7",
+      "title": null,
+      "chapter": "ps-ch1",
+      "parts": [
+        {
+          "id": "ps-7-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti riigivärvid on sinine, must ja valge. Riigilipu ja riigivapi kuju sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-8": {
+      "id": "ps-8",
+      "number": "8",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-8-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igal lapsel, kelle vanematest üks on Eesti kodanik, on õigus Eesti kodakondsusele sünnilt.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-8-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Igaühel, kes on alaealisena kaotanud Eesti kodakondsuse, on õigus selle taastamisele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-8-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kelleltki ei tohi võtta sünniga omandatud Eesti kodakondsust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-8-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Kelleltki ei tohi veendumuste pärast võtta Eesti kodakondsust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-8-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Eesti kodakondsuse saamise, kaotamise ja taastamise tingimused ning korra sätestab kodakondsuse seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-9": {
+      "id": "ps-9",
+      "number": "9",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-9-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Põhiseaduses loetletud kõigi ja igaühe õigused, vabadused ja kohustused on võrdselt nii Eesti kodanikel kui ka Eestis viibivatel välisriikide kodanikel ja kodakondsuseta isikutel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-9-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Põhiseaduses loetletud õigused, vabadused ja kohustused laienevad juriidilistele isikutele niivõrd, kui see on kooskõlas juriidiliste isikute üldiste eesmärkide ja selliste õiguste, vabaduste ja kohustuste olemusega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-10": {
+      "id": "ps-10",
+      "number": "10",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-10-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Käesolevas peatükis loetletud õigused, vabadused ja kohustused ei välista muid õigusi, vabadusi ega kohustusi, mis tulenevad põhiseaduse mõttest või on sellega kooskõlas ja vastavad inimväärikuse ning sotsiaalse ja demokraatliku õigusriigi põhimõtetele.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-11": {
+      "id": "ps-11",
+      "number": "11",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-11-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õigusi ja vabadusi tohib piirata ainult kooskõlas põhiseadusega. Need piirangud peavad olema demokraatlikus ühiskonnas vajalikud ega tohi moonutada piiratavate õiguste ja vabaduste olemust.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-12": {
+      "id": "ps-12",
+      "number": "12",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-12-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kõik on seaduse ees võrdsed. Kedagi ei tohi diskrimineerida rahvuse, rassi, nahavärvuse, soo, keele, päritolu, usutunnistuse, poliitiliste või muude veendumuste, samuti varalise ja sotsiaalse seisundi või muude asjaolude tõttu.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-12-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Rahvusliku, rassilise, usulise või poliitilise vihkamise, vägivalla ja diskrimineerimise õhutamine on seadusega keelatud ja karistatav. Samuti on seadusega keelatud ja karistatav õhutada vihkamist, vägivalda ja diskrimineerimist ühiskonnakihtide vahel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-13": {
+      "id": "ps-13",
+      "number": "13",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-13-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus riigi ja seaduse kaitsele. Eesti riik kaitseb oma kodanikku ka välisriikides.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-13-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Seadus kaitseb igaühte riigivõimu omavoli eest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-14": {
+      "id": "ps-14",
+      "number": "14",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-14-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õiguste ja vabaduste tagamine on seadusandliku, täidesaatva ja kohtuvõimu ning kohalike omavalitsuste kohustus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-15": {
+      "id": "ps-15",
+      "number": "15",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-15-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus pöörduda oma õiguste ja vabaduste rikkumise korral kohtusse. Igaüks võib oma kohtuasja läbivaatamisel nõuda mis tahes asjassepuutuva seaduse, muu õigusakti või toimingu põhiseadusevastaseks tunnistamist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-15-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kohus järgib põhiseadust ja tunnistab põhiseadusevastaseks mis tahes seaduse, muu õigusakti või toimingu, mis rikub põhiseaduses sätestatud õigusi ja vabadusi või on muul viisil põhiseadusega vastuolus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-16": {
+      "id": "ps-16",
+      "number": "16",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-16-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus elule. Seda õigust kaitseb seadus. Meelevaldselt ei tohi kelleltki elu võtta.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-17": {
+      "id": "ps-17",
+      "number": "17",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-17-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kellegi au ega head nime ei tohi teotada.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-18": {
+      "id": "ps-18",
+      "number": "18",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-18-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kedagi ei tohi piinata, julmalt või väärikust alandavalt kohelda ega karistada.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-18-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kedagi ei tohi tema vaba tahte vastaselt allutada meditsiini- ega teaduskatsetele.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-19": {
+      "id": "ps-19",
+      "number": "19",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-19-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus vabale eneseteostusele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-19-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Igaüks peab oma õiguste ja vabaduste kasutamisel ning kohustuste täitmisel austama ja arvestama teiste inimeste õigusi ja vabadusi ning järgima seadust.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-20": {
+      "id": "ps-20",
+      "number": "20",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-20-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus vabadusele ja isikupuutumatusele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-20-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Vabaduse võib võtta ainult seaduses sätestatud juhtudel ja korras:",
+          "points": [
+            {
+              "id": "ps-20-lg2-p1",
+              "number": "1",
+              "text": "süüdimõistva kohtuotsuse või kohtu poolt määratud aresti täitmiseks;",
+              "repealed": false
+            },
+            {
+              "id": "ps-20-lg2-p2",
+              "number": "2",
+              "text": "kohtu korralduse täitmata jätmise korral või seadusega sätestatud kohustuse täitmise tagamiseks;",
+              "repealed": false
+            },
+            {
+              "id": "ps-20-lg2-p3",
+              "number": "3",
+              "text": "kuriteo või haldusõiguserikkumise ärahoidmiseks, sellises õiguserikkumises põhjendatult kahtlustatava toimetamiseks pädeva riigiorgani ette või tema pakkumineku vältimiseks;",
+              "repealed": false
+            },
+            {
+              "id": "ps-20-lg2-p4",
+              "number": "4",
+              "text": "alaealise üle kasvatusliku järelevalve sisseseadmiseks või tema toimetamiseks pädeva riigiorgani ette, et otsustada sellise järelevalve sisseseadmine;",
+              "repealed": false
+            },
+            {
+              "id": "ps-20-lg2-p5",
+              "number": "5",
+              "text": "nakkushaige, vaimuhaige, alkohooliku või narkomaani kinnipidamiseks, kui ta on endale või teistele ohtlik;",
+              "repealed": false
+            },
+            {
+              "id": "ps-20-lg2-p6",
+              "number": "6",
+              "text": "ebaseadusliku Eestisse asumise tõkestamiseks ning Eestist väljasaatmiseks või välisriigile väljaandmiseks.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "ps-20-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kelleltki ei tohi võtta vabadust üksnes sel põhjusel, et ta ei ole suuteline täitma mingit lepingulist kohustust.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-21": {
+      "id": "ps-21",
+      "number": "21",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-21-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühele, kellelt on võetud vabadus, teatatakse viivitamatult talle arusaadavas keeles ja viisil vabaduse võtmise põhjus ja tema õigused ning antakse võimalus teatada vabaduse võtmisest oma lähedastele. Kuriteos kahtlustatavale antakse viivitamatult ka võimalus valida endale kaitsja ja kohtuda temaga. Kuriteos kahtlustatava õigust teatada vabaduse võtmisest oma lähedastele võib piirata ainult seaduses sätestatud juhtudel ja korras kuriteo tõkestamiseks või kriminaalmenetluses tõe väljaselgitamise huvides.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-21-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kedagi ei tohi vahi all pidada üle neljakümne kaheksa tunni ilma kohtu sellekohase loata. Kohtu otsus teatatakse vahistatule viivitamatult talle arusaadavas keeles ja viisil.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-22": {
+      "id": "ps-22",
+      "number": "22",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-22-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kedagi ei tohi käsitada kuriteos süüdi olevana enne, kui tema kohta on jõustunud süüdimõistev kohtuotsus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-22-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Keegi ei ole kriminaalmenetluses kohustatud oma süütust tõendama.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-22-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kedagi ei tohi sundida tunnistama iseenda või oma lähedaste vastu.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-23": {
+      "id": "ps-23",
+      "number": "23",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-23-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kedagi ei tohi süüdi mõista teo eest, kui seda tegu ei tunnista kuriteoks seadus, mis oli jõus teo toimepanemise ajal.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-23-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kellelegi ei tohi mõista raskemat karistust kui see, mida võinuks talle mõista õiguserikkumise toimepanemise ajal. Kui seadus sätestab pärast õiguserikkumise toimepanemist kergema karistuse, kohaldatakse kergemat karistust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-23-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kedagi ei tohi teist korda kohtu alla anda ega karistada teo eest, milles teda vastavalt seadusele on mõistetud lõplikult süüdi või õigeks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-24": {
+      "id": "ps-24",
+      "number": "24",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-24-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kedagi ei tohi tema vaba tahte vastaselt üle viia seadusega määratud kohtu alluvusest teise kohtu alluvusse.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-24-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Igaühel on õigus olla oma kohtuasja arutamise juures.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-24-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kohtuistungid on avalikud. Kohus võib seaduses sätestatud juhtudel ja korras oma istungi või osa sellest kuulutada kinniseks riigi- või ärisaladuse, kõlbluse või inimeste perekonna- ja eraelu kaitseks või kui seda nõuavad alaealise, kannatanu või õigusemõistmise huvid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-24-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Kohtuotsus kuulutatakse avalikult, välja arvatud juhud, kui alaealise, abielupoole või kannatanu huvid nõuavad teisiti.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-24-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Igaühel on õigus tema kohta tehtud kohtu otsuse peale seadusega sätestatud korras edasi kaevata kõrgemalseisvale kohtule.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-25": {
+      "id": "ps-25",
+      "number": "25",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-25-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus talle ükskõik kelle poolt õigusvastaselt tekitatud moraalse ja materiaalse kahju hüvitamisele.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-26": {
+      "id": "ps-26",
+      "number": "26",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-26-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus perekonna- ja eraelu puutumatusele. Riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi kellegi perekonna- ega eraellu sekkuda muidu, kui seaduses sätestatud juhtudel ja korras tervise, kõlbluse, avaliku korra või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks või kurjategija tabamiseks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-27": {
+      "id": "ps-27",
+      "number": "27",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-27-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Perekond rahva püsimise ja kasvamise ning ühiskonna alusena on riigi kaitse all.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-27-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Abikaasad on võrdõiguslikud.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-27-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Vanematel on õigus ja kohustus kasvatada oma lapsi ja hoolitseda nende eest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-27-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Seadus sätestab vanemate ja laste kaitse.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-27-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Perekond on kohustatud hoolitsema oma abivajavate liikmete eest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-28": {
+      "id": "ps-28",
+      "number": "28",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-28-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus tervise kaitsele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-28-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Eesti kodanikul on õigus riigi abile vanaduse, töövõimetuse, toitjakaotuse ja puuduse korral. Abi liigid, ulatuse ning saamise tingimused ja korra sätestab seadus. Kui seadus ei sätesta teisiti, siis on see õigus võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-28-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riik soodustab vabatahtlikku ja omavalitsuse hoolekannet.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-28-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Lasterikkad pered ja puuetega inimesed on riigi ja kohalike omavalitsuste erilise hoole all.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-29": {
+      "id": "ps-29",
+      "number": "29",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-29-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti kodanikul on õigus vabalt valida tegevusala, elukutset ja töökohta. Seadus võib sätestada selle õiguse kasutamise tingimused ja korra. Kui seadus ei sätesta teisiti, siis on see õigus võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-29-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kedagi ei tohi sundida tema vaba tahte vastaselt tööle ega teenistusse, välja arvatud kaitseväeteenistus või selle asendusteenistus, tööd nakkushaiguse leviku tõkestamisel, loodusõnnetuse ja katastroofi korral ning töö, mida seaduse alusel ja korras peab tegema süüdimõistetu.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-29-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riik korraldab kutseõpet ja abistab tööotsijaid töö leidmisel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-29-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Töötingimused on riigi kontrolli all.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-29-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Töötajate ja tööandjate ühingutesse ja liitudesse kuulumine on vaba. Töötajate ja tööandjate ühingud ja liidud võivad oma õiguste ja seaduslike huvide eest seista vahenditega, mida seadus ei keela. Streigiõiguse kasutamise tingimused ja korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-29-lg6",
+          "number": "6",
+          "label": null,
+          "text": "Töövaidluste lahendamise korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-30": {
+      "id": "ps-30",
+      "number": "30",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-30-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Ametikohad riigiasutustes ja kohalikes omavalitsustes täidetakse seaduse alusel ja korras Eesti kodanikega. Kooskõlas seadusega võib neid ametikohti erandkorras täita ka välisriigi kodanike ja kodakondsuseta isikutega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-30-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Seadus võib piirata mõne kategooria riigiteenistujate õigust tegelda ettevõtlusega ja koonduda tulundusühendustesse (§ 31) ning õigust kuuluda erakondadesse ja mõnda liiki mittetulundusühendustesse (§ 48).",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-31": {
+      "id": "ps-31",
+      "number": "31",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-31-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti kodanikel on õigus tegelda ettevõtlusega ning koonduda tulundusühingutesse ja -liitudesse. Seadus võib sätestada selle õiguse kasutamise tingimused ja korra. Kui seadus ei sätesta teisiti, siis on see õigus võrdselt Eesti kodanikega ka Eestis viibivatel välisriikide kodanikel ja kodakondsuseta isikutel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-32": {
+      "id": "ps-32",
+      "number": "32",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-32-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühe omand on puutumatu ja võrdselt kaitstud. Omandit võib omaniku nõusolekuta võõrandada ainult seaduses sätestatud juhtudel ja korras üldistes huvides õiglase ja kohese hüvituse eest. Igaühel, kelle vara on tema nõusolekuta võõrandatud, on õigus pöörduda kohtusse ning vaidlustada vara võõrandamine, hüvitus või selle suurus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-32-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Igaühel on õigus enda omandit vabalt vallata, kasutada ja käsutada. Kitsendused sätestab seadus. Omandit ei tohi kasutada üldiste huvide vastaselt.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-32-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Seadus võib üldistes huvides sätestada vara liigid, mida tohivad Eestis omandada ainult Eesti kodanikud, mõnda liiki juriidilised isikud, kohalikud omavalitsused või Eesti riik.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-32-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Pärimisõigus on tagatud.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-33": {
+      "id": "ps-33",
+      "number": "33",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-33-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kodu on puutumatu. Ei tohi tungida kellegi eluruumi, valdusse ega töökohta ega neid ka läbi otsida, välja arvatud seadusega sätestatud juhtudel ja korras avaliku korra, tervise või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks, kurjategija tabamiseks või tõe väljaselgitamiseks kriminaalmenetluses.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-34": {
+      "id": "ps-34",
+      "number": "34",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-34-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel, kes viibib seaduslikult Eestis, on õigus vabalt liikuda ja elukohta valida. Õigust vabalt liikuda võib seaduses sätestatud juhtudel ja korras piirata teiste inimeste õiguste ja vabaduste kaitseks, riigikaitse huvides, loodusõnnetuse ja katastroofi korral, nakkushaiguse leviku tõkestamiseks, looduskeskkonna kaitseks, alaealise või vaimuhaige järelevalvetuse ärahoidmiseks ja kriminaalasja menetluse tagamiseks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-35": {
+      "id": "ps-35",
+      "number": "35",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-35-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus lahkuda Eestist. Seda õigust võib seaduses sätestatud juhtudel ja korras piirata kohtu- ning kohtueelse menetluse tagamiseks ja kohtuotsuse täitmiseks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-36": {
+      "id": "ps-36",
+      "number": "36",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-36-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Ühtki Eesti kodanikku ei tohi Eestist välja saata ega takistada Eestisse asumast.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-36-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Ühtki Eesti kodanikku ei tohi välisriigile välja anda muidu, kui välislepingus ettenähtud juhtudel ning vastavas lepingus ja seaduses sätestatud korras. Väljaandmise otsustab Vabariigi Valitsus. Igal väljaantaval on õigus vaidlustada väljaandmine Eesti kohtus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-36-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Igal eestlasel on õigus asuda Eestisse.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-37": {
+      "id": "ps-37",
+      "number": "37",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-37-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus haridusele. Õppimine on kooliealistel lastel seadusega määratud ulatuses kohustuslik ning riigi ja kohalike omavalitsuste üldhariduskoolides õppemaksuta.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-37-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Et teha haridus kättesaadavaks, peavad riik ja kohalikud omavalitsused ülal vajalikul arvul õppeasutusi. Seaduse alusel võib avada ja pidada ka muid õppeasutusi, sealhulgas erakoole.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-37-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Laste hariduse valikul on otsustav sõna vanematel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-37-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Igaühel on õigus saada eestikeelset õpetust. Õppekeele vähemusrahvuse õppeasutuses valib õppeasutus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-37-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Hariduse andmine on riigi järelevalve all.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-38": {
+      "id": "ps-38",
+      "number": "38",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-38-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Teadus ja kunst ning nende õpetused on vabad.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-38-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Ülikoolid ja teadusasutused on seaduses ettenähtud piires autonoomsed.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-39": {
+      "id": "ps-39",
+      "number": "39",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-39-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Autoril on võõrandamatu õigus oma loomingule. Riik kaitseb autori õigusi.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-40": {
+      "id": "ps-40",
+      "number": "40",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-40-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on südametunnistuse-, usu- ja mõttevabadus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-40-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kuulumine kirikutesse ja usuühingutesse on vaba. Riigikirikut ei ole.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-40-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Igaühel on vabadus nii üksinda kui ka koos teistega, avalikult või eraviisiliselt täita usutalitusi, kui see ei kahjusta avalikku korda, tervist ega kõlblust.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-41": {
+      "id": "ps-41",
+      "number": "41",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-41-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus jääda truuks oma arvamustele ja veendumustele. Kedagi ei tohi sundida neid muutma.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-41-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Veendumustega ei saa vabandada õiguserikkumist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-41-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kedagi ei saa veendumuste pärast võtta õiguslikule vastutusele.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-42": {
+      "id": "ps-42",
+      "number": "42",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-42-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi Eesti kodaniku vaba tahte vastaselt koguda ega talletada andmeid tema veendumuste kohta.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-43": {
+      "id": "ps-43",
+      "number": "43",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-43-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus tema poolt või temale posti, telegraafi, telefoni või muul üldkasutataval teel edastatavate sõnumite saladusele. Erandeid võib kohtu loal teha kuriteo tõkestamiseks või kriminaalmenetluses tõe väljaselgitamiseks seadusega sätestatud juhtudel ja korras.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-44": {
+      "id": "ps-44",
+      "number": "44",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-44-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus vabalt saada üldiseks kasutamiseks levitatavat informatsiooni.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-44-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kõik riigiasutused, kohalikud omavalitsused ja nende ametiisikud on kohustatud seaduses sätestatud korras andma Eesti kodanikule tema nõudel informatsiooni oma tegevuse kohta, välja arvatud andmed, mille väljaandmine on seadusega keelatud, ja eranditult asutusesiseseks kasutamiseks mõeldud andmed.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-44-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Eesti kodanikul on õigus seaduses sätestatud korras tutvuda tema kohta riigiasutustes ja kohalikes omavalitsustes ning riigi ja kohalike omavalitsuste arhiivides hoitavate andmetega. Seaduse alusel võib seda õigust piirata teiste inimeste õiguste ja vabaduste ning lapse põlvnemise saladuse kaitseks, samuti kuriteo tõkestamise, kurjategija tabamise või kriminaalmenetluses tõe väljaselgitamise huvides.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-44-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Kui seadus ei sätesta teisiti, siis on käesoleva paragrahvi lõigetes kaks ja kolm nimetatud õigused võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-45": {
+      "id": "ps-45",
+      "number": "45",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-45-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus vabalt levitada ideid, arvamusi, veendumusi ja muud informatsiooni sõnas, trükis, pildis või muul viisil. Seda õigust võib seadus piirata avaliku korra, kõlbluse, teiste inimeste õiguste ja vabaduste, tervise, au ning hea nime kaitseks. Seadus võib seda õigust piirata ka riigi ja kohalike omavalitsuste teenistujatel neile ameti tõttu teatavaks saanud riigi- või ärisaladuse või konfidentsiaalsena saadud informatsiooni ning teiste inimeste perekonna- ja eraelu kaitseks, samuti õigusemõistmise huvides.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-45-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Tsensuuri ei ole.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-46": {
+      "id": "ps-46",
+      "number": "46",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-46-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus pöörduda märgukirjade ja avaldustega riigiasutuste, kohalike omavalitsuste ja nende ametiisikute poole. Vastamise korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-47": {
+      "id": "ps-47",
+      "number": "47",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-47-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kõigil on õigus ilma eelneva loata rahumeelselt koguneda ja koosolekuid pidada. Seda õigust võib seaduses sätestatud juhtudel ja korras piirata riigi julgeoleku, avaliku korra, kõlbluse, liiklusohutuse ja koosolekust osavõtjate ohutuse tagamiseks ning nakkushaiguse leviku tõkestamiseks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-48": {
+      "id": "ps-48",
+      "number": "48",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-48-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus koonduda mittetulundusühingutesse ja -liitudesse. Erakondadesse võivad kuuluda ainult Eesti kodanikud.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-48-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Relvi valdavate, samuti sõjaväeliselt korraldatud või sõjalisi harjutusi harrastavate ühingute ja liitude loomiseks on nõutav eelnev luba, mille andmise tingimused ja korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-48-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Keelatud on ühingud, liidud ja erakonnad, kelle eesmärgid või tegevus on suunatud Eesti põhiseadusliku korra vägivaldsele muutmisele või on muul viisil vastuolus kriminaalvastutust sätestava seadusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-48-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Ainult kohus võib õiguserikkumise eest ühingu, liidu või erakonna tegevuse lõpetada või peatada, samuti teda trahvida.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-49": {
+      "id": "ps-49",
+      "number": "49",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-49-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus säilitada oma rahvuskuuluvus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-50": {
+      "id": "ps-50",
+      "number": "50",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-50-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vähemusrahvustel on õigus luua rahvuskultuuri huvides omavalitsusasutusi vähemusrahvuste kultuurautonoomia seaduses sätestatud tingimustel ja korras.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-51": {
+      "id": "ps-51",
+      "number": "51",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-51-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaühel on õigus pöörduda riigiasutuste, kohalike omavalitsuste ja nende ametiisikute poole eesti keeles ja saada eestikeelseid vastuseid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-51-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Paikkondades, kus vähemalt pooled püsielanikest on vähemusrahvusest, on igaühel õigus saada riigiasutustelt ja kohalikelt omavalitsustelt ning nende ametiisikutelt vastuseid ka selle vähemusrahvuse keeles.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-52": {
+      "id": "ps-52",
+      "number": "52",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-52-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigiasutuste ja kohalike omavalitsuste asjaajamiskeel on eesti keel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-52-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Paikkondades, kus elanike enamiku keel ei ole eesti keel, võivad kohalikud omavalitsused seaduses sätestatud ulatuses ja korras kasutada sisemise asjaajamiskeelena selle paikkonna püsielanike enamiku keelt.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-52-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Võõrkeelte, sealhulgas vähemusrahvuste keelte kasutamise riigiasutuses ning kohtu- ja kohtueelses menetluses sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-53": {
+      "id": "ps-53",
+      "number": "53",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-53-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Igaüks on kohustatud säästma elu- ja looduskeskkonda ning hüvitama kahju, mis ta on keskkonnale tekitanud. Hüvitamise korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-54": {
+      "id": "ps-54",
+      "number": "54",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-54-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti kodaniku kohus on olla ustav põhiseaduslikule korrale ning kaitsta Eesti iseseisvust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-54-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kui muid vahendeid ei leidu, on igal Eesti kodanikul õigus osutada põhiseadusliku korra vägivaldsele muutmisele omaalgatuslikku vastupanu.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-55": {
+      "id": "ps-55",
+      "number": "55",
+      "title": null,
+      "chapter": "ps-ch2",
+      "parts": [
+        {
+          "id": "ps-55-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eestis viibivad teiste riikide kodanikud ja kodakondsuseta isikud on kohustatud järgima Eesti põhiseaduslikku korda.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-56": {
+      "id": "ps-56",
+      "number": "56",
+      "title": null,
+      "chapter": "ps-ch3",
+      "parts": [
+        {
+          "id": "ps-56-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kõrgeimat riigivõimu teostab rahvas hääleõiguslike kodanike kaudu:",
+          "points": [
+            {
+              "id": "ps-56-lg1-p1",
+              "number": "1",
+              "text": "Riigikogu valimisega;",
+              "repealed": false
+            },
+            {
+              "id": "ps-56-lg1-p2",
+              "number": "2",
+              "text": "rahvahääletusega.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-57": {
+      "id": "ps-57",
+      "number": "57",
+      "title": null,
+      "chapter": "ps-ch3",
+      "parts": [
+        {
+          "id": "ps-57-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Hääleõiguslik on Eesti kodanik, kes on saanud kaheksateist aastat vanaks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-57-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Hääleõiguslik ei ole Eesti kodanik, kes on kohtu poolt tunnistatud teovõimetuks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-58": {
+      "id": "ps-58",
+      "number": "58",
+      "title": null,
+      "chapter": "ps-ch3",
+      "parts": [
+        {
+          "id": "ps-58-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Seadusega võib piirata nende Eesti kodanike osavõttu hääletamisest, kes on kohtu poolt süüdi mõistetud ja kannavad karistust kinnipidamiskohtades.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-59": {
+      "id": "ps-59",
+      "number": "59",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-59-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Seadusandlik võim kuulub Riigikogule.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-60": {
+      "id": "ps-60",
+      "number": "60",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-60-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogul on sada üks liiget. Riigikogu liikmed valitakse vabadel valimistel proportsionaalsuse põhimõtte alusel. Valimised on üldised, ühetaolised ja otsesed. Hääletamine on salajane.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-60-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogusse võib kandideerida iga vähemalt kahekümne ühe aastane hääleõiguslik Eesti kodanik.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-60-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riigikogu korralised valimised toimuvad märtsikuu esimesel pühapäeval neljandal aastal, mis järgneb Riigikogu eelmiste valimiste aastale.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-60-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Riigikogu erakorralised valimised toimuvad põhiseaduse §-des 89, 97, 105 ja 119 ettenähtud juhtudel varemalt kakskümmend ja hiljemalt nelikümmend päeva pärast valimiste väljakuulutamist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-60-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Riigikogu valimise korra sätestab Riigikogu valimise seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-61": {
+      "id": "ps-61",
+      "number": "61",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-61-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu liikmete volitused algavad valimistulemuste väljakuulutamise päevast. Samast päevast lõpevad Riigikogu eelmise koosseisu liikmete volitused.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-61-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogu liige annab enne oma kohustuste täitmisele asumist ametivande jääda ustavaks Eesti Vabariigile ja tema põhiseaduslikule korrale.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-62": {
+      "id": "ps-62",
+      "number": "62",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-62-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu liige ei ole seotud mandaadiga ega kanna õiguslikku vastutust hääletamise ja poliitiliste avalduste eest Riigikogus või selle organites.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-63": {
+      "id": "ps-63",
+      "number": "63",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-63-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu liige ei tohi olla üheski muus riigiametis.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-63-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogu liige on oma volituste ajaks vabastatud kaitseväeteenistuse kohustusest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-64": {
+      "id": "ps-64",
+      "number": "64",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-64-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu liikme volitused peatuvad tema nimetamisel Vabariigi Valitsuse liikmeks ja taastuvad tema vabastamisel valitsuse liikme kohustustest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-64-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogu liikme volitused lõpevad enne tähtaega:",
+          "points": [
+            {
+              "id": "ps-64-lg2-p1",
+              "number": "1",
+              "text": "tema asumisega mõnda teise riigiametisse;",
+              "repealed": false
+            },
+            {
+              "id": "ps-64-lg2-p2",
+              "number": "2",
+              "text": "teda süüdi mõistva kohtuotsuse jõustumisel;",
+              "repealed": false
+            },
+            {
+              "id": "ps-64-lg2-p3",
+              "number": "3",
+              "text": "tema tagasiastumisega seaduses sätestatud korras;",
+              "repealed": false
+            },
+            {
+              "id": "ps-64-lg2-p4",
+              "number": "4",
+              "text": "kui Riigikohus on otsustanud, et ta on kestvalt võimetu oma ülesandeid täitma;",
+              "repealed": false
+            },
+            {
+              "id": "ps-64-lg2-p5",
+              "number": "5",
+              "text": "tema surma korral.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "ps-64-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riigikogu liikme volituste peatumisel või ennetähtaegsel lõppemisel astub seaduses sätestatud korras tema asemele asendusliige. Asendusliikmel on kõik Riigikogu liikme õigused ja kohustused.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-64-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Riigikogu liikme volituste taastumisel lõpevad asendusliikme volitused.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-65": {
+      "id": "ps-65",
+      "number": "65",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-65-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu:",
+          "points": [
+            {
+              "id": "ps-65-lg1-p1",
+              "number": "1",
+              "text": "võtab vastu seadusi ja otsuseid;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p2",
+              "number": "2",
+              "text": "otsustab rahvahääletuse korraldamise;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p3",
+              "number": "3",
+              "text": "valib Vabariigi Presidendi vastavalt põhiseaduse §-le 79;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p4",
+              "number": "4",
+              "text": "ratifitseerib ja denonsseerib välislepinguid vastavalt põhiseaduse §-le 121;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p5",
+              "number": "5",
+              "text": "annab peaministrikandidaadile volitused Vabariigi Valitsuse moodustamiseks;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p6",
+              "number": "6",
+              "text": "võtab vastu riigieelarve ja kinnitab selle täitmise aruande;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p7",
+              "number": "7",
+              "text": "nimetab Vabariigi Presidendi ettepanekul ametisse Riigikohtu esimehe, Eesti Panga nõukogu esimehe, riigikontrolöri ja õiguskantsleri;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p8",
+              "number": "8",
+              "text": "nimetab Riigikohtu esimehe ettepanekul ametisse Riigikohtu liikmed;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p9",
+              "number": "9",
+              "text": "nimetab Eesti Panga nõukogu liikmed;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p10",
+              "number": "10",
+              "text": "otsustab Vabariigi Valitsuse ettepanekul riigilaenude tegemise ja riigile muude varaliste kohustuste võtmise;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p11",
+              "number": "11",
+              "text": "esineb avalduste ja deklaratsioonidega ning pöördumistega Eesti rahva, teiste riikide ning rahvusvaheliste organisatsioonide poole;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p12",
+              "number": "12",
+              "text": "kehtestab riiklikud autasud, sõjaväelised ja diplomaatilised auastmed;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p13",
+              "number": "13",
+              "text": "otsustab umbusalduse avaldamise Vabariigi Valitsusele, peaministrile või ministrile;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p14",
+              "number": "14",
+              "text": "kuulutab riigis välja erakorralise seisukorra vastavalt põhiseaduse §-le 129;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p15",
+              "number": "15",
+              "text": "kuulutab Vabariigi Presidendi ettepanekul välja sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni;",
+              "repealed": false
+            },
+            {
+              "id": "ps-65-lg1-p16",
+              "number": "16",
+              "text": "lahendab muid riigielu küsimusi, mis ei ole põhiseadusega antud Vabariigi Presidendi, Vabariigi Valitsuse, teiste riigiorganite või kohalike omavalitsuste otsustada.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-66": {
+      "id": "ps-66",
+      "number": "66",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-66-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu uue koosseisu esimene istung toimub kümne päeva jooksul arvates Riigikogu valimise tulemuste väljakuulutamisest. Esimeseks istungiks kutsub Riigikogu kokku Vabariigi President.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-67": {
+      "id": "ps-67",
+      "number": "67",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-67-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu korralised istungjärgud toimuvad jaanuarikuu teisest esmaspäevast juunikuu kolmanda neljapäevani ning septembrikuu teisest esmaspäevast detsembrikuu kolmanda neljapäevani.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-68": {
+      "id": "ps-68",
+      "number": "68",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-68-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu erakorralised istungjärgud kutsub kokku Riigikogu esimees Vabariigi Presidendi, Vabariigi Valitsuse või vähemalt viiendiku Riigikogu koosseisu ettepanekul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-69": {
+      "id": "ps-69",
+      "number": "69",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-69-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu valib oma liikmete hulgast Riigikogu esimehe ja kaks aseesimeest, kes korraldavad Riigikogu tööd vastavalt Riigikogu kodukorra seadusele ja Riigikogu töökorra seadusele.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-70": {
+      "id": "ps-70",
+      "number": "70",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-70-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu otsustusvõimelisuse sätestab Riigikogu kodukorra seadus. Erakorralisel istungjärgul on Riigikogu otsustusvõimeline, kui kohal on üle poole Riigikogu koosseisust.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-71": {
+      "id": "ps-71",
+      "number": "71",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-71-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu moodustab komisjone.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-71-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogu liikmetel on õigus ühineda fraktsioonidesse.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-71-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Komisjonide ja fraktsioonide moodustamise korra ning õigused sätestab Riigikogu kodukorra seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-72": {
+      "id": "ps-72",
+      "number": "72",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-72-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu istungid on avalikud, kui Riigikogu ei otsusta kahekolmandikulise häälteenamusega teisiti.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-72-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Hääletamine Riigikogus on avalik. Salajast hääletamist korraldatakse põhiseaduses või Riigikogu kodukorra seaduses ettenähtud juhtudel ainult ametiisikute valimisel või nimetamisel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-73": {
+      "id": "ps-73",
+      "number": "73",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-73-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu aktid võetakse vastu poolthäälte enamusega, kui põhiseadus ei näe ette teisiti.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-74": {
+      "id": "ps-74",
+      "number": "74",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-74-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu liikmel on õigus pöörduda arupärimisega Vabariigi Valitsuse ja tema liikmete, Eesti Panga nõukogu esimehe, Eesti Panga presidendi, riigikontrolöri ja õiguskantsleri poole.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-74-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Arupärimisele tuleb vastata Riigikogu istungil kahekümne istungipäeva jooksul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-75": {
+      "id": "ps-75",
+      "number": "75",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-75-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu liikme tasu ning piirangud muu töötulu saamisel sätestab seadus, mida tohib muuta Riigikogu järgmise koosseisu kohta.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-76": {
+      "id": "ps-76",
+      "number": "76",
+      "title": null,
+      "chapter": "ps-ch4",
+      "parts": [
+        {
+          "id": "ps-76-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu liige on puutumatu. Teda saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-77": {
+      "id": "ps-77",
+      "number": "77",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-77-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi President on Eesti riigipea.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-78": {
+      "id": "ps-78",
+      "number": "78",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-78-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi President:",
+          "points": [
+            {
+              "id": "ps-78-lg1-p1",
+              "number": "1",
+              "text": "esindab Eesti Vabariiki rahvusvahelises suhtlemises;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p2",
+              "number": "2",
+              "text": "nimetab ja kutsub tagasi Vabariigi Valitsuse ettepanekul Eesti Vabariigi diplomaatilised esindajad ning võtab vastu Eestisse akrediteeritud diplomaatiliste esindajate volikirjad;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p3",
+              "number": "3",
+              "text": "kuulutab välja Riigikogu korralised valimised ja vastavalt põhiseaduse §-dele 89, 97, 105 ja 119 Riigikogu erakorralised valimised;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p4",
+              "number": "4",
+              "text": "kutsub kokku Riigikogu uue koosseisu vastavalt põhiseaduse §-le 66 ja avab selle esimese istungi;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p5",
+              "number": "5",
+              "text": "teeb Riigikogu esimehele ettepaneku Riigikogu erakorralise istungjärgu kokkukutsumiseks vastavalt põhiseaduse §-le 68;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p6",
+              "number": "6",
+              "text": "kuulutab välja seadused vastavalt põhiseaduse §-dele 105 ja 107 ning kirjutab alla ratifitseerimiskirjadele;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p7",
+              "number": "7",
+              "text": "annab seadlusi vastavalt põhiseaduse §-dele 109 ja 110;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p8",
+              "number": "8",
+              "text": "algatab põhiseaduse muutmist;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p9",
+              "number": "9",
+              "text": "määrab peaministrikandidaadi vastavalt põhiseaduse §-le 89;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p10",
+              "number": "10",
+              "text": "nimetab ametisse ja vabastab ametist valitsuse liikmed vastavalt põhiseaduse §-dele 89, 90 ja 92;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p11",
+              "number": "11",
+              "text": "teeb Riigikogule ettepaneku Riigikohtu esimehe, Eesti Panga nõukogu esimehe, riigikontrolöri ja õiguskantsleri ametissenimetamiseks;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p12",
+              "number": "12",
+              "text": "nimetab Eesti Panga nõukogu ettepanekul ametisse Eesti Panga presidendi;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p13",
+              "number": "13",
+              "text": "nimetab Riigikohtu ettepanekul kohtunikud;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p14",
+              "number": "14",
+              "text": "",
+              "repealed": true
+            },
+            {
+              "id": "ps-78-lg1-p15",
+              "number": "15",
+              "text": "annab riiklikke autasusid, sõjaväelisi ja diplomaatilisi auastmeid;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p16",
+              "number": "16",
+              "text": "on Eesti riigikaitse kõrgeim juht;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p17",
+              "number": "17",
+              "text": "teeb Riigikogule ettepanekud sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ning vastavalt põhiseaduse §-le 129 erakorralise seisukorra väljakuulutamiseks;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p18",
+              "number": "18",
+              "text": "kuulutab Eesti vastu suunatud agressiooni korral välja sõjaseisukorra ja mobilisatsiooni vastavalt põhiseaduse §-le 128;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p19",
+              "number": "19",
+              "text": "vabastab süüdimõistetuid nende palvel armuandmise korras karistuse kandmisest või kergendab karistust;",
+              "repealed": false
+            },
+            {
+              "id": "ps-78-lg1-p20",
+              "number": "20",
+              "text": "algatab õiguskantsleri kriminaalvastutusele võtmise vastavalt põhiseaduse §-le 145.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-79": {
+      "id": "ps-79",
+      "number": "79",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-79-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Presidendi valib Riigikogu või käesoleva paragrahvi neljandas lõikes sätestatud juhul valimiskogu.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-79-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Vabariigi Presidendi kandidaadi ülesseadmise õigus on vähemalt viiendikul Riigikogu koosseisust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-79-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Vabariigi Presidendi kandidaadiks võib seada sünnilt Eesti kodaniku, kes on vähemalt nelikümmend aastat vana.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-79-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Vabariigi President valitakse salajasel hääletusel. Igal Riigikogu liikmel on üks hääl. Valituks tunnistatakse kandidaat, kelle poolt hääletab Riigikogu koosseisu kahekolmandikuline enamus. Kui ükski kandidaat ei saa nõutavat häälteenamust, siis korraldatakse järgmisel päeval uus hääletusvoor. Enne teist hääletusvooru toimub uus kandidaatide ülesseadmine. Kui teises hääletusvoorus ei saa ükski kandidaat nõutavat häälteenamust, siis korraldatakse kahe teises voorus enim hääli saanud kandidaadi vahel samal päeval kolmas hääletusvoor. Kui Vabariigi Presidenti ei valita ka kolmandas hääletusvoorus, kutsub Riigikogu esimees ühe kuu jooksul Vabariigi Presidendi valimiseks kokku valimiskogu.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-79-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Valimiskogu koosneb Riigikogu liikmetest ja kohalike omavalitsuste volikogude esindajatest. Iga kohaliku omavalitsuse volikogu valib valimiskogusse vähemalt ühe esindaja, kes peab olema Eesti kodanik.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-79-lg6",
+          "number": "6",
+          "label": null,
+          "text": "Riigikogu esitab valimiskogule presidendikandidaadiks kaks Riigikogus enim hääli saanud kandidaati. Presidendikandidaadi ülesseadmise õigus on ka vähemalt kahekümne ühel valimiskogu liikmel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-79-lg7",
+          "number": "7",
+          "label": null,
+          "text": "Valimiskogu valib Vabariigi Presidendi hääletamisest osavõtnud valimiskogu liikmete häälteenamusega. Kui esimeses voorus ükski kandidaat ei osutu valituks, korraldatakse samal päeval kahe enim hääli saanud kandidaadi vahel teine hääletusvoor.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-79-lg8",
+          "number": "8",
+          "label": null,
+          "text": "Vabariigi Presidendi valimise täpsema korra sätestab Vabariigi Presidendi valimise seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-80": {
+      "id": "ps-80",
+      "number": "80",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-80-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi President valitakse ametisse viieks aastaks. Kedagi ei tohi valida Vabariigi Presidendiks rohkem kui kaheks ametiajaks järjestikku.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-80-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Vabariigi Presidendi korralised valimised toimuvad varemalt kuuskümmend ja hiljemalt kümme päeva enne Vabariigi Presidendi ametiaja lõppemist.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-81": {
+      "id": "ps-81",
+      "number": "81",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-81-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi President astub ametisse järgmise ametivande andmisega Eesti rahvale Riigikogu ees: \"Astudes Vabariigi Presidendi ametisse, annan mina, (ees- ja perekonnanimi), pühaliku tõotuse kaitsta vankumata Eesti Vabariigi põhiseadust ja seadusi, õiglaselt ja erapooletult kasutada minule antud võimu ning täita ustavalt oma kohuseid kõigi oma võimete ja parima arusaamisega Eesti rahva ja Vabariigi kasuks.\"",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-82": {
+      "id": "ps-82",
+      "number": "82",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-82-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Presidendi volitused lõpevad:",
+          "points": [
+            {
+              "id": "ps-82-lg1-p1",
+              "number": "1",
+              "text": "ametist tagasiastumisega;",
+              "repealed": false
+            },
+            {
+              "id": "ps-82-lg1-p2",
+              "number": "2",
+              "text": "teda süüdi mõistva kohtuotsuse jõustumisega;",
+              "repealed": false
+            },
+            {
+              "id": "ps-82-lg1-p3",
+              "number": "3",
+              "text": "tema surma korral;",
+              "repealed": false
+            },
+            {
+              "id": "ps-82-lg1-p4",
+              "number": "4",
+              "text": "uue Vabariigi Presidendi ametisseastumisega.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-83": {
+      "id": "ps-83",
+      "number": "83",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-83-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kui Vabariigi President on Riigikohtu otsusel kestvalt võimetu oma ülesandeid täitma või ei saa ta neid seaduses nimetatud juhtudel ajutiselt täita või on tema volitused enne tähtaega lõppenud, lähevad tema ülesanded ajutiselt üle Riigikogu esimehele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-83-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Ajaks, mil Riigikogu esimees täidab Vabariigi Presidendi ülesandeid, peatuvad tema volitused Riigikogu liikmena.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-83-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riigikogu esimehel Vabariigi Presidendi ülesannetes ei ole õigust Riigikohtu nõusolekuta välja kuulutada Riigikogu erakorralisi valimisi ega keelduda seadusi välja kuulutamast.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-83-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Kui Vabariigi President ei saa oma ametikohustusi täita üle kolme kuu järjest või kui tema volitused on enne tähtaega lõppenud, valib Riigikogu neljateistkümne päeva jooksul uue Vabariigi Presidendi vastavalt põhiseaduse §-le 79.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-84": {
+      "id": "ps-84",
+      "number": "84",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-84-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Ametisseastumisega lõpevad Vabariigi Presidendi volitused ja ülesanded kõigis valitavates ja nimetatavates ametites ning ta peatab ametisoleku ajaks oma erakondliku kuuluvuse.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-85": {
+      "id": "ps-85",
+      "number": "85",
+      "title": null,
+      "chapter": "ps-ch5",
+      "parts": [
+        {
+          "id": "ps-85-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Presidenti saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-86": {
+      "id": "ps-86",
+      "number": "86",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-86-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Täidesaatev riigivõim kuulub Vabariigi Valitsusele.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-87": {
+      "id": "ps-87",
+      "number": "87",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-87-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsus:",
+          "points": [
+            {
+              "id": "ps-87-lg1-p1",
+              "number": "1",
+              "text": "viib ellu riigi sise- ja välispoliitikat;",
+              "repealed": false
+            },
+            {
+              "id": "ps-87-lg1-p2",
+              "number": "2",
+              "text": "suunab ja koordineerib valitsusasutuste tegevust;",
+              "repealed": false
+            },
+            {
+              "id": "ps-87-lg1-p3",
+              "number": "3",
+              "text": "korraldab seaduste, Riigikogu otsuste ja Vabariigi Presidendi aktide täitmist;",
+              "repealed": false
+            },
+            {
+              "id": "ps-87-lg1-p4",
+              "number": "4",
+              "text": "esitab Riigikogule seaduseelnõusid ning ratifitseerimiseks ja denonsseerimiseks välislepinguid;",
+              "repealed": false
+            },
+            {
+              "id": "ps-87-lg1-p5",
+              "number": "5",
+              "text": "koostab riigieelarve eelnõu ja esitab selle Riigikogule, korraldab riigieelarve täitmist ning esitab Riigikogule riigieelarve täitmise aruande;",
+              "repealed": false
+            },
+            {
+              "id": "ps-87-lg1-p6",
+              "number": "6",
+              "text": "annab seaduse alusel ja täitmiseks määrusi ja korraldusi;",
+              "repealed": false
+            },
+            {
+              "id": "ps-87-lg1-p7",
+              "number": "7",
+              "text": "korraldab suhtlemist teiste riikidega;",
+              "repealed": false
+            },
+            {
+              "id": "ps-87-lg1-p8",
+              "number": "8",
+              "text": "kuulutab loodusõnnetuse ja katastroofi korral või nakkushaiguse leviku tõkestamiseks välja eriolukorra riigis või selle osas;",
+              "repealed": false
+            },
+            {
+              "id": "ps-87-lg1-p9",
+              "number": "9",
+              "text": "täidab muid ülesandeid, mis põhiseaduse ja seadustega on antud Vabariigi Valitsuse otsustada.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-88": {
+      "id": "ps-88",
+      "number": "88",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-88-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsusse kuuluvad peaminister ja ministrid.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-89": {
+      "id": "ps-89",
+      "number": "89",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-89-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi President määrab neljateistkümne päeva jooksul Vabariigi Valitsuse tagasiastumisest peaministrikandidaadi, kellele teeb ülesandeks uue valitsuse moodustamise.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-89-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Peaministrikandidaat esitab neljateistkümne päeva jooksul, arvates valitsuse moodustamise ülesande saamisest, Riigikogule ettekande tulevase valitsuse moodustamise aluste kohta, mille järel Riigikogu otsustab läbirääkimisteta avalikul hääletusel peaministrikandidaadile volituste andmise valitsuse moodustamiseks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-89-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riigikogult valitsuse moodustamiseks volitused saanud peaministrikandidaat esitab seitsme päeva jooksul valitsuse koosseisu Vabariigi Presidendile, kes nimetab kolme päeva jooksul valitsuse ametisse.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-89-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Kui Vabariigi Presidendi määratud peaministrikandidaat ei saa Riigikogu poolthäälte enamust või ei suuda valitsust moodustada või loobub selle moodustamisest, on Vabariigi Presidendil õigus seitsme päeva jooksul esitada teine peaministrikandidaat.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-89-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Kui Vabariigi President ei esita seitsme päeva jooksul teist peaministrikandidaati või loobub selle esitamisest või kui teine kandidaat käesoleva paragrahvi lõigete kaks ja kolm tingimustel ja tähtaegadel ei saa Riigikogult volitusi või ei suuda valitsust moodustada või loobub selle moodustamisest, läheb peaministrikandidaadi ülesseadmise õigus üle Riigikogule.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-89-lg6",
+          "number": "6",
+          "label": null,
+          "text": "Riigikogu seab üles peaministrikandidaadi, kes esitab valitsuse koosseisu Vabariigi Presidendile. Kui neljateistkümne päeva jooksul, arvates peaministrikandidaadi ülesseadmise õiguse üleminekust Riigikogule, on valitsuse koosseis Vabariigi Presidendile esitamata, kuulutab Vabariigi President välja Riigikogu erakorralised valimised.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-90": {
+      "id": "ps-90",
+      "number": "90",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-90-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Muudatusi ametisse nimetatud Vabariigi Valitsuse koosseisus teeb Vabariigi President peaministri ettepanekul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-91": {
+      "id": "ps-91",
+      "number": "91",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-91-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Valitsus astub ametisse ametivande andmisega Riigikogu ees.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-92": {
+      "id": "ps-92",
+      "number": "92",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-92-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsus astub tagasi:",
+          "points": [
+            {
+              "id": "ps-92-lg1-p1",
+              "number": "1",
+              "text": "Riigikogu uue koosseisu kokkuastumisel;",
+              "repealed": false
+            },
+            {
+              "id": "ps-92-lg1-p2",
+              "number": "2",
+              "text": "peaministri tagasiastumise või surma korral;",
+              "repealed": false
+            },
+            {
+              "id": "ps-92-lg1-p3",
+              "number": "3",
+              "text": "kui Riigikogu avaldab Vabariigi Valitsusele või peaministrile umbusaldust.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "ps-92-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Vabariigi President vabastab Vabariigi Valitsuse ametist uue valitsuse ametisseastumisel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-93": {
+      "id": "ps-93",
+      "number": "93",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-93-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Peaminister esindab Vabariigi Valitsust ja juhib selle tegevust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-93-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Peaminister nimetab kaks ministrit, kellel on õigus asendada peaministrit tema äraolekul. Asendamise korra määrab peaminister.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-94": {
+      "id": "ps-94",
+      "number": "94",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-94-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Valitsemisalade korraldamiseks moodustatakse seaduse alusel vastavad ministeeriumid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-94-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Minister juhib ministeeriumi, korraldab ministeeriumi valitsemisalasse kuuluvaid küsimusi, annab seaduse alusel ja täitmiseks määrusi ja käskkirju ning täidab muid ülesandeid, mis talle on pandud seadusega sätestatud alustel ja korras.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-94-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kui minister ei saa haiguse või muude takistuste tõttu ajutiselt oma ülesandeid täita, paneb peaminister tema ülesanded selleks ajaks mõnele teisele ministrile.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-94-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Vabariigi President võib peaministri ettepanekul nimetada ametisse ministreid, kes ei juhi ministeeriumi.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-95": {
+      "id": "ps-95",
+      "number": "95",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-95-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsuse juures on riigikantselei, mida juhib riigisekretär.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-95-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigisekretäri nimetab ametisse ja vabastab ametist peaminister.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-95-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riigisekretär võtab sõnaõigusega osa valitsuse istungitest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-95-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Riigisekretäril on riigikantselei juhina samad õigused, mis on seadusega antud ministrile ministeeriumi juhtimisel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-96": {
+      "id": "ps-96",
+      "number": "96",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-96-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsuse istungid on kinnised, kui valitsus ei otsusta teisiti.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-96-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Valitsus teeb oma otsused peaministri või asjaomase ministri ettepanekul.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-96-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Valitsuse määrused kehtivad, kui nad kannavad peaministri, asjaomase ministri ja riigisekretäri allkirja.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-97": {
+      "id": "ps-97",
+      "number": "97",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-97-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu võib avaldada Vabariigi Valitsusele, peaministrile või ministrile umbusaldust otsusega, mille poolt hääletab Riigikogu koosseisu enamus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-97-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Umbusalduse avaldamise võib algatada vähemalt viiendik Riigikogu koosseisust kirjaliku nõude esitamisega Riigikogu istungil.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-97-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Umbusalduse avaldamine võib tulla otsustamisele kõige varem ülejärgmisel päeval pärast selle algatamist, kui valitsus ei nõua kiiremat otsustamist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-97-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Valitsusele või peaministrile umbusalduse avaldamise korral võib Vabariigi President kolme päeva jooksul valitsuse ettepanekul välja kuulutada Riigikogu erakorralised valimised.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-97-lg5",
+          "number": "5",
+          "label": null,
+          "text": "Ministrile umbusalduse avaldamise korral teatab Riigikogu esimees sellest Vabariigi Presidendile, kes vabastab ministri ametist.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-97-lg6",
+          "number": "6",
+          "label": null,
+          "text": "Umbusalduse avaldamist võib samal alusel uuesti algatada kõige varem kolme kuu möödumisel eelmisest umbusaldushääletamisest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-98": {
+      "id": "ps-98",
+      "number": "98",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-98-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsus võib siduda tema poolt Riigikogule esitatud eelnõu vastuvõtmise usaldusküsimusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-98-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Hääletamine ei saa toimuda varem kui ülejärgmisel päeval pärast eelnõu sidumist usaldusküsimusega. Kui Riigikogu ei võta eelnõu vastu, astub valitsus tagasi.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-99": {
+      "id": "ps-99",
+      "number": "99",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-99-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsuse liikmed ei tohi olla üheski muus riigiametis ega kuuluda tulundusettevõtte juhatusse või nõukogusse.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-100": {
+      "id": "ps-100",
+      "number": "100",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-100-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsuse liikmed võivad sõnaõigusega osaleda Riigikogu ja tema komisjonide istungitel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-101": {
+      "id": "ps-101",
+      "number": "101",
+      "title": null,
+      "chapter": "ps-ch6",
+      "parts": [
+        {
+          "id": "ps-101-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Valitsuse liiget saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-101-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Valitsuse liiget süüdi mõistva kohtuotsuse jõustumisega lõpevad tema volitused.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-102": {
+      "id": "ps-102",
+      "number": "102",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-102-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Seadusi võetakse vastu kooskõlas põhiseadusega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-103": {
+      "id": "ps-103",
+      "number": "103",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-103-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Seaduste algatamise õigus on:",
+          "points": [
+            {
+              "id": "ps-103-lg1-p1",
+              "number": "1",
+              "text": "Riigikogu liikmel;",
+              "repealed": false
+            },
+            {
+              "id": "ps-103-lg1-p2",
+              "number": "2",
+              "text": "Riigikogu fraktsioonil;",
+              "repealed": false
+            },
+            {
+              "id": "ps-103-lg1-p3",
+              "number": "3",
+              "text": "Riigikogu komisjonil;",
+              "repealed": false
+            },
+            {
+              "id": "ps-103-lg1-p4",
+              "number": "4",
+              "text": "Vabariigi Valitsusel;",
+              "repealed": false
+            },
+            {
+              "id": "ps-103-lg1-p5",
+              "number": "5",
+              "text": "Vabariigi Presidendil põhiseaduse muutmiseks.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "ps-103-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogul on õigus koosseisu häälteenamusega tehtud otsuse alusel pöörduda Vabariigi Valitsuse poole ettepanekuga algatada Riigikogu poolt soovitav eelnõu.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-104": {
+      "id": "ps-104",
+      "number": "104",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-104-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Seaduste vastuvõtmise korra sätestab Riigikogu kodukorra seadus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-104-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Ainult Riigikogu koosseisu häälteenamusega saab vastu võtta ja muuta järgmisi seadusi:",
+          "points": [
+            {
+              "id": "ps-104-lg2-p1",
+              "number": "1",
+              "text": "kodakondsuse seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p2",
+              "number": "2",
+              "text": "Riigikogu valimise seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p3",
+              "number": "3",
+              "text": "Vabariigi Presidendi valimise seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p4",
+              "number": "4",
+              "text": "kohaliku omavalitsuse valimise seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p5",
+              "number": "5",
+              "text": "rahvahääletuse seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p6",
+              "number": "6",
+              "text": "Riigikogu kodukorra seadus ja Riigikogu töökorra seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p7",
+              "number": "7",
+              "text": "Vabariigi Presidendi ja Riigikogu liikmete tasu seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p8",
+              "number": "8",
+              "text": "Vabariigi Valitsuse seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p9",
+              "number": "9",
+              "text": "Vabariigi Presidendi ja Vabariigi Valitsuse liikmete kohtulikule vastutusele võtmise seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p10",
+              "number": "10",
+              "text": "vähemusrahvuste kultuurautonoomia seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p11",
+              "number": "11",
+              "text": "riigieelarve seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p12",
+              "number": "12",
+              "text": "Eesti Panga seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p13",
+              "number": "13",
+              "text": "riigikontrolli seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p14",
+              "number": "14",
+              "text": "kohtukorralduse seadus ja kohtumenetluse seadused;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p15",
+              "number": "15",
+              "text": "välis- ja siselaenudesse ning riigi varalistesse kohustustesse puutuvad seadused;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p16",
+              "number": "16",
+              "text": "erakorralise seisukorra seadus;",
+              "repealed": false
+            },
+            {
+              "id": "ps-104-lg2-p17",
+              "number": "17",
+              "text": "rahuaja riigikaitse seadus ja sõjaaja riigikaitse seadus.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-105": {
+      "id": "ps-105",
+      "number": "105",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-105-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogul on õigus panna seaduseelnõu või muu riigielu küsimus rahvahääletusele.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-105-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Rahva otsus tehakse hääletamisest osavõtnute häälteenamusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-105-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Rahvahääletusel vastuvõetud seaduse kuulutab Vabariigi President viivitamatult välja. Rahvahääletuse otsus on riigiorganitele kohustuslik.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-105-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Kui rahvahääletusele pandud seaduseelnõu ei saa poolthäälte enamust, kuulutab Vabariigi President välja Riigikogu erakorralised valimised.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-106": {
+      "id": "ps-106",
+      "number": "106",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-106-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Rahvahääletusele ei saa panna eelarve, maksude, riigi rahaliste kohustuste, välislepingute ratifitseerimise ja denonsseerimise, erakorralise seisukorra kehtestamise ja lõpetamise ning riigikaitse küsimusi.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-106-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Rahvahääletuse korra sätestab rahvahääletuse seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-107": {
+      "id": "ps-107",
+      "number": "107",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-107-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Seadused kuulutab välja Vabariigi President.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-107-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Vabariigi President võib jätta Riigikogu poolt vastuvõetud seaduse välja kuulutamata ja saata selle koos motiveeritud otsusega neljateistkümne päeva jooksul, arvates saamise päevast, Riigikogule uueks arutamiseks ja otsustamiseks. Kui Riigikogu võtab Vabariigi Presidendi poolt tagasi saadetud seaduse muutmata kujul uuesti vastu, kuulutab Vabariigi President seaduse välja või pöördub Riigikohtu poole ettepanekuga tunnistada seadus põhiseadusega vastuolus olevaks. Kui Riigikohus tunnistab seaduse põhiseadusega kooskõlas olevaks, kuulutab Vabariigi President seaduse välja.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-108": {
+      "id": "ps-108",
+      "number": "108",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-108-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Seadus jõustub kümnendal päeval pärast Riigi Teatajas avaldamist, kui seaduses eneses ei sätestata teist tähtaega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-109": {
+      "id": "ps-109",
+      "number": "109",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-109-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kui Riigikogu ei saa kokku tulla, võib Vabariigi President edasilükkamatute riiklike vajaduste korral anda seaduse jõuga seadlusi, mis kannavad Riigikogu esimehe ja peaministri kaasallkirja.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-109-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kui Riigikogu on kokku tulnud, esitab Vabariigi President seadlused Riigikogule, kes võtab viivitamatult vastu nende kinnitamise või tühistamise seaduse.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-110": {
+      "id": "ps-110",
+      "number": "110",
+      "title": null,
+      "chapter": "ps-ch7",
+      "parts": [
+        {
+          "id": "ps-110-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Vabariigi Presidendi seadlusega ei saa kehtestada, muuta ega tühistada põhiseadust ega põhiseaduse §-s 104 loetletud seadusi, riiklikke makse kehtestavaid seadusi ega riigieelarvet.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-111": {
+      "id": "ps-111",
+      "number": "111",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-111-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti raha emissiooni ainuõigus on Eesti Pangal. Eesti Pank korraldab raharinglust ja seisab hea riigi vääringu stabiilsuse eest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-112": {
+      "id": "ps-112",
+      "number": "112",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-112-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti Pank tegutseb seaduse alusel ja annab aru Riigikogule.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-113": {
+      "id": "ps-113",
+      "number": "113",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-113-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riiklikud maksud, koormised, lõivud, trahvid ja sundkindlustuse maksed sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-114": {
+      "id": "ps-114",
+      "number": "114",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-114-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigi vara valdamise, kasutamise ja käsutamise korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-115": {
+      "id": "ps-115",
+      "number": "115",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-115-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Iga aasta kohta võtab Riigikogu seadusena vastu riigi kõigi tulude ja kulude eelarve.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-115-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Vabariigi Valitsus esitab riigieelarve eelnõu Riigikogule hiljemalt kolm kuud enne eelarveaasta algust.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-115-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Valitsuse ettepanekul võib Riigikogu eelarveaasta kestel vastu võtta lisaeelarve.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-116": {
+      "id": "ps-116",
+      "number": "116",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-116-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigieelarve või selle eelnõu muutmise ettepanekule, mis tingib nendes ettenähtud tulude vähendamise, kulude suurendamise või kulude ümberjaotamise, tuleb algatajal lisada rahalised arvestused, mis näitavad ära kulude katteks vajalikud tuluallikad.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-116-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogu ei tohi kustutada ega vähendada riigieelarvesse või selle eelnõusse võetud kulusid, mis on ette nähtud muude seadustega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-117": {
+      "id": "ps-117",
+      "number": "117",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-117-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigieelarve koostamise ja vastuvõtmise korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-118": {
+      "id": "ps-118",
+      "number": "118",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-118-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu poolt vastuvõetud riigieelarve jõustub eelarveaasta algusest. Kui Riigikogu ei võta riigieelarvet eelarveaasta alguseks vastu, võib iga kuu teha kulutusi ühe kaheteistkümnendikuni eelmise eelarveaasta kulutustest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-119": {
+      "id": "ps-119",
+      "number": "119",
+      "title": null,
+      "chapter": "ps-ch8",
+      "parts": [
+        {
+          "id": "ps-119-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kui Riigikogu ei ole riigieelarvet vastu võtnud kahe kuu jooksul pärast eelarveaasta algust, kuulutab Vabariigi President välja Riigikogu erakorralised valimised.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-120": {
+      "id": "ps-120",
+      "number": "120",
+      "title": null,
+      "chapter": "ps-ch9",
+      "parts": [
+        {
+          "id": "ps-120-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti Vabariigi suhtlemise korra teiste riikide ja rahvusvaheliste organisatsioonidega sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-121": {
+      "id": "ps-121",
+      "number": "121",
+      "title": null,
+      "chapter": "ps-ch9",
+      "parts": [
+        {
+          "id": "ps-121-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu ratifitseerib ja denonsseerib Eesti Vabariigi lepingud:",
+          "points": [
+            {
+              "id": "ps-121-lg1-p1",
+              "number": "1",
+              "text": "mis muudavad riigipiire;",
+              "repealed": false
+            },
+            {
+              "id": "ps-121-lg1-p2",
+              "number": "2",
+              "text": "mille rakendamiseks on tarvis Eesti seaduste vastuvõtmist, muutmist või tühistamist;",
+              "repealed": false
+            },
+            {
+              "id": "ps-121-lg1-p3",
+              "number": "3",
+              "text": "mille kohaselt Eesti Vabariik ühineb rahvusvaheliste organisatsioonide või liitudega;",
+              "repealed": false
+            },
+            {
+              "id": "ps-121-lg1-p4",
+              "number": "4",
+              "text": "millega Eesti Vabariik võtab endale sõjalisi või varalisi kohustusi;",
+              "repealed": false
+            },
+            {
+              "id": "ps-121-lg1-p5",
+              "number": "5",
+              "text": "milles ratifitseerimine on ette nähtud.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-122": {
+      "id": "ps-122",
+      "number": "122",
+      "title": null,
+      "chapter": "ps-ch9",
+      "parts": [
+        {
+          "id": "ps-122-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti maismaapiir on määratud 1920. aasta 2. veebruari Tartu rahulepinguga ja teiste riikidevaheliste piirilepingutega. Eesti mere- ja õhupiir määratakse rahvusvaheliste konventsioonide alusel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-122-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Eesti riigipiire muutvate lepingute ratifitseerimiseks on nõutav Riigikogu koosseisu kahekolmandikuline häälteenamus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-123": {
+      "id": "ps-123",
+      "number": "123",
+      "title": null,
+      "chapter": "ps-ch9",
+      "parts": [
+        {
+          "id": "ps-123-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti Vabariik ei sõlmi välislepinguid, mis on vastuolus põhiseadusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-123-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kui Eesti seadused või muud aktid on vastuolus Riigikogu poolt ratifitseeritud välislepingutega, kohaldatakse välislepingu sätteid.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-124": {
+      "id": "ps-124",
+      "number": "124",
+      "title": null,
+      "chapter": "ps-ch10",
+      "parts": [
+        {
+          "id": "ps-124-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti kodanikud on kohustatud osa võtma riigikaitsest seaduse sätestatud alustel ja korras.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-124-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Usulistel või kõlbelistel põhjustel kaitseväeteenistusest keelduja on kohustatud läbi tegema asendusteenistuse seaduses ettenähtud korras.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-124-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kui seadus ei näe teenistuse erilaadi huvides ette teisiti, on kaitseväes ja asendusteenistuses olevatel isikutel kõik põhiseaduslikud õigused, vabadused ja kohustused. Piirata ei tohi põhiseaduse §-des 8 lõiked 3 ja 4, 11-18, 20 lõige 3, 21-28, 32, 33, 36-43, 44 lõiked 1 ja 2 ning 49-51 ettenähtud õigusi ja vabadusi. Kaitseväes ja asendusteenistuses olevate isikute õigusliku seisundi sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-125": {
+      "id": "ps-125",
+      "number": "125",
+      "title": null,
+      "chapter": "ps-ch10",
+      "parts": [
+        {
+          "id": "ps-125-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Tegevteenistuses olev isik ei tohi olla muus valitavas ega nimetatavas ametis ega osa võtta ühegi erakonna tegevusest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-126": {
+      "id": "ps-126",
+      "number": "126",
+      "title": null,
+      "chapter": "ps-ch10",
+      "parts": [
+        {
+          "id": "ps-126-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikaitse korralduse sätestavad rahuaja riigikaitse seadus ja sõjaaja riigikaitse seadus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-126-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Eesti kaitseväe ja riigikaitseorganisatsioonide korralduse sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-127": {
+      "id": "ps-127",
+      "number": "127",
+      "title": null,
+      "chapter": "ps-ch10",
+      "parts": [
+        {
+          "id": "ps-127-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikaitse kõrgeimaks juhiks on Vabariigi President.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-127-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Vabariigi Presidendi juures on nõuandva organina Riigikaitse Nõukogu, kelle koosseisu ja ülesandeid sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-128": {
+      "id": "ps-128",
+      "number": "128",
+      "title": null,
+      "chapter": "ps-ch10",
+      "parts": [
+        {
+          "id": "ps-128-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikogu kuulutab Vabariigi Presidendi ettepanekul välja sõjaseisukorra, mobilisatsiooni ja demobilisatsiooni ning otsustab kaitseväe kasutamise Eesti riigi rahvusvaheliste kohustuste täitmisel.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-128-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Eesti Vabariigi vastu suunatud agressiooni korral kuulutab Vabariigi President välja sõjaseisukorra ja mobilisatsiooni, ootamata ära Riigikogu otsust.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-129": {
+      "id": "ps-129",
+      "number": "129",
+      "title": null,
+      "chapter": "ps-ch10",
+      "parts": [
+        {
+          "id": "ps-129-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Eesti põhiseaduslikku korda ähvardava ohu puhul võib Riigikogu Vabariigi Presidendi või Vabariigi Valitsuse ettepanekul oma koosseisu häälteenamusega välja kuulutada erakorralise seisukorra kogu riigis, kuid kõige kauem kolmeks kuuks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-129-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Erakorralise seisukorra korralduse sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-130": {
+      "id": "ps-130",
+      "number": "130",
+      "title": null,
+      "chapter": "ps-ch10",
+      "parts": [
+        {
+          "id": "ps-130-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Erakorralise või sõjaseisukorra ajal võib riigi julgeoleku ja avaliku korra huvides seadusega ettenähtud juhtudel ja korras piirata isikute õigusi ja vabadusi ning panna neile kohustusi. Piirata ei tohi õigusi ja vabadusi, mis on sätestatud põhiseaduse §-des 8, 11-18, 20 lõige 3, 22, 23, 24 lõiked 2 ja 4, 25, 27, 28, 36 lõige 2, 40, 41, 49 ja 51 lõige 1.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-131": {
+      "id": "ps-131",
+      "number": "131",
+      "title": null,
+      "chapter": "ps-ch10",
+      "parts": [
+        {
+          "id": "ps-131-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Erakorralise või sõjaseisukorra ajal ei valita Riigikogu, Vabariigi Presidenti ega kohalike omavalitsuste esinduskogusid ega lõpetata ka nende volitusi.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-131-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikogu, Vabariigi Presidendi ja kohaliku omavalitsuse esinduskogude volitused pikenevad, kui nad lõpeksid erakorralise või sõjaseisukorra ajal või kolme kuu jooksul, arvates erakorralise või sõjaseisukorra lõppemisest. Nendel juhtudel kuulutatakse välja uued valimised kolme kuu jooksul, arvates erakorralise või sõjaseisukorra lõppemisest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-132": {
+      "id": "ps-132",
+      "number": "132",
+      "title": null,
+      "chapter": "ps-ch11",
+      "parts": [
+        {
+          "id": "ps-132-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikontroll on oma tegevuses sõltumatu majanduskontrolli teostav riigiorgan.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-133": {
+      "id": "ps-133",
+      "number": "133",
+      "title": null,
+      "chapter": "ps-ch11",
+      "parts": [
+        {
+          "id": "ps-133-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikontroll kontrollib:",
+          "points": [
+            {
+              "id": "ps-133-lg1-p1",
+              "number": "1",
+              "text": "riigiasutuste, riigiettevõtete ja muude riiklike organisatsioonide majandustegevust;",
+              "repealed": false
+            },
+            {
+              "id": "ps-133-lg1-p2",
+              "number": "2",
+              "text": "riigi vara kasutamist ja säilimist;",
+              "repealed": false
+            },
+            {
+              "id": "ps-133-lg1-p3",
+              "number": "3",
+              "text": "kohalike omavalitsuste valdusse antud riigivara kasutamist ja käsutamist;",
+              "repealed": false
+            },
+            {
+              "id": "ps-133-lg1-p4",
+              "number": "4",
+              "text": "nende ettevõtete majandustegevust, kus riigil on üle poole osakute või aktsiatega määratud häältest või kelle laene või lepinguliste kohustuste täitmist tagab riik.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-134": {
+      "id": "ps-134",
+      "number": "134",
+      "title": null,
+      "chapter": "ps-ch11",
+      "parts": [
+        {
+          "id": "ps-134-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikontrolli juhib riigikontrolör, kelle nimetab ametisse ja vabastab ametist Riigikogu Vabariigi Presidendi ettepanekul.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-134-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikontrolöri volituste kestus on viis aastat.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-135": {
+      "id": "ps-135",
+      "number": "135",
+      "title": null,
+      "chapter": "ps-ch11",
+      "parts": [
+        {
+          "id": "ps-135-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikontrolör esitab Riigikogule ülevaate riigi vara kasutamise ja säilimise kohta eelmisel eelarveaastal üheaegselt riigieelarve täitmise aruande arutamisega Riigikogus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-136": {
+      "id": "ps-136",
+      "number": "136",
+      "title": null,
+      "chapter": "ps-ch11",
+      "parts": [
+        {
+          "id": "ps-136-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikontrolör võib oma ülesannetesse kuuluvais asjus võtta sõnaõigusega osa Vabariigi Valitsuse istungitest.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-136-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikontrolöril on oma ametkonna juhina samad õigused, mis on seadusega antud ministrile ministeeriumi juhina.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-137": {
+      "id": "ps-137",
+      "number": "137",
+      "title": null,
+      "chapter": "ps-ch11",
+      "parts": [
+        {
+          "id": "ps-137-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikontrolli korralduse sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-138": {
+      "id": "ps-138",
+      "number": "138",
+      "title": null,
+      "chapter": "ps-ch11",
+      "parts": [
+        {
+          "id": "ps-138-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikontrolöri saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-139": {
+      "id": "ps-139",
+      "number": "139",
+      "title": null,
+      "chapter": "ps-ch12",
+      "parts": [
+        {
+          "id": "ps-139-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õiguskantsler on oma tegevuses sõltumatu ametiisik, kes teostab järelevalvet seadusandliku ja täidesaatva riigivõimu ning kohaliku omavalitsuse õigustloovate aktide põhiseadusele ja seadustele vastavuse üle.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-139-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Õiguskantsler analüüsib seaduste muutmise, uute seaduste vastuvõtmise ja riigiasutuste töö kohta talle tehtud ettepanekuid ning esitab vajaduse korral Riigikogule ettekande.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-139-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Õiguskantsler teeb Riigikogule põhiseaduse §-des 76, 85, 101, 138, 153 ettenähtud juhtudel ettepaneku Riigikogu liikme, Vabariigi Presidendi, Vabariigi Valitsuse liikme, riigikontrolöri, Riigikohtu esimehe või Riigikohtu liikme kriminaalvastutusele võtmiseks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-140": {
+      "id": "ps-140",
+      "number": "140",
+      "title": null,
+      "chapter": "ps-ch12",
+      "parts": [
+        {
+          "id": "ps-140-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õiguskantsleri nimetab ametisse Riigikogu Vabariigi Presidendi ettepanekul seitsmeks aastaks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-140-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Õiguskantslerit saab ametist tagandada üksnes kohtuotsusega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-141": {
+      "id": "ps-141",
+      "number": "141",
+      "title": null,
+      "chapter": "ps-ch12",
+      "parts": [
+        {
+          "id": "ps-141-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õiguskantsleril on oma kantselei juhtimisel samad õigused, mis on seadusega antud ministrile ministeeriumi juhtimiseks.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-141-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Õiguskantsler võib sõnaõigusega osa võtta Riigikogu ja Vabariigi Valitsuse istungitest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-142": {
+      "id": "ps-142",
+      "number": "142",
+      "title": null,
+      "chapter": "ps-ch12",
+      "parts": [
+        {
+          "id": "ps-142-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kui õiguskantsler leiab, et seadusandliku või täidesaatva riigivõimu või kohaliku omavalitsuse õigustloov akt on põhiseaduse või seadusega vastuolus, teeb ta akti vastuvõtnud organile ettepaneku viia see kahekümne päeva jooksul põhiseaduse või seadusega kooskõlla.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-142-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kui akt ei ole kahekümne päeva jooksul põhiseaduse või seadusega kooskõlla viidud, teeb õiguskantsler Riigikohtule ettepaneku tunnistada see akt kehtetuks.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-143": {
+      "id": "ps-143",
+      "number": "143",
+      "title": null,
+      "chapter": "ps-ch12",
+      "parts": [
+        {
+          "id": "ps-143-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õiguskantsler esitab kord aastas Riigikogule ülevaate seadusandliku ja täidesaatva riigivõimu ning kohalike omavalitsuste õigustloovate aktide kooskõlast põhiseaduse ja seadustega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-144": {
+      "id": "ps-144",
+      "number": "144",
+      "title": null,
+      "chapter": "ps-ch12",
+      "parts": [
+        {
+          "id": "ps-144-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õiguskantsleri õigusliku seisundi ja tema kantselei töökorralduse sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-145": {
+      "id": "ps-145",
+      "number": "145",
+      "title": null,
+      "chapter": "ps-ch12",
+      "parts": [
+        {
+          "id": "ps-145-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õiguskantslerit saab kriminaalvastutusele võtta ainult Vabariigi Presidendi ettepanekul Riigikogu koosseisu enamuse nõusolekul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-146": {
+      "id": "ps-146",
+      "number": "146",
+      "title": null,
+      "chapter": "ps-ch13",
+      "parts": [
+        {
+          "id": "ps-146-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õigust mõistab ainult kohus. Kohus on oma tegevuses sõltumatu ja mõistab õigust kooskõlas põhiseaduse ja seadustega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-147": {
+      "id": "ps-147",
+      "number": "147",
+      "title": null,
+      "chapter": "ps-ch13",
+      "parts": [
+        {
+          "id": "ps-147-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohtunikud nimetatakse ametisse eluaegsetena. Kohtunike ametist vabastamise alused ja korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-147-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kohtunikku saab ametist tagandada üksnes kohtuotsusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-147-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Kohtunikud ei tohi peale seaduses ettenähtud juhtude olla üheski muus valitavas ega nimetatavas ametis.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-147-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Kohtunike sõltumatuse tagatised ja õigusliku seisundi sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-148": {
+      "id": "ps-148",
+      "number": "148",
+      "title": null,
+      "chapter": "ps-ch13",
+      "parts": [
+        {
+          "id": "ps-148-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohtusüsteem koosneb:",
+          "points": [
+            {
+              "id": "ps-148-lg1-p1",
+              "number": "1",
+              "text": "maa- ja linnakohtutest ning halduskohtutest;",
+              "repealed": false
+            },
+            {
+              "id": "ps-148-lg1-p2",
+              "number": "2",
+              "text": "ringkonnakohtutest;",
+              "repealed": false
+            },
+            {
+              "id": "ps-148-lg1-p3",
+              "number": "3",
+              "text": "Riigikohtust.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "ps-148-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Erikohtute loomise mõnda liiki kohtuasjade jaoks sätestab seadus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-148-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Erakorraliste kohtute moodustamine on keelatud.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-149": {
+      "id": "ps-149",
+      "number": "149",
+      "title": null,
+      "chapter": "ps-ch13",
+      "parts": [
+        {
+          "id": "ps-149-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Maa- ja linnakohtud ning halduskohtud on esimese astme kohtud.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-149-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Ringkonnakohtud on teise astme kohtud ning nad vaatavad apellatsiooni korras läbi esimese astme kohtu lahendeid.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-149-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Riigikohus on riigi kõrgeim kohus, kes vaatab kohtulahendeid läbi kassatsiooni korras. Riigikohus on ühtlasi põhiseadusliku järelevalve kohus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-149-lg4",
+          "number": "4",
+          "label": null,
+          "text": "Kohtukorralduse ja kohtumenetluse korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-150": {
+      "id": "ps-150",
+      "number": "150",
+      "title": null,
+      "chapter": "ps-ch13",
+      "parts": [
+        {
+          "id": "ps-150-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Riigikohtu esimehe nimetab ametisse Riigikogu Vabariigi Presidendi ettepanekul.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-150-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikohtu liikmed nimetab ametisse Riigikogu Riigikohtu esimehe ettepanekul.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-150-lg3",
+          "number": "3",
+          "label": null,
+          "text": "Muud kohtunikud nimetab ametisse Vabariigi President Riigikohtu ettepanekul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-151": {
+      "id": "ps-151",
+      "number": "151",
+      "title": null,
+      "chapter": "ps-ch13",
+      "parts": [
+        {
+          "id": "ps-151-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Esinduse, kaitse, riikliku süüdistuse ja seaduslikkuse järelevalve korralduse kohtumenetluses sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-152": {
+      "id": "ps-152",
+      "number": "152",
+      "title": null,
+      "chapter": "ps-ch13",
+      "parts": [
+        {
+          "id": "ps-152-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohus jätab kohtuasja lahendamisel kohaldamata mis tahes seaduse või muu õigusakti, kui see on vastuolus põhiseadusega.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-152-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikohus tunnistab kehtetuks mis tahes seaduse või muu õigusakti, kui see on vastuolus põhiseaduse sätte ja mõttega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-153": {
+      "id": "ps-153",
+      "number": "153",
+      "title": null,
+      "chapter": "ps-ch13",
+      "parts": [
+        {
+          "id": "ps-153-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohtunikku saab ametisoleku ajal kriminaalvastutusele võtta ainult Riigikohtu ettepanekul Vabariigi Presidendi nõusolekul.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-153-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Riigikohtu esimeest ja liikmeid saab kriminaalvastutusele võtta ainult õiguskantsleri ettepanekul Riigikogu koosseisu enamuse nõusolekul.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-154": {
+      "id": "ps-154",
+      "number": "154",
+      "title": null,
+      "chapter": "ps-ch14",
+      "parts": [
+        {
+          "id": "ps-154-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kõiki kohaliku elu küsimusi otsustavad ja korraldavad kohalikud omavalitsused, kes tegutsevad seaduste alusel iseseisvalt.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-154-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kohalikule omavalitsusele võib panna kohustusi ainult seaduse alusel või kokkuleppel kohaliku omavalitsusega. Seadusega kohalikule omavalitsusele pandud riiklike kohustustega seotud kulud kaetakse riigieelarvest.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-155": {
+      "id": "ps-155",
+      "number": "155",
+      "title": null,
+      "chapter": "ps-ch14",
+      "parts": [
+        {
+          "id": "ps-155-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohaliku omavalitsuse üksused on vallad ja linnad.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-155-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Muid kohaliku omavalitsuse üksusi võib moodustada seaduses sätestatud alustel ja korras.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-156": {
+      "id": "ps-156",
+      "number": "156",
+      "title": null,
+      "chapter": "ps-ch14",
+      "parts": [
+        {
+          "id": "ps-156-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohaliku omavalitsuse esinduskogu on volikogu, kes valitakse vabadel valimistel neljaks aastaks. Seadusega võib volikogu volituste perioodi lühendada seoses kohaliku omavalitsuse üksuste ühinemise või jagunemisega või volikogu tegutsemisvõimetusega. Valimised on üldised, ühetaolised ja otsesed. Hääletamine on salajane.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-156-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kohaliku omavalitsuse volikogu valimistel on seaduses ettenähtud tingimustel hääleõiguslikud selle omavalitsuse maa-alal püsivalt elavad Eesti kodanikud, kes on vähemalt kuusteist aastat vanad.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-157": {
+      "id": "ps-157",
+      "number": "157",
+      "title": null,
+      "chapter": "ps-ch14",
+      "parts": [
+        {
+          "id": "ps-157-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohalikul omavalitsusel on iseseisev eelarve, mille kujundamise alused ja korra sätestab seadus.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-157-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kohalikul omavalitsusel on seaduse alusel õigus kehtestada ja koguda makse ning panna peale koormisi.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-158": {
+      "id": "ps-158",
+      "number": "158",
+      "title": null,
+      "chapter": "ps-ch14",
+      "parts": [
+        {
+          "id": "ps-158-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohaliku omavalitsuse üksuste piire ei tohi muuta vastavate omavalitsuste arvamust ära kuulamata.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-159": {
+      "id": "ps-159",
+      "number": "159",
+      "title": null,
+      "chapter": "ps-ch14",
+      "parts": [
+        {
+          "id": "ps-159-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohalikul omavalitsusel on õigus moodustada teiste kohalike omavalitsustega liite ja ühisasutusi.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-160": {
+      "id": "ps-160",
+      "number": "160",
+      "title": null,
+      "chapter": "ps-ch14",
+      "parts": [
+        {
+          "id": "ps-160-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Kohalike omavalitsuste korralduse ja järelevalve nende tegevuse üle sätestab seadus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-161": {
+      "id": "ps-161",
+      "number": "161",
+      "title": null,
+      "chapter": "ps-ch15",
+      "parts": [
+        {
+          "id": "ps-161-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Õigus algatada põhiseaduse muutmist on vähemalt viiendikul Riigikogu koosseisust ja Vabariigi Presidendil.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-161-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Põhiseaduse muutmist ei saa algatada ega põhiseadust muuta erakorralise seisukorra ega sõjaseisukorra ajal.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-162": {
+      "id": "ps-162",
+      "number": "162",
+      "title": null,
+      "chapter": "ps-ch15",
+      "parts": [
+        {
+          "id": "ps-162-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Põhiseaduse I peatükki \"Üldsätted\" ja XV peatükki \"Põhiseaduse muutmine\" saab muuta ainult rahvahääletusega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-163": {
+      "id": "ps-163",
+      "number": "163",
+      "title": null,
+      "chapter": "ps-ch15",
+      "parts": [
+        {
+          "id": "ps-163-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Põhiseadust saab muuta seadusega, mis on vastu võetud:",
+          "points": [
+            {
+              "id": "ps-163-lg1-p1",
+              "number": "1",
+              "text": "rahvahääletusel;",
+              "repealed": false
+            },
+            {
+              "id": "ps-163-lg1-p2",
+              "number": "2",
+              "text": "Riigikogu kahe järjestikuse koosseisu poolt;",
+              "repealed": false
+            },
+            {
+              "id": "ps-163-lg1-p3",
+              "number": "3",
+              "text": "Riigikogu poolt kiireloomulisena.",
+              "repealed": false
+            }
+          ],
+          "repealed": false
+        },
+        {
+          "id": "ps-163-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Põhiseaduse muutmise seaduse eelnõu arutatakse Riigikogus kolmel lugemisel, kusjuures esimese ja teise lugemise vahet on vähemalt kolm kuud ning teise ja kolmanda lugemise vahet vähemalt üks kuu. Põhiseaduse muutmise viis otsustatakse kolmandal lugemisel.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-164": {
+      "id": "ps-164",
+      "number": "164",
+      "title": null,
+      "chapter": "ps-ch15",
+      "parts": [
+        {
+          "id": "ps-164-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Põhiseaduse muutmise seaduse eelnõu rahvahääletusele panekuks on nõutav Riigikogu koosseisu kolmeviiendikuline häälteenamus. Rahvahääletus toimub kõige varem kolme kuu pärast, arvates sellekohase otsuse vastuvõtmisest Riigikogus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-165": {
+      "id": "ps-165",
+      "number": "165",
+      "title": null,
+      "chapter": "ps-ch15",
+      "parts": [
+        {
+          "id": "ps-165-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Põhiseaduse muutmiseks Riigikogu kahe järjestikuse koosseisu poolt peab põhiseaduse muutmise seaduse eelnõu saama Riigikogu koosseisu enamuse toetuse.",
+          "points": [],
+          "repealed": false
+        },
+        {
+          "id": "ps-165-lg2",
+          "number": "2",
+          "label": null,
+          "text": "Kui Riigikogu järgmine koosseis võtab esimesel lugemisel oma koosseisu kolmeviiendikulise häälteenamusega muutmatult vastu põhiseaduse muutmise seaduse eelnõu, mis sai eelmise koosseisu enamuse toetuse, siis on põhiseaduse muutmise seadus vastu võetud.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-166": {
+      "id": "ps-166",
+      "number": "166",
+      "title": null,
+      "chapter": "ps-ch15",
+      "parts": [
+        {
+          "id": "ps-166-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Otsus põhiseaduse muutmise seaduse eelnõu käsitlemiseks kiireloomulisena võetakse vastu Riigikogu neljaviiendikulise häälteenamusega. Põhiseaduse muutmise seadus võetakse sel juhul vastu Riigikogu koosseisu kahekolmandikulise häälteenamusega.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-167": {
+      "id": "ps-167",
+      "number": "167",
+      "title": null,
+      "chapter": "ps-ch15",
+      "parts": [
+        {
+          "id": "ps-167-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Põhiseaduse muutmise seaduse kuulutab välja Vabariigi President ja see jõustub seaduses eneses määratud tähtajal, kuid mitte varem kui kolm kuud pärast väljakuulutamist.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    },
+    "ps-168": {
+      "id": "ps-168",
+      "number": "168",
+      "title": null,
+      "chapter": "ps-ch15",
+      "parts": [
+        {
+          "id": "ps-168-lg1",
+          "number": "1",
+          "label": null,
+          "text": "Põhiseaduse muutmist ei saa samas küsimuses algatada ühe aasta jooksul, arvates vastava eelnõu tagasilükkamisest rahvahääletusel või Riigikogus.",
+          "points": [],
+          "repealed": false
+        }
+      ],
+      "repealed": false
+    }
+  }
+}

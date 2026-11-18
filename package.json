@@ -1,0 +1,32 @@
+{
+  "name": "estonian-constitution-ci",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Graded Estonian stories with audio for the Estonian citizenship exam on the Constitution and the Citizenship Act",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "packageManager": "pnpm@12.13.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "import:law": "tsx scripts/import-law.ts",
+    "import:base": "tsx scripts/import-base.ts",
+    "plan": "tsx scripts/plan.ts",
+    "tts": "tsx scripts/tts.ts",
+    "check": "tsx scripts/check.ts"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^6.1.6",
+    "astro": "7.4.12",
+    "preact": "^11.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

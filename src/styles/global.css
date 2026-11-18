@@ -1,0 +1,247 @@
+/* Desktop-first reading layout (DESIGN.md 7.3). A mobile layout is in BACKLOG. */
+
+:root {
+  --bg: #fbfaf7;
+  --fg: #1f2328;
+  --muted: #5f6670;
+  --line: #e3e0d8;
+  --accent: #0b5cad;
+  --law-bg: #f1f4f8;
+  --law-line: #c9d4e3;
+  --mark: #fff2b3;
+  --measure: 44rem;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--fg);
+  background: var(--bg);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16181c;
+    --fg: #e6e6e3;
+    --muted: #a0a6ae;
+    --line: #30343a;
+    --accent: #7ab4f5;
+    --law-bg: #1d232c;
+    --law-line: #34445a;
+    --mark: #5a4b12;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+}
+
+a {
+  color: var(--accent);
+}
+
+.site-header,
+main,
+.site-footer {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.site-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  font-weight: 700;
+  color: var(--fg);
+  text-decoration: none;
+}
+
+.site-header nav {
+  display: flex;
+  gap: 1.25rem;
+}
+
+main {
+  padding-top: 1.5rem;
+  padding-bottom: 3rem;
+}
+
+h1 {
+  font-size: 1.9rem;
+  line-height: 1.25;
+  margin: 0.25rem 0 1rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin: 2.25rem 0 0.75rem;
+}
+
+.lead {
+  color: var(--muted);
+}
+
+.kicker {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+/* Home */
+.text-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.text-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.text-list .num {
+  display: inline-block;
+  min-width: 2.25rem;
+  color: var(--muted);
+}
+
+.text-list .meta {
+  color: var(--muted);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+/* Text page */
+.player {
+  margin: 0 0 1.5rem;
+}
+
+.player audio {
+  width: 100%;
+}
+
+.player figcaption {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.story p {
+  margin: 0 0 1rem;
+  font-size: 1.1rem;
+}
+
+.new-words ul {
+  list-style: none;
+  padding: 0;
+}
+
+.new-words li {
+  padding: 0.2rem 0;
+}
+
+.new-words .et {
+  font-weight: 600;
+}
+
+.law {
+  background: var(--law-bg);
+  border: 1px solid var(--law-line);
+  border-radius: 8px;
+  padding: 0.25rem 1.25rem 1rem;
+  margin-top: 2rem;
+}
+
+.law h2 {
+  margin-top: 1rem;
+}
+
+.law .chapter {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 1rem 0 0;
+}
+
+.law h3 {
+  font-size: 1.05rem;
+  margin: 0.25rem 0 0.5rem;
+}
+
+.law ol.points {
+  margin: 0.25rem 0 0.75rem;
+}
+
+.law .note {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.facts li {
+  margin-bottom: 0.35rem;
+}
+
+.question {
+  border-top: 1px solid var(--line);
+  padding: 0.75rem 0;
+}
+
+.question .task {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.question .q-text {
+  font-weight: 600;
+  margin: 0.25rem 0;
+}
+
+.question details {
+  margin-top: 0.5rem;
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+
+/* Voices */
+.voices {
+  list-style: none;
+  padding: 0;
+}
+
+.voices li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.voices audio {
+  display: block;
+  width: 100%;
+  margin-top: 0.4rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}

@@ -1,0 +1,112 @@
+---
+import LawBlock from '../../components/LawBlock.astro';
+import Base from '../../layouts/Base.astro';
+import { allTexts, STAGE_TITLES } from '../../lib/content';
+import type { QuestionType, Segment, TextEntry } from '../../lib/types';
+import { url } from '../../lib/url';
+
+export function getStaticPaths() {
+  return allTexts().map((text) => ({ params: { id: text.id }, props: { text } }));
+}
+
+interface Props {
+  text: TextEntry;
+}
+
+const { text } = Astro.props;
+
+// Consecutive segments with the same `para` form one paragraph.
+const paragraphs: Segment[][] = [];
+for (const seg of text.segments) {
+  const last = paragraphs.at(-1);
+  if (last && last[0].para === seg.para) last.push(seg);
+  else paragraphs.push([seg]);
+}
+
+const TASKS: Record<QuestionType, string> = {
+  truefalse: 'Kas lause on õige või vale?',
+  choice: 'Vali õige vastus.',
+  where: 'Kus see on kirjas?',
+};
+
+const texts = allTexts();
+const index = texts.findIndex((t) => t.id === text.id);
+const prev = texts[index - 1];
+const next = texts[index + 1];
+---
+
+<Base title={text.title}>
+  <article>
+    <p class="kicker">Текст {Number(text.id)} · {STAGE_TITLES[text.stage]}</p>
+    <h1 lang="et">{text.title}</h1>
+
+    {
+      text.audio && (
+        <figure class="player">
+          <audio controls preload="none" src={url(text.audio.story)} />
+          <figcaption lang="et">Heli: Neurokõne (TartuNLP)</figcaption>
+        </figure>
+      )
+    }
+
+    <div class="story" lang="et">
+      {paragraphs.map((p) => <p>{p.map((s) => s.text).join(' ')}</p>)}
+    </div>
+
+    {
+      text.newWords.length > 0 && (
+        <section class="new-words">
+          <h2>Новые слова</h2>
+          <ul>
+            {text.newWords.map((w) => (
+              <li>
+                <span class="et" lang="et">{w.form}</span>
+                {w.form !== w.lemma && (
+                  <>
+                    {' ← '}
+                    <span lang="et">{w.lemma}</span>
+                  </>
+                )}
+                {' — '}
+                {w.translation}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <LawBlock text={text} />
+
+    {
+      text.questions.length > 0 && (
+        <section class="questions">
+          <h2>Вопросы</h2>
+          {text.questions.map((q) => (
+            <div class="question" lang="et">
+              <p class="task">{TASKS[q.type]}</p>
+              <p class="q-text">{q.text}</p>
+              <ol type="A">
+                {q.options.map((o) => (
+                  <li>{o}</li>
+                ))}
+              </ol>
+              <details>
+                <summary lang="ru">Показать ответ</summary>
+                <p>
+                  <strong>{q.options[q.answer]}</strong>
+                </p>
+                <p>{q.explanation}</p>
+              </details>
+            </div>
+          ))}
+        </section>
+      )
+    }
+  </article>
+
+  <nav class="pager" aria-label="Соседние тексты">
+    {prev ? <a href={url(`t/${prev.id}/`)}>← Текст {Number(prev.id)}</a> : <span />}
+    {next ? <a href={url(`t/${next.id}/`)}>Текст {Number(next.id)} →</a> : <span />}
+  </nav>
+</Base>

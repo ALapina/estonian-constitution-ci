@@ -1,0 +1,61 @@
+---
+// Voice samples (DESIGN.md 4.3). The author listens and may change the mapping
+// in content/characters.json before the first batch's audio is committed.
+import fs from 'node:fs';
+import path from 'node:path';
+import Base from '../layouts/Base.astro';
+import { characters } from '../lib/content';
+import { url } from '../lib/url';
+
+interface Sample {
+  id: string;
+  name: string | null;
+  voice: string;
+  sentence: string;
+  file: string;
+}
+
+const ROLES: Record<string, string> = {
+  narrator: 'рассказчик',
+  law: 'блок закона',
+  olga: 'Ольга, медсестра, готовится к экзамену',
+  sergei: 'Сергей, муж Ольги, водитель',
+  lisa: 'Лиза, их дочь, 16 лет',
+  nikolai: 'Николай, отец Ольги, 68 лет',
+  'neighbour-mari': 'Мари, соседка, юрист в канцелярии канцлера права',
+  jaan: 'Яан, муж Мари, член Рийгикогу',
+  'couple-husband': 'муж молодой пары: гражданин по рождению через деда',
+  'couple-wife': 'жена молодой пары: вид на жительство, начинает путь к гражданству',
+};
+
+const indexFile = path.join(process.cwd(), 'public/audio/voices/index.json');
+const samples: Sample[] = fs.existsSync(indexFile) ? JSON.parse(fs.readFileSync(indexFile, 'utf8')) : [];
+const sampleById = new Map(samples.map((s) => [s.id, s]));
+---
+
+<Base title="Голоса">
+  <h1>Голоса</h1>
+  <p class="lead">
+    Голоса синтезирует Neurokõne (TartuNLP). У каждого постоянного персонажа свой голос. Если голос не подходит, его
+    можно заменить до того, как озвучка первых текстов попадёт в репозиторий.
+  </p>
+  <ul class="voices">
+    {
+      Object.entries(characters).map(([id, c]) => {
+        const s = sampleById.get(id);
+        return (
+          <li>
+            <strong lang="et">{c.name ?? '—'}</strong> · {ROLES[id] ?? id} · голос <code>{c.voice}</code>
+            {s && (
+              <>
+                <div lang="et">{s.sentence}</div>
+                <audio controls preload="none" src={url(s.file)} />
+              </>
+            )}
+          </li>
+        );
+      })
+    }
+  </ul>
+  {samples.length === 0 && <p>Образцы голосов ещё не созданы.</p>}
+</Base>

@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+import { allTexts, citation, STAGE_TITLES } from '../lib/content';
+import type { Stage, TextType } from '../lib/types';
+import { url } from '../lib/url';
+
+const TYPE_LABELS: Record<TextType, string> = {
+  serial: 'сериал',
+  side: 'отдельная история',
+  summary: 'итог',
+  review: 'повторение',
+};
+
+const texts = allTexts();
+const groups = ([0, 1, 2, 3, 4] as Stage[])
+  .map((stage) => ({ stage, texts: texts.filter((t) => t.stage === stage) }))
+  .filter((g) => g.texts.length > 0);
+
+const actLabel = (id: string) => (id.startsWith('ps-') ? 'PS' : 'KodS');
+---
+
+<Base>
+  <h1 lang="et">Põhiseadus lugudes</h1>
+  <p class="lead">
+    Короткие истории на эстонском с аудио для экзамена на знание Конституции и Закона о гражданстве.
+    Каждый текст объясняет один–три параграфа закона и вводит несколько новых слов из словаря экзамена.
+    Сначала совсем простой язык, потом постепенно сложнее.
+  </p>
+  {groups.length === 0 && <p>Первые тексты скоро появятся.</p>}
+  {
+    groups.map((g) => (
+      <section>
+        <h2>{STAGE_TITLES[g.stage]}</h2>
+        <ol class="text-list">
+          {g.texts.map((t) => (
+            <li>
+              <a href={url(`t/${t.id}/`)}>
+                <span class="num">{Number(t.id)}.</span> <span lang="et">{t.title}</span>
+              </a>
+              <span class="meta">
+                {TYPE_LABELS[t.type]} ·{' '}
+                <span lang="et">{t.law.map((id) => `${actLabel(id)} ${citation(id)}`).join(', ')}</span>
+              </span>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))
+  }
+</Base>

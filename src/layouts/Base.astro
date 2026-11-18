@@ -1,0 +1,46 @@
+---
+import '../styles/global.css';
+import { url } from '../lib/url';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = 'Короткие истории на эстонском с аудио для экзамена на знание Конституции и Закона о гражданстве Эстонии.',
+} = Astro.props;
+const fullTitle = title ? `${title} · Põhiseadus lugudes` : 'Põhiseadus lugudes';
+---
+
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <title>{fullTitle}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href={url()} lang="et">Põhiseadus lugudes</a>
+      <nav aria-label="Разделы">
+        <a href={url()}>Тексты</a>
+        <a href={url('voices/')}>Голоса</a>
+        <a href={url('about/')}>О проекте</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>
+        Это учебный материал, а не официальный источник. Официальный текст законов публикуется в
+        <a href="https://www.riigiteataja.ee/">Riigi Teataja</a>.
+      </p>
+      <p lang="et">Heli: Neurokõne (TartuNLP)</p>
+    </footer>
+  </body>
+</html>

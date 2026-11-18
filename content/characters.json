@@ -1,0 +1,12 @@
+{
+  "narrator": { "name": "Jutustaja", "voice": "peeter", "note": "narrator" },
+  "law": { "name": "Seadus", "voice": "mari", "note": "the law block" },
+  "olga": { "name": "Olga", "voice": "liivika", "note": "nurse, stateless, preparing for the Constitution exam" },
+  "sergei": { "name": "Sergei", "voice": "tambet", "note": "Olga's husband, driver, stateless" },
+  "lisa": { "name": "Lisa", "voice": "kylli", "note": "their daughter, 16, a citizen since 2016" },
+  "nikolai": { "name": "Nikolai", "voice": "meelis", "note": "Olga's father, 68, stateless, naturalises" },
+  "neighbour-mari": { "name": "Mari", "voice": "vesta", "note": "neighbour, lawyer at the Chancellor of Justice's office" },
+  "jaan": { "name": "Jaan", "voice": "kalev", "note": "Mari's husband, member of the Riigikogu" },
+  "couple-husband": { "name": null, "voice": "indrek", "note": "born in Russia, an Estonian citizen by birth through his grandfather" },
+  "couple-wife": { "name": null, "voice": "mari", "note": "foreign national on a residence permit, starts naturalisation" }
+}

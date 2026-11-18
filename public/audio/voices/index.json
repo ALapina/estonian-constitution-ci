@@ -1,0 +1,72 @@
+[
+  {
+    "id": "narrator",
+    "name": "Jutustaja",
+    "voice": "peeter",
+    "sentence": "Täna on esmaspäev. Ilm on ilus ja päike paistab.",
+    "file": "audio/voices/narrator.mp3"
+  },
+  {
+    "id": "law",
+    "name": "Seadus",
+    "voice": "mari",
+    "sentence": "Eesti riigikeel on eesti keel. Riigikogus on 101 liiget.",
+    "file": "audio/voices/law.mp3"
+  },
+  {
+    "id": "olga",
+    "name": "Olga",
+    "voice": "liivika",
+    "sentence": "Tere! Mina olen Olga. Ma olen medõde.",
+    "file": "audio/voices/olga.mp3"
+  },
+  {
+    "id": "sergei",
+    "name": "Sergei",
+    "voice": "tambet",
+    "sentence": "Tere! Mina olen Sergei. Ma olen autojuht.",
+    "file": "audio/voices/sergei.mp3"
+  },
+  {
+    "id": "lisa",
+    "name": "Lisa",
+    "voice": "kylli",
+    "sentence": "Tere! Mina olen Lisa. Ma käin koolis.",
+    "file": "audio/voices/lisa.mp3"
+  },
+  {
+    "id": "nikolai",
+    "name": "Nikolai",
+    "voice": "meelis",
+    "sentence": "Tere! Mina olen Nikolai. Ma olen Olga isa.",
+    "file": "audio/voices/nikolai.mp3"
+  },
+  {
+    "id": "neighbour-mari",
+    "name": "Mari",
+    "voice": "vesta",
+    "sentence": "Tere! Mina olen Mari. Ma olen jurist.",
+    "file": "audio/voices/neighbour-mari.mp3"
+  },
+  {
+    "id": "jaan",
+    "name": "Jaan",
+    "voice": "kalev",
+    "sentence": "Tere! Mina olen Jaan. Ma töötan Riigikogus.",
+    "file": "audio/voices/jaan.mp3"
+  },
+  {
+    "id": "couple-husband",
+    "name": null,
+    "voice": "indrek",
+    "sentence": "Tere! Ma olen pärit Venemaalt. Minu vanaisa elas Eestis.",
+    "file": "audio/voices/couple-husband.mp3"
+  },
+  {
+    "id": "couple-wife",
+    "name": null,
+    "voice": "mari",
+    "sentence": "Tere! Ma elan Eestis koos mehega. Ma õpin eesti keelt.",
+    "file": "audio/voices/couple-wife.mp3"
+  }
+]
