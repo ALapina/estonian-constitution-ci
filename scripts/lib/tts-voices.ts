@@ -13,8 +13,8 @@ const SENTENCES: Record<string, string> = {
   nikolai: 'Tere! Mina olen Nikolai. Ma olen Olga isa.',
   'neighbour-mari': 'Tere! Mina olen Mari. Ma olen jurist.',
   jaan: 'Tere! Mina olen Jaan. Ma töötan Riigikogus.',
-  'couple-husband': 'Tere! Ma olen pärit Venemaalt. Minu vanaisa elas Eestis.',
-  'couple-wife': 'Tere! Ma elan Eestis koos mehega. Ma õpin eesti keelt.',
+  maksim: 'Tere! Mina olen Maksim. Minu vanaisa elas Tartus.',
+  katja: 'Tere! Mina olen Katja. Ma õpin eesti keelt.',
 };
 
 /** The sample sentence of a character; `fallback` is true for a character added after this list. */

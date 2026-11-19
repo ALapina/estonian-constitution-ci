@@ -101,7 +101,7 @@ The four terms of area 4, from § 2 of the Citizenship Act:
 ## 3. Scope and schedule
 
 What has to be learned:
-- the exam dictionary (Integratsiooni Sihtasutus, 2009): about 1000 headwords and about 200 phrases (preliminary estimate; parsing the PDF gives the exact count). Words that are already A1-A2 in the base list (section 5.2) count as known. The rest are the words to teach, estimated at 600-700;
+- the exam dictionary (Integratsiooni Sihtasutus, 2009): 847 entries, 617 headwords (164 of them multiword) and 230 phrases (parsed 18.11). Words that are already A1-A2 in the base list (section 5.2) count as known. The rest come down to 531 single words to teach, plus 15 A2 words that stage 0 needs, and 342 phrases built from them (section 4.5);
 - about 165 legal units: 109 § of the exam chapters, about 15 related § from chapters VII-X and 42 § of the Citizenship Act.
 
 How much reading:
@@ -152,7 +152,7 @@ The main arc follows Olga to citizenship. The steps match the law: decision; the
 
 The Ivanov family lives in Tallinn, in Lasnamäe. The neighbours Mari and Jaan are Estonians.
 
-The author approved the characters' names, family roles and jobs, Sergei's grey passport, Lisa's age, Olga preparing for the exam (17.11), the young couple, Nikolai's naturalisation and the husband's grandfather (18.11). Every other detail in the table is the agent's.
+The author approved the characters' names, family roles and jobs, Sergei's grey passport, Lisa's age, Olga preparing for the exam (17.11), the young couple, their names Maksim and Katja Saar, Nikolai's naturalisation and Maksim's grandfather (18.11). Every other detail in the table is the agent's.
 
 | Character | Who | Topics |
 |---|---|---|
@@ -162,10 +162,8 @@ The author approved the characters' names, family roles and jobs, Sergei's grey 
 | Nikolai | Olga's father, 68. Came to Estonia in the 1970s as a worker, not as a soldier (§ 21(1) p 6 refuses people who served as career members of a foreign army, including reserve and retired, and spouses or registered partners who came with them). Stateless. He naturalises (author, 18.11); restoration (§ 16) is closed to him, because it covers only people who lost citizenship as minors. He settled in Estonia before 01.07.1990, so § 33 waives the long-term residence permit requirement of § 6 p 2. At 65 or older he is exempt from the writing part of the language exam (§ 34(1)). No age exempts anyone from the Constitution exam | the history of the state and the Constitution; naturalisation late in life (§ 33, § 34(1)) |
 | Mari | neighbour, lawyer at the Chancellor of Justice's office (Õiguskantsleri Kantselei) | the Chancellor of Justice is chapter XII, outside the exam chapters, so her stories anchor to exam-scope §: protection of rights (§ 14, § 15), courts (ch. XIII), appointment of the Chancellor (§ 65, § 78), immunity of high officials (§ 76, § 85, § 101, § 153) |
 | Jaan | Mari's husband (agent detail), member of the Riigikogu | laws, the Riigikogu, the Government, the President |
-| the husband of the young couple | author's idea and family history, 18.11. Born and raised in Russia. His grandfather lived in Estonia before the Soviet occupation and was a citizen of the Republic of Estonia on 16.06.1940. Citizenship by birth passes from parent to child, so the husband's father, born in Russia, is an Estonian citizen by birth, and so is the husband (KodS § 1(1), § 5(1) p 1; Constitution § 8(1)). People call this repatriation; in law it is acquisition by birth, so he takes no exams. He proves his citizenship when he applies for his first Estonian passport: PPA checks it from a National Archives (Rahvusarhiiv) certificate about the grandfather and the birth certificates that link the generations. The plan keeps to the clear case. The grandfather lived in Estonia: courts disagree about descendants of optants who never moved to Estonia (Chancellor of Justice, 2024), so no story uses that case. Both links run through the father; before a story uses a chain through a mother, the agent checks the 1938 Citizenship Act (not verified) | acquisition by birth (§ 2(1) p 1, § 5); citizenship by birth cannot be taken away (Constitution § 8(3), KodS § 28(3)); § 32 for people PPA wrongly treated as citizens. Until 932 SE and 1059 SE are settled, texts do not say whether he keeps his Russian citizenship: 932 SE adds § 29(3) on a citizenship by birth formalised late, and 1059 SE covers only the listed states, and Russia is not one of them. Texts about his passport carry the tag `932 SE` |
-| the wife of the young couple | author's idea, 18.11. The author left her status to the topics that need coverage, so the agent chose it. A foreign national living in Estonia on a residence permit as his spouse (Aliens Act, outside the exam, background only) | the start of the naturalisation road while Olga is at its end: 8 years of residence (§ 6 p 2¹), release from her previous citizenship (§ 12(2)), no dual citizenship for Estonian citizens (§ 1(2)) apart from the cases in § 3 |
-
-The master plan chooses the couple's names and the wife's country by the § that need coverage.
+| Maksim Saar | the husband of the young couple, about 29, a software developer; author's idea, family history and name, 18.11; from Ukraine (author, 18.11). Born and raised in Kharkiv. His grandfather Johannes Saar lived in Tartu and was a citizen of the Republic of Estonia on 16.06.1940; after the war his work took him to Kharkiv, where he married and stayed (agent detail). Citizenship by birth passes from parent to child, so Maksim's father, born in Kharkiv, is an Estonian citizen by birth, and so is Maksim (KodS § 1(1), § 5(1) p 1; Constitution § 8(1)). Maksim and Katja moved to Tallinn in 2019, before the war, on residence permits (Maksim's for work). In stage 1 Maksim finds his grandfather's Estonian passport in a box of family papers and learns he has been a citizen all along. People call this repatriation; in law it is acquisition by birth, so he takes no exams. He proves his citizenship when he applies for his first Estonian passport: PPA checks it from a National Archives (Rahvusarhiiv) certificate about the grandfather and the birth certificates that link the generations. The plan keeps to the clear case. The grandfather lived in Estonia: courts disagree about descendants of optants who never moved to Estonia (Chancellor of Justice, 2024), so no story uses that case. Both links run through the father; before a story uses a chain through a mother, the agent checks the 1938 Citizenship Act (not verified) | acquisition by birth (KodS § 2(1) p 1, § 5; Constitution § 8(1)); citizenship by birth cannot be taken away (Constitution § 8(3), KodS § 28(3)); no citizen may be expelled or kept from settling in Estonia (§ 36); rights of citizens only once he is recognised: parties (§ 48), posts in state agencies (§ 30), Riigikogu elections (§ 57); § 32 for people PPA wrongly treated as citizens. Until 932 SE and 1059 SE are settled, texts do not say whether he keeps his Ukrainian citizenship: 932 SE adds § 29(3) on a citizenship by birth formalised late, and 1059 SE covers only the listed states, and Ukraine is not one of them. Texts about his passport carry the tag `932 SE` |
+| Katja Saar | Maksim's wife, about 27, a Ukrainian citizen; author's idea and name, 18.11; from Ukraine (author, 18.11). The author left her status to the topics that need coverage, so the agent chose it. In Estonia since 2019 on a residence permit, first as the spouse of a foreign worker, later as the spouse of an Estonian citizen (Aliens Act, outside the exam, background only). She is in the middle of the naturalisation road while Olga is at its end: she reaches 8 years of residence in 2019 + 8 = 2027, so her application falls under the law changed by 932 SE and carries the tag | conditions of naturalisation (KodS § 6: a long-term resident's permit, 8 years of residence of which 5 permanently, B1 Estonian under § 8, the exam under § 9, income, loyalty, the oath); release from her Ukrainian citizenship (§ 12(2)); one citizenship for Estonian citizens (§ 1(2)); rights of everyone (Constitution § 9, § 12, § 29, § 34) next to rights of citizens only: no party (§ 48), no vote in Riigikogu elections (§ 57), and no vote in local elections either, because she is not an EU citizen (the local elections rule above); the duty to observe the constitutional order (§ 55). In stage 4 the family quizzes her for her future exam |
 
 Restoration (§ 16-17) goes to a side-story character who lost Estonian citizenship as a minor. This includes a child whose parents renounced it under § 13(5) or § 36³(2). Restoration needs no language or Constitution exam. The conditions are permanent residence in Estonia on a residence permit or right of residence (§ 16(2)), proof of release from any other citizenship (§ 17(2), unless § 3 applies), and the refusal grounds of § 21. Other side characters: a judge, a teacher, a police officer, a minister, a journalist.
 
@@ -191,8 +189,8 @@ The author chose six voices on 17.11: mari, meelis, tambet, kylli, liivika, peet
 | Nikolai | `nikolai` | meelis |
 | Mari, the neighbour | `neighbour-mari` | vesta |
 | Jaan | `jaan` | kalev |
-| the husband of the young couple | `couple-husband` | indrek |
-| the wife of the young couple | `couple-wife` | mari. vesta, the only extra female voice, is the neighbour's; the law block is a separate file |
+| Maksim Saar | `maksim` | indrek |
+| Katja Saar | `katja` | mari. vesta, the only extra female voice, is the neighbour's; the law block is a separate file |
 | side characters | per story | a voice no other speaker uses in that story. Men: albert first, then indrek or kalev when their characters are absent. Women: any of kylli, liivika, mari, vesta that is free in that story |
 
 Rules:
@@ -227,13 +225,13 @@ Every fifth text in stages 0-3 is a summary text (texts 5, 10, 15, and so on). T
 
 Rows 1-200 are the author's curve of 17.11; the author's last row was "161 and on: 400-500 words, 6-10 new words". The 201-230 row is the agent's change for the review stage the author asked for. Summary texts take the lower end of the new-word range for their position.
 
-Where the new words come from. The curve plans about 1400-1860 new words, but the exam list has only about 600-700 words to teach. The scheduler first puts every exam word into a slot of its area's stage. It fills the other new-word places with general words the slot's story needs, preferably from the etLex A2 list in stage 0 and the B1 list later: the agent proposes them with the story idea, and the scheduler writes them into the plan entry. If places stay empty, the slot uses the lower end of the range.
+Where the new words come from. The curve plans about 1400-1860 new words, but the exam list has only 531 single words to teach. A new word is a single lemma: the scheduler splits every exam entry into its words, and each word that is not A1 (in stage 0, not A1 or A2) goes into the first slot whose law block contains it, or else into a slot of its area's stage. A multiword entry ("kõrgeim riigivõim") becomes a phrase of the first slot where all its words are known or new, preferably a slot whose law block contains it; a phrase gets a gloss line but does not take a new-word place. The writer fills the other new-word places with general words the story needs, from the etLex A2 list in stage 0 and the B1 list later, and glosses them; the re-plan after the batch takes them from the written text.
 
 Rules for the writers and the check script:
 - Known words are the base list (section 5.2) plus every word introduced in an earlier text. In stage 0 only A1 counts as known. From text 21, A1 and A2.
 - Planned new words: exactly the list in the text's plan entry.
 - Words to repeat: every word on the plan entry's repeat list appears in the story.
-- Unplanned unknown words: at most 1% of story tokens in stage 0 and at most 2% after that. The count covers the story only, not the law block, facts or questions, and skips proper names and numbers. Unplanned unknown words also get a gloss line and go into the lexicon.
+- Unplanned unknown words: at most 1% of story tokens in stage 0 and at most 2% after that. The count covers the story only, not the law block, facts or questions, and skips proper names and numbers. Unplanned unknown words also get a gloss line and go into the lexicon. A compound counts as known when all its parts are known (Vabamorf gives the parts). The planned words of earlier slots count as known, so the texts of one batch can be written in parallel.
 - Window rule (course report): a word introduced in text N appears at least three times in texts N+1 to N+10.
 - Course targets (course report): every exam word appears at least 12 times in at least 4 texts. Every § returns at least 3 times. A return is the § in a law block, in a key fact or in a question.
 
@@ -330,7 +328,7 @@ Public repository `github.com/ALapina/estonian-constitution-ci`. GitHub Actions 
 - `astro.config.mjs`: `site: 'https://alapina.github.io'`, `base: '/estonian-constitution-ci'`. With `base` written without a trailing slash and the default `trailingSlash`, `import.meta.env.BASE_URL` has no trailing slash either. One helper function builds every internal link and audio path and adds the slash itself.
 - Limits. The published site may be at most 1 GB (hard limit). Bandwidth is about 100 GB a month (soft limit). Git rejects files over 100 MiB. GitHub recommends keeping a Pages source repository under 1 GB, and that counts the whole git history, so every regenerated MP3 adds to it. GitHub also recommends at most 3000 entries per directory, so audio goes in one folder per text. Pages does not serve Git LFS files.
 - Building a public repository costs no Actions minutes.
-- A github.io site answered byte-range requests for an MP3 in one observation; Safari on iOS needs that. GitHub does not document it (not verified for our site yet).
+- Our site answers byte-range requests for MP3 files with HTTP 206 and serves them as `audio/mp3` (checked on the voice samples, 18.11.2026). Safari on iOS needs byte ranges. GitHub does not document this behaviour.
 - GitHub Pages logs visitors' IP addresses. The About page says so.
 
 ### 7.3 Pages
@@ -487,7 +485,6 @@ Law import. Riigi Teataja serves `/public-api/api/v1/akt/{id}/xml`, which its FA
 - The length and key of the API's rate-limit window. No header states it; the TTS script logs `x-rate-limit-remaining` to estimate it.
 - How and when the oath of loyalty is given (the minister's regulation under KodS § 19(4)). The master plan checks it.
 - The deployed TTS timeout. Not published; our tests work around it.
-- Byte-range support for our own MP3 files on GitHub Pages. Check after the first deploy.
 - Whether the President promulgates 932 SE. Check after 25.11.2026.
 - The MP3 bitrate. The author listens to the first batch.
 - Whether the author is registered for 12.12.2026.
@@ -547,3 +544,9 @@ None. The author settled P1-P6 on 18.11 (section 14).
 | 18.11 | author | P6: the husband's grandfather was an Estonian citizen on 16.06.1940, so the husband is a citizen by birth; the wife's status follows the topics to cover, and the agent chose it |
 | 18.11 | author | The exam word list and the master plan are public, so a copy lives outside the author's computer. The dictionary's own translations are not copied |
 | 18.11 | agent | The nvm default stays at Node 22 for the author's other projects; this project pins Node 24 |
+| 18.11 | agent | New words are single lemmas; multiword exam entries come as glossed phrases of known words (section 4.5) |
+| 18.11 | agent | The check counts compounds of known words as known, and earlier slots' planned words as known |
+| 18.11 | agent | Voice samples are committed; other audio waits for the author's approval of voices and bitrate |
+| 18.11 | author | The young couple are Maksim and Katja Saar; Maksim's grandfather is Johannes Saar of Tartu |
+| 18.11 | author | Maksim and Katja come from Ukraine (Kharkiv); the agent's background: in Tallinn since 2019, Maksim finds his grandfather's passport in stage 1 |
+| 18.11 | author | Commits use the author's personal identity, Anna Lapina <alapina@outlook.com>, never the work email |

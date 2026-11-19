@@ -1,6 +1,7 @@
 ---
 // The law block of a text (DESIGN.md 4.1): authentic text of the cited §, chapter and § numbers,
 // the Riigi Teataja note required by the Riigi Teataja Act § 12(1), key facts, and its own audio.
+import { existsSync } from 'node:fs';
 import {
   ACT_HEADINGS,
   citation,
@@ -17,7 +18,8 @@ interface Props {
 }
 
 const { text } = Astro.props;
-const resolved = text.law.map((id) => {
+const lawAudio = text.audio && existsSync(`public/${text.audio.law}`) ? text.audio.law : null;
+const resolved =text.law.map((id) => {
   const r = resolveLaw(id);
   if (!r) throw new Error(`Text ${text.id}: unknown law id "${id}"`);
   return r;
@@ -82,9 +84,9 @@ function chapterLine(r: ResolvedLaw): string {
     )
   }
   {
-    text.audio && (
+    lawAudio && (
       <figure class="player">
-        <audio controls preload="none" src={url(text.audio.law)} />
+        <audio controls preload="none" src={url(lawAudio)} />
         <figcaption>Heli: Neurokõne (TartuNLP)</figcaption>
       </figure>
     )

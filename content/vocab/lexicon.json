@@ -1,1 +1,472 @@
-{}
+{
+  "ajaleht": {
+    "translation": "газета",
+    "introducedIn": "0007"
+  },
+  "alus": {
+    "translation": "основа, основание",
+    "introducedIn": "0003",
+    "exam": "ev-0019"
+  },
+  "avaldama": {
+    "translation": "публиковать, обнародовать",
+    "introducedIn": "0003",
+    "exam": "ev-0056"
+  },
+  "demokraatlik": {
+    "translation": "демократический",
+    "introducedIn": "0001",
+    "exam": "ev-0069"
+  },
+  "demokraatlik vabariik": {
+    "translation": "демократическая республика",
+    "introducedIn": "0001",
+    "exam": "ev-0070"
+  },
+  "eesti keel": {
+    "translation": "эстонский язык",
+    "introducedIn": "0007",
+    "exam": "ev-0084"
+  },
+  "eesti kodanik": {
+    "translation": "гражданин Эстонии",
+    "introducedIn": "0011",
+    "exam": "ev-0085"
+  },
+  "eesti vabariik": {
+    "translation": "Эстонская Республика",
+    "introducedIn": "0014",
+    "exam": "ev-0091"
+  },
+  "ekraan": {
+    "translation": "экран",
+    "introducedIn": "0010"
+  },
+  "eksam": {
+    "translation": "экзамен",
+    "introducedIn": "0005"
+  },
+  "gümnaasium": {
+    "translation": "гимназия",
+    "introducedIn": "0015"
+  },
+  "haigla": {
+    "translation": "больница",
+    "introducedIn": "0007"
+  },
+  "hoidma": {
+    "translation": "беречь, хранить",
+    "introducedIn": "0006"
+  },
+  "hääletamine": {
+    "translation": "голосование",
+    "introducedIn": "0012",
+    "exam": "ev-0151"
+  },
+  "hääleõiguslik": {
+    "translation": "имеющий право голоса",
+    "introducedIn": "0009",
+    "exam": "ev-0155"
+  },
+  "igaühe õigus": {
+    "translation": "право каждого",
+    "introducedIn": "0013",
+    "exam": "ev-0160"
+  },
+  "igaüks": {
+    "translation": "каждый",
+    "introducedIn": "0013",
+    "exam": "ev-0162"
+  },
+  "iseseisev": {
+    "translation": "самостоятельный",
+    "introducedIn": "0001",
+    "exam": "ev-0167"
+  },
+  "jalutama": {
+    "translation": "гулять",
+    "introducedIn": "0014"
+  },
+  "joonistama": {
+    "translation": "рисовать",
+    "introducedIn": "0008"
+  },
+  "kandja": {
+    "translation": "носитель",
+    "introducedIn": "0001",
+    "exam": "ev-0197"
+  },
+  "kandma": {
+    "translation": "нести; karistust kandma — отбывать наказание",
+    "introducedIn": "0012"
+  },
+  "karistus": {
+    "translation": "наказание",
+    "introducedIn": "0012",
+    "exam": "ev-0202"
+  },
+  "karistust kandma": {
+    "translation": "отбывать наказание",
+    "introducedIn": "0012",
+    "exam": "ev-0203"
+  },
+  "keegi": {
+    "translation": "кто-то; (с отрицанием) никто",
+    "introducedIn": "0013"
+  },
+  "kiitma": {
+    "translation": "хвалить",
+    "introducedIn": "0007"
+  },
+  "kingitus": {
+    "translation": "подарок",
+    "introducedIn": "0011"
+  },
+  "kodakondsus": {
+    "translation": "гражданство",
+    "introducedIn": "0013",
+    "exam": "ev-0232"
+  },
+  "kodanik": {
+    "translation": "гражданин",
+    "introducedIn": "0009",
+    "exam": "ev-0248"
+  },
+  "kohalik": {
+    "translation": "местный (kohalikud valimised — местные выборы)",
+    "introducedIn": "0011",
+    "exam": "ev-0253"
+  },
+  "kohus": {
+    "translation": "суд",
+    "introducedIn": "0004",
+    "exam": "ev-0271"
+  },
+  "kohustus": {
+    "translation": "обязанность",
+    "introducedIn": "0013",
+    "exam": "ev-0273"
+  },
+  "kordama": {
+    "translation": "повторять",
+    "introducedIn": "0005"
+  },
+  "korraldus": {
+    "translation": "устройство, организация",
+    "introducedIn": "0002",
+    "exam": "ev-0292"
+  },
+  "kuuluma": {
+    "translation": "принадлежать",
+    "introducedIn": "0014",
+    "exam": "ev-0311"
+  },
+  "kuulus": {
+    "translation": "знаменитый, известный",
+    "introducedIn": "0010"
+  },
+  "kõrgeim": {
+    "translation": "высший, верховный",
+    "introducedIn": "0001"
+  },
+  "kõrgeim riigivõim": {
+    "translation": "высшая государственная власть",
+    "introducedIn": "0009",
+    "exam": "ev-0323"
+  },
+  "lahutamatu": {
+    "translation": "неотделимый, неотъемлемый",
+    "introducedIn": "0002",
+    "exam": "ev-0337"
+  },
+  "liige": {
+    "translation": "член",
+    "introducedIn": "0011",
+    "exam": "ev-0348"
+  },
+  "liit": {
+    "translation": "союз (Euroopa Liit — Европейский союз)",
+    "introducedIn": "0011",
+    "exam": "ev-0349"
+  },
+  "lipp": {
+    "translation": "флаг",
+    "introducedIn": "0008"
+  },
+  "loodusressurss": {
+    "translation": "природный ресурс",
+    "introducedIn": "0006",
+    "exam": "ev-0358"
+  },
+  "loodusvara": {
+    "translation": "природное богатство",
+    "introducedIn": "0006",
+    "exam": "ev-0359"
+  },
+  "loss": {
+    "translation": "замок, дворец",
+    "introducedIn": "0014"
+  },
+  "mõistma": {
+    "translation": "понимать; süüdi mõistma — признать виновным, осудить",
+    "introducedIn": "0012"
+  },
+  "mäletama": {
+    "translation": "помнить",
+    "introducedIn": "0005"
+  },
+  "mälu": {
+    "translation": "память",
+    "introducedIn": "0010"
+  },
+  "märk": {
+    "translation": "знак, символ",
+    "introducedIn": "0008"
+  },
+  "naaber": {
+    "translation": "сосед",
+    "introducedIn": "0005"
+  },
+  "naeratama": {
+    "translation": "улыбаться",
+    "introducedIn": "0010"
+  },
+  "otsustama": {
+    "translation": "решать",
+    "introducedIn": "0009"
+  },
+  "patsient": {
+    "translation": "пациент",
+    "introducedIn": "0007"
+  },
+  "peaaegu": {
+    "translation": "почти",
+    "introducedIn": "0015"
+  },
+  "peatuma": {
+    "translation": "останавливаться",
+    "introducedIn": "0015",
+    "exam": "ev-0438"
+  },
+  "piirama": {
+    "translation": "ограничивать",
+    "introducedIn": "0012"
+  },
+  "poolt": {
+    "translation": "со стороны (kohtu poolt — судом)",
+    "introducedIn": "0011"
+  },
+  "president": {
+    "translation": "президент",
+    "introducedIn": "0004",
+    "exam": "ev-0456"
+  },
+  "proovima": {
+    "translation": "пробовать",
+    "introducedIn": "0015"
+  },
+  "põhimõte": {
+    "translation": "принцип",
+    "introducedIn": "0003",
+    "exam": "ev-0463"
+  },
+  "põhiseadus": {
+    "translation": "конституция",
+    "introducedIn": "0001",
+    "exam": "ev-0465"
+  },
+  "rahvahääletus": {
+    "translation": "референдум",
+    "introducedIn": "0009",
+    "exam": "ev-0488"
+  },
+  "rahvuslik": {
+    "translation": "национальный",
+    "introducedIn": "0006",
+    "exam": "ev-0494"
+  },
+  "rahvuslik rikkus": {
+    "translation": "национальное достояние",
+    "introducedIn": "0006",
+    "exam": "ev-0495"
+  },
+  "rahvusvaheline": {
+    "translation": "международный",
+    "introducedIn": "0003",
+    "exam": "ev-0496"
+  },
+  "riigikeel": {
+    "translation": "государственный язык",
+    "introducedIn": "0007",
+    "exam": "ev-0532"
+  },
+  "riigikogu": {
+    "translation": "Рийгикогу (парламент Эстонии)",
+    "introducedIn": "0004",
+    "exam": "ev-0510"
+  },
+  "riigilipp": {
+    "translation": "государственный флаг",
+    "introducedIn": "0008",
+    "exam": "ev-0536"
+  },
+  "riigipea": {
+    "translation": "глава государства",
+    "introducedIn": "0014",
+    "exam": "ev-0537"
+  },
+  "riigivapp": {
+    "translation": "государственный герб",
+    "introducedIn": "0008",
+    "exam": "ev-0539"
+  },
+  "riigivõim": {
+    "translation": "государственная власть",
+    "introducedIn": "0001",
+    "exam": "ev-0540"
+  },
+  "riigivärv": {
+    "translation": "государственный цвет",
+    "introducedIn": "0008"
+  },
+  "riik": {
+    "translation": "государство",
+    "introducedIn": "0002",
+    "exam": "ev-0523"
+  },
+  "riiklik": {
+    "translation": "государственный",
+    "introducedIn": "0002",
+    "exam": "ev-0542"
+  },
+  "riiklik korraldus": {
+    "translation": "государственное устройство",
+    "introducedIn": "0002",
+    "exam": "ev-0544"
+  },
+  "rikkus": {
+    "translation": "богатство, достояние",
+    "introducedIn": "0006",
+    "exam": "ev-0547"
+  },
+  "seadus": {
+    "translation": "закон",
+    "introducedIn": "0002",
+    "exam": "ev-0553"
+  },
+  "seadusandlik": {
+    "translation": "законодательный",
+    "introducedIn": "0014",
+    "exam": "ev-0565"
+  },
+  "seaduses sätestama": {
+    "translation": "устанавливать законом",
+    "introducedIn": "0008",
+    "exam": "ev-0561"
+  },
+  "seadust avaldama": {
+    "translation": "опубликовать закон",
+    "introducedIn": "0003",
+    "exam": "ev-0057"
+  },
+  "sõltumatu": {
+    "translation": "независимый",
+    "introducedIn": "0001"
+  },
+  "sätestama": {
+    "translation": "устанавливать (в законе)",
+    "introducedIn": "0002",
+    "exam": "ev-0599"
+  },
+  "säästlikult": {
+    "translation": "экономно, рационально",
+    "introducedIn": "0006"
+  },
+  "süüdi": {
+    "translation": "виновен",
+    "introducedIn": "0012"
+  },
+  "tasakaalustatus": {
+    "translation": "сбалансированность, равновесие",
+    "introducedIn": "0004",
+    "exam": "ev-0623"
+  },
+  "tasku": {
+    "translation": "карман",
+    "introducedIn": "0015"
+  },
+  "teataja": {
+    "translation": "вестник; Riigi Teataja — официальное издание, где публикуют законы",
+    "introducedIn": "0003"
+  },
+  "teostama": {
+    "translation": "осуществлять",
+    "introducedIn": "0009",
+    "exam": "ev-0635"
+  },
+  "tunnistama": {
+    "translation": "признавать",
+    "introducedIn": "0011",
+    "exam": "ev-0654"
+  },
+  "tähtis": {
+    "translation": "важный",
+    "introducedIn": "0005",
+    "exam": "ev-0663"
+  },
+  "täidesaatev": {
+    "translation": "исполнительный",
+    "introducedIn": "0014",
+    "exam": "ev-0664"
+  },
+  "uhke": {
+    "translation": "гордый",
+    "introducedIn": "0010"
+  },
+  "vabadus": {
+    "translation": "свобода",
+    "introducedIn": "0013",
+    "exam": "ev-0691"
+  },
+  "vabariigi president": {
+    "translation": "Президент Республики",
+    "introducedIn": "0004",
+    "exam": "ev-0697"
+  },
+  "valimine": {
+    "translation": "выборы, избрание",
+    "introducedIn": "0009"
+  },
+  "valitsus": {
+    "translation": "правительство",
+    "introducedIn": "0004",
+    "exam": "ev-0726"
+  },
+  "vangla": {
+    "translation": "тюрьма",
+    "introducedIn": "0012"
+  },
+  "vanus": {
+    "translation": "возраст",
+    "introducedIn": "0011",
+    "exam": "ev-0732"
+  },
+  "võim": {
+    "translation": "власть",
+    "introducedIn": "0004"
+  },
+  "võrdne": {
+    "translation": "равный (seaduse ees võrdsed — равны перед законом)",
+    "introducedIn": "0013"
+  },
+  "õigus": {
+    "translation": "право",
+    "introducedIn": "0003",
+    "exam": "ev-0793"
+  },
+  "üldine": {
+    "translation": "общий",
+    "introducedIn": "0013",
+    "exam": "ev-0833"
+  }
+}
