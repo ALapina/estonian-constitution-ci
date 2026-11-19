@@ -1,0 +1,180 @@
+{
+  "story": {
+    "file": "story.mp3",
+    "duration": 102.584,
+    "segments": [
+      {
+        "segment": 0,
+        "start": 0.25,
+        "end": 1.446
+      },
+      {
+        "segment": 1,
+        "start": 1.746,
+        "end": 3.267
+      },
+      {
+        "segment": 2,
+        "start": 3.567,
+        "end": 6.179
+      },
+      {
+        "segment": 3,
+        "start": 6.479,
+        "end": 8.847
+      },
+      {
+        "segment": 4,
+        "start": 9.147,
+        "end": 10.274
+      },
+      {
+        "segment": 5,
+        "start": 10.974,
+        "end": 16.697
+      },
+      {
+        "segment": 6,
+        "start": 17.397,
+        "end": 18.918
+      },
+      {
+        "segment": 7,
+        "start": 19.618,
+        "end": 23.726
+      },
+      {
+        "segment": 8,
+        "start": 24.426,
+        "end": 27.884
+      },
+      {
+        "segment": 9,
+        "start": 28.584,
+        "end": 33.77
+      },
+      {
+        "segment": 10,
+        "start": 34.47,
+        "end": 36.339
+      },
+      {
+        "segment": 11,
+        "start": 36.639,
+        "end": 39.31
+      },
+      {
+        "segment": 12,
+        "start": 39.61,
+        "end": 46.967
+      },
+      {
+        "segment": 13,
+        "start": 47.267,
+        "end": 58.534
+      },
+      {
+        "segment": 14,
+        "start": 59.234,
+        "end": 63.039
+      },
+      {
+        "segment": 15,
+        "start": 63.739,
+        "end": 70.411
+      },
+      {
+        "segment": 16,
+        "start": 71.111,
+        "end": 74.592
+      },
+      {
+        "segment": 17,
+        "start": 75.292,
+        "end": 81.743
+      },
+      {
+        "segment": 18,
+        "start": 82.443,
+        "end": 83.697
+      },
+      {
+        "segment": 19,
+        "start": 84.397,
+        "end": 91.234
+      },
+      {
+        "segment": 20,
+        "start": 91.934,
+        "end": 93.803
+      },
+      {
+        "segment": 21,
+        "start": 94.103,
+        "end": 96.146
+      },
+      {
+        "segment": 22,
+        "start": 96.446,
+        "end": 98.13
+      },
+      {
+        "segment": 23,
+        "start": 98.83,
+        "end": 99.909
+      },
+      {
+        "segment": 24,
+        "start": 100.209,
+        "end": 102.334
+      }
+    ]
+  },
+  "law": {
+    "file": "law.mp3",
+    "duration": 37.004,
+    "segments": [
+      {
+        "ref": "ps-56-lg1",
+        "from": 0,
+        "to": 66,
+        "start": 0.25,
+        "end": 4.232
+      },
+      {
+        "ref": "ps-56-lg1-p1",
+        "from": 0,
+        "to": 21,
+        "start": 4.532,
+        "end": 5.983
+      },
+      {
+        "ref": "ps-56-lg1-p2",
+        "from": 0,
+        "to": 17,
+        "start": 6.283,
+        "end": 7.514
+      },
+      {
+        "fact": 0,
+        "start": 8.214,
+        "end": 14.18
+      },
+      {
+        "fact": 1,
+        "start": 14.88,
+        "end": 22.889
+      },
+      {
+        "fact": 2,
+        "start": 23.589,
+        "end": 29.462
+      },
+      {
+        "fact": 3,
+        "start": 30.162,
+        "end": 36.754
+      }
+    ]
+  }
+}
