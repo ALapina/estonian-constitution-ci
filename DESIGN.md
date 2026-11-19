@@ -197,7 +197,7 @@ Rules:
 - A recurring character always keeps the same voice.
 - In one story file no two speakers share a voice. The law block is a separate file and does not count. The check script enforces this.
 - Character ids differ from voice names. The TTS script takes every voice from `content/characters.json`, never from a character's name.
-- The first batch includes a voice samples page with every voice in use. The author may change the mapping after listening, before any audio is committed.
+- The first batch includes a voice samples page with every voice in use. The author may change the mapping after listening; since the first batch was approved on 19.11, a change regenerates only that character's lines.
 
 ### 4.4 Topic order
 
@@ -290,10 +290,10 @@ API facts:
 Building a file:
 1. The script synthesises each segment with its speaker's voice and caches the WAV in `.cache/tts/` by a hash of text, voice and speed. The cache is in `.gitignore`; for the whole course it grows to about 6 GB. Unchanged segments are never requested again.
 2. The script joins the segments with pauses: 300 ms between sentences, 700 ms between paragraphs.
-3. ffmpeg with libmp3lame encodes the result as MP3, 48 kbit/s, mono, 22 050 Hz. MP3 is the safest single format, as MDN advises: every current browser supports it fully, while AAC works only partly in Firefox and Opus support in Safari depends on the OS version. That is about 0.36 MB per minute: about 18 hours of audio, about 400 MB. The author checks the bitrate by ear on the first batch, including at 0.25×, the slowest speed in the menu.
+3. ffmpeg with libmp3lame encodes the result as MP3, 48 kbit/s, mono, 22 050 Hz. MP3 is the safest single format, as MDN advises: every current browser supports it fully, while AAC works only partly in Firefox and Opus support in Safari depends on the OS version. That is about 0.36 MB per minute: about 18 hours of audio, about 400 MB. The author approved this bitrate on the first batch (19.11).
 4. `timings.json` stores the start and end of every segment of `story.mp3` and `law.mp3`. It powers the highlight of the current sentence and replay of a sentence on tap.
 
-Audio is committed only after the voices and the bitrate are settled on the first batch. Every regenerated MP3 stays in git history forever, so we keep regeneration rare. The voice samples in `public/audio/voices/` are the exception: they are a few hundred KB, and committing them lets the author hear them on the published site.
+Audio is committed with its batch: the author approved the voices and the bitrate on the first batch and committed its audio on 19.11. Every regenerated MP3 stays in git history forever, so we keep regeneration rare and regenerate only texts that changed.
 
 macOS `afconvert` cannot encode MP3, so ffmpeg has to be installed: `brew install ffmpeg`.
 
@@ -373,7 +373,7 @@ The author's steps:
 The agent's steps:
 - `nvm install 24` and pnpm for it (done 18.11: Node 24.22.3, pnpm 12.13.0);
 - `brew install ffmpeg`; `uv python install 3.12` (done 18.11: ffmpeg 9.0.2 with libmp3lame, Python 3.12.16);
-- `git init` with `private/`, `.cache/` and `public/audio/` in `.gitignore`. Audio leaves `.gitignore` once the author settles the voices and the bitrate. Commits stay local until the GitHub repository exists;
+- `git init` with `private/` and `.cache/` in `.gitignore` (`public/audio/` was there too until the author approved the audio on 19.11). Commits stay local until the GitHub repository exists;
 - copy the dictionary PDF into `private/`.
 
 ## 8. How a batch is made
@@ -473,7 +473,7 @@ Law import. Riigi Teataja serves `/public-api/api/v1/akt/{id}/xml`, which its FA
 | 230 texts in three weeks is too many | texts come before platform features; 15 texts a day. If we fall behind, the agent proposes which texts to drop, side stories first, never a text that is the only carrier of a § (such as the restoration story for § 16-17), and attaches the coverage report for the cut. The author decides. The stage 4 review stays |
 | the daily batch outgrows the author's 1-2 hours | the author's feedback lowers length and new words within the curve's ranges |
 | an agent adds unplanned new words | the check script rejects the text |
-| the repository grows with audio | MP3 at 48 kbit/s; audio committed only after the voices and bitrate are settled; regeneration only for changed texts; near 1 GB, the plan in BACKLOG |
+| the repository grows with audio | MP3 at 48 kbit/s; audio committed with its batch (since 19.11); regeneration only for changed texts; near 1 GB, the plan in BACKLOG |
 | the foundation objects to the public word list | the list and the plan move back to `private/`; the texts and the lexicon are ours and stay public |
 
 ## 12. Open questions
@@ -486,7 +486,6 @@ Law import. Riigi Teataja serves `/public-api/api/v1/akt/{id}/xml`, which its FA
 - How and when the oath of loyalty is given (the minister's regulation under KodS § 19(4)). The master plan checks it.
 - The deployed TTS timeout. Not published; our tests work around it.
 - Whether the President promulgates 932 SE. Check after 25.11.2026.
-- The MP3 bitrate. The author listens to the first batch.
 - Whether the author is registered for 12.12.2026.
 
 ## 13. Pending decisions
@@ -552,3 +551,4 @@ None. The author settled P1-P6 on 18.11 (section 14).
 | 18.11 | author | Commits use the author's personal identity, Anna Lapina <alapina@outlook.com>, never the work email |
 | 19.11 | agent | Phase 1 starts with the read mark and the rating: rating a text also marks it read; the home page shows progress, a "continue" link to the first unread text, a badge per text and filters "all / unread / hard" for rereading |
 | 19.11 | agent | Phase 1 player: play/pause, ±5 s skips, a seek bar and the speed menu; one speed for every player; only one player plays at a time. Questions: the reader picks an option, then sees right or wrong and the explanation; answers are saved and can be cleared with "Ответить заново" |
+| 19.11 | author | Voices and the 48 kbit/s bitrate approved on the first batch; text audio is committed with each batch |

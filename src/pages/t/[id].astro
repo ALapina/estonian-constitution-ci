@@ -18,7 +18,7 @@ interface Props {
 }
 
 const { text } = Astro.props;
-// Audio is committed only after the author approves voices and bitrate, so a build may lack the files.
+// A text written before its audio is generated has no files yet, so the build checks for them.
 const storyAudio = text.audio && existsSync(`public/${text.audio.story}`) ? text.audio.story : null;
 
 // Consecutive segments with the same `para` form one paragraph.

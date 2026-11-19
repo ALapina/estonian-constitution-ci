@@ -11,4 +11,4 @@ A batch is the next 15 texts with audio (DESIGN.md 8). The author starts it with
 7. Vocabulary and audio fields. `pnpm sync` adds the new words to `content/vocab/lexicon.json`, marks exam words as introduced in `content/vocab/exam-vocab.json`, and sets `audio` in each text.
 8. Build. `pnpm build`, then open a few pages with `pnpm preview`. Done when the build passes and the pages show story, words, law block and questions.
 9. Re-plan. `pnpm plan` marks the written slots with their text ids and re-plans the rest from what was written; read `pnpm check --report` and pass any shortfall to the next slots' `repeat` lists.
-10. Report to the author, in Russian: the texts with titles, the minutes of audio, anything stuck. Commit and push only when the author asks.
+10. Report to the author, in Russian: the texts with titles, the minutes of audio, anything stuck. Commit and push only when the author asks; the commit includes the batch's `public/audio/<id>/` folders.

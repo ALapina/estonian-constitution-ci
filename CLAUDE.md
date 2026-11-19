@@ -31,4 +31,4 @@ Graded Estonian stories with audio for the Estonian citizenship exam on the Cons
 
 - Commit and push only when the author asks. GitHub Pages deploys `main` through `.github/workflows/deploy.yml`.
 - Commits use the repo-local identity `Anna Lapina <alapina@outlook.com>`. The machine's global git email is a work address and stays out of this repository; after a fresh clone, set `git config user.name` and `user.email` before the first commit.
-- `public/audio/` stays out of git until the author settles the voices and the bitrate; the small voice samples in `public/audio/voices/` are committed.
+- Text audio in `public/audio/<id>/` is committed together with its batch (voices and bitrate settled 19.11). Regenerate an MP3 only when its text changed: every version stays in git history (DESIGN.md 6).
