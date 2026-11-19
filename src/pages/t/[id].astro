@@ -1,6 +1,7 @@
 ---
 import { existsSync } from 'node:fs';
 import LawBlock from '../../components/LawBlock.astro';
+import TextMarks from '../../components/TextMarks';
 import Base from '../../layouts/Base.astro';
 import { allTexts, STAGE_TITLES } from '../../lib/content';
 import type { QuestionType, Segment, TextEntry } from '../../lib/types';
@@ -106,6 +107,8 @@ const next = texts[index + 1];
         </section>
       )
     }
+
+    <TextMarks client:load id={text.id} />
   </article>
 
   <nav class="pager" aria-label="Соседние тексты">

@@ -351,7 +351,7 @@ The author needs the browser storage to stay correct, so:
 - every read and write is wrapped in try/catch, and the site works without storage;
 - phase 2 adds export and import of the whole state as a JSON file, as a backup.
 
-Stored: read texts, difficult words (by lemma, so every form is highlighted), playback speed, answers, difficulty ratings.
+Stored: read texts, difficult words (by lemma, so every form is highlighted), playback speed, answers, difficulty ratings. Since 19.11 the state is `{ "version": 1, "texts": { "<id>": { "read": "<ISO time>", "rating": "easy" | "fine" | "hard" } } }` (`src/lib/state.ts`); later fields join this object.
 
 ### 7.5 Phases
 
@@ -550,3 +550,4 @@ None. The author settled P1-P6 on 18.11 (section 14).
 | 18.11 | author | The young couple are Maksim and Katja Saar; Maksim's grandfather is Johannes Saar of Tartu |
 | 18.11 | author | Maksim and Katja come from Ukraine (Kharkiv); the agent's background: in Tallinn since 2019, Maksim finds his grandfather's passport in stage 1 |
 | 18.11 | author | Commits use the author's personal identity, Anna Lapina <alapina@outlook.com>, never the work email |
+| 19.11 | agent | Phase 1 starts with the read mark and the rating: rating a text also marks it read; the home page shows progress, a "continue" link to the first unread text, a badge per text and filters "all / unread / hard" for rereading |
