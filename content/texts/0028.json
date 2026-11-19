@@ -1,0 +1,2339 @@
+{
+  "id": "0028",
+  "slot": "s028",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Sergei kohtuasi",
+  "law": [
+    "ps-15"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Neljapäeva õhtul tuli Sergei koju vihane.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Neljapäeva",
+          "l": "neljapäev",
+          "p": "S",
+          "parts": [
+            "neli",
+            "päev"
+          ]
+        },
+        {
+          "f": "õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "Sergei",
+          "l": "Sergei",
+          "p": "H"
+        },
+        {
+          "f": "koju",
+          "l": "kodu",
+          "p": "S"
+        },
+        {
+          "f": "vihane",
+          "l": "vihane",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Tal oli käes paber Tallinna linnalt: ta pidi maksma 60 eurot, sest tema tööauto seisis vales kohas.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Tal",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "käes",
+          "l": "käsi",
+          "p": "S"
+        },
+        {
+          "f": "paber",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": "Tallinna",
+          "l": "Tallinn",
+          "p": "H"
+        },
+        {
+          "f": "linnalt",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "pidi",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "maksma",
+          "l": "maksma",
+          "p": "V"
+        },
+        {
+          "f": "60",
+          "l": "60",
+          "p": "N"
+        },
+        {
+          "f": "eurot",
+          "l": "euro",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sest",
+          "l": "sest",
+          "p": "J"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "tööauto",
+          "l": "tööauto",
+          "p": "S",
+          "parts": [
+            "töö",
+            "auto"
+          ]
+        },
+        {
+          "f": "seisis",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": "vales",
+          "l": "vale",
+          "p": "A"
+        },
+        {
+          "f": "kohas",
+          "l": "koht",
+          "p": "S",
+          "alt": [
+            "koha"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Ma tõin haiglasse kaste. Märgi peal oli lumi ja ma ei näinud seda. Auto seisis seal ainult viis minutit!“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tõin",
+          "l": "tooma",
+          "p": "V"
+        },
+        {
+          "f": "haiglasse",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "kaste",
+          "l": "kaste",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Märgi",
+          "l": "märk",
+          "p": "S"
+        },
+        {
+          "f": "peal",
+          "l": "peal",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lumi",
+          "l": "lumi",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "näinud",
+          "l": "nägema",
+          "p": "V",
+          "alt": [
+            "näinud",
+            "näima"
+          ]
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Auto",
+          "l": "auto",
+          "p": "S"
+        },
+        {
+          "f": "seisis",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": "seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "viis",
+          "l": "viis",
+          "p": "N"
+        },
+        {
+          "f": "minutit",
+          "l": "minut",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kuuskümmend eurot! Meil on püsiv sissetulek, aga see ei ole suur.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kuuskümmend",
+          "l": "kuuskümmend",
+          "p": "N",
+          "parts": [
+            "kuus",
+            "kümmend"
+          ]
+        },
+        {
+          "f": "eurot",
+          "l": "euro",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Meil",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "püsiv",
+          "l": "püsiv",
+          "p": "A"
+        },
+        {
+          "f": "sissetulek",
+          "l": "sissetulek",
+          "p": "S",
+          "parts": [
+            "sisse",
+            "tulek"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "suur",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Hiljem tuli Mari neile teed jooma.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Hiljem",
+          "l": "hiljem",
+          "p": "D"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "neile",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "teed",
+          "l": "tee",
+          "p": "S"
+        },
+        {
+          "f": "jooma",
+          "l": "jooma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Mari, kas ma võin linnaga kohtusse minna? Ma elan Eestis püsivalt, aga mul ei ole kodakondsust, ainult elamisluba.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "võin",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "linnaga",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "kohtusse",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "minna",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "elan",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": "Eestis",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "püsivalt",
+          "l": "püsivalt",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "mul",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "elamisluba",
+          "l": "elamisluba",
+          "p": "S",
+          "parts": [
+            "elamis",
+            "luba"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Võid küll. Paragrahv 15 ütleb: igaühel on õigus pöörduda oma õiguste ja vabaduste rikkumise korral kohtusse. Igaühel, ka sinul. Kodakondsus ei ole selleks vajalik.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Võid",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "küll",
+          "l": "küll",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "15",
+          "l": "15",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "pöörduda",
+          "l": "pöörduma",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "õiguste",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vabaduste",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "rikkumise",
+          "l": "rikkumine",
+          "p": "S"
+        },
+        {
+          "f": "korral",
+          "l": "korral",
+          "p": "K"
+        },
+        {
+          "f": "kohtusse",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "sinul",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kodakondsus",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "selleks",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "vajalik",
+          "l": "vajalik",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Rikkumise korral? Mis see tähendab?“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Rikkumise",
+          "l": "rikkumine",
+          "p": "S"
+        },
+        {
+          "f": "korral",
+          "l": "korral",
+          "p": "K"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Kui linn võtab sinult raha vale otsusega, võib see olla rikkumine. Linn on kohalik omavalitsus ja otsustab kohaliku elu küsimuste üle, näiteks selle üle, kus autod seisavad. See ei ole riiklik otsus. Aga ka linn peab seadust järgima.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "võtab",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "sinult",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "raha",
+          "l": "raha",
+          "p": "S"
+        },
+        {
+          "f": "vale",
+          "l": "vale",
+          "p": "A"
+        },
+        {
+          "f": "otsusega",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "rikkumine",
+          "l": "rikkumine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohalik",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsus",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "otsustab",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": "kohaliku",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "elu",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": "küsimuste",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": "üle",
+          "l": "üle",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "näiteks",
+          "l": "näiteks",
+          "p": "D"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "üle",
+          "l": "üle",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kus",
+          "l": "kus",
+          "p": "D"
+        },
+        {
+          "f": "autod",
+          "l": "auto",
+          "p": "S"
+        },
+        {
+          "f": "seisavad",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "riiklik",
+          "l": "riiklik",
+          "p": "A"
+        },
+        {
+          "f": "otsus",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "seadust",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "järgima",
+          "l": "järgima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Aga kohus maksab palju raha!“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "maksab",
+          "l": "maksma",
+          "p": "V"
+        },
+        {
+          "f": "palju",
+          "l": "palju",
+          "p": "D"
+        },
+        {
+          "f": "raha",
+          "l": "raha",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Kõigepealt kirjuta linnale ja räägi, mis juhtus. Kui linn ei kuula, võid minna kohtusse. Siis on see sinu kohtuasi.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kõigepealt",
+          "l": "kõigepealt",
+          "p": "D",
+          "parts": [
+            "kõige",
+            "pealt"
+          ]
+        },
+        {
+          "f": "kirjuta",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "linnale",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "räägi",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "juhtus",
+          "l": "juhtuma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "kuula",
+          "l": "kuulama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "võid",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "minna",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "kohtusse",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "kohtuasi",
+          "l": "kohtuasi",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "asi"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Minu kohtuasi! See on tõsine asi.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "kohtuasi",
+          "l": "kohtuasi",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "asi"
+          ]
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tõsine",
+          "l": "tõsine",
+          "p": "A"
+        },
+        {
+          "f": "asi",
+          "l": "asi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Õigusakt on näiteks seadus või linna kord. Toiming on see, mida ametnik teeb. Mõni õigusakt või toiming võib olla asjassepuutuv. See tähendab, et see kuulub sinu asja juurde. Siis võid sa kohtus nõuda, et kohus tunnistab selle põhiseadusevastaseks.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Õigusakt",
+          "l": "õigusakt",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "akt"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "näiteks",
+          "l": "näide",
+          "p": "S"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "linna",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "kord",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Toiming",
+          "l": "toiming",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "ametnik",
+          "l": "ametnik",
+          "p": "S"
+        },
+        {
+          "f": "teeb",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mõni",
+          "l": "mõni",
+          "p": "P"
+        },
+        {
+          "f": "õigusakt",
+          "l": "õigusakt",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "akt"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "toiming",
+          "l": "toiming",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "asjassepuutuv",
+          "l": "asjassepuutuv",
+          "p": "A",
+          "parts": [
+            "asi",
+            "puutuv"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kuulub",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "asja",
+          "l": "asi",
+          "p": "S"
+        },
+        {
+          "f": "juurde",
+          "l": "juurde",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "võid",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "kohtus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "nõuda",
+          "l": "nõudma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "tunnistab",
+          "l": "tunnistama",
+          "p": "V"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "põhiseadusevastaseks",
+          "l": "põhiseadusevastane",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seadus",
+            "vastane"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Ja autode kohad? Kas need on põhiseaduses sätestatud?“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "autode",
+          "l": "auto",
+          "p": "S"
+        },
+        {
+          "f": "kohad",
+          "l": "koht",
+          "p": "S",
+          "alt": [
+            "koha"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "need",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "põhiseaduses",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mari naeris.",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "naeris",
+          "l": "naerma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Ei. Aga sinu õigus kohtusse minna on põhiseaduses sätestatud. See on sinu põhiseaduslik õigus. Kui õigusakt või toiming on põhiseadusega vastuolus, tunnistab kohus selle põhiseadusevastaseks. Ja õigust mõistab ainult kohus. Kohus on sõltumatu: linn ei saa talle öelda, mida teha.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "kohtusse",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "minna",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "põhiseaduses",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "põhiseaduslik",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "õigusakt",
+          "l": "õigusakt",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "akt"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "toiming",
+          "l": "toiming",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "põhiseadusega",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "vastuolus",
+          "l": "vastuolu",
+          "p": "S",
+          "parts": [
+            "vastu",
+            "olu"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tunnistab",
+          "l": "tunnistama",
+          "p": "V"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "põhiseadusevastaseks",
+          "l": "põhiseadusevastane",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seadus",
+            "vastane"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "mõistab",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sõltumatu",
+          "l": "sõltumatu",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "saa",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "talle",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "öelda",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "teha",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Minu asi ja põhiseadus ei ole vastuolus. See on lihtsalt vale otsus.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "asi",
+          "l": "asi",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vastuolus",
+          "l": "vastuolu",
+          "p": "S",
+          "parts": [
+            "vastu",
+            "olu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lihtsalt",
+          "l": "lihtsalt",
+          "p": "D"
+        },
+        {
+          "f": "vale",
+          "l": "vale",
+          "p": "A"
+        },
+        {
+          "f": "otsus",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Siis kirjuta linnale. Aga ära kirjuta kümme lehte. Paber tuleb metsast ja mets on loodusressurss!“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "kirjuta",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "linnale",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "V"
+        },
+        {
+          "f": "kirjuta",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "kümme",
+          "l": "kümme",
+          "p": "N"
+        },
+        {
+          "f": "lehte",
+          "l": "leht",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paber",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": "tuleb",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "metsast",
+          "l": "mets",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "mets",
+          "l": "mets",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "loodusressurss",
+          "l": "loodusressurss",
+          "p": "S",
+          "parts": [
+            "loodus",
+            "ressurss"
+          ]
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Üks leht. Ja kui vaja, lähen kohtusse.“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "leht",
+          "l": "leht",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "vaja",
+          "l": "vaja",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "lähen",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "kohtusse",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "rikkumise korral",
+      "lemma": "rikkumise korral",
+      "translation": "в случае нарушения"
+    },
+    {
+      "form": "korral",
+      "lemma": "korral",
+      "translation": "в случае"
+    },
+    {
+      "form": "rikkumise",
+      "lemma": "rikkumine",
+      "translation": "нарушение"
+    },
+    {
+      "form": "kohaliku elu küsimuste üle",
+      "lemma": "kohaliku elu küsimuste üle otsustama",
+      "translation": "решать вопросы местной жизни"
+    },
+    {
+      "form": "kohtuasi",
+      "lemma": "kohtuasi",
+      "translation": "судебное дело"
+    },
+    {
+      "form": "Õigusakt",
+      "lemma": "õigusakt",
+      "translation": "правовой акт"
+    },
+    {
+      "form": "Toiming",
+      "lemma": "toiming",
+      "translation": "действие (органа власти)"
+    },
+    {
+      "form": "asjassepuutuv",
+      "lemma": "asjassepuutuv",
+      "translation": "относящийся к делу"
+    },
+    {
+      "form": "sätestatud",
+      "lemma": "sätestatud",
+      "translation": "установленный, закреплённый (в законе)"
+    },
+    {
+      "form": "vastuolus",
+      "lemma": "vastuolu",
+      "translation": "противоречие (vastuolus olema — противоречить)"
+    },
+    {
+      "form": "põhiseadusevastaseks",
+      "lemma": "põhiseadusevastane",
+      "translation": "противоречащий конституции, неконституционный"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus pöörduda oma õiguste ja vabaduste rikkumise korral kohtusse. (§ 15)",
+      "ref": "ps-15-lg1"
+    },
+    {
+      "text": "Igaüks võib oma kohtuasjas nõuda asjassepuutuva seaduse, muu õigusakti või toimingu põhiseadusevastaseks tunnistamist. (§ 15)",
+      "ref": "ps-15-lg1"
+    },
+    {
+      "text": "Kohus tunnistab põhiseadusevastaseks seaduse, muu õigusakti või toimingu, mis rikub põhiseaduses sätestatud õigusi ja vabadusi või on põhiseadusega vastuolus. (§ 15)",
+      "ref": "ps-15-lg2"
+    },
+    {
+      "text": "Õigust mõistab ainult kohus. Kohus on oma tegevuses sõltumatu. (§ 146)",
+      "ref": "ps-146"
+    }
+  ],
+  "questions": [
+    {
+      "type": "truefalse",
+      "text": "Õigus pöörduda oma õiguste rikkumise korral kohtusse on ainult Eesti kodanikel.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 15 ütleb: igaühel on õigus pöörduda oma õiguste ja vabaduste rikkumise korral kohtusse. Igaüks tähendab ka välismaalast ja inimest, kellel ei ole kodakondsust.",
+      "ref": "ps-15-lg1"
+    },
+    {
+      "type": "choice",
+      "text": "Kes mõistab Eestis õigust?",
+      "options": [
+        "Riigikogu",
+        "ainult kohus",
+        "Vabariigi Valitsus",
+        "kohalik omavalitsus"
+      ],
+      "answer": 1,
+      "explanation": "§ 146 ütleb: õigust mõistab ainult kohus. Kohus on oma tegevuses sõltumatu.",
+      "ref": "ps-146"
+    }
+  ],
+  "audio": {
+    "story": "audio/0028/story.mp3",
+    "law": "audio/0028/law.mp3",
+    "timings": "audio/0028/timings.json"
+  }
+}

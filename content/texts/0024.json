@@ -1,0 +1,2013 @@
+{
+  "id": "0024",
+  "slot": "s024",
+  "stage": 1,
+  "area": 2,
+  "type": "side",
+  "title": "Korter Tartus",
+  "law": [
+    "ps-12"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "leila": {
+      "name": "Leila",
+      "voice": "kylli",
+      "note": "a student in Tartu"
+    },
+    "aino": {
+      "name": "Aino",
+      "voice": "vesta",
+      "note": "Leila's friend, a law student"
+    },
+    "landlord": {
+      "name": "Korteri omanik",
+      "voice": "albert",
+      "note": "a landlord in Tartu"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Leila oli tulnud Saksamaalt, teisest Euroopa Liidu riigist.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Leila",
+          "l": "Leila",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tulnud",
+          "l": "tulema",
+          "p": "V",
+          "alt": [
+            "tulnud"
+          ]
+        },
+        {
+          "f": "Saksamaalt",
+          "l": "Saksamaa",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "teisest",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "Euroopa",
+          "l": "Euroopa",
+          "p": "H"
+        },
+        {
+          "f": "Liidu",
+          "l": "Liit",
+          "p": "H",
+          "alt": [
+            "Liidu",
+            "Liidud"
+          ]
+        },
+        {
+          "f": "riigist",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta õppis Tartus juba kolm aastat ja otsis uut korterit.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "õppis",
+          "l": "õppima",
+          "p": "V"
+        },
+        {
+          "f": "Tartus",
+          "l": "Tartu",
+          "p": "H"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": "kolm",
+          "l": "kolm",
+          "p": "N"
+        },
+        {
+          "f": "aastat",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "otsis",
+          "l": "otsima",
+          "p": "V"
+        },
+        {
+          "f": "uut",
+          "l": "uus",
+          "p": "A"
+        },
+        {
+          "f": "korterit",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ühel päeval leidis ta internetist väikese korteri vanalinna lähedal.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Ühel",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "päeval",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": "leidis",
+          "l": "leidma",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "internetist",
+          "l": "internet",
+          "p": "S"
+        },
+        {
+          "f": "väikese",
+          "l": "väike",
+          "p": "A",
+          "alt": [
+            "väikene"
+          ]
+        },
+        {
+          "f": "korteri",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": "vanalinna",
+          "l": "vanalinn",
+          "p": "S",
+          "parts": [
+            "vana",
+            "linn"
+          ]
+        },
+        {
+          "f": "lähedal",
+          "l": "lähedal",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Omanik oli kohalik mees ja nad kohtusid korteri ukse ees.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Omanik",
+          "l": "omanik",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohalik",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "nad",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kohtusid",
+          "l": "kohtuma",
+          "p": "V"
+        },
+        {
+          "f": "korteri",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": "ukse",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "landlord",
+      "text": "„Sinu nimi on Leila? Sa ei ole eestlane. Ma annan korteri üürile ainult eestlasele. Ja tudengitel ei ole kunagi raha.“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "nimi",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Leila",
+          "l": "Leila",
+          "p": "H"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "eestlane",
+          "l": "eestlane",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "annan",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": "korteri",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": "üürile",
+          "l": "üür",
+          "p": "S"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "eestlasele",
+          "l": "eestlane",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tudengitel",
+          "l": "tudeng",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kunagi",
+          "l": "kunagi",
+          "p": "D"
+        },
+        {
+          "f": "raha",
+          "l": "raha",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Leila rääkis eesti keelt hästi ja tal oli töö kohvikus, aga mees pani ukse kinni.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Leila",
+          "l": "Leila",
+          "p": "H"
+        },
+        {
+          "f": "rääkis",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "eesti",
+          "l": "eesti",
+          "p": "G"
+        },
+        {
+          "f": "keelt",
+          "l": "keel",
+          "p": "S"
+        },
+        {
+          "f": "hästi",
+          "l": "hästi",
+          "p": "D"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tal",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "töö",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "kohvikus",
+          "l": "kohvik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "pani",
+          "l": "panema",
+          "p": "V"
+        },
+        {
+          "f": "ukse",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "kinni",
+          "l": "kinni",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õhtul istus Leila oma sõbra Aino juures.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "istus",
+          "l": "istuma",
+          "p": "V"
+        },
+        {
+          "f": "Leila",
+          "l": "Leila",
+          "p": "H"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "sõbra",
+          "l": "sõber",
+          "p": "S"
+        },
+        {
+          "f": "Aino",
+          "l": "Aino",
+          "p": "H"
+        },
+        {
+          "f": "juures",
+          "l": "juures",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Aino õppis seadusi ja tal oli väga hea mälu.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Aino",
+          "l": "Aino",
+          "p": "H"
+        },
+        {
+          "f": "õppis",
+          "l": "õppima",
+          "p": "V"
+        },
+        {
+          "f": "seadusi",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tal",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "väga",
+          "l": "väga",
+          "p": "D"
+        },
+        {
+          "f": "hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "mälu",
+          "l": "mälu",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "aino",
+      "text": "„Põhiseaduse kaheteistkümnes paragrahv ütleb: kõik on seaduse ees võrdsed. See tähendab, et kelleltki ei tohi võtta võrdset õigust tema rahvuse või varalise seisundi tõttu.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "kaheteistkümnes",
+          "l": "kaheteistkümnes",
+          "p": "O",
+          "parts": [
+            "kaks",
+            "teine",
+            "kümnes"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "võrdsed",
+          "l": "võrdne",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "kelleltki",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "võrdset",
+          "l": "võrdne",
+          "p": "A"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "rahvuse",
+          "l": "rahvus",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "varalise",
+          "l": "varaline",
+          "p": "A"
+        },
+        {
+          "f": "seisundi",
+          "l": "seisund",
+          "p": "S"
+        },
+        {
+          "f": "tõttu",
+          "l": "tõttu",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "leila",
+      "text": "„Varalise seisundi? Mis see on?“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Varalise",
+          "l": "varaline",
+          "p": "A"
+        },
+        {
+          "f": "seisundi",
+          "l": "seisund",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "aino",
+      "text": "„See, kas sul on raha ja vara või ei ole – see on sinu varaline seisund. Ja seal on veel: muude asjaolude tõttu.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "sul",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "raha",
+          "l": "raha",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vara",
+          "l": "vara",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "–",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "varaline",
+          "l": "varaline",
+          "p": "A"
+        },
+        {
+          "f": "seisund",
+          "l": "seisund",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "muude",
+          "l": "muu",
+          "p": "P"
+        },
+        {
+          "f": "asjaolude",
+          "l": "asjaolu",
+          "p": "S",
+          "parts": [
+            "asi",
+            "olu"
+          ]
+        },
+        {
+          "f": "tõttu",
+          "l": "tõttu",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "leila",
+      "text": "„Rahvus, keel, raha... Ja iga muu asjaolu.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Rahvus",
+          "l": "rahvus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "keel",
+          "l": "keel",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "raha",
+          "l": "raha",
+          "p": "S"
+        },
+        {
+          "f": "...",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "iga",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "muu",
+          "l": "muu",
+          "p": "P"
+        },
+        {
+          "f": "asjaolu",
+          "l": "asjaolu",
+          "p": "S",
+          "parts": [
+            "asi",
+            "olu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "aino",
+      "text": "„Jah. Kõik on seaduse ees võrdsed, ükskõik millised on need asjaolud. Eesti on demokraatlik vabariik, see on tähtis.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "võrdsed",
+          "l": "võrdne",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ükskõik",
+          "l": "ükskõik",
+          "p": "D",
+          "parts": [
+            "üks",
+            "kõik"
+          ]
+        },
+        {
+          "f": "millised",
+          "l": "milline",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "need",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "asjaolud",
+          "l": "asjaolu",
+          "p": "S",
+          "parts": [
+            "asi",
+            "olu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "demokraatlik",
+          "l": "demokraatlik",
+          "p": "A",
+          "parts": [
+            "demo",
+            "kraatlik"
+          ]
+        },
+        {
+          "f": "vabariik",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tähtis",
+          "l": "tähtis",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Leila kirjutas internetti loo sellest päevast.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Leila",
+          "l": "Leila",
+          "p": "H"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "internetti",
+          "l": "internet",
+          "p": "S"
+        },
+        {
+          "f": "loo",
+          "l": "lugu",
+          "p": "S",
+          "alt": [
+            "lood",
+            "loog"
+          ]
+        },
+        {
+          "f": "sellest",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "päevast",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Loo all oli nagu hääletamine: paljud inimesed panid loole südame.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Loo",
+          "l": "lugu",
+          "p": "S",
+          "alt": [
+            "lood",
+            "loog"
+          ]
+        },
+        {
+          "f": "all",
+          "l": "all",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "hääletamine",
+          "l": "hääletamine",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "paljud",
+          "l": "palju",
+          "p": "P"
+        },
+        {
+          "f": "inimesed",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "panid",
+          "l": "panema",
+          "p": "V"
+        },
+        {
+          "f": "loole",
+          "l": "lugu",
+          "p": "S",
+          "alt": [
+            "lood",
+            "loog"
+          ]
+        },
+        {
+          "f": "südame",
+          "l": "süda",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Aga üks inimene kirjutas kurja kommentaari Leila usu kohta ja õhutas vägivalda.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "kurja",
+          "l": "kuri",
+          "p": "A"
+        },
+        {
+          "f": "kommentaari",
+          "l": "kommentaar",
+          "p": "S"
+        },
+        {
+          "f": "Leila",
+          "l": "Leila",
+          "p": "H"
+        },
+        {
+          "f": "usu",
+          "l": "usk",
+          "p": "S"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "õhutas",
+          "l": "õhutama",
+          "p": "V"
+        },
+        {
+          "f": "vägivalda",
+          "l": "vägivald",
+          "p": "S",
+          "parts": [
+            "vägi",
+            "vald"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "leila",
+      "text": "„Kas see on ka arvamus?“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "arvamus",
+          "l": "arvamus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "aino",
+      "text": "„Ei. Paragrahvi teine lõige keelab seda. Usulist vihkamist ja vägivalda õhutada on seadusega keelatud ja selle eest võib saada karistuse.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahvi",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": "keelab",
+          "l": "keelama",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Usulist",
+          "l": "usuline",
+          "p": "A"
+        },
+        {
+          "f": "vihkamist",
+          "l": "vihkamine",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vägivalda",
+          "l": "vägivald",
+          "p": "S",
+          "parts": [
+            "vägi",
+            "vald"
+          ]
+        },
+        {
+          "f": "õhutada",
+          "l": "õhutama",
+          "p": "V"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "seadusega",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "keelatud",
+          "l": "keelama",
+          "p": "V",
+          "alt": [
+            "keelatud"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "eest",
+          "l": "eest",
+          "p": "K"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "saada",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "karistuse",
+          "l": "karistus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "leila",
+      "text": "„Kes otsustab, kas see inimene on süüdi?“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "otsustab",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "aino",
+      "text": "„Kohus. Aga usulist vihkamist ja vägivalda õhutada ei ole lihtsalt arvamus. See on keelatud.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "usulist",
+          "l": "usuline",
+          "p": "A"
+        },
+        {
+          "f": "vihkamist",
+          "l": "vihkamine",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vägivalda",
+          "l": "vägivald",
+          "p": "S",
+          "parts": [
+            "vägi",
+            "vald"
+          ]
+        },
+        {
+          "f": "õhutada",
+          "l": "õhutama",
+          "p": "V"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lihtsalt",
+          "l": "lihtsalt",
+          "p": "D"
+        },
+        {
+          "f": "arvamus",
+          "l": "arvamus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "keelatud",
+          "l": "keelama",
+          "p": "V",
+          "alt": [
+            "keelatud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Leila tegi kommentaarist pildi.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Leila",
+          "l": "Leila",
+          "p": "H"
+        },
+        {
+          "f": "tegi",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "kommentaarist",
+          "l": "kommentaar",
+          "p": "S"
+        },
+        {
+          "f": "pildi",
+          "l": "pilt",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis ta naeratas.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "naeratas",
+          "l": "naeratama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "leila",
+      "text": "„Homme otsin uut korterit. Ja ma tean nüüd oma õigusi.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Homme",
+          "l": "homme",
+          "p": "D"
+        },
+        {
+          "f": "otsin",
+          "l": "otsima",
+          "p": "V"
+        },
+        {
+          "f": "uut",
+          "l": "uus",
+          "p": "A"
+        },
+        {
+          "f": "korterit",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tean",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": "nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "õigusi",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "seisundi",
+      "lemma": "seisund",
+      "translation": "положение, состояние (varaline seisund — имущественное положение)"
+    },
+    {
+      "form": "asjaolu",
+      "lemma": "asjaolu",
+      "translation": "обстоятельство"
+    },
+    {
+      "form": "varalise",
+      "lemma": "varaline",
+      "translation": "имущественный"
+    },
+    {
+      "form": "usulist",
+      "lemma": "usuline",
+      "translation": "религиозный"
+    },
+    {
+      "form": "vägivalda",
+      "lemma": "vägivald",
+      "translation": "насилие"
+    },
+    {
+      "form": "õhutas",
+      "lemma": "õhutama",
+      "translation": "разжигать, подстрекать"
+    },
+    {
+      "form": "keelab",
+      "lemma": "keelama",
+      "translation": "запрещать"
+    },
+    {
+      "form": "keelatud",
+      "lemma": "keelatud",
+      "translation": "запрещённый"
+    },
+    {
+      "form": "vihkamist",
+      "lemma": "vihkamine",
+      "translation": "ненависть"
+    },
+    {
+      "form": "asjaolude tõttu",
+      "lemma": "asjaolude tõttu",
+      "translation": "по признаку (иных) обстоятельств, из-за обстоятельств"
+    },
+    {
+      "form": "Kelleltki ei tohi",
+      "lemma": "kelleltki ei tohi",
+      "translation": "ни у кого нельзя"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Kõik on seaduse ees võrdsed. (§ 12)",
+      "ref": "ps-12-lg1"
+    },
+    {
+      "text": "Kedagi ei tohi diskrimineerida rahvuse, rassi, nahavärvuse, soo, keele, päritolu, usutunnistuse, veendumuste, varalise ja sotsiaalse seisundi või muude asjaolude tõttu. (§ 12)",
+      "ref": "ps-12-lg1"
+    },
+    {
+      "text": "Rahvusliku, rassilise, usulise või poliitilise vihkamise, vägivalla ja diskrimineerimise õhutamine on seadusega keelatud ja karistatav. (§ 12)",
+      "ref": "ps-12-lg2"
+    },
+    {
+      "text": "Täidesaatev riigivõim kuulub Vabariigi Valitsusele. (§ 86)",
+      "ref": "ps-86"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Mis on põhiseaduse § 12 järgi seadusega keelatud ja karistatav?",
+      "options": [
+        "oma arvamuse avaldamine",
+        "usulise vihkamise ja vägivalla õhutamine",
+        "korteri üürimine tudengile",
+        "kriitika valitsuse kohta"
+      ],
+      "answer": 1,
+      "explanation": "§ 12 lõige 2 ütleb: rahvusliku, rassilise, usulise või poliitilise vihkamise, vägivalla ja diskrimineerimise õhutamine on seadusega keelatud ja karistatav.",
+      "ref": "ps-12-lg2"
+    },
+    {
+      "type": "truefalse",
+      "text": "Täidesaatev riigivõim kuulub Riigikogule.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 86 ütleb: täidesaatev riigivõim kuulub Vabariigi Valitsusele. Riigikogule kuulub seadusandlik võim (§ 59).",
+      "ref": "ps-86"
+    }
+  ],
+  "audio": {
+    "story": "audio/0024/story.mp3",
+    "law": "audio/0024/law.mp3",
+    "timings": "audio/0024/timings.json"
+  }
+}

@@ -1,0 +1,2315 @@
+{
+  "id": "0029",
+  "slot": "s029",
+  "stage": 1,
+  "area": 2,
+  "type": "side",
+  "title": "Jää Pärnus",
+  "law": [
+    "ps-16"
+  ],
+  "editions": {
+    "ps": "111042025003",
+    "kods": "126062025008"
+  },
+  "tags": [
+    "932 SE"
+  ],
+  "cast": {
+    "svetlana": {
+      "name": "Svetlana",
+      "voice": "kylli",
+      "note": "paramedic in Pärnu, stateless, preparing for the Constitution exam"
+    },
+    "partner": {
+      "name": "Toomas",
+      "voice": "albert",
+      "note": "Svetlana's partner on the ambulance, an Estonian citizen"
+    },
+    "fisherman": {
+      "name": "Daniel",
+      "voice": "indrek",
+      "note": "a fisherman who fell through the ice"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Oli detsembri algus ja Pärnu jõel oli esimene jää.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "detsembri",
+          "l": "detsember",
+          "p": "S"
+        },
+        {
+          "f": "algus",
+          "l": "algus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Pärnu",
+          "l": "Pärnu",
+          "p": "H"
+        },
+        {
+          "f": "jõel",
+          "l": "jõgi",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "esimene",
+          "l": "esimene",
+          "p": "O"
+        },
+        {
+          "f": "jää",
+          "l": "jää",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Svetlana töötas kiirabis ja sel päeval sõitis ta koos kolleeg Toomasega.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Svetlana",
+          "l": "Svetlana",
+          "p": "H"
+        },
+        {
+          "f": "töötas",
+          "l": "töötama",
+          "p": "V"
+        },
+        {
+          "f": "kiirabis",
+          "l": "kiirabi",
+          "p": "S",
+          "parts": [
+            "kiir",
+            "abi"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sel",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "päeval",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": "sõitis",
+          "l": "sõitma",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "kolleeg",
+          "l": "kolleeg",
+          "p": "S"
+        },
+        {
+          "f": "Toomasega",
+          "l": "Toomas",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Häirekeskusest tuli korraldus: sõitke kohe jõe juurde, üks kalur kukkus läbi jää!",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Häirekeskusest",
+          "l": "häirekeskus",
+          "p": "S",
+          "parts": [
+            "häire",
+            "keskus"
+          ]
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "korraldus",
+          "l": "korraldus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sõitke",
+          "l": "sõitma",
+          "p": "V"
+        },
+        {
+          "f": "kohe",
+          "l": "kohe",
+          "p": "D"
+        },
+        {
+          "f": "jõe",
+          "l": "jõgi",
+          "p": "S"
+        },
+        {
+          "f": "juurde",
+          "l": "juurde",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "kalur",
+          "l": "kalur",
+          "p": "S"
+        },
+        {
+          "f": "kukkus",
+          "l": "kukkuma",
+          "p": "V"
+        },
+        {
+          "f": "läbi",
+          "l": "läbi",
+          "p": "K"
+        },
+        {
+          "f": "jää",
+          "l": "jää",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kui nad kohale jõudsid, hoidis üks mees kalurit kinni.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "nad",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kohale",
+          "l": "kohale",
+          "p": "D"
+        },
+        {
+          "f": "jõudsid",
+          "l": "jõudma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "hoidis",
+          "l": "hoidma",
+          "p": "V"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "kalurit",
+          "l": "kalur",
+          "p": "S"
+        },
+        {
+          "f": "kinni",
+          "l": "kinni",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kalur oli märg ja tal oli tume nahavärvus.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Kalur",
+          "l": "kalur",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "märg",
+          "l": "märg",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tal",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tume",
+          "l": "tume",
+          "p": "A"
+        },
+        {
+          "f": "nahavärvus",
+          "l": "nahavärvus",
+          "p": "S",
+          "parts": [
+            "nahk",
+            "värvus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Svetlana ja Toomas tõid ta kiiresti oma autosse.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Svetlana",
+          "l": "Svetlana",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Toomas",
+          "l": "Toomas",
+          "p": "H"
+        },
+        {
+          "f": "tõid",
+          "l": "tooma",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kiiresti",
+          "l": "kiiresti",
+          "p": "D"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "autosse",
+          "l": "auto",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mees oli väga külm, aga elus.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "väga",
+          "l": "väga",
+          "p": "D"
+        },
+        {
+          "f": "külm",
+          "l": "külm",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "elus",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "fisherman",
+      "text": "„Aitäh... Te ei küsinudki, kes ma olen.“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aitäh",
+          "l": "aitäh",
+          "p": "I"
+        },
+        {
+          "f": "...",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Te",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "küsinudki",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "svetlana",
+      "text": "„Meie töö on elu päästa. Me ei küsi nime, passi ega nahavärvust.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "töö",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "elu",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": "päästa",
+          "l": "päästma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Me",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "küsi",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": "nime",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "passi",
+          "l": "pass",
+          "p": "S"
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "nahavärvust",
+          "l": "nahavärvus",
+          "p": "S",
+          "parts": [
+            "nahk",
+            "värvus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Haiglas läks kaluril paremaks ja ta ütles, et tema nimi on Daniel.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Haiglas",
+          "l": "Haiglas",
+          "p": "H"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "kaluril",
+          "l": "kalur",
+          "p": "S"
+        },
+        {
+          "f": "paremaks",
+          "l": "parem",
+          "p": "C"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ütles",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "nimi",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Daniel",
+          "l": "Daniel",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õhtul jõid Svetlana ja Toomas kohvi.",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "Õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "jõid",
+          "l": "jooma",
+          "p": "V"
+        },
+        {
+          "f": "Svetlana",
+          "l": "Svetlana",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Toomas",
+          "l": "Toomas",
+          "p": "H"
+        },
+        {
+          "f": "kohvi",
+          "l": "kohv",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "partner",
+      "text": "„Põhiseaduse paragrahv 16 ütleb: igaühel on õigus elule. Seda õigust kaitseb seadus.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "16",
+          "l": "16",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "elule",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "kaitseb",
+          "l": "kaitsma",
+          "p": "V",
+          "alt": [
+            "kaitsema"
+          ]
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "svetlana",
+      "text": "„Ja meelevaldselt ei tohi kelleltki elu võtta. Kelleltki, ka inimeselt, kes on kohtu poolt süüdi tunnistatud. Õigus elule ei sõltu rahvuslikust päritolust ega nahavärvusest.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "meelevaldselt",
+          "l": "meelevaldselt",
+          "p": "D",
+          "parts": [
+            "meel",
+            "valdselt"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "kelleltki",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "elu",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kelleltki",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "inimeselt",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohtu",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "poolt",
+          "l": "poolt",
+          "p": "K"
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": "tunnistatud",
+          "l": "tunnistama",
+          "p": "V",
+          "alt": [
+            "tunnistatud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "elule",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "sõltu",
+          "l": "sõltuma",
+          "p": "V"
+        },
+        {
+          "f": "rahvuslikust",
+          "l": "rahvuslik",
+          "p": "A"
+        },
+        {
+          "f": "päritolust",
+          "l": "päritolu",
+          "p": "S",
+          "parts": [
+            "pärit",
+            "olu"
+          ]
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "nahavärvusest",
+          "l": "nahavärvus",
+          "p": "S",
+          "parts": [
+            "nahk",
+            "värvus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "partner",
+      "text": "„Sa tead põhiseadust paremini kui mina. Ja mina olen Eesti kodanik!“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "tead",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": "põhiseadust",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "paremini",
+          "l": "paremini",
+          "p": "D"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "mina",
+          "l": "mina",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "svetlana",
+      "text": "„Ma õpin. Mul ei ole kodakondsust, aga ma tahan saada Eesti kodanikuks.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "õpin",
+          "l": "õppima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mul",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tahan",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "saada",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikuks",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Svetlana võttis kotist vihiku, kus olid kodakondsuse seaduse paragrahvi 6 tingimused.",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "Svetlana",
+          "l": "Svetlana",
+          "p": "H"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "kotist",
+          "l": "kott",
+          "p": "S"
+        },
+        {
+          "f": "vihiku",
+          "l": "vihik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kus",
+          "l": "kus",
+          "p": "D"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kodakondsuse",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "paragrahvi",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "6",
+          "l": "6",
+          "p": "N"
+        },
+        {
+          "f": "tingimused",
+          "l": "tingimus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "svetlana",
+      "text": "„Vähemalt 15 aastat vana: jah. Pikaajalise elaniku elamisluba: jah. Kaheksa aastat Eestis, viis neist püsivalt: jah. Registreeritud elukoht Pärnus: jah. Eesti keel: eksam on tehtud. Püsiv sissetulek: kiirabi. Põhiseaduse ja kodakondsuse seaduse eksam: veel ei ole.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vähemalt",
+          "l": "vähemalt",
+          "p": "D"
+        },
+        {
+          "f": "15",
+          "l": "15",
+          "p": "N"
+        },
+        {
+          "f": "aastat",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Pikaajalise",
+          "l": "pikaajaline",
+          "p": "A",
+          "parts": [
+            "pikk",
+            "ajaline"
+          ]
+        },
+        {
+          "f": "elaniku",
+          "l": "elanik",
+          "p": "S"
+        },
+        {
+          "f": "elamisluba",
+          "l": "elamisluba",
+          "p": "S",
+          "parts": [
+            "elamis",
+            "luba"
+          ]
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kaheksa",
+          "l": "kaheksa",
+          "p": "N"
+        },
+        {
+          "f": "aastat",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "Eestis",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "viis",
+          "l": "viima",
+          "p": "V"
+        },
+        {
+          "f": "neist",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "püsivalt",
+          "l": "püsivalt",
+          "p": "D"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Registreeritud",
+          "l": "registreerima",
+          "p": "V",
+          "alt": [
+            "registreeritud"
+          ]
+        },
+        {
+          "f": "elukoht",
+          "l": "elukoht",
+          "p": "S",
+          "parts": [
+            "elu",
+            "koht"
+          ]
+        },
+        {
+          "f": "Pärnus",
+          "l": "Pärnu",
+          "p": "H"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "keel",
+          "l": "keel",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "eksam",
+          "l": "eksam",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tehtud",
+          "l": "tehtud",
+          "p": "A",
+          "alt": [
+            "tegema"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Püsiv",
+          "l": "püsiv",
+          "p": "A"
+        },
+        {
+          "f": "sissetulek",
+          "l": "sissetulek",
+          "p": "S",
+          "parts": [
+            "sisse",
+            "tulek"
+          ]
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kiirabi",
+          "l": "kiirabi",
+          "p": "S",
+          "parts": [
+            "kiir",
+            "abi"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kodakondsuse",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "eksam",
+          "l": "eksam",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "partner",
+      "text": "„Ja veel üks tingimus?“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "tingimus",
+          "l": "tingimus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "svetlana",
+      "text": "„Ma pean olema lojaalne Eesti riigile ja andma vande: „Taotledes Eesti kodakondsust, tõotan olla ustav Eesti põhiseaduslikule korrale.““",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "pean",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "olema",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lojaalne",
+          "l": "lojaalne",
+          "p": "A"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "riigile",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "andma",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": "vande",
+          "l": "vanne",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Taotledes",
+          "l": "taotlema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tõotan",
+          "l": "tõotama",
+          "p": "V"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ustav",
+          "l": "ustav",
+          "p": "A"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "põhiseaduslikule",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "korrale",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "partner",
+      "text": "„See tähendab, et sa järgid Eesti põhiseaduslikku korda. Paragrahv 54 ütleb veel: kui muid vahendeid ei ole, on igal Eesti kodanikul õigus osutada põhiseadusliku korra vägivaldsele muutmisele vastupanu.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "järgid",
+          "l": "järgima",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "põhiseaduslikku",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "korda",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "54",
+          "l": "54",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "muid",
+          "l": "muu",
+          "p": "P"
+        },
+        {
+          "f": "vahendeid",
+          "l": "vahend",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "igal",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikul",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "osutada",
+          "l": "osutama",
+          "p": "V"
+        },
+        {
+          "f": "põhiseadusliku",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "korra",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "vägivaldsele",
+          "l": "vägivaldne",
+          "p": "A",
+          "parts": [
+            "vägi",
+            "valdne"
+          ]
+        },
+        {
+          "f": "muutmisele",
+          "l": "muutmine",
+          "p": "S"
+        },
+        {
+          "f": "vastupanu",
+          "l": "vastupanu",
+          "p": "S",
+          "parts": [
+            "vastu",
+            "panu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "svetlana",
+      "text": "„See õigus on ainult kodanikul. Minul veel mitte.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "kodanikul",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minul",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "svetlana",
+      "text": "„Õiguste tagamine algab elust. Kui inimene ei ela, ei ole tal ühtegi õigust.“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Õiguste",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "tagamine",
+          "l": "tagamine",
+          "p": "S"
+        },
+        {
+          "f": "algab",
+          "l": "algama",
+          "p": "V"
+        },
+        {
+          "f": "elust",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ela",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tal",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ühtegi",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Svetlana kirjutas vihikusse: paragrahv 16, Daniel, jää, Pärnu.",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "Svetlana",
+          "l": "Svetlana",
+          "p": "H"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "vihikusse",
+          "l": "vihik",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "16",
+          "l": "16",
+          "p": "N"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Daniel",
+          "l": "Daniel",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "jää",
+          "l": "jääma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Pärnu",
+          "l": "Pärnu",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "nahavärvus",
+      "lemma": "nahavärvus",
+      "translation": "цвет кожи"
+    },
+    {
+      "form": "kohtu poolt süüdi tunnistatud",
+      "lemma": "kohtu poolt tunnistama",
+      "translation": "признанный судом (виновным); kohtu poolt tunnistama — признавать судом"
+    },
+    {
+      "form": "Õiguste tagamine",
+      "lemma": "õiguste tagamine",
+      "translation": "обеспечение прав"
+    },
+    {
+      "form": "kalur",
+      "lemma": "kalur",
+      "translation": "рыбак"
+    },
+    {
+      "form": "meelevaldselt",
+      "lemma": "meelevaldselt",
+      "translation": "произвольно"
+    },
+    {
+      "form": "lojaalne",
+      "lemma": "lojaalne",
+      "translation": "лояльный"
+    },
+    {
+      "form": "vande",
+      "lemma": "vanne",
+      "translation": "присяга, клятва (vannet andma — давать присягу)"
+    },
+    {
+      "form": "Häirekeskusest",
+      "lemma": "häirekeskus",
+      "translation": "Центр тревоги (служба 112)"
+    },
+    {
+      "form": "tingimused",
+      "lemma": "tingimus",
+      "translation": "условие"
+    },
+    {
+      "form": "osutada",
+      "lemma": "osutama",
+      "translation": "оказывать (vastupanu osutama — оказывать сопротивление)"
+    },
+    {
+      "form": "tõotan",
+      "lemma": "tõotama",
+      "translation": "клясться, торжественно обещать"
+    },
+    {
+      "form": "Taotledes",
+      "lemma": "taotlema",
+      "translation": "ходатайствовать, подавать заявление"
+    },
+    {
+      "form": "vahendeid",
+      "lemma": "vahend",
+      "translation": "средство"
+    },
+    {
+      "form": "päritolust",
+      "lemma": "päritolu",
+      "translation": "происхождение"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus elule. Seda õigust kaitseb seadus. (§ 16)",
+      "ref": "ps-16"
+    },
+    {
+      "text": "Meelevaldselt ei tohi kelleltki elu võtta. (§ 16)",
+      "ref": "ps-16"
+    },
+    {
+      "text": "Välismaalane, kes soovib saada Eesti kodakondsust, peab olema vähemalt 15-aastane. (KodS § 6)",
+      "ref": "kods-6-lg1-p1"
+    },
+    {
+      "text": "Kodakondsuse taotleja peab olema lojaalne Eesti riigile ja andma vande: „Taotledes Eesti kodakondsust, tõotan olla ustav Eesti põhiseaduslikule korrale.“ (KodS § 6)",
+      "ref": "kods-6-lg1-p7"
+    }
+  ],
+  "questions": [
+    {
+      "type": "truefalse",
+      "text": "Õigus elule on ainult Eesti kodanikel.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 16 ütleb: igaühel on õigus elule. Igaüks tähendab iga inimest, kodanikku, välismaalast ja inimest, kellel ei ole kodakondsust.",
+      "ref": "ps-16"
+    },
+    {
+      "type": "choice",
+      "text": "Mida peab kodakondsuse seaduse järgi tegema välismaalane, kes soovib saada Eesti kodakondsust?",
+      "options": [
+        "andma vande olla ustav Eesti põhiseaduslikule korrale",
+        "elama Eestis vähemalt kolm aastat",
+        "olema vähemalt 18-aastane",
+        "olema Eesti kodaniku abikaasa"
+      ],
+      "answer": 0,
+      "explanation": "KodS § 6 ütleb: taotleja peab olema vähemalt 15-aastane, olema lojaalne Eesti riigile ja andma vande: „Taotledes Eesti kodakondsust, tõotan olla ustav Eesti põhiseaduslikule korrale.“",
+      "ref": "kods-6-lg1-p7"
+    }
+  ],
+  "audio": {
+    "story": "audio/0029/story.mp3",
+    "law": "audio/0029/law.mp3",
+    "timings": "audio/0029/timings.json"
+  }
+}
