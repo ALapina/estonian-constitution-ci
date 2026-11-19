@@ -1,0 +1,155 @@
+{
+  "story": {
+    "file": "story.mp3",
+    "duration": 92.611,
+    "segments": [
+      {
+        "segment": 0,
+        "start": 0.25,
+        "end": 1.434
+      },
+      {
+        "segment": 1,
+        "start": 1.734,
+        "end": 3.789
+      },
+      {
+        "segment": 2,
+        "start": 4.089,
+        "end": 7.712
+      },
+      {
+        "segment": 3,
+        "start": 8.412,
+        "end": 14.888
+      },
+      {
+        "segment": 4,
+        "start": 15.588,
+        "end": 17.815
+      },
+      {
+        "segment": 5,
+        "start": 18.515,
+        "end": 26.103
+      },
+      {
+        "segment": 6,
+        "start": 26.803,
+        "end": 29.413
+      },
+      {
+        "segment": 7,
+        "start": 30.113,
+        "end": 37.96
+      },
+      {
+        "segment": 8,
+        "start": 38.66,
+        "end": 42.441
+      },
+      {
+        "segment": 9,
+        "start": 43.141,
+        "end": 46.357
+      },
+      {
+        "segment": 10,
+        "start": 47.057,
+        "end": 49.725
+      },
+      {
+        "segment": 11,
+        "start": 50.425,
+        "end": 59.28
+      },
+      {
+        "segment": 12,
+        "start": 59.98,
+        "end": 61.617
+      },
+      {
+        "segment": 13,
+        "start": 62.317,
+        "end": 67.528
+      },
+      {
+        "segment": 14,
+        "start": 68.228,
+        "end": 74.787
+      },
+      {
+        "segment": 15,
+        "start": 75.487,
+        "end": 77.958
+      },
+      {
+        "segment": 16,
+        "start": 78.658,
+        "end": 84.812
+      },
+      {
+        "segment": 17,
+        "start": 85.512,
+        "end": 87.253
+      },
+      {
+        "segment": 18,
+        "start": 87.953,
+        "end": 89.439
+      },
+      {
+        "segment": 19,
+        "start": 89.739,
+        "end": 92.361
+      }
+    ]
+  },
+  "law": {
+    "file": "law.mp3",
+    "duration": 60.571,
+    "segments": [
+      {
+        "ref": "ps-54-lg1",
+        "from": 0,
+        "to": 91,
+        "start": 0.25,
+        "end": 5.184
+      },
+      {
+        "ref": "ps-54-lg2",
+        "from": 0,
+        "to": 138,
+        "start": 5.884,
+        "end": 14.023
+      },
+      {
+        "ref": "ps-55-lg1",
+        "from": 0,
+        "to": 116,
+        "start": 14.723,
+        "end": 20.853
+      },
+      {
+        "fact": 0,
+        "start": 21.553,
+        "end": 28.529
+      },
+      {
+        "fact": 1,
+        "start": 29.229,
+        "end": 39.409
+      },
+      {
+        "fact": 2,
+        "start": 40.109,
+        "end": 48.234
+      },
+      {
+        "fact": 3,
+        "start": 48.934,
+        "end": 60.321
+      }
+    ]
+  }
+}

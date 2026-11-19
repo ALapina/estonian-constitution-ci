@@ -1,0 +1,1564 @@
+{
+  "id": "0017",
+  "slot": "s017",
+  "stage": 0,
+  "area": 3,
+  "type": "side",
+  "title": "Kaks häält ühes laulus",
+  "law": [
+    "ps-146"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "judge": {
+      "name": "Lepp",
+      "voice": "albert",
+      "note": "a judge in Tallinn who shows Lisa's class a courtroom"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "On kolmapäeva hommik.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "On",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kolmapäeva",
+          "l": "kolmapäev",
+          "p": "S",
+          "parts": [
+            "kolma",
+            "päev"
+          ]
+        },
+        {
+          "f": "hommik",
+          "l": "hommik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa klass on ekskursioonil Tallinna kohtumajas.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "klass",
+          "l": "klass",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ekskursioonil",
+          "l": "ekskursioon",
+          "p": "S"
+        },
+        {
+          "f": "Tallinna",
+          "l": "Tallinn",
+          "p": "H"
+        },
+        {
+          "f": "kohtumajas",
+          "l": "kohtumaja",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "maja"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kohtusaal on suur ja vaikne.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Kohtusaal",
+          "l": "kohtusaal",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "saal"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "suur",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vaikne",
+          "l": "vaikne",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Laua taga seisab hallide juustega mees, härra Lepp.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Laua",
+          "l": "laud",
+          "p": "S"
+        },
+        {
+          "f": "taga",
+          "l": "taga",
+          "p": "K"
+        },
+        {
+          "f": "seisab",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": "hallide",
+          "l": "hall",
+          "p": "A"
+        },
+        {
+          "f": "juustega",
+          "l": "juus",
+          "p": "S"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "härra",
+          "l": "härra",
+          "p": "S"
+        },
+        {
+          "f": "Lepp",
+          "l": "Lepp",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta mõistab siin õigust.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "mõistab",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": "siin",
+          "l": "siin",
+          "p": "D"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "judge",
+      "text": "„Tere! See on kohtusaal. Põhiseaduse § 146 ütleb: õigust mõistab ainult kohus. Mitte valitsus, mitte Riigikogu, mitte president.“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tere",
+          "l": "tere",
+          "p": "I"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohtusaal",
+          "l": "kohtusaal",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "saal"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "§",
+          "l": "§",
+          "p": "Y"
+        },
+        {
+          "f": "146",
+          "l": "146",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "mõistab",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "valitsus",
+          "l": "valitsus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "Riigikogu",
+          "l": "riigikogu",
+          "p": "S",
+          "parts": [
+            "riik",
+            "kogu"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "president",
+          "l": "president",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Aga kui president helistab teile ja ütleb: tehke nii?“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "president",
+          "l": "president",
+          "p": "S"
+        },
+        {
+          "f": "helistab",
+          "l": "helistama",
+          "p": "V"
+        },
+        {
+          "f": "teile",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tehke",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Härra Lepp naeratab.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Härra",
+          "l": "härra",
+          "p": "S"
+        },
+        {
+          "f": "Lepp",
+          "l": "Lepp",
+          "p": "H"
+        },
+        {
+          "f": "naeratab",
+          "l": "naeratama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "judge",
+      "text": "„Siis ma ütlen: aitäh, aga ei. Kohus on oma tegevuses sõltumatu. Keegi ei anna kohtule käske.“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ütlen",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aitäh",
+          "l": "aitäh",
+          "p": "I"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "tegevuses",
+          "l": "tegevus",
+          "p": "S"
+        },
+        {
+          "f": "sõltumatu",
+          "l": "sõltumatu",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "anna",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": "kohtule",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "käske",
+          "l": "käsk",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Sõltumatu ja iseseisev, nagu mina!“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sõltumatu",
+          "l": "sõltumatu",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "iseseisev",
+          "l": "iseseisev",
+          "p": "A",
+          "parts": [
+            "ise",
+            "seisev"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "mina",
+          "l": "mina",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Klass naerab.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Klass",
+          "l": "klass",
+          "p": "S"
+        },
+        {
+          "f": "naerab",
+          "l": "naerma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Mis on kohtu tegevus?“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohtu",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "tegevus",
+          "l": "tegevus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "judge",
+      "text": "„Ma kuulan inimesi, loen pabereid ja teen otsuse. Täna on siin üks patsient. Ta ütleb: haigla on süüdi. Haigla ütleb: ei ole. Mina loen seadust ja teen otsuse.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "kuulan",
+          "l": "kuulama",
+          "p": "V"
+        },
+        {
+          "f": "inimesi",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "loen",
+          "l": "lugema",
+          "p": "V"
+        },
+        {
+          "f": "pabereid",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "teen",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "otsuse",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "siin",
+          "l": "siin",
+          "p": "D"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "patsient",
+          "l": "patsient",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "haigla",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Haigla",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "loen",
+          "l": "lugema",
+          "p": "V"
+        },
+        {
+          "f": "seadust",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "teen",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "otsuse",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ja kui ajaleht kiidab ainult haiglat?“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "ajaleht",
+          "l": "ajaleht",
+          "p": "S",
+          "parts": [
+            "aeg",
+            "leht"
+          ]
+        },
+        {
+          "f": "kiidab",
+          "l": "kiitma",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "haiglat",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "judge",
+      "text": "„Ajaleht võib kiita, keda ta tahab. Kohus mõistab õigust kooskõlas põhiseaduse ja seadustega.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ajaleht",
+          "l": "ajaleht",
+          "p": "S",
+          "parts": [
+            "aeg",
+            "leht"
+          ]
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "kiita",
+          "l": "kiitma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "keda",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "tahab",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "mõistab",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "kooskõlas",
+          "l": "kooskõla",
+          "p": "S",
+          "parts": [
+            "koos",
+            "kõla"
+          ]
+        },
+        {
+          "f": "põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "seadustega",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Kooskõlas? Mis see tähendab?“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kooskõlas",
+          "l": "kooskõla",
+          "p": "S",
+          "parts": [
+            "koos",
+            "kõla"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "judge",
+      "text": "„Otsus ja seadus räägivad sama asja. Nagu kaks häält ühes laulus.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Otsus",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "räägivad",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "sama",
+          "l": "sama",
+          "p": "P"
+        },
+        {
+          "f": "asja",
+          "l": "asi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "häält",
+          "l": "hääl",
+          "p": "S"
+        },
+        {
+          "f": "ühes",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "laulus",
+          "l": "laul",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Härra Lepp räägib õpilastega riigikeeles ja lihtsate sõnadega.",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "Härra",
+          "l": "härra",
+          "p": "S"
+        },
+        {
+          "f": "Lepp",
+          "l": "Lepp",
+          "p": "H"
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "õpilastega",
+          "l": "õpilane",
+          "p": "S"
+        },
+        {
+          "f": "riigikeeles",
+          "l": "riigikeel",
+          "p": "S",
+          "parts": [
+            "riik",
+            "keel"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "lihtsate",
+          "l": "lihtne",
+          "p": "A"
+        },
+        {
+          "f": "sõnadega",
+          "l": "sõna",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ekskursioon on läbi.",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "Ekskursioon",
+          "l": "ekskursioon",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "läbi",
+          "l": "läbi",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õpilased lähevad vaikse saali kaudu välja.",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "Õpilased",
+          "l": "õpilane",
+          "p": "S"
+        },
+        {
+          "f": "lähevad",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "vaikse",
+          "l": "vaikne",
+          "p": "A"
+        },
+        {
+          "f": "saali",
+          "l": "saal",
+          "p": "S"
+        },
+        {
+          "f": "kaudu",
+          "l": "kaudu",
+          "p": "K"
+        },
+        {
+          "f": "välja",
+          "l": "välja",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Pärast kooli helistab Lisa emale.",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "Pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "kooli",
+          "l": "kool",
+          "p": "S"
+        },
+        {
+          "f": "helistab",
+          "l": "helistama",
+          "p": "V"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "emale",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ema, ma olen täna kohtus käinud! Aga ma ei ole süüdi!“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "kohtus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "käinud",
+          "l": "käima",
+          "p": "V",
+          "alt": [
+            "käinud"
+          ]
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "tegevuses",
+      "lemma": "tegevus",
+      "translation": "деятельность"
+    },
+    {
+      "form": "kooskõlas",
+      "lemma": "kooskõla",
+      "translation": "согласие, соответствие (kooskõlas — в соответствии)"
+    },
+    {
+      "form": "on oma tegevuses sõltumatu",
+      "lemma": "sõltumatu olema",
+      "translation": "быть независимым"
+    },
+    {
+      "form": "ekskursioonil",
+      "lemma": "ekskursioon",
+      "translation": "экскурсия"
+    },
+    {
+      "form": "Kohtusaal",
+      "lemma": "saal",
+      "translation": "зал (kohtusaal — зал суда)"
+    },
+    {
+      "form": "vaikne",
+      "lemma": "vaikne",
+      "translation": "тихий"
+    },
+    {
+      "form": "otsuse",
+      "lemma": "otsus",
+      "translation": "решение"
+    },
+    {
+      "form": "juustega",
+      "lemma": "juus",
+      "translation": "волос (hallide juustega — седой)"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Õigust mõistab ainult kohus. (§ 146)",
+      "ref": "ps-146"
+    },
+    {
+      "text": "Kohus on oma tegevuses sõltumatu. (§ 146)",
+      "ref": "ps-146"
+    },
+    {
+      "text": "Kohus mõistab õigust kooskõlas põhiseaduse ja seadustega. (§ 146)",
+      "ref": "ps-146"
+    },
+    {
+      "text": "Hääleõiguslik ei ole Eesti kodanik, kes on kohtu poolt tunnistatud teovõimetuks. (§ 57)",
+      "ref": "ps-57-lg2"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Kes mõistab Eestis õigust?",
+      "options": [
+        "ainult kohus",
+        "Vabariigi Valitsus",
+        "Riigikogu ja kohus",
+        "Vabariigi President"
+      ],
+      "answer": 0,
+      "explanation": "§ 146 ütleb: õigust mõistab ainult kohus. Valitsus, Riigikogu ja president õigust ei mõista.",
+      "ref": "ps-146"
+    },
+    {
+      "type": "truefalse",
+      "text": "Hääleõiguslik on Eesti kodanik, kes on saanud kaheksateist aastat vanaks.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 0,
+      "explanation": "§ 57 lõige 1 ütleb: hääleõiguslik on Eesti kodanik, kes on saanud kaheksateist aastat vanaks.",
+      "ref": "ps-57-lg1"
+    }
+  ],
+  "audio": {
+    "story": "audio/0017/story.mp3",
+    "law": "audio/0017/law.mp3",
+    "timings": "audio/0017/timings.json"
+  }
+}

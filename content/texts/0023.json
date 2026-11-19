@@ -1,0 +1,1887 @@
+{
+  "id": "0023",
+  "slot": "s023",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Gripp ja piirang",
+  "law": [
+    "ps-11"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "rasmus": {
+      "name": "Rasmus",
+      "voice": "albert",
+      "note": "a patient's son at Olga's hospital"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Novembri lõpus tuli Tallinna gripp.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Novembri",
+          "l": "november",
+          "p": "S"
+        },
+        {
+          "f": "lõpus",
+          "l": "lõpp",
+          "p": "S"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "Tallinna",
+          "l": "Tallinn",
+          "p": "H"
+        },
+        {
+          "f": "gripp",
+          "l": "gripp",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kohalik ajaleht kirjutas, et haiglates on palju haigeid ja et gripp on ka teistes Euroopa Liidu riikides.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Kohalik",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "ajaleht",
+          "l": "ajaleht",
+          "p": "S",
+          "parts": [
+            "aeg",
+            "leht"
+          ]
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "haiglates",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "palju",
+          "l": "palju",
+          "p": "D"
+        },
+        {
+          "f": "haigeid",
+          "l": "haige",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "gripp",
+          "l": "gripp",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "teistes",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "Euroopa",
+          "l": "Euroopa",
+          "p": "H"
+        },
+        {
+          "f": "Liidu",
+          "l": "Liit",
+          "p": "H",
+          "alt": [
+            "Liidu",
+            "Liidud"
+          ]
+        },
+        {
+          "f": "riikides",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga haiglas oli nüüd piirang: keegi ei tohtinud haigeid külastada.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "haiglas",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohtinud",
+          "l": "tohtima",
+          "p": "V",
+          "alt": [
+            "tohtinud"
+          ]
+        },
+        {
+          "f": "haigeid",
+          "l": "haige",
+          "p": "S"
+        },
+        {
+          "f": "külastada",
+          "l": "külastama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ühel päeval seisis ukse taga noor mees, Rasmus.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Ühel",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "päeval",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": "seisis",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": "ukse",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "taga",
+          "l": "taga",
+          "p": "K"
+        },
+        {
+          "f": "noor",
+          "l": "noor",
+          "p": "A"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Rasmus",
+          "l": "Rasmus",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Tema ema oli juba kaks nädalat haiglas ja ema mälu oli nõrk.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "nädalat",
+          "l": "nädal",
+          "p": "S"
+        },
+        {
+          "f": "haiglas",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "mälu",
+          "l": "mälu",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "nõrk",
+          "l": "nõrk",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "rasmus",
+      "text": "„Ma tahan oma ema näha! See piirang on nagu karistus! Kas see on üldse kellegi huvides?“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tahan",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "näha",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "karistus",
+          "l": "karistus",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "üldse",
+          "l": "üldse",
+          "p": "D"
+        },
+        {
+          "f": "kellegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "huvides",
+          "l": "huvi",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ma mõistan teid. Piirang on patsientide huvides. Gripp on vanadele inimestele ohtlik.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mõistan",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": "teid",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "patsientide",
+          "l": "patsient",
+          "p": "S"
+        },
+        {
+          "f": "huvides",
+          "l": "huvi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Gripp",
+          "l": "gripp",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vanadele",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": "inimestele",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "ohtlik",
+          "l": "ohtlik",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis läks Olga palatisse ja tegi oma telefoniga Rasmusele videokõne.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "palatisse",
+          "l": "palat",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tegi",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "telefoniga",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": "Rasmusele",
+          "l": "Rasmus",
+          "p": "H"
+        },
+        {
+          "f": "videokõne",
+          "l": "videokõne",
+          "p": "S",
+          "parts": [
+            "video",
+            "kõne"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ema nägi ekraanil poega ja naeratas.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "nägi",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "ekraanil",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "poega",
+          "l": "poeg",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "naeratas",
+          "l": "naeratama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õhtul nägi Olga trepil naabrit Marit.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "nägi",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "trepil",
+          "l": "trepp",
+          "p": "S"
+        },
+        {
+          "f": "naabrit",
+          "l": "naaber",
+          "p": "S"
+        },
+        {
+          "f": "Marit",
+          "l": "Mari",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mari töötas õiguskantsleri juures ja teadis õigustest palju.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "töötas",
+          "l": "töötama",
+          "p": "V"
+        },
+        {
+          "f": "õiguskantsleri",
+          "l": "õiguskantsler",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "kantsler"
+          ]
+        },
+        {
+          "f": "juures",
+          "l": "juures",
+          "p": "K"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "teadis",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": "õigustest",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "palju",
+          "l": "palju",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kas haigla tohib nii teha? Kas see ei piira inimese õigust?“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "haigla",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "tohib",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "teha",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "piira",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": "inimese",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Piirab küll. Aga põhiseaduse üheteistkümnes paragrahv ütleb, et õigusi tohib piirata ainult kooskõlas põhiseadusega.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Piirab",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": "küll",
+          "l": "küll",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "üheteistkümnes",
+          "l": "üheteistkümnes",
+          "p": "O",
+          "parts": [
+            "üks",
+            "teine",
+            "kümnes"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "õigusi",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "tohib",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "piirata",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "kooskõlas",
+          "l": "kooskõla",
+          "p": "S",
+          "parts": [
+            "koos",
+            "kõla"
+          ]
+        },
+        {
+          "f": "põhiseadusega",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ainult kooskõlas põhiseadusega...“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "kooskõlas",
+          "l": "kooskõla",
+          "p": "S",
+          "parts": [
+            "koos",
+            "kõla"
+          ]
+        },
+        {
+          "f": "põhiseadusega",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "kordas Olga.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "kordas",
+          "l": "kordama",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Ja veel kaks asja. Üks: piirang peab olema vajalik. Eesti on demokraatlik vabariik. Demokraatlikus ühiskonnas ei tohi õigusi lihtsalt niisama piirata.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "asja",
+          "l": "asi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "olema",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vajalik",
+          "l": "vajalik",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "demokraatlik",
+          "l": "demokraatlik",
+          "p": "A",
+          "parts": [
+            "demo",
+            "kraatlik"
+          ]
+        },
+        {
+          "f": "vabariik",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Demokraatlikus",
+          "l": "demokraatlik",
+          "p": "A",
+          "parts": [
+            "demo",
+            "kraatlik"
+          ]
+        },
+        {
+          "f": "ühiskonnas",
+          "l": "ühiskond",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "õigusi",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "lihtsalt",
+          "l": "lihtsalt",
+          "p": "D"
+        },
+        {
+          "f": "niisama",
+          "l": "niisama",
+          "p": "D",
+          "parts": [
+            "nii",
+            "sama"
+          ]
+        },
+        {
+          "f": "piirata",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kui on gripp, on see vajalik. Ja teine asi?“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "gripp",
+          "l": "gripp",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "vajalik",
+          "l": "vajalik",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "asi",
+          "l": "asi",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Teine: piirang ei tohi õigust moonutada. Piirang ei tohi moonutada õiguse olemust. Kui piirang on nii suur, et õigust enam ei ole, siis piirang moonutab õiguse olemust.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "moonutada",
+          "l": "moonutama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "moonutada",
+          "l": "moonutama",
+          "p": "V"
+        },
+        {
+          "f": "õiguse",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "olemust",
+          "l": "olemus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "suur",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "enam",
+          "l": "enam",
+          "p": "D"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "siis",
+          "l": "siis",
+          "p": "J"
+        },
+        {
+          "f": "piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "moonutab",
+          "l": "moonutama",
+          "p": "V"
+        },
+        {
+          "f": "õiguse",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "olemust",
+          "l": "olemus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Rasmus ei saanud ema juurde minna, aga ta nägi teda telefonis. Ja kui gripp on läbi, tohib ta jälle tulla.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Rasmus",
+          "l": "Rasmus",
+          "p": "H"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "saanud",
+          "l": "saama",
+          "p": "V",
+          "alt": [
+            "saanud"
+          ]
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "juurde",
+          "l": "juurde",
+          "p": "K"
+        },
+        {
+          "f": "minna",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "nägi",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "teda",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "telefonis",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "gripp",
+          "l": "gripp",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "läbi",
+          "l": "läbi",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tohib",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "jälle",
+          "l": "jälle",
+          "p": "D"
+        },
+        {
+          "f": "tulla",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Just. Siis on piirang vajalik ja õigus on ikka olemas.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Just",
+          "l": "just",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "vajalik",
+          "l": "vajalik",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ikka",
+          "l": "ikka",
+          "p": "D"
+        },
+        {
+          "f": "olemas",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga kirjutas vihikusse: § 11 – piirang peab olema vajalik ega tohi moonutada õiguse olemust.",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "vihikusse",
+          "l": "vihik",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "§",
+          "l": "§",
+          "p": "Y"
+        },
+        {
+          "f": "11",
+          "l": "11",
+          "p": "N"
+        },
+        {
+          "f": "–",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "piirang",
+          "l": "piirang",
+          "p": "S"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "olema",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vajalik",
+          "l": "vajalik",
+          "p": "A"
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "moonutada",
+          "l": "moonutama",
+          "p": "V"
+        },
+        {
+          "f": "õiguse",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "olemust",
+          "l": "olemus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "piirang",
+      "lemma": "piirang",
+      "translation": "ограничение"
+    },
+    {
+      "form": "moonutada",
+      "lemma": "moonutama",
+      "translation": "искажать"
+    },
+    {
+      "form": "gripp",
+      "lemma": "gripp",
+      "translation": "грипп"
+    },
+    {
+      "form": "ohtlik",
+      "lemma": "ohtlik",
+      "translation": "опасный"
+    },
+    {
+      "form": "õiguskantsleri",
+      "lemma": "õiguskantsler",
+      "translation": "канцлер юстиции"
+    },
+    {
+      "form": "olemust",
+      "lemma": "olemus",
+      "translation": "сущность"
+    },
+    {
+      "form": "palatisse",
+      "lemma": "palat",
+      "translation": "палата (в больнице)"
+    },
+    {
+      "form": "kellegi huvides",
+      "lemma": "kellegi huvides olema",
+      "translation": "быть в чьих-либо интересах"
+    },
+    {
+      "form": "peab olema",
+      "lemma": "peab olema",
+      "translation": "должен быть"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Õigusi ja vabadusi tohib piirata ainult kooskõlas põhiseadusega. (§ 11)",
+      "ref": "ps-11"
+    },
+    {
+      "text": "Piirangud peavad olema demokraatlikus ühiskonnas vajalikud. (§ 11)",
+      "ref": "ps-11"
+    },
+    {
+      "text": "Piirangud ei tohi moonutada piiratavate õiguste ja vabaduste olemust. (§ 11)",
+      "ref": "ps-11"
+    },
+    {
+      "text": "Vabariigi President on Eesti riigipea. (§ 77)",
+      "ref": "ps-77"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Millal tohib põhiseaduse järgi õigusi ja vabadusi piirata?",
+      "options": [
+        "alati, kui valitsus seda tahab",
+        "ainult kooskõlas põhiseadusega",
+        "ainult sõja ajal",
+        "mitte kunagi"
+      ],
+      "answer": 1,
+      "explanation": "§ 11 ütleb: õigusi ja vabadusi tohib piirata ainult kooskõlas põhiseadusega. Piirangud peavad olema demokraatlikus ühiskonnas vajalikud ega tohi moonutada õiguste olemust.",
+      "ref": "ps-11"
+    },
+    {
+      "type": "where",
+      "text": "Kus see on kirjas? „Vabariigi President on Eesti riigipea.“",
+      "options": [
+        "§ 11",
+        "§ 59",
+        "§ 77",
+        "§ 86"
+      ],
+      "answer": 2,
+      "explanation": "See lause on § 77, Vabariigi Presidendi peatüki esimene paragrahv.",
+      "ref": "ps-77"
+    }
+  ],
+  "audio": {
+    "story": "audio/0023/story.mp3",
+    "law": "audio/0023/law.mp3",
+    "timings": "audio/0023/timings.json"
+  }
+}

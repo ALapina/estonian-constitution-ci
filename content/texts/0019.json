@@ -1,0 +1,1619 @@
+{
+  "id": "0019",
+  "slot": "s019",
+  "stage": 0,
+  "area": 2,
+  "type": "serial",
+  "title": "Supp ja kohus",
+  "law": [
+    "ps-54",
+    "ps-55"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "On neljapäeva õhtu.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "On",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "neljapäeva",
+          "l": "neljapäev",
+          "p": "S",
+          "parts": [
+            "neli",
+            "päev"
+          ]
+        },
+        {
+          "f": "õhtu",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga on isa juures ja toob talle suppi.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "isa",
+          "l": "isa",
+          "p": "S"
+        },
+        {
+          "f": "juures",
+          "l": "juures",
+          "p": "K"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "toob",
+          "l": "tooma",
+          "p": "V"
+        },
+        {
+          "f": "talle",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "suppi",
+          "l": "supp",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Nad räägivad täna eesti keeles, sest ka Nikolai tahab Eesti passi.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Nad",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "räägivad",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "eesti",
+          "l": "eesti",
+          "p": "G"
+        },
+        {
+          "f": "keeles",
+          "l": "keel",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sest",
+          "l": "sest",
+          "p": "J"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "Nikolai",
+          "l": "Nikolai",
+          "p": "H"
+        },
+        {
+          "f": "tahab",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "passi",
+          "l": "pass",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Isa, kuula. § 54 ütleb: Eesti kodaniku kohus on olla ustav põhiseaduslikule korrale.“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Isa",
+          "l": "isa",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kuula",
+          "l": "kuulama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "§",
+          "l": "§",
+          "p": "Y"
+        },
+        {
+          "f": "54",
+          "l": "54",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodaniku",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ustav",
+          "l": "ustav",
+          "p": "A"
+        },
+        {
+          "f": "põhiseaduslikule",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "korrale",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Kohus? Nagu kohtumaja?“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "kohtumaja",
+          "l": "kohtumaja",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "maja"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ei. Siin tähendab kohus: kohustus. Kodanik on ustav ja hoiab oma riiki. Eesti peab olema iseseisev ja sõltumatu.“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siin",
+          "l": "siin",
+          "p": "D"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kohustus",
+          "l": "kohustus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ustav",
+          "l": "ustav",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "hoiab",
+          "l": "hoidma",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "riiki",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "olema",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "iseseisev",
+          "l": "iseseisev",
+          "p": "A",
+          "parts": [
+            "ise",
+            "seisev"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sõltumatu",
+          "l": "sõltumatu",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Ja meie? Meil ei ole kodakondsust.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Meil",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„§ 55 kohustab ka meid. Teiste riikide kodanikud ja kodakondsuseta isikud Eestis peavad järgima Eesti põhiseaduslikku korda.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "§",
+          "l": "§",
+          "p": "Y"
+        },
+        {
+          "f": "55",
+          "l": "55",
+          "p": "N"
+        },
+        {
+          "f": "kohustab",
+          "l": "kohustama",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "meid",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Teiste",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "riikide",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "kodanikud",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kodakondsuseta",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "isikud",
+          "l": "isik",
+          "p": "S"
+        },
+        {
+          "f": "Eestis",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "peavad",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "järgima",
+          "l": "järgima",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "põhiseaduslikku",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "korda",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Kohustab? Hea. Ma järgin seda korda juba aastaid.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kohustab",
+          "l": "kohustama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "järgin",
+          "l": "järgima",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "korda",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": "aastaid",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„§ 54 räägib ka vägivaldsest muutmisest.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "§",
+          "l": "§",
+          "p": "Y"
+        },
+        {
+          "f": "54",
+          "l": "54",
+          "p": "N"
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "vägivaldsest",
+          "l": "vägivaldne",
+          "p": "A",
+          "parts": [
+            "vägi",
+            "valdne"
+          ]
+        },
+        {
+          "f": "muutmisest",
+          "l": "muutmine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Vägivaldne muutmine? Mis see on?“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vägivaldne",
+          "l": "vägivaldne",
+          "p": "A",
+          "parts": [
+            "vägi",
+            "valdne"
+          ]
+        },
+        {
+          "f": "muutmine",
+          "l": "muutmine",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Keegi tuleb ja võtab võimu ilma valimisteta. See on põhiseadusliku korra vägivaldne muutmine. Kui muud teed ei ole, on igal Eesti kodanikul õigus vastupanule.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "tuleb",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "võtab",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "võimu",
+          "l": "võim",
+          "p": "S"
+        },
+        {
+          "f": "ilma",
+          "l": "ilma",
+          "p": "K"
+        },
+        {
+          "f": "valimisteta",
+          "l": "valimine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "põhiseadusliku",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "korra",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "vägivaldne",
+          "l": "vägivaldne",
+          "p": "A",
+          "parts": [
+            "vägi",
+            "valdne"
+          ]
+        },
+        {
+          "f": "muutmine",
+          "l": "muutmine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "muud",
+          "l": "muu",
+          "p": "P"
+        },
+        {
+          "f": "teed",
+          "l": "tee",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "igal",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikul",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "vastupanule",
+          "l": "vastupanu",
+          "p": "S",
+          "parts": [
+            "vastu",
+            "panu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Nikolai vaatab aknast välja.",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "Nikolai",
+          "l": "Nikolai",
+          "p": "H"
+        },
+        {
+          "f": "vaatab",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "aknast",
+          "l": "aken",
+          "p": "S"
+        },
+        {
+          "f": "välja",
+          "l": "välja",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Vastupanu... Ma mäletan 1991. aastat ja palju inimesi Toompeal.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vastupanu",
+          "l": "vastupanu",
+          "p": "S",
+          "parts": [
+            "vastu",
+            "panu"
+          ]
+        },
+        {
+          "f": "...",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mäletan",
+          "l": "mäletama",
+          "p": "V"
+        },
+        {
+          "f": "1991.",
+          "l": "1991.",
+          "p": "O"
+        },
+        {
+          "f": "aastat",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "palju",
+          "l": "palju",
+          "p": "D"
+        },
+        {
+          "f": "inimesi",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "Toompeal",
+          "l": "Toompea",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ja kodakondsuse seaduses on sõnad, mida ma ütlen enne kodakondsust: „Tõotan olla ustav Eesti põhiseaduslikule korrale.““",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kodakondsuse",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sõnad",
+          "l": "sõna",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ütlen",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": "enne",
+          "l": "enne",
+          "p": "K"
+        },
+        {
+          "f": "kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tõotan",
+          "l": "tõotama",
+          "p": "V"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ustav",
+          "l": "ustav",
+          "p": "A"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "põhiseaduslikule",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "korrale",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Ilusad sõnad. Ma tahan neid ka öelda.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ilusad",
+          "l": "ilus",
+          "p": "A"
+        },
+        {
+          "f": "sõnad",
+          "l": "sõna",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tahan",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "neid",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "öelda",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kui me oleme kodanikud, teostame ka meie kõrgeimat riigivõimu: Riigikogu valimisel ja rahvahääletusel.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "me",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "oleme",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kodanikud",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "teostame",
+          "l": "teostama",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "kõrgeimat",
+          "l": "kõrgeim",
+          "p": "U"
+        },
+        {
+          "f": "riigivõimu",
+          "l": "riigivõim",
+          "p": "S",
+          "parts": [
+            "riik",
+            "võim"
+          ]
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Riigikogu",
+          "l": "riigikogu",
+          "p": "S",
+          "parts": [
+            "riik",
+            "kogu"
+          ]
+        },
+        {
+          "f": "valimisel",
+          "l": "valimine",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "rahvahääletusel",
+          "l": "rahvahääletus",
+          "p": "S",
+          "parts": [
+            "rahvas",
+            "hääletus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Siis otsustame koos rahvaga.“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "otsustame",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "rahvaga",
+          "l": "rahvas",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Nikolai võtab lusika.",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "Nikolai",
+          "l": "Nikolai",
+          "p": "H"
+        },
+        {
+          "f": "võtab",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "lusika",
+          "l": "lusikas",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Aga enne on supp. See on minu kohus!“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "enne",
+          "l": "enne",
+          "p": "K"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "supp",
+          "l": "supp",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "ustav",
+      "lemma": "ustav",
+      "translation": "верный, лояльный"
+    },
+    {
+      "form": "kohustab",
+      "lemma": "kohustama",
+      "translation": "обязывать (on kohustatud — обязан)"
+    },
+    {
+      "form": "järgima",
+      "lemma": "järgima",
+      "translation": "соблюдать, следовать"
+    },
+    {
+      "form": "järgima Eesti põhiseaduslikku korda",
+      "lemma": "järgima põhiseaduslikku korda",
+      "translation": "соблюдать конституционный строй"
+    },
+    {
+      "form": "vägivaldsest",
+      "lemma": "vägivaldne",
+      "translation": "насильственный"
+    },
+    {
+      "form": "muutmisest",
+      "lemma": "muutmine",
+      "translation": "изменение"
+    },
+    {
+      "form": "vastupanule",
+      "lemma": "vastupanu",
+      "translation": "сопротивление"
+    },
+    {
+      "form": "tõotan",
+      "lemma": "tõotama",
+      "translation": "клясться, торжественно обещать"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Eesti kodaniku kohus on olla ustav põhiseaduslikule korrale ning kaitsta Eesti iseseisvust. (§ 54)",
+      "ref": "ps-54-lg1"
+    },
+    {
+      "text": "Kui muid vahendeid ei leidu, on igal Eesti kodanikul õigus osutada põhiseadusliku korra vägivaldsele muutmisele omaalgatuslikku vastupanu. (§ 54)",
+      "ref": "ps-54-lg2"
+    },
+    {
+      "text": "Eestis viibivad teiste riikide kodanikud ja kodakondsuseta isikud on kohustatud järgima Eesti põhiseaduslikku korda. (§ 55)",
+      "ref": "ps-55"
+    },
+    {
+      "text": "Põhiseaduses loetletud igaühe õigused, vabadused ja kohustused on võrdselt Eesti kodanikel ning Eestis viibivatel välisriikide kodanikel ja kodakondsuseta isikutel. (§ 9)",
+      "ref": "ps-9-lg1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "truefalse",
+      "text": "Eestis viibivad kodakondsuseta isikud ei pea järgima Eesti põhiseaduslikku korda, sest nad ei ole Eesti kodanikud.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 55 ütleb: Eestis viibivad teiste riikide kodanikud ja kodakondsuseta isikud on kohustatud järgima Eesti põhiseaduslikku korda.",
+      "ref": "ps-55"
+    },
+    {
+      "type": "where",
+      "text": "Kus see on kirjas? „Eesti kodaniku kohus on olla ustav põhiseaduslikule korrale ning kaitsta Eesti iseseisvust.“",
+      "options": [
+        "§ 9",
+        "§ 54",
+        "§ 55",
+        "§ 56"
+      ],
+      "answer": 1,
+      "explanation": "See lause on § 54 esimeses lõikes. § 55 räägib teiste riikide kodanikest ja kodakondsuseta isikutest, § 9 igaühe õigustest.",
+      "ref": "ps-54-lg1"
+    }
+  ],
+  "audio": {
+    "story": "audio/0019/story.mp3",
+    "law": "audio/0019/law.mp3",
+    "timings": "audio/0019/timings.json"
+  }
+}

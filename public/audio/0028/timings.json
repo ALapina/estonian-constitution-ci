@@ -1,0 +1,150 @@
+{
+  "story": {
+    "file": "story.mp3",
+    "duration": 131.487,
+    "segments": [
+      {
+        "segment": 0,
+        "start": 0.25,
+        "end": 2.491
+      },
+      {
+        "segment": 1,
+        "start": 2.791,
+        "end": 8.677
+      },
+      {
+        "segment": 2,
+        "start": 9.377,
+        "end": 15.933
+      },
+      {
+        "segment": 3,
+        "start": 16.633,
+        "end": 20.544
+      },
+      {
+        "segment": 4,
+        "start": 21.244,
+        "end": 22.939
+      },
+      {
+        "segment": 5,
+        "start": 23.639,
+        "end": 30.255
+      },
+      {
+        "segment": 6,
+        "start": 30.955,
+        "end": 42.803
+      },
+      {
+        "segment": 7,
+        "start": 43.503,
+        "end": 45.846
+      },
+      {
+        "segment": 8,
+        "start": 46.546,
+        "end": 61.297
+      },
+      {
+        "segment": 9,
+        "start": 61.997,
+        "end": 63.518
+      },
+      {
+        "segment": 10,
+        "start": 64.218,
+        "end": 71.261
+      },
+      {
+        "segment": 11,
+        "start": 71.961,
+        "end": 74.49
+      },
+      {
+        "segment": 12,
+        "start": 75.19,
+        "end": 90.415
+      },
+      {
+        "segment": 13,
+        "start": 91.115,
+        "end": 94.863
+      },
+      {
+        "segment": 14,
+        "start": 95.563,
+        "end": 96.539
+      },
+      {
+        "segment": 15,
+        "start": 96.839,
+        "end": 116.06
+      },
+      {
+        "segment": 16,
+        "start": 116.76,
+        "end": 120.624
+      },
+      {
+        "segment": 17,
+        "start": 121.324,
+        "end": 127.369
+      },
+      {
+        "segment": 18,
+        "start": 128.069,
+        "end": 131.237
+      }
+    ]
+  },
+  "law": {
+    "file": "law.mp3",
+    "duration": 62.956,
+    "segments": [
+      {
+        "ref": "ps-15-lg1",
+        "from": 0,
+        "to": 77,
+        "start": 0.25,
+        "end": 4.859
+      },
+      {
+        "ref": "ps-15-lg1",
+        "from": 78,
+        "to": 220,
+        "start": 5.159,
+        "end": 13.6
+      },
+      {
+        "ref": "ps-15-lg2",
+        "from": 0,
+        "to": 202,
+        "start": 14.3,
+        "end": 26.49
+      },
+      {
+        "fact": 0,
+        "start": 27.19,
+        "end": 33.818
+      },
+      {
+        "fact": 1,
+        "start": 34.518,
+        "end": 43.455
+      },
+      {
+        "fact": 2,
+        "start": 44.155,
+        "end": 56.147
+      },
+      {
+        "fact": 3,
+        "start": 56.847,
+        "end": 62.706
+      }
+    ]
+  }
+}
