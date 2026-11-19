@@ -56,17 +56,17 @@
     "file": "audio/voices/jaan.mp3"
   },
   {
-    "id": "couple-husband",
-    "name": null,
+    "id": "maksim",
+    "name": "Maksim",
     "voice": "indrek",
-    "sentence": "Tere! Ma olen pärit Venemaalt. Minu vanaisa elas Eestis.",
-    "file": "audio/voices/couple-husband.mp3"
+    "sentence": "Tere! Mina olen Maksim. Minu vanaisa elas Tartus.",
+    "file": "audio/voices/maksim.mp3"
   },
   {
-    "id": "couple-wife",
-    "name": null,
+    "id": "katja",
+    "name": "Katja",
     "voice": "mari",
-    "sentence": "Tere! Ma elan Eestis koos mehega. Ma õpin eesti keelt.",
-    "file": "audio/voices/couple-wife.mp3"
+    "sentence": "Tere! Mina olen Katja. Ma õpin eesti keelt.",
+    "file": "audio/voices/katja.mp3"
   }
 ]

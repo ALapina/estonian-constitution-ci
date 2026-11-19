@@ -1,4 +1,5 @@
 ---
+import { existsSync } from 'node:fs';
 import LawBlock from '../../components/LawBlock.astro';
 import Base from '../../layouts/Base.astro';
 import { allTexts, STAGE_TITLES } from '../../lib/content';
@@ -14,6 +15,8 @@ interface Props {
 }
 
 const { text } = Astro.props;
+// Audio is committed only after the author approves voices and bitrate, so a build may lack the files.
+const storyAudio = text.audio && existsSync(`public/${text.audio.story}`) ? text.audio.story : null;
 
 // Consecutive segments with the same `para` form one paragraph.
 const paragraphs: Segment[][] = [];
@@ -41,9 +44,9 @@ const next = texts[index + 1];
     <h1 lang="et">{text.title}</h1>
 
     {
-      text.audio && (
+      storyAudio && (
         <figure class="player">
-          <audio controls preload="none" src={url(text.audio.story)} />
+          <audio controls preload="none" src={url(storyAudio)} />
           <figcaption lang="et">Heli: Neurokõne (TartuNLP)</figcaption>
         </figure>
       )
@@ -85,7 +88,7 @@ const next = texts[index + 1];
           {text.questions.map((q) => (
             <div class="question" lang="et">
               <p class="task">{TASKS[q.type]}</p>
-              <p class="q-text">{q.text}</p>
+              <p class="q-text">{q.text.startsWith(TASKS[q.type]) ? q.text.slice(TASKS[q.type].length).trim() : q.text}</p>
               <ol type="A">
                 {q.options.map((o) => (
                   <li>{o}</li>

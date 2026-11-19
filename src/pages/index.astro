@@ -17,6 +17,9 @@ const groups = ([0, 1, 2, 3, 4] as Stage[])
   .filter((g) => g.texts.length > 0);
 
 const actLabel = (id: string) => (id.startsWith('ps-') ? 'PS' : 'KodS');
+// Summary and review texts have no law block: list the § their facts and questions bring back.
+const refsOf = (t: (typeof texts)[number]) =>
+  t.law.length ? t.law : [...new Set([...t.facts, ...t.questions].map((x) => x.ref.split('-lg')[0]))];
 ---
 
 <Base>
@@ -39,7 +42,7 @@ const actLabel = (id: string) => (id.startsWith('ps-') ? 'PS' : 'KodS');
               </a>
               <span class="meta">
                 {TYPE_LABELS[t.type]} ·{' '}
-                <span lang="et">{t.law.map((id) => `${actLabel(id)} ${citation(id)}`).join(', ')}</span>
+                <span lang="et">{refsOf(t).map((id) => `${actLabel(id)} ${citation(id)}`).join(', ')}</span>
               </span>
             </li>
           ))}

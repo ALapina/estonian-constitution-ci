@@ -17,3 +17,6 @@ __pycache__/
 # OS and editors
 .DS_Store
 *.log
+
+# local tool settings
+.claude/

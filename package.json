@@ -16,8 +16,9 @@
     "import:law": "tsx scripts/import-law.ts",
     "import:base": "tsx scripts/import-base.ts",
     "plan": "tsx scripts/plan.ts",
+    "check": "tsx scripts/check.ts",
     "tts": "tsx scripts/tts.ts",
-    "check": "tsx scripts/check.ts"
+    "sync": "tsx scripts/sync.ts"
   },
   "dependencies": {
     "@astrojs/preact": "^6.1.6",

@@ -18,6 +18,7 @@ import type {
   Stage,
   TextEntry,
   TextType,
+  Token,
 } from '../src/lib/types';
 
 const read = <T>(path: string): T => JSON.parse(readFileSync(path, 'utf8')) as T;
@@ -411,9 +412,9 @@ const readyAt = (seq: string[]) =>
       return introducedAt.get(l) ?? (lv === 'A2' ? 21 : Infinity);
     }),
   );
-const writtenPhrases = new Set(slots.filter((s) => s.textId).flatMap((s) => s.phrases));
+const writtenPhrases = new Set(slots.filter((s) => s.textId).flatMap((s) => s.phrases.map((x) => x.toLowerCase())));
 const unplacedPhrases: string[] = [];
-for (const e of entries.filter((x) => x.lemmas!.length > 1 && !writtenPhrases.has(x.lemma))) {
+for (const e of entries.filter((x) => x.lemmas!.length > 1 && !writtenPhrases.has(x.lemma.toLowerCase()))) {
   const ready = readyAt(e.lemmas!);
   const refs = new Set(e.refs);
   const open = examSlots.filter((s) => s.order >= ready && s.phrases.length < PHRASE_CAP(s));
@@ -435,28 +436,60 @@ for (const e of entries.filter((x) => x.lemmas!.length > 1 && !writtenPhrases.ha
 }
 
 // ---- Words to repeat: window rule, then spaced repetition (DESIGN.md 4.5) ----------------------
+// Written slots keep the lists they were written with. Every introduced word and phrase gets up to
+// three texts in its window (n+1..n+10), minus the written texts there that already use it; when the
+// window has passed with a shortfall, the next unwritten slots take it. Then one spaced text
+// (n+15..n+40) and one review text of its area.
 
-for (const slot of slots) slot.repeat = [];
+const storyOf = new Map<number, Token[]>();
+for (const slot of slots) {
+  const t = written.get(slot.id);
+  if (t) storyOf.set(slot.order, t.segments.flatMap((x) => x.tokens ?? []));
+}
+const seqByLemma = new Map(entries.map((e) => [e.lemma.toLowerCase(), e.lemmas!]));
+const seqOf = (w: string) => seqByLemma.get(w.toLowerCase()) ?? w.toLowerCase().split(/\s+/);
+const lemmasOf = (t: Token) => [t.l, ...(t.alt ?? [])].filter((x): x is string => !!x).map((x) => x.toLowerCase());
+const occursIn = (seq: string[], toks: Token[]) => {
+  const sets = toks.filter((t) => t.p !== 'Z').map((t) => new Set(lemmasOf(t)));
+  const width = seq.length + 3;
+  for (let i = 0; i < Math.max(1, sets.length - width + 1); i++) {
+    const win = sets.slice(i, i + width);
+    if (seq.every((x) => win.some((w) => w.has(x)))) return true;
+  }
+  return false;
+};
+
+const open = (s: PlanSlot) => !s.textId && !s.spare;
+for (const slot of slots) if (open(slot)) slot.repeat = [];
+const firstOpen = slots.find(open)?.order ?? Infinity;
 const repeatCap = (s: PlanSlot) => REPEAT_CAP[s.type](s.stage);
 const addRepeat = (s: PlanSlot | undefined, w: string) => {
-  if (!s || s.repeat.includes(w) || s.newWords.includes(w) || s.repeat.length >= repeatCap(s)) return false;
+  if (!s || !open(s) || s.repeat.includes(w) || s.newWords.includes(w) || s.phrases.includes(w)) return false;
+  if (s.repeat.length >= repeatCap(s)) return false;
   s.repeat.push(w);
   return true;
 };
 const pick = (from: number, to: number, w: string, pred: (s: PlanSlot) => boolean = () => true) => {
-  const cands = slots.filter((s) => s.order >= from && s.order <= to && !s.spare && pred(s));
+  const cands = slots.filter((s) => s.order >= from && s.order <= to && open(s) && pred(s));
   cands.sort((a, b) => a.repeat.length / repeatCap(a) - b.repeat.length / repeatCap(b) || a.order - b.order);
   for (const s of cands) if (addRepeat(s, w)) return true;
   return false;
 };
 for (const slot of slots.filter((s) => !s.spare)) {
-  for (const w of slot.newWords) {
+  for (const w of [...slot.newWords, ...slot.phrases]) {
     const n = slot.order;
-    const summary = slots.find((s) => s.order > n && s.order <= n + 4 && s.type === 'summary');
-    addRepeat(summary, w);
-    pick(n + 1, n + 5, w, (s) => s.type !== 'summary');
-    pick(n + 6, n + 10, w);
-    pick(n + 15, n + 40, w);
+    const seq = seqOf(w);
+    let hits = 0;
+    for (let o = n + 1; o <= n + 10; o++) {
+      const toks = storyOf.get(o);
+      if (toks && occursIn(seq, toks)) hits++;
+    }
+    let need = Math.max(0, 3 - hits);
+    const summary = slots.find((s) => open(s) && s.order > n && s.order <= n + 4 && s.type === 'summary');
+    if (need > 0 && addRepeat(summary, w)) need--;
+    while (need > 0 && pick(Math.max(n + 1, firstOpen), n + 10, w)) need--;
+    while (need > 0 && pick(firstOpen, firstOpen + 9, w)) need--;
+    pick(Math.max(n + 15, firstOpen), Math.max(n + 40, firstOpen + 25), w);
     pick(201, 230, w, (s) => s.area === slot.area);
   }
 }
