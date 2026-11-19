@@ -6,9 +6,6 @@ dist/
 # local only (DESIGN.md, sections 5.1, 6 and 9)
 private/
 .cache/
-# audio is committed once the author settles voices and bitrate; voice samples are small and committed
-public/audio/*
-!public/audio/voices/
 
 # Python
 .venv/
