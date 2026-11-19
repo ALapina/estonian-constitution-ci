@@ -2,7 +2,7 @@
 
 Working title. Graded Estonian reading texts with audio for the Estonian citizenship exam on the Constitution and the Citizenship Act ("Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksam").
 
-Status: design done, first texts in progress. The site will be at https://alapina.github.io/estonian-constitution-ci/ once the first batch is published.
+Status: the first batch (texts 1-15) is published with audio at https://alapina.github.io/estonian-constitution-ci/; new batches follow daily.
 
 This is a free study project, not an official resource. The official texts of the laws are published in [Riigi Teataja](https://www.riigiteataja.ee/).
 

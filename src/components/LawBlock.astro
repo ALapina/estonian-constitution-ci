@@ -2,6 +2,7 @@
 // The law block of a text (DESIGN.md 4.1): authentic text of the cited §, chapter and § numbers,
 // the Riigi Teataja note required by the Riigi Teataja Act § 12(1), key facts, and its own audio.
 import { existsSync } from 'node:fs';
+import Player from './Player';
 import {
   ACT_HEADINGS,
   citation,
@@ -86,7 +87,7 @@ function chapterLine(r: ResolvedLaw): string {
   {
     lawAudio && (
       <figure class="player">
-        <audio controls preload="none" src={url(lawAudio)} />
+        <Player client:load src={url(lawAudio)} label="Аудио закона" />
         <figcaption>Heli: Neurokõne (TartuNLP)</figcaption>
       </figure>
     )
