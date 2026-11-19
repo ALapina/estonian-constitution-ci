@@ -351,7 +351,7 @@ The author needs the browser storage to stay correct, so:
 - every read and write is wrapped in try/catch, and the site works without storage;
 - phase 2 adds export and import of the whole state as a JSON file, as a backup.
 
-Stored: read texts, difficult words (by lemma, so every form is highlighted), playback speed, answers, difficulty ratings. Since 19.11 the state is `{ "version": 1, "texts": { "<id>": { "read": "<ISO time>", "rating": "easy" | "fine" | "hard" } } }` (`src/lib/state.ts`); later fields join this object.
+Stored: read texts, difficult words (by lemma, so every form is highlighted), playback speed, answers, difficulty ratings. Since 19.11 the state is `{ "version": 1, "texts": { "<id>": { "read": "<ISO time>", "rating": "easy" | "fine" | "hard" } }, "speed": 0.75, "answers": { "<id>": [<option index> | null, ...] } }` (`src/lib/state.ts`); later fields join this object.
 
 ### 7.5 Phases
 
@@ -551,3 +551,4 @@ None. The author settled P1-P6 on 18.11 (section 14).
 | 18.11 | author | Maksim and Katja come from Ukraine (Kharkiv); the agent's background: in Tallinn since 2019, Maksim finds his grandfather's passport in stage 1 |
 | 18.11 | author | Commits use the author's personal identity, Anna Lapina <alapina@outlook.com>, never the work email |
 | 19.11 | agent | Phase 1 starts with the read mark and the rating: rating a text also marks it read; the home page shows progress, a "continue" link to the first unread text, a badge per text and filters "all / unread / hard" for rereading |
+| 19.11 | agent | Phase 1 player: play/pause, ±5 s skips, a seek bar and the speed menu; one speed for every player; only one player plays at a time. Questions: the reader picks an option, then sees right or wrong and the explanation; answers are saved and can be cleared with "Ответить заново" |

@@ -18,9 +18,15 @@ export interface TextState {
   rating?: Rating;
 }
 
+export const SPEEDS = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2];
+
 export interface ReaderState {
   version: typeof VERSION;
   texts: Record<string, TextState>;
+  /** Playback speed for every player (DESIGN.md 6); the files are always at 1.0. */
+  speed?: number;
+  /** Text id → the option index chosen for each question, in question order; null is unanswered. */
+  answers?: Record<string, (number | null)[]>;
 }
 
 const CHANGE_EVENT = 'reader-state-change';
@@ -46,8 +52,11 @@ function migrate(raw: unknown): ReaderState {
       texts[id] = entry;
     }
   }
+  const result = { ...(obj as object), version: VERSION, texts } as ReaderState;
+  if (typeof result.speed !== 'number' || !SPEEDS.includes(result.speed)) delete result.speed;
+  if (result.answers && typeof result.answers !== 'object') delete result.answers;
   // Unknown top-level fields from a newer build are kept, not dropped.
-  return { ...(obj as object), version: VERSION, texts } as ReaderState;
+  return result;
 }
 
 export function loadState(): ReaderState {
@@ -79,6 +88,20 @@ export function updateText(id: string, change: (prev: TextState) => TextState): 
   const updated = { ...state, texts };
   saveState(updated);
   return updated;
+}
+
+export function setSpeed(speed: number): void {
+  saveState({ ...loadState(), speed });
+}
+
+export function setAnswer(textId: string, question: number, option: number | null, count: number): void {
+  const state = loadState();
+  const answers = { ...state.answers };
+  const list = Array.from({ length: count }, (_, i) => answers[textId]?.[i] ?? null);
+  list[question] = option;
+  if (list.every((a) => a === null)) delete answers[textId];
+  else answers[textId] = list;
+  saveState({ ...state, answers });
 }
 
 /** Calls `listener` when state changes on this page or in another tab. Returns the unsubscribe function. */

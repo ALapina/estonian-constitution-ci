@@ -1,6 +1,8 @@
 ---
 import { existsSync } from 'node:fs';
 import LawBlock from '../../components/LawBlock.astro';
+import Player from '../../components/Player';
+import Questions from '../../components/Questions';
 import TextMarks from '../../components/TextMarks';
 import Base from '../../layouts/Base.astro';
 import { allTexts, STAGE_TITLES } from '../../lib/content';
@@ -47,7 +49,7 @@ const next = texts[index + 1];
     {
       storyAudio && (
         <figure class="player">
-          <audio controls preload="none" src={url(storyAudio)} />
+          <Player client:load src={url(storyAudio)} label="Аудио истории" />
           <figcaption lang="et">Heli: Neurokõne (TartuNLP)</figcaption>
         </figure>
       )
@@ -84,27 +86,15 @@ const next = texts[index + 1];
 
     {
       text.questions.length > 0 && (
-        <section class="questions">
-          <h2>Вопросы</h2>
-          {text.questions.map((q) => (
-            <div class="question" lang="et">
-              <p class="task">{TASKS[q.type]}</p>
-              <p class="q-text">{q.text.startsWith(TASKS[q.type]) ? q.text.slice(TASKS[q.type].length).trim() : q.text}</p>
-              <ol type="A">
-                {q.options.map((o) => (
-                  <li>{o}</li>
-                ))}
-              </ol>
-              <details>
-                <summary lang="ru">Показать ответ</summary>
-                <p>
-                  <strong>{q.options[q.answer]}</strong>
-                </p>
-                <p>{q.explanation}</p>
-              </details>
-            </div>
-          ))}
-        </section>
+        <Questions
+          client:load
+          textId={text.id}
+          questions={text.questions}
+          tasks={text.questions.map((q) => TASKS[q.type])}
+          texts={text.questions.map((q) =>
+            q.text.startsWith(TASKS[q.type]) ? q.text.slice(TASKS[q.type].length).trim() : q.text,
+          )}
+        />
       )
     }
 
