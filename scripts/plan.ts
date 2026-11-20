@@ -450,7 +450,10 @@ const seqByLemma = new Map(entries.map((e) => [e.lemma.toLowerCase(), e.lemmas!]
 const seqOf = (w: string) => seqByLemma.get(w.toLowerCase()) ?? w.toLowerCase().split(/\s+/);
 const lemmasOf = (t: Token) => [t.l, ...(t.alt ?? [])].filter((x): x is string => !!x).map((x) => x.toLowerCase());
 const occursIn = (seq: string[], toks: Token[]) => {
-  const sets = toks.filter((t) => t.p !== 'Z').map((t) => new Set(lemmasOf(t)));
+  // Same matching as scripts/check.ts: words of a multiword item also match surface forms.
+  const sets = toks
+    .filter((t) => t.p !== 'Z')
+    .map((t) => new Set(seq.length > 1 ? [...lemmasOf(t), t.f.toLowerCase()] : lemmasOf(t)));
   const width = seq.length + 3;
   for (let i = 0; i < Math.max(1, sets.length - width + 1); i++) {
     const win = sets.slice(i, i + width);

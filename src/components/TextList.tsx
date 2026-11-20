@@ -87,7 +87,8 @@ export default function TextList({ groups }: Props) {
                 return (
                   <li class={m?.read ? 'is-read' : undefined}>
                     <a href={t.href}>
-                      <span class="num">{Number(t.id)}.</span> <span lang="et">{t.title}</span>
+                      {/* One string: "1" and "." as two text nodes hydrate into "1..". */}
+                      <span class="num">{`${Number(t.id)}.`}</span> <span lang="et">{t.title}</span>
                     </a>
                     <span class="meta">
                       {m?.rating && <span class={`badge rating-${m.rating}`}>{RATING_LABELS[m.rating]}</span>}

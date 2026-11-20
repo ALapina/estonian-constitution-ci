@@ -75,7 +75,10 @@ const seqOf = (lemma: string): string[] => examLemmas.get(lemma.toLowerCase()) ?
 
 /** True when every lemma of `seq` appears within a window of seq.length + 3 words. */
 function occursIn(seq: string[], tokens: Token[]): boolean {
-  const sets = tokens.filter((t) => t.p !== 'Z').map((t) => new Set(lemmasOf(t)));
+  // A multiword item may keep a word in a fixed form ("kohtu alla andma"), so its words also match surface forms.
+  const sets = tokens
+    .filter((t) => t.p !== 'Z')
+    .map((t) => new Set(seq.length > 1 ? [...lemmasOf(t), t.f.toLowerCase()] : lemmasOf(t)));
   if (seq.length === 1) return sets.some((s) => s.has(seq[0]));
   const width = seq.length + 3;
   for (let i = 0; i < Math.max(1, sets.length - width + 1); i++) {

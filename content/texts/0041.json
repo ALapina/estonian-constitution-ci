@@ -1,0 +1,2384 @@
+{
+  "id": "0041",
+  "slot": "s041",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Kes võttis ratta?",
+  "law": [
+    "ps-22"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "tamm": {
+      "name": "Härra Tamm",
+      "voice": "albert",
+      "note": "an older neighbour in the Ivanovs' building in Lasnamäe"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Oli pühapäeva hommik, 13. detsember.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "pühapäeva",
+          "l": "pühapäev",
+          "p": "S",
+          "parts": [
+            "püha",
+            "päev"
+          ]
+        },
+        {
+          "f": "hommik",
+          "l": "hommik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "13.",
+          "l": "13.",
+          "p": "O"
+        },
+        {
+          "f": "detsember",
+          "l": "detsember",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Maksim tuli trepist alla.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Maksim",
+          "l": "Maksim",
+          "p": "H"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "trepist",
+          "l": "trepp",
+          "p": "S"
+        },
+        {
+          "f": "alla",
+          "l": "alla",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Trepi all olev koht oli tühi: tema jalgratas oli kadunud.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Trepi",
+          "l": "trepp",
+          "p": "S"
+        },
+        {
+          "f": "all",
+          "l": "all",
+          "p": "K"
+        },
+        {
+          "f": "olev",
+          "l": "olev",
+          "p": "A"
+        },
+        {
+          "f": "koht",
+          "l": "koht",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tühi",
+          "l": "tühi",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "jalgratas",
+          "l": "jalgratas",
+          "p": "S",
+          "parts": [
+            "jalg",
+            "ratas"
+          ]
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kadunud",
+          "l": "kaduma",
+          "p": "V",
+          "alt": [
+            "kadunud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "maksim",
+      "text": "„Katja! Minu ratast ei ole!“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Katja",
+          "l": "Katja",
+          "p": "H"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ratast",
+          "l": "ratas",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Samal ajal tuli härra Tamm koeraga jalutamast.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Samal",
+          "l": "sama",
+          "p": "P"
+        },
+        {
+          "f": "ajal",
+          "l": "aeg",
+          "p": "S"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "härra",
+          "l": "härra",
+          "p": "S"
+        },
+        {
+          "f": "Tamm",
+          "l": "Tamm",
+          "p": "H"
+        },
+        {
+          "f": "koeraga",
+          "l": "koer",
+          "p": "S"
+        },
+        {
+          "f": "jalutamast",
+          "l": "jalutama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Trepile tulid ka Lisa ja Katja.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Trepile",
+          "l": "Trepile",
+          "p": "H"
+        },
+        {
+          "f": "tulid",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Katja",
+          "l": "Katja",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "tamm",
+      "text": "„See oli Robin viiendalt korruselt, see pikkade juustega poiss! Ta on varas!“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Robin",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "viiendalt",
+          "l": "viies",
+          "p": "O"
+        },
+        {
+          "f": "korruselt",
+          "l": "korrus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "pikkade",
+          "l": "pikk",
+          "p": "A"
+        },
+        {
+          "f": "juustega",
+          "l": "juus",
+          "p": "S"
+        },
+        {
+          "f": "poiss",
+          "l": "poiss",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "varas",
+          "l": "varas",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Härra Tamm käsitas Robinit juba vargana.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Härra",
+          "l": "härra",
+          "p": "S"
+        },
+        {
+          "f": "Tamm",
+          "l": "Tamm",
+          "p": "H"
+        },
+        {
+          "f": "käsitas",
+          "l": "käsitama",
+          "p": "V"
+        },
+        {
+          "f": "Robinit",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": "vargana",
+          "l": "varas",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Robin joonistas minust kurja pildi, see on tõsi. Aga varas ta ei ole! Kas te nägite, et ta ratta võttis?“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Robin",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "joonistas",
+          "l": "joonistama",
+          "p": "V"
+        },
+        {
+          "f": "minust",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "kurja",
+          "l": "kuri",
+          "p": "A"
+        },
+        {
+          "f": "pildi",
+          "l": "pilt",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tõsi",
+          "l": "tõsi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "varas",
+          "l": "varas",
+          "p": "S"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "te",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "nägite",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ratta",
+          "l": "ratas",
+          "p": "S"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "tamm",
+      "text": "„Ei näinud. Aga sellistel poistel on uus telefon ja sissetulekut ei ole! Noorte vabadust peab piirama.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "näinud",
+          "l": "nägema",
+          "p": "V",
+          "alt": [
+            "näinud",
+            "näima"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "sellistel",
+          "l": "selline",
+          "p": "P"
+        },
+        {
+          "f": "poistel",
+          "l": "poiss",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "uus",
+          "l": "uus",
+          "p": "A"
+        },
+        {
+          "f": "telefon",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sissetulekut",
+          "l": "sissetulek",
+          "p": "S",
+          "parts": [
+            "sisse",
+            "tulek"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Noorte",
+          "l": "Noor",
+          "p": "H",
+          "alt": [
+            "Noorte"
+          ]
+        },
+        {
+          "f": "vabadust",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "piirama",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis tuli trepist alla Mari.",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "trepist",
+          "l": "trepp",
+          "p": "S"
+        },
+        {
+          "f": "alla",
+          "l": "alla",
+          "p": "D"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Põhiseaduse paragrahv 22 ütleb: kedagi ei tohi käsitada kuriteos süüdi olevana enne, kui tema kohta on jõustunud süüdimõistev kohtuotsus.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "22",
+          "l": "22",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kedagi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "käsitada",
+          "l": "käsitama",
+          "p": "V"
+        },
+        {
+          "f": "kuriteos",
+          "l": "kuritegu",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegu"
+          ]
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": "olevana",
+          "l": "olev",
+          "p": "A"
+        },
+        {
+          "f": "enne",
+          "l": "enne",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "jõustunud",
+          "l": "jõustuma",
+          "p": "V",
+          "alt": [
+            "jõustunud"
+          ]
+        },
+        {
+          "f": "süüdimõistev",
+          "l": "süüdimõistev",
+          "p": "A",
+          "parts": [
+            "süüdi",
+            "mõistev"
+          ]
+        },
+        {
+          "f": "kohtuotsus",
+          "l": "kohtuotsus",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "otsus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Jõustunud? Mis see tähendab?“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jõustunud",
+          "l": "jõustuma",
+          "p": "V",
+          "alt": [
+            "jõustunud"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Kui kohtuotsus jõustub, siis see kehtib. Aga Robini kohta ei ole süüdimõistvat kohtuotsust. Keegi ei tohi teda käsitada vargana.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "kohtuotsus",
+          "l": "kohtuotsus",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "otsus"
+          ]
+        },
+        {
+          "f": "jõustub",
+          "l": "jõustuma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "siis",
+          "l": "siis",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kehtib",
+          "l": "kehtima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "Robini",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "süüdimõistvat",
+          "l": "süüdimõistev",
+          "p": "A",
+          "parts": [
+            "süüdi",
+            "mõistev"
+          ]
+        },
+        {
+          "f": "kohtuotsust",
+          "l": "kohtuotsus",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "otsus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "teda",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "käsitada",
+          "l": "käsitama",
+          "p": "V"
+        },
+        {
+          "f": "vargana",
+          "l": "varas",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "tamm",
+      "text": "„Siis peab ta tõendama, et ta ratast ei võtnud!“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "tõendama",
+          "l": "tõendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ratast",
+          "l": "ratas",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "võtnud",
+          "l": "võtma",
+          "p": "V",
+          "alt": [
+            "võtnud"
+          ]
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Ei pea. Keegi ei ole kriminaalmenetluses kohustatud oma süütust tõendama.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "pea",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kriminaalmenetluses",
+          "l": "kriminaalmenetlus",
+          "p": "S",
+          "parts": [
+            "kriminaal",
+            "menetlus"
+          ]
+        },
+        {
+          "f": "kohustatud",
+          "l": "kohustama",
+          "p": "V",
+          "alt": [
+            "kohustatud"
+          ]
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "süütust",
+          "l": "süütus",
+          "p": "S"
+        },
+        {
+          "f": "tõendama",
+          "l": "tõendama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "tamm",
+      "text": "„Politsei sunnib tema ema rääkima, kus poeg eile õhtul oli!“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Politsei",
+          "l": "politsei",
+          "p": "S"
+        },
+        {
+          "f": "sunnib",
+          "l": "sundima",
+          "p": "V"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "rääkima",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kus",
+          "l": "kus",
+          "p": "D"
+        },
+        {
+          "f": "poeg",
+          "l": "poeg",
+          "p": "S"
+        },
+        {
+          "f": "eile",
+          "l": "eile",
+          "p": "D"
+        },
+        {
+          "f": "õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Kedagi ei tohi sundida tunnistama enda või oma lähedaste vastu. See kehtib ka Robini ema kohta.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kedagi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "sundida",
+          "l": "sundima",
+          "p": "V"
+        },
+        {
+          "f": "tunnistama",
+          "l": "tunnistama",
+          "p": "V"
+        },
+        {
+          "f": "enda",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "lähedaste",
+          "l": "lähedane",
+          "p": "S"
+        },
+        {
+          "f": "vastu",
+          "l": "vastu",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kehtib",
+          "l": "kehtima",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "Robini",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ja paragrahv 17: kellegi au ega head nime ei tohi teotada. Ka Robini oma mitte.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "17",
+          "l": "17",
+          "p": "N"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kellegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "au",
+          "l": "au",
+          "p": "S"
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "head",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "nime",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "teotada",
+          "l": "teotama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "Robini",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "katja",
+      "text": "„Robin võib ka kohtusse minna! Igaühel on õigus pöörduda oma õiguste ja vabaduste rikkumise korral kohtusse. Ka minul, teise riigi kodanikul.“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Robin",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "kohtusse",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "minna",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "pöörduda",
+          "l": "pöörduma",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "õiguste",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vabaduste",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "rikkumise",
+          "l": "rikkumine",
+          "p": "S"
+        },
+        {
+          "f": "korral",
+          "l": "korral",
+          "p": "K"
+        },
+        {
+          "f": "kohtusse",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "minul",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "teise",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "riigi",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "kodanikul",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "maksim",
+      "text": "„Jalgratta pärast ei ole kohut vaja.“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jalgratta",
+          "l": "jalgratas",
+          "p": "S",
+          "parts": [
+            "jalg",
+            "ratas"
+          ]
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohut",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "vaja",
+          "l": "vaja",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õhtul tuli koju Jaan ja naeris: ratas oli keldris!",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "Õhtul",
+          "l": "Õhtul",
+          "p": "H"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "koju",
+          "l": "kodu",
+          "p": "S"
+        },
+        {
+          "f": "Jaan",
+          "l": "Jaan",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "naeris",
+          "l": "naerma",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ratas",
+          "l": "ratas",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "keldris",
+          "l": "kelder",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Laupäeva õhtul oli tema kord treppi pesta ja ta oli ratta sinna viinud.",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "Laupäeva",
+          "l": "laupäev",
+          "p": "S",
+          "parts": [
+            "laug",
+            "päev"
+          ]
+        },
+        {
+          "f": "õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kord",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "treppi",
+          "l": "trepp",
+          "p": "S"
+        },
+        {
+          "f": "pesta",
+          "l": "pesema",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ratta",
+          "l": "ratas",
+          "p": "S"
+        },
+        {
+          "f": "sinna",
+          "l": "sinna",
+          "p": "D"
+        },
+        {
+          "f": "viinud",
+          "l": "viima",
+          "p": "V",
+          "alt": [
+            "viinud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Härra Tamm läks kohe viiendale korrusele ja palus Robinilt vabandust.",
+      "para": 18,
+      "tokens": [
+        {
+          "f": "Härra",
+          "l": "härra",
+          "p": "S"
+        },
+        {
+          "f": "Tamm",
+          "l": "Tamm",
+          "p": "H"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "kohe",
+          "l": "kohe",
+          "p": "D"
+        },
+        {
+          "f": "viiendale",
+          "l": "viies",
+          "p": "O"
+        },
+        {
+          "f": "korrusele",
+          "l": "korrus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "palus",
+          "l": "paluma",
+          "p": "V"
+        },
+        {
+          "f": "Robinilt",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "vabandust",
+          "l": "vabandus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Robin ainult naeratas.",
+      "para": 18,
+      "tokens": [
+        {
+          "f": "Robin",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "naeratas",
+          "l": "naeratama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ratas tõendas Robini süütuse ise!“",
+      "para": 19,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ratas",
+          "l": "Ratas",
+          "p": "H"
+        },
+        {
+          "f": "tõendas",
+          "l": "tõendama",
+          "p": "V"
+        },
+        {
+          "f": "Robini",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "süütuse",
+          "l": "süütus",
+          "p": "S"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Hiljem tuli trepile ka Olga ja naabrid õnnitlesid teda: eile oli ta eksami ära teinud.",
+      "para": 20,
+      "tokens": [
+        {
+          "f": "Hiljem",
+          "l": "hiljem",
+          "p": "D"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "trepile",
+          "l": "trepp",
+          "p": "S"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "naabrid",
+          "l": "naaber",
+          "p": "S"
+        },
+        {
+          "f": "õnnitlesid",
+          "l": "õnnitlema",
+          "p": "V"
+        },
+        {
+          "f": "teda",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "eile",
+          "l": "eile",
+          "p": "D"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "eksami",
+          "l": "eksam",
+          "p": "S"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": "teinud",
+          "l": "tegema",
+          "p": "V",
+          "alt": [
+            "teinud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "tamm",
+      "text": "„Palju õnne, Olga! Kas sa oled nüüd Eesti kodanik?“",
+      "para": 21,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Palju",
+          "l": "palju",
+          "p": "D"
+        },
+        {
+          "f": "õnne",
+          "l": "õnn",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "oled",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Veel mitte, härra Tamm. Aga eksam on tehtud!“",
+      "para": 22,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "härra",
+          "l": "härra",
+          "p": "S"
+        },
+        {
+          "f": "Tamm",
+          "l": "Tamm",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "eksam",
+          "l": "eksam",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tehtud",
+          "l": "tehtud",
+          "p": "A",
+          "alt": [
+            "tegema"
+          ]
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "olev",
+      "lemma": "olev",
+      "translation": "находящийся; являющийся (süüdi olev — виновный)"
+    },
+    {
+      "form": "varas",
+      "lemma": "varas",
+      "translation": "вор"
+    },
+    {
+      "form": "käsitas",
+      "lemma": "käsitama",
+      "translation": "считать, рассматривать (кого-либо кем-либо)"
+    },
+    {
+      "form": "jõustunud",
+      "lemma": "jõustuma",
+      "translation": "вступать в силу"
+    },
+    {
+      "form": "süüdimõistev kohtuotsus",
+      "lemma": "süüdimõistev kohtuotsus",
+      "translation": "обвинительный приговор суда"
+    },
+    {
+      "form": "tõendama",
+      "lemma": "tõendama",
+      "translation": "доказывать"
+    },
+    {
+      "form": "ei ole ... kohustatud",
+      "lemma": "kohustatud olema",
+      "translation": "быть обязанным"
+    },
+    {
+      "form": "süütust",
+      "lemma": "süütus",
+      "translation": "невиновность"
+    },
+    {
+      "form": "sunnib",
+      "lemma": "sundima",
+      "translation": "принуждать, заставлять"
+    },
+    {
+      "form": "kehtib",
+      "lemma": "kehtima",
+      "translation": "действовать, иметь силу (о решении, законе)"
+    },
+    {
+      "form": "sundida tunnistama",
+      "lemma": "tunnistama sundima",
+      "translation": "принуждать давать показания (tunnistama kellegi vastu — давать показания против кого-либо)"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Kedagi ei tohi käsitada kuriteos süüdi olevana enne, kui tema kohta on jõustunud süüdimõistev kohtuotsus. (§ 22)",
+      "ref": "ps-22-lg1"
+    },
+    {
+      "text": "Keegi ei ole kriminaalmenetluses kohustatud oma süütust tõendama. (§ 22)",
+      "ref": "ps-22-lg2"
+    },
+    {
+      "text": "Kedagi ei tohi sundida tunnistama iseenda või oma lähedaste vastu. (§ 22)",
+      "ref": "ps-22-lg3"
+    },
+    {
+      "text": "Igaühel on õigus pöörduda oma õiguste ja vabaduste rikkumise korral kohtusse. (§ 15)",
+      "ref": "ps-15-lg1"
+    },
+    {
+      "text": "Kellegi au ega head nime ei tohi teotada. (§ 17)",
+      "ref": "ps-17"
+    }
+  ],
+  "questions": [
+    {
+      "type": "truefalse",
+      "text": "Kriminaalmenetluses on inimene kohustatud oma süütust tõendama.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 22 lõige 2 ütleb: keegi ei ole kriminaalmenetluses kohustatud oma süütust tõendama.",
+      "ref": "ps-22-lg2"
+    },
+    {
+      "type": "choice",
+      "text": "Millal võib inimest käsitada kuriteos süüdi olevana?",
+      "options": [
+        "alles siis, kui tema kohta on jõustunud süüdimõistev kohtuotsus",
+        "kohe, kui politsei teda kahtlustab",
+        "kui naabrid on näinud, mida ta tegi",
+        "kui ta ei suuda oma süütust tõendada"
+      ],
+      "answer": 0,
+      "explanation": "§ 22 lõige 1 ütleb: kedagi ei tohi käsitada kuriteos süüdi olevana enne, kui tema kohta on jõustunud süüdimõistev kohtuotsus.",
+      "ref": "ps-22-lg1"
+    }
+  ],
+  "audio": {
+    "story": "audio/0041/story.mp3",
+    "law": "audio/0041/law.mp3",
+    "timings": "audio/0041/timings.json"
+  }
+}

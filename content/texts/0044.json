@@ -1,0 +1,2060 @@
+{
+  "id": "0044",
+  "slot": "s044",
+  "stage": 1,
+  "area": 2,
+  "type": "side",
+  "title": "Kertu päev kohtus",
+  "law": [
+    "ps-24-lg4",
+    "ps-24-lg5"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "kertu": {
+      "name": "Kertu",
+      "voice": "kylli",
+      "note": "a young reporter of a local newspaper in Pärnu"
+    },
+    "editor": {
+      "name": "Margus",
+      "voice": "albert",
+      "note": "Kertu's editor at the newspaper"
+    },
+    "owner": {
+      "name": "Ants",
+      "voice": "indrek",
+      "note": "a boat owner in Pärnu, the victim in a criminal case"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Kertu oli noor ajakirjanik Pärnu kohalikus ajalehes.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Kertu",
+          "l": "Kertu",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "noor",
+          "l": "noor",
+          "p": "A"
+        },
+        {
+          "f": "ajakirjanik",
+          "l": "ajakirjanik",
+          "p": "S",
+          "parts": [
+            "aeg",
+            "kirjanik"
+          ]
+        },
+        {
+          "f": "Pärnu",
+          "l": "Pärnu",
+          "p": "H"
+        },
+        {
+          "f": "kohalikus",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "ajalehes",
+          "l": "ajaleht",
+          "p": "S",
+          "parts": [
+            "aeg",
+            "leht"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mõni aasta tagasi oli ta veel gümnaasiumis.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Mõni",
+          "l": "mõni",
+          "p": "P"
+        },
+        {
+          "f": "aasta",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "tagasi",
+          "l": "tagasi",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "gümnaasiumis",
+          "l": "gümnaasium",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Tavaliselt kirjutas ta Pärnu loodusvaradest ja kohalikust elust, aga sel päeval saatis toimetaja ta kohtumajja.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Tavaliselt",
+          "l": "tavaliselt",
+          "p": "D"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "Pärnu",
+          "l": "Pärnu",
+          "p": "H"
+        },
+        {
+          "f": "loodusvaradest",
+          "l": "loodusvara",
+          "p": "S",
+          "parts": [
+            "loodus",
+            "vara"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kohalikust",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "elust",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "sel",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "päeval",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": "saatis",
+          "l": "saatma",
+          "p": "V"
+        },
+        {
+          "f": "toimetaja",
+          "l": "toimetaja",
+          "p": "S"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kohtumajja",
+          "l": "kohtumaja",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "maja"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Seal oli kaks kohtuistungit.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "kohtuistungit",
+          "l": "kohtuistung",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "istung"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Esimesel kohtuistungil oli mees, kes oli eelmisel talvel sadamast võtnud kaks võõrast paati.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Esimesel",
+          "l": "esimene",
+          "p": "O"
+        },
+        {
+          "f": "kohtuistungil",
+          "l": "kohtuistung",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "istung"
+          ]
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "eelmisel",
+          "l": "eelmine",
+          "p": "A"
+        },
+        {
+          "f": "talvel",
+          "l": "talv",
+          "p": "S",
+          "alt": [
+            "tali"
+          ]
+        },
+        {
+          "f": "sadamast",
+          "l": "sadam",
+          "p": "S"
+        },
+        {
+          "f": "võtnud",
+          "l": "võtma",
+          "p": "V",
+          "alt": [
+            "võtnud"
+          ]
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "võõrast",
+          "l": "võõras",
+          "p": "A"
+        },
+        {
+          "f": "paati",
+          "l": "paat",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kui politsei ta kinni võttis, ei osutanud ta vastupanu.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "politsei",
+          "l": "politsei",
+          "p": "S"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kinni",
+          "l": "kinni",
+          "p": "D"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "osutanud",
+          "l": "osutama",
+          "p": "V",
+          "alt": [
+            "osutanud"
+          ]
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "vastupanu",
+          "l": "vastupanu",
+          "p": "S",
+          "parts": [
+            "vastu",
+            "panu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Saalis istus ka paatide omanik Ants: tema oli kannatanu.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Saalis",
+          "l": "saal",
+          "p": "S"
+        },
+        {
+          "f": "istus",
+          "l": "istuma",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "paatide",
+          "l": "paat",
+          "p": "S"
+        },
+        {
+          "f": "omanik",
+          "l": "omanik",
+          "p": "S"
+        },
+        {
+          "f": "Ants",
+          "l": "Ants",
+          "p": "H"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kannatanu",
+          "l": "kannatanu",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kohus mõistis mehe kuriteos süüdi ja kuulutas otsuse avalikult.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "mõistis",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": "mehe",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "kuriteos",
+          "l": "kuritegu",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegu"
+          ]
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kuulutas",
+          "l": "kuulutama",
+          "p": "V"
+        },
+        {
+          "f": "otsuse",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": "avalikult",
+          "l": "avalikult",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mees ütles kohe, et ta kaebab otsuse edasi.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "ütles",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": "kohe",
+          "l": "kohe",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kaebab",
+          "l": "kaebama",
+          "p": "V"
+        },
+        {
+          "f": "otsuse",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": "edasi",
+          "l": "edasi",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Koridoris tuli Ants Kertu juurde.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Koridoris",
+          "l": "koridor",
+          "p": "S"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "Ants",
+          "l": "Ants",
+          "p": "H"
+        },
+        {
+          "f": "Kertu",
+          "l": "Kertu",
+          "p": "H"
+        },
+        {
+          "f": "juurde",
+          "l": "juurde",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "owner",
+      "text": "„Ta kaebab edasi? Kas ta võib seda teha?“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kaebab",
+          "l": "kaebama",
+          "p": "V"
+        },
+        {
+          "f": "edasi",
+          "l": "edasi",
+          "p": "D"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "teha",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kertu",
+      "text": "„Võib. Põhiseaduse paragrahv 24 ütleb: igaühel on õigus tema kohta tehtud kohtu otsuse peale seadusega sätestatud korras edasi kaevata kõrgemalseisvale kohtule.“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "24",
+          "l": "24",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": "tehtud",
+          "l": "tehtud",
+          "p": "A",
+          "alt": [
+            "tegema"
+          ]
+        },
+        {
+          "f": "kohtu",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "otsuse",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": "peale",
+          "l": "peale",
+          "p": "K"
+        },
+        {
+          "f": "seadusega",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "edasi",
+          "l": "edasi",
+          "p": "D"
+        },
+        {
+          "f": "kaevata",
+          "l": "kaebama",
+          "p": "V",
+          "alt": [
+            "kaevama"
+          ]
+        },
+        {
+          "f": "kõrgemalseisvale",
+          "l": "kõrgemalseisev",
+          "p": "A",
+          "parts": [
+            "kõrgemal",
+            "seisev"
+          ]
+        },
+        {
+          "f": "kohtule",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "owner",
+      "text": "„Kõrgemalseisvale kohtule? Millisele?“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kõrgemalseisvale",
+          "l": "kõrgemalseisev",
+          "p": "A",
+          "parts": [
+            "kõrgemal",
+            "seisev"
+          ]
+        },
+        {
+          "f": "kohtule",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Millisele",
+          "l": "milline",
+          "p": "P"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kertu",
+      "text": "„Seda ütleb seadus, mitte põhiseadus. Mina olen ajakirjanik, mitte jurist.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ajakirjanik",
+          "l": "ajakirjanik",
+          "p": "S",
+          "parts": [
+            "aeg",
+            "kirjanik"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "jurist",
+          "l": "jurist",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "owner",
+      "text": "„Hea küll, see on tema õigus. Mul on hea meel, et paadid on jälle sadamas.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "küll",
+          "l": "küll",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mul",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "meel",
+          "l": "meel",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "paadid",
+          "l": "paat",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "jälle",
+          "l": "jälle",
+          "p": "D"
+        },
+        {
+          "f": "sadamas",
+          "l": "sadam",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lõunal helistas toimetaja Margus.",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "Lõunal",
+          "l": "lõuna",
+          "p": "S"
+        },
+        {
+          "f": "helistas",
+          "l": "helistama",
+          "p": "V"
+        },
+        {
+          "f": "toimetaja",
+          "l": "toimetaja",
+          "p": "S"
+        },
+        {
+          "f": "Margus",
+          "l": "Margus",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "editor",
+      "text": "„Kertu, kell kolm lahutab kohus ühe kuulsa paari abielu. Kirjuta sellest! Nimed, fotod, kõik! Minu tingimus on lihtne: kell viis peab lugu valmis olema.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kertu",
+          "l": "Kertu",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kell",
+          "l": "kell",
+          "p": "S"
+        },
+        {
+          "f": "kolm",
+          "l": "kolm",
+          "p": "N"
+        },
+        {
+          "f": "lahutab",
+          "l": "lahutama",
+          "p": "V"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "ühe",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "kuulsa",
+          "l": "kuulus",
+          "p": "A"
+        },
+        {
+          "f": "paari",
+          "l": "paar",
+          "p": "N"
+        },
+        {
+          "f": "abielu",
+          "l": "abielu",
+          "p": "S",
+          "parts": [
+            "abi",
+            "elu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kirjuta",
+          "l": "Kirjuta",
+          "p": "H"
+        },
+        {
+          "f": "sellest",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nimed",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "fotod",
+          "l": "foto",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tingimus",
+          "l": "tingimus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lihtne",
+          "l": "lihtne",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kell",
+          "l": "kell",
+          "p": "S"
+        },
+        {
+          "f": "viis",
+          "l": "viima",
+          "p": "V"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "lugu",
+          "l": "lugu",
+          "p": "S"
+        },
+        {
+          "f": "valmis",
+          "l": "valmis",
+          "p": "D"
+        },
+        {
+          "f": "olema",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "See oli toimetaja korraldus.",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "toimetaja",
+          "l": "toimetaja",
+          "p": "S"
+        },
+        {
+          "f": "korraldus",
+          "l": "korraldus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Aga kell neli otsustas kohus, et seda otsust ei kuulutata avalikult.",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kell",
+          "l": "kell",
+          "p": "S"
+        },
+        {
+          "f": "neli",
+          "l": "neli",
+          "p": "N"
+        },
+        {
+          "f": "otsustas",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": "kohus",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "otsust",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "kuulutata",
+          "l": "kuulutama",
+          "p": "V"
+        },
+        {
+          "f": "avalikult",
+          "l": "avalikult",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kertu helistas toimetajale.",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "Kertu",
+          "l": "Kertu",
+          "p": "H"
+        },
+        {
+          "f": "helistas",
+          "l": "helistama",
+          "p": "V"
+        },
+        {
+          "f": "toimetajale",
+          "l": "toimetaja",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kertu",
+      "text": "„Margus, paragrahv 24 ütleb: kohtuotsus kuulutatakse avalikult. Aga kui alaealise, abielupoole või kannatanu huvid seda nõuavad, siis mitte. Täna nõudsid seda abielupoole huvid.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Margus",
+          "l": "Margus",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "24",
+          "l": "24",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kohtuotsus",
+          "l": "kohtuotsus",
+          "p": "S",
+          "parts": [
+            "kohus",
+            "otsus"
+          ]
+        },
+        {
+          "f": "kuulutatakse",
+          "l": "kuulutama",
+          "p": "V"
+        },
+        {
+          "f": "avalikult",
+          "l": "avalikult",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "alaealise",
+          "l": "alaealine",
+          "p": "A",
+          "parts": [
+            "ala",
+            "ealine"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "abielupoole",
+          "l": "abielupool",
+          "p": "S",
+          "parts": [
+            "abi",
+            "elu",
+            "pool"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "kannatanu",
+          "l": "kannatanu",
+          "p": "S"
+        },
+        {
+          "f": "huvid",
+          "l": "huvi",
+          "p": "S"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "nõuavad",
+          "l": "nõudma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "siis",
+          "l": "siis",
+          "p": "J"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "nõudsid",
+          "l": "nõudma",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "abielupoole",
+          "l": "abielupool",
+          "p": "S",
+          "parts": [
+            "abi",
+            "elu",
+            "pool"
+          ]
+        },
+        {
+          "f": "huvid",
+          "l": "huvi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "editor",
+      "text": "„Aga inimesed tahavad nimesid!“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "inimesed",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "tahavad",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "nimesid",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kertu",
+      "text": "„Nimesid ma ei kirjuta. Nende eraelu ei ole uudis.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nimesid",
+          "l": "Nime",
+          "p": "H",
+          "alt": [
+            "Nimi"
+          ]
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "kirjuta",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nende",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "eraelu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "uudis",
+          "l": "uudis",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kell viis oli lugu valmis.",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "Kell",
+          "l": "kell",
+          "p": "S"
+        },
+        {
+          "f": "viis",
+          "l": "viima",
+          "p": "V"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lugu",
+          "l": "lugu",
+          "p": "S"
+        },
+        {
+          "f": "valmis",
+          "l": "valmis",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Selles oli kaks paati, üks kannatanu ja üks mees, kes kaebab edasi.",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "Selles",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "paati",
+          "l": "paat",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "kannatanu",
+          "l": "kannatanu",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "kaebab",
+          "l": "kaebama",
+          "p": "V"
+        },
+        {
+          "f": "edasi",
+          "l": "edasi",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ja ainult üks lause abielust, ilma nimedeta.",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "lause",
+          "l": "lause",
+          "p": "S"
+        },
+        {
+          "f": "abielust",
+          "l": "abielu",
+          "p": "S",
+          "parts": [
+            "abi",
+            "elu"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ilma",
+          "l": "ilma",
+          "p": "K"
+        },
+        {
+          "f": "nimedeta",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "toimetaja",
+      "lemma": "toimetaja",
+      "translation": "редактор"
+    },
+    {
+      "form": "kohtuistungit",
+      "lemma": "kohtuistung",
+      "translation": "судебное заседание"
+    },
+    {
+      "form": "paati",
+      "lemma": "paat",
+      "translation": "лодка"
+    },
+    {
+      "form": "kannatanu",
+      "lemma": "kannatanu",
+      "translation": "потерпевший"
+    },
+    {
+      "form": "avalikult",
+      "lemma": "avalikult",
+      "translation": "публично, открыто"
+    },
+    {
+      "form": "kaebab ... edasi",
+      "lemma": "edasi kaebama",
+      "translation": "обжаловать (в вышестоящий суд)"
+    },
+    {
+      "form": "kaebab",
+      "lemma": "kaebama",
+      "translation": "жаловаться, подавать жалобу"
+    },
+    {
+      "form": "kõrgemalseisvale kohtule",
+      "lemma": "kõrgemalseisev kohus",
+      "translation": "вышестоящий суд"
+    },
+    {
+      "form": "kõrgemalseisvale",
+      "lemma": "kõrgemalseisev",
+      "translation": "вышестоящий"
+    },
+    {
+      "form": "abielupoole",
+      "lemma": "abielupool",
+      "translation": "супруг, супруга (сторона в браке)"
+    },
+    {
+      "form": "korraldus",
+      "lemma": "korraldus",
+      "translation": "распоряжение (toimetaja korraldus — распоряжение редактора)"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Kohtuotsus kuulutatakse avalikult, välja arvatud juhud, kui alaealise, abielupoole või kannatanu huvid nõuavad teisiti. (§ 24)",
+      "ref": "ps-24-lg4"
+    },
+    {
+      "text": "Igaühel on õigus tema kohta tehtud kohtu otsuse peale seadusega sätestatud korras edasi kaevata kõrgemalseisvale kohtule. (§ 24)",
+      "ref": "ps-24-lg5"
+    },
+    {
+      "text": "Kedagi ei tohi piinata, julmalt või väärikust alandavalt kohelda ega karistada. (§ 18)",
+      "ref": "ps-18-lg1"
+    },
+    {
+      "text": "Kedagi ei tohi tema vaba tahte vastaselt allutada meditsiini- ega teaduskatsetele. (§ 18)",
+      "ref": "ps-18-lg2"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Kelle huvides võib jätta kohtuotsuse avalikult kuulutamata?",
+      "options": [
+        "alaealise, abielupoole või kannatanu huvides",
+        "kohtuniku huvides",
+        "ajakirjanike huvides",
+        "Riigikogu huvides"
+      ],
+      "answer": 0,
+      "explanation": "§ 24 lõige 4 ütleb: kohtuotsus kuulutatakse avalikult, välja arvatud juhud, kui alaealise, abielupoole või kannatanu huvid nõuavad teisiti.",
+      "ref": "ps-24-lg4"
+    },
+    {
+      "type": "truefalse",
+      "text": "Igaühel on õigus tema kohta tehtud kohtu otsuse peale seadusega sätestatud korras edasi kaevata kõrgemalseisvale kohtule.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 0,
+      "explanation": "§ 24 lõige 5 ütleb: igaühel on õigus tema kohta tehtud kohtu otsuse peale seadusega sätestatud korras edasi kaevata kõrgemalseisvale kohtule.",
+      "ref": "ps-24-lg5"
+    }
+  ],
+  "audio": {
+    "story": "audio/0044/story.mp3",
+    "law": "audio/0044/law.mp3",
+    "timings": "audio/0044/timings.json"
+  }
+}
