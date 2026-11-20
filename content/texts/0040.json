@@ -1,0 +1,2297 @@
+{
+  "id": "0040",
+  "slot": "s040",
+  "stage": 1,
+  "area": 2,
+  "type": "summary",
+  "title": "Eksamipäev",
+  "law": [],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Laupäeval, 12. detsembril, viis Sergei Olga autoga eksamikeskusesse.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Laupäeval",
+          "l": "laupäev",
+          "p": "S",
+          "parts": [
+            "laug",
+            "päev"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "12.",
+          "l": "12.",
+          "p": "O"
+        },
+        {
+          "f": "detsembril",
+          "l": "detsember",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "viis",
+          "l": "viima",
+          "p": "V"
+        },
+        {
+          "f": "Sergei",
+          "l": "Sergei",
+          "p": "H"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "autoga",
+          "l": "auto",
+          "p": "S"
+        },
+        {
+          "f": "eksamikeskusesse",
+          "l": "eksamikeskus",
+          "p": "S",
+          "parts": [
+            "eksam",
+            "keskus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa ja Nikolai tulid kaasa.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Nikolai",
+          "l": "Nikolai",
+          "p": "H"
+        },
+        {
+          "f": "tulid",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "kaasa",
+          "l": "kaasa",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Autos luges Nikolai ajalehte ja Lisa Riigi Teatajat.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Autos",
+          "l": "auto",
+          "p": "S"
+        },
+        {
+          "f": "luges",
+          "l": "lugema",
+          "p": "V"
+        },
+        {
+          "f": "Nikolai",
+          "l": "Nikolai",
+          "p": "H"
+        },
+        {
+          "f": "ajalehte",
+          "l": "ajaleht",
+          "p": "S",
+          "parts": [
+            "aeg",
+            "leht"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "Riigi",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "Teatajat",
+          "l": "teataja",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Eksamikeskuse ees võttis Sergei taskust kingituse: piparkoogist võtme numbriga 20.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Eksamikeskuse",
+          "l": "eksamikeskus",
+          "p": "S",
+          "parts": [
+            "eksam",
+            "keskus"
+          ]
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "Sergei",
+          "l": "Sergei",
+          "p": "H"
+        },
+        {
+          "f": "taskust",
+          "l": "tasku",
+          "p": "S"
+        },
+        {
+          "f": "kingituse",
+          "l": "kingitus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "piparkoogist",
+          "l": "piparkook",
+          "p": "S",
+          "parts": [
+            "pipar",
+            "kook"
+          ]
+        },
+        {
+          "f": "võtme",
+          "l": "võti",
+          "p": "S"
+        },
+        {
+          "f": "numbriga",
+          "l": "number",
+          "p": "S"
+        },
+        {
+          "f": "20.",
+          "l": "20.",
+          "p": "O"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Ja ära unusta: kui inimene ei suuda poele maksta, ei pea ta ainult selle pärast vanglas karistust kandma!“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "V"
+        },
+        {
+          "f": "unusta",
+          "l": "unustama",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "suuda",
+          "l": "suutma",
+          "p": "V"
+        },
+        {
+          "f": "poele",
+          "l": "pood",
+          "p": "S"
+        },
+        {
+          "f": "maksta",
+          "l": "maksma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "pea",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "vanglas",
+          "l": "vangla",
+          "p": "S"
+        },
+        {
+          "f": "karistust",
+          "l": "karistus",
+          "p": "S"
+        },
+        {
+          "f": "kandma",
+          "l": "kandma",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kõik naersid.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "naersid",
+          "l": "naerma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Teised läksid kohvikusse, mis oli eksamikeskuse kõrval, ja jäid sinna ootama.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Teised",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "läksid",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "kohvikusse",
+          "l": "kohvik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "eksamikeskuse",
+          "l": "eksamikeskus",
+          "p": "S",
+          "parts": [
+            "eksam",
+            "keskus"
+          ]
+        },
+        {
+          "f": "kõrval",
+          "l": "kõrval",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "jäid",
+          "l": "jääma",
+          "p": "V"
+        },
+        {
+          "f": "sinna",
+          "l": "sinna",
+          "p": "D"
+        },
+        {
+          "f": "ootama",
+          "l": "ootama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Eksamikeskuses oli vaikne saal.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Eksamikeskuses",
+          "l": "eksamikeskus",
+          "p": "S",
+          "parts": [
+            "eksam",
+            "keskus"
+          ]
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vaikne",
+          "l": "vaikne",
+          "p": "A"
+        },
+        {
+          "f": "saal",
+          "l": "saal",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga istus arvuti taha.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "istus",
+          "l": "istuma",
+          "p": "V"
+        },
+        {
+          "f": "arvuti",
+          "l": "arvuti",
+          "p": "S"
+        },
+        {
+          "f": "taha",
+          "l": "taha",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Eksamil oli 24 küsimust eesti keeles ja aega oli 45 minutit.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Eksamil",
+          "l": "eksam",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "24",
+          "l": "24",
+          "p": "N"
+        },
+        {
+          "f": "küsimust",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": "eesti",
+          "l": "eesti",
+          "p": "G"
+        },
+        {
+          "f": "keeles",
+          "l": "keel",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "aega",
+          "l": "aeg",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "45",
+          "l": "45",
+          "p": "N"
+        },
+        {
+          "f": "minutit",
+          "l": "minut",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kasutada võis põhiseaduse ja kodakondsuse seaduse teksti ning sõnaraamatut.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Kasutada",
+          "l": "kasutama",
+          "p": "V"
+        },
+        {
+          "f": "võis",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kodakondsuse",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "teksti",
+          "l": "tekst",
+          "p": "S"
+        },
+        {
+          "f": "ning",
+          "l": "ning",
+          "p": "J"
+        },
+        {
+          "f": "sõnaraamatut",
+          "l": "sõnaraamat",
+          "p": "S",
+          "parts": [
+            "sõna",
+            "raamat"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kui vähemalt 18 vastust olid õiged, oli eksam tehtud.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "vähemalt",
+          "l": "vähemalt",
+          "p": "D"
+        },
+        {
+          "f": "18",
+          "l": "18",
+          "p": "N"
+        },
+        {
+          "f": "vastust",
+          "l": "vastus",
+          "p": "S"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õiged",
+          "l": "õige",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "eksam",
+          "l": "eksam",
+          "p": "S"
+        },
+        {
+          "f": "tehtud",
+          "l": "tehtud",
+          "p": "A",
+          "alt": [
+            "tegema"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Esimene küsimus oli lihtne: kes on kõrgeima riigivõimu kandja?",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Esimene",
+          "l": "esimene",
+          "p": "O"
+        },
+        {
+          "f": "küsimus",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lihtne",
+          "l": "lihtne",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kõrgeima",
+          "l": "kõrgeim",
+          "p": "U"
+        },
+        {
+          "f": "riigivõimu",
+          "l": "riigivõim",
+          "p": "S",
+          "parts": [
+            "riik",
+            "võim"
+          ]
+        },
+        {
+          "f": "kandja",
+          "l": "kandja",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga vastas kohe: rahvas.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "vastas",
+          "l": "vastama",
+          "p": "V"
+        },
+        {
+          "f": "kohe",
+          "l": "kohe",
+          "p": "D"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "rahvas",
+          "l": "rahvas",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kaks küsimust olid selle nädala kohta.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "küsimust",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "nädala",
+          "l": "nädal",
+          "p": "S"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Üks küsimus oli: kas lause „Inimeselt võib võtta vabaduse üksnes sellepärast, et ta ei suuda täita lepingulist kohustust“ on õige või vale?",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "küsimus",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "lause",
+          "l": "lause",
+          "p": "S"
+        },
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Inimeselt",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "vabaduse",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "üksnes",
+          "l": "üksnes",
+          "p": "D"
+        },
+        {
+          "f": "sellepärast",
+          "l": "sellepärast",
+          "p": "D",
+          "parts": [
+            "see",
+            "pärast"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "suuda",
+          "l": "suutma",
+          "p": "V"
+        },
+        {
+          "f": "täita",
+          "l": "täitma",
+          "p": "V"
+        },
+        {
+          "f": "lepingulist",
+          "l": "lepinguline",
+          "p": "A"
+        },
+        {
+          "f": "kohustust",
+          "l": "kohustus",
+          "p": "S"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õige",
+          "l": "õige",
+          "p": "A"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "vale",
+          "l": "vale",
+          "p": "A"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga mõtles Sergei pesumasinale ja vastas: vale.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "mõtles",
+          "l": "mõtlema",
+          "p": "V"
+        },
+        {
+          "f": "Sergei",
+          "l": "Sergei",
+          "p": "H"
+        },
+        {
+          "f": "pesumasinale",
+          "l": "pesumasin",
+          "p": "S",
+          "parts": [
+            "pesu",
+            "masin"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vastas",
+          "l": "vastama",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "vale",
+          "l": "vale",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta teadis: vabaduse võib võtta ainult seaduses sätestatud juhtudel ja korras.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "teadis",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "vabaduse",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "juhtudel",
+          "l": "juht",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Teine küsimus oli: mis keeles peab inimene teada saama vabaduse võtmise põhjuse?",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "küsimus",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "keeles",
+          "l": "keel",
+          "p": "S"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "teada",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": "saama",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "vabaduse",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "võtmise",
+          "l": "võtmine",
+          "p": "S"
+        },
+        {
+          "f": "põhjuse",
+          "l": "põhjus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga mäletas Mari ja Katja küsimusi: keeles, mida ta mõistab.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "mäletas",
+          "l": "mäletama",
+          "p": "V"
+        },
+        {
+          "f": "Mari",
+          "l": "Mari",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Katja",
+          "l": "Katja",
+          "p": "H"
+        },
+        {
+          "f": "küsimusi",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "keeles",
+          "l": "keel",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "mõistab",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta mäletas ka, et ilma kohtu loata ei tohi kedagi vahi all pidada üle 48 tunni.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "mäletas",
+          "l": "mäletama",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "ilma",
+          "l": "ilma",
+          "p": "K"
+        },
+        {
+          "f": "kohtu",
+          "l": "kohus",
+          "p": "S"
+        },
+        {
+          "f": "loata",
+          "l": "luba",
+          "p": "S",
+          "alt": [
+            "luga"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "kedagi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "vahi",
+          "l": "vaht",
+          "p": "S"
+        },
+        {
+          "f": "all",
+          "l": "all",
+          "p": "K"
+        },
+        {
+          "f": "pidada",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "üle",
+          "l": "üle",
+          "p": "K"
+        },
+        {
+          "f": "48",
+          "l": "48",
+          "p": "N"
+        },
+        {
+          "f": "tunni",
+          "l": "tund",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Üks küsimus oli eriti keeruline: kellele kuulub täidesaatev riigivõim?",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "küsimus",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "eriti",
+          "l": "eriti",
+          "p": "D"
+        },
+        {
+          "f": "keeruline",
+          "l": "keeruline",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kellele",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "kuulub",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "täidesaatev",
+          "l": "täidesaatev",
+          "p": "A",
+          "parts": [
+            "täis",
+            "saatev"
+          ]
+        },
+        {
+          "f": "riigivõim",
+          "l": "riigivõim",
+          "p": "S",
+          "parts": [
+            "riik",
+            "võim"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga kontrollis seda põhiseaduse tekstist.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "kontrollis",
+          "l": "kontrollima",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "tekstist",
+          "l": "tekst",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Paragrahv 86: täidesaatev riigivõim kuulub Vabariigi Valitsusele.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "86",
+          "l": "86",
+          "p": "N"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "täidesaatev",
+          "l": "täidesaatev",
+          "p": "A",
+          "parts": [
+            "täis",
+            "saatev"
+          ]
+        },
+        {
+          "f": "riigivõim",
+          "l": "riigivõim",
+          "p": "S",
+          "parts": [
+            "riik",
+            "võim"
+          ]
+        },
+        {
+          "f": "kuulub",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "Vabariigi",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": "Valitsusele",
+          "l": "valitsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kui Olga oli lõpetanud, oli tulemus kohe ekraanil: 21 õiget vastust 24-st.",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lõpetanud",
+          "l": "lõpetama",
+          "p": "V",
+          "alt": [
+            "lõpetanud"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tulemus",
+          "l": "tulemus",
+          "p": "S"
+        },
+        {
+          "f": "kohe",
+          "l": "kohe",
+          "p": "D"
+        },
+        {
+          "f": "ekraanil",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "21",
+          "l": "21",
+          "p": "N"
+        },
+        {
+          "f": "õiget",
+          "l": "õige",
+          "p": "A"
+        },
+        {
+          "f": "vastust",
+          "l": "vastus",
+          "p": "S"
+        },
+        {
+          "f": "24-st",
+          "l": "24",
+          "p": "N"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Peaaegu kõik vastused olid õiged ja eksam oli tehtud!",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "Peaaegu",
+          "l": "peaaegu",
+          "p": "D",
+          "parts": [
+            "pea",
+            "aegu"
+          ]
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "vastused",
+          "l": "vastus",
+          "p": "S"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õiged",
+          "l": "õige",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "eksam",
+          "l": "eksam",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tehtud",
+          "l": "tehtud",
+          "p": "A",
+          "alt": [
+            "tegema"
+          ]
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga jooksis kohvikusse.",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "jooksis",
+          "l": "jooksma",
+          "p": "V"
+        },
+        {
+          "f": "kohvikusse",
+          "l": "kohvik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ema! Minu sõbrad gümnaasiumist küsivad, kuidas läks!“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "sõbrad",
+          "l": "sõber",
+          "p": "S"
+        },
+        {
+          "f": "gümnaasiumist",
+          "l": "gümnaasium",
+          "p": "S"
+        },
+        {
+          "f": "küsivad",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kuidas",
+          "l": "kuidas",
+          "p": "D"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kakskümmend üks õiget!“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kakskümmend",
+          "l": "kakskümmend",
+          "p": "N",
+          "parts": [
+            "kaks",
+            "kümmend"
+          ]
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "õiget",
+          "l": "õige",
+          "p": "A"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Minu mälu on vana. Ma mäletan Nõukogude Liitu ja ma mäletan sinu sündi. Aga see päev on sama tähtis.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mälu",
+          "l": "mälu",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mäletan",
+          "l": "mäletama",
+          "p": "V"
+        },
+        {
+          "f": "Nõukogude",
+          "l": "nõukogu",
+          "p": "S",
+          "parts": [
+            "nõu",
+            "kogu"
+          ]
+        },
+        {
+          "f": "Liitu",
+          "l": "liit",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mäletan",
+          "l": "mäletama",
+          "p": "V"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "sündi",
+          "l": "sünd",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "päev",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sama",
+          "l": "sama",
+          "p": "P"
+        },
+        {
+          "f": "tähtis",
+          "l": "tähtis",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Kui sa saad kodanikuks, oled sa Riigikogu valimistel hääleõiguslik. Mina olen kuusteist, mina veel ei ole.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "saad",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "kodanikuks",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "oled",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "Riigikogu",
+          "l": "riigikogu",
+          "p": "S",
+          "parts": [
+            "riik",
+            "kogu"
+          ]
+        },
+        {
+          "f": "valimistel",
+          "l": "valimine",
+          "p": "S"
+        },
+        {
+          "f": "hääleõiguslik",
+          "l": "hääleõiguslik",
+          "p": "A",
+          "parts": [
+            "hääl",
+            "õiguslik"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kuusteist",
+          "l": "kuusteist",
+          "p": "N",
+          "parts": [
+            "kuus",
+            "teist"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„PPA on järgmine samm, aga täna me tähistame!“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "PPA",
+          "l": "ppa",
+          "p": "Y"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "järgmine",
+          "l": "järgmine",
+          "p": "A"
+        },
+        {
+          "f": "samm",
+          "l": "samm",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "me",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tähistame",
+          "l": "tähistama",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Nikolai tellis kõigile koogi.",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "Nikolai",
+          "l": "Nikolai",
+          "p": "H"
+        },
+        {
+          "f": "tellis",
+          "l": "tellima",
+          "p": "V"
+        },
+        {
+          "f": "kõigile",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "koogi",
+          "l": "kook",
+          "p": "S",
+          "alt": [
+            "kubu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "kõrgeima riigivõimu kandja",
+      "lemma": "kõrgeima riigivõimu kandja",
+      "translation": "носитель высшей государственной власти"
+    },
+    {
+      "form": "vabaduse võtmise põhjuse",
+      "lemma": "vabaduse võtmise põhjus",
+      "translation": "причина лишения свободы"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus vabadusele ja isikupuutumatusele. (§ 20)",
+      "ref": "ps-20-lg1"
+    },
+    {
+      "text": "Vabaduse võib võtta ainult seaduses sätestatud juhtudel ja korras. (§ 20)",
+      "ref": "ps-20-lg2"
+    },
+    {
+      "text": "Kelleltki ei tohi võtta vabadust üksnes sel põhjusel, et ta ei ole suuteline täitma mingit lepingulist kohustust. (§ 20)",
+      "ref": "ps-20-lg3"
+    },
+    {
+      "text": "Igaühele, kellelt on võetud vabadus, teatatakse viivitamatult talle arusaadavas keeles ja viisil vabaduse võtmise põhjus ja tema õigused. (§ 21)",
+      "ref": "ps-21-lg1"
+    },
+    {
+      "text": "Kedagi ei tohi vahi all pidada üle neljakümne kaheksa tunni ilma kohtu loata. (§ 21)",
+      "ref": "ps-21-lg2"
+    }
+  ],
+  "questions": [
+    {
+      "type": "where",
+      "text": "Kus see on kirjas? „Kelleltki ei tohi võtta vabadust üksnes sel põhjusel, et ta ei ole suuteline täitma mingit lepingulist kohustust.“",
+      "options": [
+        "§ 12",
+        "§ 19",
+        "§ 20",
+        "§ 21"
+      ],
+      "answer": 2,
+      "explanation": "See lause on põhiseaduse § 20 kolmas lõige. § 20 ütleb ka: igaühel on õigus vabadusele ja isikupuutumatusele.",
+      "ref": "ps-20-lg3"
+    },
+    {
+      "type": "where",
+      "text": "Kus see on kirjas? „Täidesaatev riigivõim kuulub Vabariigi Valitsusele.“",
+      "options": [
+        "§ 1",
+        "§ 59",
+        "§ 77",
+        "§ 86"
+      ],
+      "answer": 3,
+      "explanation": "See lause on põhiseaduse § 86, Vabariigi Valitsuse peatüki esimene paragrahv.",
+      "ref": "ps-86"
+    }
+  ],
+  "audio": {
+    "story": "audio/0040/story.mp3",
+    "law": "audio/0040/law.mp3",
+    "timings": "audio/0040/timings.json"
+  }
+}

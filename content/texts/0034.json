@@ -1,0 +1,2313 @@
+{
+  "id": "0034",
+  "slot": "s034",
+  "stage": 1,
+  "area": 2,
+  "type": "side",
+  "title": "Öö Narvas",
+  "law": [
+    "ps-20-lg1"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "kadri": {
+      "name": "Kadri",
+      "voice": "vesta",
+      "note": "a police officer in Narva"
+    },
+    "mihkel": {
+      "name": "Mihkel",
+      "voice": "albert",
+      "note": "Kadri's young colleague, two weeks in the police"
+    },
+    "passer": {
+      "name": "Mööduja",
+      "voice": "indrek",
+      "note": "a man walking home at night"
+    },
+    "suspect": {
+      "name": "Noormees",
+      "voice": "kalev",
+      "note": "a young man suspected of breaking a shop window"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Oli külm detsembri öö Narvas.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "külm",
+          "l": "külm",
+          "p": "A"
+        },
+        {
+          "f": "detsembri",
+          "l": "detsember",
+          "p": "S"
+        },
+        {
+          "f": "öö",
+          "l": "öö",
+          "p": "S"
+        },
+        {
+          "f": "Narvas",
+          "l": "Narva",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kadri oli politseinik ja sõitis linnas koos noore kolleegi Mihkliga.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Kadri",
+          "l": "Kadri",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "politseinik",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sõitis",
+          "l": "sõitma",
+          "p": "V"
+        },
+        {
+          "f": "linnas",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "noore",
+          "l": "noor",
+          "p": "A"
+        },
+        {
+          "f": "kolleegi",
+          "l": "kolleeg",
+          "p": "S"
+        },
+        {
+          "f": "Mihkliga",
+          "l": "mihkel",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mihkel oli politseis töötanud ainult kaks nädalat ja tahtis kõike ise otsustada, olla sõltumatu.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Mihkel",
+          "l": "Mihkel",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "politseis",
+          "l": "politsei",
+          "p": "S"
+        },
+        {
+          "f": "töötanud",
+          "l": "töötama",
+          "p": "V",
+          "alt": [
+            "töötanud"
+          ]
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "nädalat",
+          "l": "nädal",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tahtis",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "kõike",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "D"
+        },
+        {
+          "f": "otsustada",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sõltumatu",
+          "l": "sõltumatu",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Narva kuulsa lossi kohal oli Eesti lipp.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Narva",
+          "l": "Narva",
+          "p": "H"
+        },
+        {
+          "f": "kuulsa",
+          "l": "kuulus",
+          "p": "A"
+        },
+        {
+          "f": "lossi",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": "kohal",
+          "l": "kohal",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "lipp",
+          "l": "lipp",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ühel tänaval jalutas mees kotiga.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Ühel",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "tänaval",
+          "l": "tänav",
+          "p": "S"
+        },
+        {
+          "f": "jalutas",
+          "l": "jalutama",
+          "p": "V"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "kotiga",
+          "l": "kott",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "mihkel",
+      "text": "„Vaata seda meest! Ta näeb imelik välja. Võtame ta kaasa!“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vaata",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "meest",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "näeb",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "imelik",
+          "l": "imelik",
+          "p": "A"
+        },
+        {
+          "f": "välja",
+          "l": "välja",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Võtame",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kaasa",
+          "l": "kaasa",
+          "p": "D"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kadri",
+      "text": "„Miks? Ta ei teinud midagi. Põhiseaduse paragrahv 20 ütleb: igaühel on õigus vabadusele ja isikupuutumatusele. Isikupuutumatus tähendab, et inimest ei tohi meelevaldselt kinni võtta. Inimese vabaduse võib võtta ainult seaduses sätestatud juhtudel ja korras.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Miks",
+          "l": "miks",
+          "p": "D"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "teinud",
+          "l": "tegema",
+          "p": "V",
+          "alt": [
+            "teinud"
+          ]
+        },
+        {
+          "f": "midagi",
+          "l": "miski",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "20",
+          "l": "20",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "vabadusele",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "isikupuutumatusele",
+          "l": "isikupuutumatus",
+          "p": "S",
+          "parts": [
+            "isik",
+            "puutumatus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Isikupuutumatus",
+          "l": "isikupuutumatus",
+          "p": "S",
+          "parts": [
+            "isik",
+            "puutumatus"
+          ]
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "inimest",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "meelevaldselt",
+          "l": "meelevaldselt",
+          "p": "D",
+          "parts": [
+            "meel",
+            "valdselt"
+          ]
+        },
+        {
+          "f": "kinni",
+          "l": "kinni",
+          "p": "D"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Inimese",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "vabaduse",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "juhtudel",
+          "l": "juht",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mees jalutas rahulikult edasi.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "jalutas",
+          "l": "jalutama",
+          "p": "V"
+        },
+        {
+          "f": "rahulikult",
+          "l": "rahulikult",
+          "p": "D"
+        },
+        {
+          "f": "edasi",
+          "l": "edasi",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "passer",
+      "text": "„Head ööd!“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Head",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "ööd",
+          "l": "öö",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Tund aega hiljem tuli kõne: keegi oli väikese poe akna katki löönud ja ära jooksnud.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Tund",
+          "l": "tund",
+          "p": "S"
+        },
+        {
+          "f": "aega",
+          "l": "aeg",
+          "p": "S"
+        },
+        {
+          "f": "hiljem",
+          "l": "hiljem",
+          "p": "D"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "kõne",
+          "l": "kõne",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "väikese",
+          "l": "väike",
+          "p": "A",
+          "alt": [
+            "väikene"
+          ]
+        },
+        {
+          "f": "poe",
+          "l": "pood",
+          "p": "S"
+        },
+        {
+          "f": "akna",
+          "l": "aken",
+          "p": "S"
+        },
+        {
+          "f": "katki",
+          "l": "katki",
+          "p": "D"
+        },
+        {
+          "f": "löönud",
+          "l": "lööma",
+          "p": "V",
+          "alt": [
+            "löönud"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": "jooksnud",
+          "l": "jooksma",
+          "p": "V",
+          "alt": [
+            "jooksnud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Poe lähedal nägid nad noort meest, kelle jope peal oli klaasi.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Poe",
+          "l": "pood",
+          "p": "S"
+        },
+        {
+          "f": "lähedal",
+          "l": "lähedal",
+          "p": "K"
+        },
+        {
+          "f": "nägid",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "nad",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "noort",
+          "l": "noor",
+          "p": "A"
+        },
+        {
+          "f": "meest",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kelle",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "jope",
+          "l": "jope",
+          "p": "S"
+        },
+        {
+          "f": "peal",
+          "l": "peal",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "klaasi",
+          "l": "klaas",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta proovis ära joosta, aga pakkuminek jäi lühikeseks: Mihkel võttis ta kinni.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "proovis",
+          "l": "proovima",
+          "p": "V"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": "joosta",
+          "l": "jooksma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "pakkuminek",
+          "l": "pakkuminek",
+          "p": "S",
+          "parts": [
+            "pakk",
+            "minek"
+          ]
+        },
+        {
+          "f": "jäi",
+          "l": "jääma",
+          "p": "V"
+        },
+        {
+          "f": "lühikeseks",
+          "l": "lühike",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mihkel",
+          "l": "Mihkel",
+          "p": "H"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kinni",
+          "l": "kinni",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "suspect",
+      "text": "„Ma ei teinud midagi!“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "teinud",
+          "l": "tegema",
+          "p": "V",
+          "alt": [
+            "teinud"
+          ]
+        },
+        {
+          "f": "midagi",
+          "l": "miski",
+          "p": "P"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "mihkel",
+      "text": "„Aga miks sa siis jooksid? Kadri, kas nüüd võime ta kaasa võtta?“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "miks",
+          "l": "miks",
+          "p": "D"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "jooksid",
+          "l": "jooksma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kadri",
+          "l": "Kadri",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "võime",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kaasa",
+          "l": "kaasa",
+          "p": "D"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kadri",
+      "text": "„Nüüd jah. Nüüd on põhjus: tema jope peal on klaasi ja ta jooksis ära. Ta on kahtlustatav.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "põhjus",
+          "l": "põhjus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "jope",
+          "l": "jope",
+          "p": "S"
+        },
+        {
+          "f": "peal",
+          "l": "peal",
+          "p": "K"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "klaasi",
+          "l": "klaas",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "jooksis",
+          "l": "jooksma",
+          "p": "V"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kahtlustatav",
+          "l": "kahtlustatav",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kadri",
+      "text": "„Paragrahvi 20 teine lõige ütleb: vabaduse võib võtta, et kuritegu või haldusõiguserikkumist ära hoida. Kui inimene on sellises õiguserikkumises põhjendatult kahtlustatav, võib tema vabaduse võtta, et viia ta pädeva riigiorgani ette või et vältida tema pakkuminekut.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahvi",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "20",
+          "l": "20",
+          "p": "N"
+        },
+        {
+          "f": "teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "vabaduse",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "kuritegu",
+          "l": "kuritegu",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegu"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "haldusõiguserikkumist",
+          "l": "haldusõiguserikkumine",
+          "p": "S",
+          "parts": [
+            "haldus",
+            "õigus",
+            "rikkumine"
+          ]
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": "hoida",
+          "l": "hoidma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sellises",
+          "l": "selline",
+          "p": "P"
+        },
+        {
+          "f": "õiguserikkumises",
+          "l": "õiguserikkumine",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "rikkumine"
+          ]
+        },
+        {
+          "f": "põhjendatult",
+          "l": "põhjendatult",
+          "p": "D"
+        },
+        {
+          "f": "kahtlustatav",
+          "l": "kahtlustatav",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "vabaduse",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "viia",
+          "l": "viima",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "pädeva",
+          "l": "pädev",
+          "p": "A"
+        },
+        {
+          "f": "riigiorgani",
+          "l": "riigiorgan",
+          "p": "S",
+          "parts": [
+            "riik",
+            "organ"
+          ]
+        },
+        {
+          "f": "ette",
+          "l": "ette",
+          "p": "K"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "vältida",
+          "l": "vältima",
+          "p": "V"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "pakkuminekut",
+          "l": "pakkuminek",
+          "p": "S",
+          "parts": [
+            "pakk",
+            "minek"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "mihkel",
+      "text": "„Kas see oli kuritegu või haldusõiguserikkumine?“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kuritegu",
+          "l": "kuritegu",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegu"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "haldusõiguserikkumine",
+          "l": "haldusõiguserikkumine",
+          "p": "S",
+          "parts": [
+            "haldus",
+            "õigus",
+            "rikkumine"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kadri",
+      "text": "„Kuritegu ja haldusõiguserikkumine on mõlemad õiguserikkumised. Põhiseadus lubab sellises õiguserikkumises põhjendatult kahtlustatava viia pädeva riigiorgani ette.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kuritegu",
+          "l": "kuritegu",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegu"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "haldusõiguserikkumine",
+          "l": "haldusõiguserikkumine",
+          "p": "S",
+          "parts": [
+            "haldus",
+            "õigus",
+            "rikkumine"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "mõlemad",
+          "l": "mõlema",
+          "p": "P"
+        },
+        {
+          "f": "õiguserikkumised",
+          "l": "õiguserikkumine",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "rikkumine"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "lubab",
+          "l": "lubama",
+          "p": "V"
+        },
+        {
+          "f": "sellises",
+          "l": "selline",
+          "p": "P"
+        },
+        {
+          "f": "õiguserikkumises",
+          "l": "õiguserikkumine",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "rikkumine"
+          ]
+        },
+        {
+          "f": "põhjendatult",
+          "l": "põhjendatult",
+          "p": "D"
+        },
+        {
+          "f": "kahtlustatava",
+          "l": "kahtlustatav",
+          "p": "A"
+        },
+        {
+          "f": "viia",
+          "l": "viima",
+          "p": "V"
+        },
+        {
+          "f": "pädeva",
+          "l": "pädev",
+          "p": "A"
+        },
+        {
+          "f": "riigiorgani",
+          "l": "riigiorgan",
+          "p": "S",
+          "parts": [
+            "riik",
+            "organ"
+          ]
+        },
+        {
+          "f": "ette",
+          "l": "ette",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kadri rääkis noormehega rahulikult.",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "Kadri",
+          "l": "Kadri",
+          "p": "H"
+        },
+        {
+          "f": "rääkis",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "noormehega",
+          "l": "noormees",
+          "p": "S",
+          "parts": [
+            "noor",
+            "mees"
+          ]
+        },
+        {
+          "f": "rahulikult",
+          "l": "rahulikult",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kadri",
+      "text": "„Te olete kahtlustatav. Palun tulge meiega autosse.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Te",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "olete",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kahtlustatav",
+          "l": "kahtlustatav",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Palun",
+          "l": "paluma",
+          "p": "V"
+        },
+        {
+          "f": "tulge",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "meiega",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "autosse",
+          "l": "auto",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "mihkel",
+      "text": "„Miks sa oled temaga nii viisakas? Ta jooksis meie eest ära!“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Miks",
+          "l": "miks",
+          "p": "D"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "oled",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "temaga",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "viisakas",
+          "l": "viisakas",
+          "p": "A"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "jooksis",
+          "l": "jooksma",
+          "p": "V"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "eest",
+          "l": "eest",
+          "p": "K"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kadri",
+      "text": "„Inimväärikus on igaühel: minul, sinul, Vabariigi Presidendil ja ka temal. Paragrahv 10 ütleb, et teises peatükis loetletud õigused ei välista muid õigusi, mis on kooskõlas põhiseaduse mõttega ja vastavad inimväärikusele.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Inimväärikus",
+          "l": "inimväärikus",
+          "p": "S",
+          "parts": [
+            "inim",
+            "väärikus"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "minul",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sinul",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vabariigi",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": "Presidendil",
+          "l": "president",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "temal",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "10",
+          "l": "10",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "teises",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "peatükis",
+          "l": "peatükk",
+          "p": "S",
+          "parts": [
+            "pea",
+            "tükk"
+          ]
+        },
+        {
+          "f": "loetletud",
+          "l": "loetletud",
+          "p": "A",
+          "alt": [
+            "loetlema"
+          ]
+        },
+        {
+          "f": "õigused",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "välista",
+          "l": "välistama",
+          "p": "V"
+        },
+        {
+          "f": "muid",
+          "l": "muu",
+          "p": "P"
+        },
+        {
+          "f": "õigusi",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kooskõlas",
+          "l": "kooskõla",
+          "p": "S",
+          "parts": [
+            "koos",
+            "kõla"
+          ]
+        },
+        {
+          "f": "põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "mõttega",
+          "l": "mõte",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vastavad",
+          "l": "vastama",
+          "p": "V"
+        },
+        {
+          "f": "inimväärikusele",
+          "l": "inimväärikus",
+          "p": "S",
+          "parts": [
+            "inim",
+            "väärikus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "kadri",
+      "text": "„Politseinik täidab oma kohustusi seaduse järgi. Seadus piirab ka meie tegevust.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Politseinik",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "täidab",
+          "l": "täitma",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "kohustusi",
+          "l": "kohustus",
+          "p": "S"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "järgi",
+          "l": "järgi",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "piirab",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tegevust",
+          "l": "tegevus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mihkel vaatas kaua Narva lossi poole.",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "Mihkel",
+          "l": "Mihkel",
+          "p": "H"
+        },
+        {
+          "f": "vaatas",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "kaua",
+          "l": "kaua",
+          "p": "D"
+        },
+        {
+          "f": "Narva",
+          "l": "Narva",
+          "p": "H"
+        },
+        {
+          "f": "lossi",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": "poole",
+          "l": "poole",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "isikupuutumatusele",
+      "lemma": "isikupuutumatus",
+      "translation": "личная неприкосновенность"
+    },
+    {
+      "form": "pakkuminek",
+      "lemma": "pakkuminek",
+      "translation": "побег (pakku minema — скрыться, сбежать)"
+    },
+    {
+      "form": "kahtlustatav",
+      "lemma": "kahtlustatav",
+      "translation": "подозреваемый"
+    },
+    {
+      "form": "kuritegu",
+      "lemma": "kuritegu",
+      "translation": "преступление"
+    },
+    {
+      "form": "haldusõiguserikkumist",
+      "lemma": "haldusõiguserikkumine",
+      "translation": "административное правонарушение"
+    },
+    {
+      "form": "õiguserikkumises",
+      "lemma": "õiguserikkumine",
+      "translation": "правонарушение"
+    },
+    {
+      "form": "pädeva",
+      "lemma": "pädev",
+      "translation": "компетентный"
+    },
+    {
+      "form": "riigiorgani",
+      "lemma": "riigiorgan",
+      "translation": "государственный орган"
+    },
+    {
+      "form": "täidab oma kohustusi",
+      "lemma": "kohustusi täitma",
+      "translation": "исполнять обязанности"
+    },
+    {
+      "form": "vältida",
+      "lemma": "vältima",
+      "translation": "избегать, предотвращать"
+    },
+    {
+      "form": "põhjendatult",
+      "lemma": "põhjendatult",
+      "translation": "обоснованно"
+    },
+    {
+      "form": "mõlemad",
+      "lemma": "mõlema",
+      "translation": "оба (mõlemad — оба, и то и другое)"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus vabadusele ja isikupuutumatusele. (§ 20)",
+      "ref": "ps-20-lg1"
+    },
+    {
+      "text": "Vabaduse võib võtta ainult seaduses sätestatud juhtudel ja korras. Need juhud on loetletud § 20 teises lõikes. (§ 20)",
+      "ref": "ps-20-lg2"
+    },
+    {
+      "text": "Vabaduse võib võtta kuriteo või haldusõiguserikkumise ärahoidmiseks, sellises õiguserikkumises põhjendatult kahtlustatava toimetamiseks pädeva riigiorgani ette või tema pakkumineku vältimiseks. (§ 20)",
+      "ref": "ps-20-lg2-p3"
+    },
+    {
+      "text": "Teises peatükis loetletud õigused, vabadused ja kohustused ei välista muid õigusi, vabadusi ega kohustusi, mis tulenevad põhiseaduse mõttest või on sellega kooskõlas ja vastavad inimväärikuse ning sotsiaalse ja demokraatliku õigusriigi põhimõtetele. (§ 10)",
+      "ref": "ps-10"
+    }
+  ],
+  "questions": [
+    {
+      "type": "truefalse",
+      "text": "Politsei võib inimese vabaduse võtta, kui inimene näeb imelik välja.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 20 ütleb: igaühel on õigus vabadusele ja isikupuutumatusele. Vabaduse võib võtta ainult seaduses sätestatud juhtudel ja korras. Imelik välimus ei ole üks neist juhtudest.",
+      "ref": "ps-20-lg2"
+    },
+    {
+      "type": "where",
+      "text": "Kus see on kirjas? „Igaühel on õigus vabadusele ja isikupuutumatusele.“",
+      "options": [
+        "§ 10",
+        "§ 16",
+        "§ 19",
+        "§ 20"
+      ],
+      "answer": 3,
+      "explanation": "See lause on põhiseaduse § 20 esimeses lõikes. § 20 räägib ka sellest, millal võib vabaduse võtta.",
+      "ref": "ps-20-lg1"
+    }
+  ],
+  "audio": {
+    "story": "audio/0034/story.mp3",
+    "law": "audio/0034/law.mp3",
+    "timings": "audio/0034/timings.json"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "story": {
+    "file": "story.mp3",
+    "duration": 138.538,
+    "segments": [
+      {
+        "segment": 0,
+        "start": 0.25,
+        "end": 2.108
+      },
+      {
+        "segment": 1,
+        "start": 2.408,
+        "end": 6.018
+      },
+      {
+        "segment": 2,
+        "start": 6.318,
+        "end": 12.425
+      },
+      {
+        "segment": 3,
+        "start": 12.725,
+        "end": 15.082
+      },
+      {
+        "segment": 4,
+        "start": 15.782,
+        "end": 17.582
+      },
+      {
+        "segment": 5,
+        "start": 17.882,
+        "end": 22.22
+      },
+      {
+        "segment": 6,
+        "start": 22.92,
+        "end": 40.994
+      },
+      {
+        "segment": 7,
+        "start": 41.694,
+        "end": 43.47
+      },
+      {
+        "segment": 8,
+        "start": 43.77,
+        "end": 44.757
+      },
+      {
+        "segment": 9,
+        "start": 45.457,
+        "end": 50.577
+      },
+      {
+        "segment": 10,
+        "start": 50.877,
+        "end": 54.29
+      },
+      {
+        "segment": 11,
+        "start": 54.59,
+        "end": 58.99
+      },
+      {
+        "segment": 12,
+        "start": 59.69,
+        "end": 60.898
+      },
+      {
+        "segment": 13,
+        "start": 61.598,
+        "end": 65.474
+      },
+      {
+        "segment": 14,
+        "start": 66.174,
+        "end": 72.312
+      },
+      {
+        "segment": 15,
+        "start": 72.612,
+        "end": 89.716
+      },
+      {
+        "segment": 16,
+        "start": 90.416,
+        "end": 93.098
+      },
+      {
+        "segment": 17,
+        "start": 93.798,
+        "end": 104.175
+      },
+      {
+        "segment": 18,
+        "start": 104.875,
+        "end": 106.768
+      },
+      {
+        "segment": 19,
+        "start": 107.068,
+        "end": 110.351
+      },
+      {
+        "segment": 20,
+        "start": 111.051,
+        "end": 114.73
+      },
+      {
+        "segment": 21,
+        "start": 115.43,
+        "end": 129.848
+      },
+      {
+        "segment": 22,
+        "start": 130.148,
+        "end": 135.486
+      },
+      {
+        "segment": 23,
+        "start": 136.186,
+        "end": 138.288
+      }
+    ]
+  },
+  "law": {
+    "file": "law.mp3",
+    "duration": 48.967,
+    "segments": [
+      {
+        "ref": "ps-20-lg1",
+        "from": 0,
+        "to": 50,
+        "start": 0.25,
+        "end": 3.141
+      },
+      {
+        "fact": 0,
+        "start": 3.841,
+        "end": 8.437
+      },
+      {
+        "fact": 1,
+        "start": 9.137,
+        "end": 18.084
+      },
+      {
+        "fact": 2,
+        "start": 18.784,
+        "end": 31.6
+      },
+      {
+        "fact": 3,
+        "start": 32.3,
+        "end": 48.717
+      }
+    ]
+  }
+}
