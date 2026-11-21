@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20",
+  "generatedAt": "2026-11-21",
   "arc": [
     "Stage 0 (texts 1-20), November 2026: Olga Ivanova, a nurse in Tallinn, decides to apply for Estonian citizenship. Her Estonian is already B2, so she needs only the exam on the Constitution and the Citizenship Act. Lisa gives her a copy of the Constitution, and the family reads it in the evenings: Lisa helps, Sergei asks practical questions, Nikolai remembers the past, the neighbours Mari and Jaan explain the law and the Riigikogu. Olga registers for the exam.",
-    "Stage 1 (texts 21-90), winter 2026/27: rights and freedoms in everyday life. Olga at the hospital, Lisa at school, Sergei at work, Nikolai at home; rights of everyone and rights of citizens only. A young couple from Kharkiv, Maksim and Katja Saar, in Tallinn since 2019, moves into the building. In a box of family papers Maksim finds the Estonian passport of his grandfather Johannes Saar of Tartu, who was an Estonian citizen before 1940. Texts 31-39 are Olga's exam week (6.12-11.12); in text 40 she takes the exam on Saturday 12.12.2026 and passes with 21 of 24; texts 41-45 run to 19.12.",
+    "Stage 1 (texts 21-90), winter 2026/27: rights and freedoms in everyday life. Olga at the hospital, Lisa at school, Sergei at work, Nikolai at home; rights of everyone and rights of citizens only. A young couple from Kharkiv, Maksim and Katja Saar, in Tallinn since 2019, moves into the building. In a box of family papers Maksim finds the Estonian passport of his grandfather Johannes Saar of Tartu, who was an Estonian citizen before 1940. Texts 31-39 are Olga's exam week (6.12-11.12); in text 40 she takes the exam on Saturday 12.12.2026 and passes with 21 of 24; texts 41-45 run to 19.12; texts 46-60 run from 20.12.2026 to 16.01.2027 (Christmas, New Year; Nikolai decides to take the exam; Katja starts selling cakes; the National Archives answers Maksim).",
     "Stage 2 (texts 91-130): citizenship. Olga applies at the PPA; the oath, the waiting, the Government's order. When she applies is set when the story reaches it, after checking the minister's regulation on applications (DESIGN.md 4.2). Nikolai starts his own application at 68. Maksim proves his citizenship by birth and gets his first Estonian passport; Katja starts the long road on a residence permit. Side stories: restoration for someone who lost citizenship as a minor, and loss of citizenship.",
     "Stage 3 (texts 131-200): institutions. Jaan's work in the Riigikogu, the President, the Government and the courts, seen through the family's questions. Olga receives her citizenship certificate and her passport.",
     "Stage 4 (texts 201-230): review by area. The family helps Katja prepare for her future exam and quizzes each other in the exam format."
@@ -2332,14 +2332,19 @@
       "returns": [
         "ps-19"
       ],
-      "newWordCount": 8,
+      "newWordCount": 9,
       "newWords": [
         "hüvitamine",
+        "moraalne",
         "materiaalne",
-        "moraalne"
+        "maa-ala",
+        "turvatöötaja",
+        "kaubanduskeskus",
+        "õigusvastaselt",
+        "tekitama",
+        "häbi"
       ],
       "phrases": [
-        "maa-ala",
         "materiaalne kahju"
       ],
       "repeat": [
@@ -2352,14 +2357,20 @@
         "täidesaatev",
         "gümnaasium"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "lisa",
+        "olga",
+        "guard",
+        "manager"
+      ],
+      "idea": "Sunday 20.12, a shopping centre in Tallinn, Christmas presents. The shop alarm rings as Lisa walks out; a security guard (side character) shouts that she is a thief and pulls her bag in front of everyone. The zip breaks, her phone falls and its screen (ekraan) cracks. The alarm was faulty: a shop assistant had left a tag on the scarf Olga had just paid for. The manager (side character) apologises and offers to pay for the screen. At home Lisa reads § 25: everyone has the right to compensation (hüvitamine) for moral (moraalne) and material (materiaalne) damage caused to him or her unlawfully by anyone (materiaalne kahju: the screen; moral damage: the shame in front of people). The § says 'by anyone', not only by the state. Return § 19: in exercising rights everyone must respect the rights of others; the guard should have checked first. The story does not decide whether the guard acted unlawfully, says nothing about security-guard law, insurance or amounts, and says only that the shop agreed to pay for the screen. The phrase maa-ala (territory) may appear naturally, for example in a remark about Estonia's territory. Side characters in cast, voices per docs/writing-texts.md.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0046"
     },
     {
       "id": "s047",
@@ -2376,10 +2387,14 @@
       ],
       "newWordCount": 8,
       "newWords": [
-        "sekkuma",
-        "ametiisik",
         "kurjategija",
-        "puutumatus"
+        "puutumatus",
+        "ametiisik",
+        "sekkuma",
+        "riigiasutus",
+        "tabamine",
+        "tõkestamine",
+        "muidu"
       ],
       "phrases": [
         "avalik kord",
@@ -2395,14 +2410,19 @@
         "riigipea",
         "tasku"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "olga",
+        "police",
+        "neighbour-mari"
+      ],
+      "idea": "Monday 21.12. At the hospital a police officer (side character, an official, ametiisik) asks Olga about a patient's family and visitors: the police are looking for a criminal (kurjategija). Olga does not know what she may tell and sends him to the head doctor. In the evening Mari reads § 26: everyone has the right to the inviolability (puutumatus) of family and private life; state agencies, local governments and their officials may not interfere (sekkuma) in anyone's family or private life except in the cases and by the procedure the law sets, to protect health, morals, public order (avalik kord) or the rights and freedoms of others, to prevent a crime or to catch a criminal. Olga: so the officer may ask only on such grounds and by the law's procedure. Return § 20 in a fact or question. Do not state what a nurse may or must tell the police, any data-protection rule or procedure; keep to § 26. The phrase varaline seisund (property status, § 12) may come up when Mari lists grounds no one may be discriminated on. Side characters in cast, voices per docs/writing-texts.md.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0047"
     },
     {
       "id": "s048",
@@ -2417,9 +2437,14 @@
       "returns": [
         "ps-20"
       ],
-      "newWordCount": 8,
+      "newWordCount": 6,
       "newWords": [
-        "võrdõiguslik"
+        "võrdõiguslik",
+        "usutunnistus",
+        "abivajav",
+        "jõululaupäev",
+        "püsimine",
+        "kasvamine"
       ],
       "phrases": [
         "lapsi kasvatama",
@@ -2435,14 +2460,22 @@
         "riigipea",
         "tasku"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "olga",
+        "sergei",
+        "lisa",
+        "nikolai",
+        "katja",
+        "maksim"
+      ],
+      "idea": "Thursday 24.12, Christmas Eve (jõululaupäev) at the Ivanovs' with Nikolai and the Saars. Sergei cooks and Olga sets the table: Lisa reads § 27: spouses are equal (võrdõiguslik); the family, as the basis of the nation's survival and growth and of society, is under the protection of the state (riigi kaitse all olema); parents have the right and duty to raise their children (lapsi kasvatama) and care for them; the law provides for the protection of parents and children; the family must care for its members in need. Each family at the table keeps Christmas in its own way, with its own religion (usutunnistus) or none: Nikolai does not belong to a church (text 35). At the end Nikolai stands up and announces that after Olga's success he will take the citizenship exam too (no legal details about his case in this text). Return § 20 in a fact or question. Repeat words include riigipea: use it without a legal claim.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0048"
     },
     {
       "id": "s049",
@@ -2457,20 +2490,24 @@
       "returns": [
         "ps-20"
       ],
-      "newWordCount": 8,
+      "newWordCount": 12,
       "newWords": [
-        "puudus",
-        "hool",
-        "hoolekanne",
         "lasterikas",
-        "puue",
-        "soodustama",
         "toitjakaotus",
-        "töövõimetus"
+        "puue",
+        "hoolekanne",
+        "töövõimetus",
+        "hool",
+        "soodustama",
+        "vabatahtlik",
+        "vanadus",
+        "puudus",
+        "noorim",
+        "teisiti"
       ],
       "phrases": [
-        "hoole alla olema",
-        "kodakondsuseta isik"
+        "kodakondsuseta isik",
+        "hoole alla olema"
       ],
       "repeat": [
         "sõltumatu",
@@ -2482,14 +2519,19 @@
         "jalutama",
         "proovima"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "natalja",
+        "social",
+        "volunteer"
+      ],
+      "idea": "Side story in Viljandi before Christmas. Natalja (side character), a stateless mother of four (a large family, lasterikas pere), whose husband died last year (loss of the provider, toitjakaotus), meets a social worker (side character) of the town government. Her youngest son has a disability (puue). § 28: (1) everyone has the right to health protection; (2) an Estonian citizen has the right to state assistance in old age, incapacity for work (töövõimetus), loss of a provider and need; the types and extent of assistance and the conditions and procedure are set by law; unless the law provides otherwise, this right belongs equally to foreigners and stateless persons (kodakondsuseta isik) in Estonia; (3) the state promotes (soodustama) voluntary (vabatahtlik) and local-government welfare (hoolekanne); (4) large families and persons with disabilities are under the special care (hool, hoole all olema) of the state and local governments. A volunteer (side character) brings Christmas food from a charity. Do not name any benefit, amount or condition: the story says only what § 28 says. Side characters in cast, voices per docs/writing-texts.md.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0049"
     },
     {
       "id": "s050",
@@ -2505,8 +2547,14 @@
         "ps-27",
         "ps-28"
       ],
-      "newWordCount": 7,
-      "newWords": [],
+      "newWordCount": 5,
+      "newWords": [
+        "kelk",
+        "jõulupüha",
+        "leiduma",
+        "omaalgatuslik",
+        "korraldama"
+      ],
       "phrases": [
         "lasterikkad pered",
         "vastupanu osutama"
@@ -2529,14 +2577,22 @@
         "proovima",
         "peaaegu"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "olga",
+        "sergei",
+        "lisa",
+        "nikolai",
+        "katja",
+        "maksim"
+      ],
+      "idea": "Summary of § 25-28. Saturday 26.12, the second day of Christmas: the Ivanovs, Nikolai and the Saars go sledging in a park in the snow. On every run someone recalls a §: § 25 (the shop paid for Lisa's screen: compensation for moral and material damage caused unlawfully by anyone), § 26 (the police officer at the hospital: officials may interfere in private life only in the cases and by the procedure the law sets), § 27 (Christmas Eve: equal spouses, parents raise their children, the family cares for members in need), § 28 (health protection; state assistance in old age, incapacity for work, loss of a provider and need; large families, lasterikkad pered, and people with disabilities under special care). Nikolai is serious about his exam. The family does not know the side-story characters of text 49. The phrase vastupanu osutama (§ 54(2)) may come up in Nikolai's exam practice.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0050"
     },
     {
       "id": "s051",
@@ -2552,20 +2608,25 @@
       "returns": [
         "ps-21"
       ],
-      "newWordCount": 8,
+      "newWordCount": 12,
       "newWords": [
-        "seaduslik",
-        "korraldama",
-        "kaitseväeteenistus",
-        "ühing",
         "elukutse",
+        "kaitseväeteenistus",
+        "vabalt",
+        "teisiti",
+        "teenistus",
+        "erand",
+        "asendusteenistus",
+        "nakkushaigus",
+        "tõkestama",
+        "levik",
         "loodusõnnetus",
-        "kutseõpe",
-        "streigiõigus"
+        "seaduslik"
       ],
       "phrases": [
-        "seaduslik alus",
-        "elukutset valima"
+        "elukutset valima",
+        "seaduse alusel",
+        "seaduslik alus"
       ],
       "repeat": [
         "riigivõim",
@@ -2577,14 +2638,19 @@
         "jalutama",
         "proovima"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "lisa",
+        "olga",
+        "neighbour-mari"
+      ],
+      "idea": "Monday 28.12, school holidays. Lisa (16) must choose a direction at the gymnasium and talks about her future profession (elukutse) with Olga and Mari: nurse like her mother, lawyer like Mari, or something else. Mari reads § 29(1): an Estonian citizen has the right to choose freely his or her area of activity, profession and place of work; the law may set conditions and procedure; unless the law provides otherwise, this right belongs equally to foreigners and stateless persons in Estonia (Olga: so it is my right too). § 29(2): no one may be compelled to work or serve against his or her free will, except defence service (kaitseväeteenistus) or alternative service, work to stop the spread of an infectious disease, work in a natural disaster (loodusõnnetus) or catastrophe, and work a convicted person must do on the basis of the law and by its procedure (seaduse alusel). Use seaduslik and seaduslik alus naturally (for example: the § itself is the legal basis, seaduslik alus, for these exceptions). Return § 21 in a fact or question. Do not state who must do defence service or any rule outside § 29.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0051"
     },
     {
       "id": "s052",
@@ -2599,16 +2665,15 @@
       "returns": [
         "ps-21"
       ],
-      "newWordCount": 8,
+      "newWordCount": 5,
       "newWords": [
-        "tööandja",
-        "töötingimus",
-        "töövaidlus"
+        "korraldama",
+        "kutseõpe",
+        "abistama",
+        "tööotsija",
+        "leidmine"
       ],
-      "phrases": [
-        "huvide eest seisma",
-        "kontrolli all olema"
-      ],
+      "phrases": [],
       "repeat": [
         "kandja",
         "kordama",
@@ -2619,14 +2684,20 @@
         "loss",
         "peatuma"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "sergei",
+        "olga",
+        "jaan",
+        "lisa"
+      ],
+      "idea": "Thursday 31.12, New Year's Eve at the Ivanovs' with Mari's husband Jaan. Sergei has news: he called the shop and agreed to pay the washing-machine instalment later (text 37). His van company has fewer shifts, so his New Year's resolution is to learn a new trade, for example a bus driver's. Jaan reads § 29(3): the state organises (korraldama) vocational training (kutseõpe) and helps job seekers find work. Sergei will find out in January what training there is; give no names of courses, benefits or conditions. At midnight the President's New Year speech is on TV (no content, no opinions) and the family wishes Olga and Nikolai luck for the new year. Return § 21 in a fact or question.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0052"
     },
     {
       "id": "s053",
@@ -2645,11 +2716,19 @@
       ],
       "newWordCount": 8,
       "newWords": [
-        "usutunnistus"
+        "töötingimus",
+        "tööandja",
+        "ühing",
+        "kuulumine",
+        "streik",
+        "streigiõigus",
+        "töövaidlus",
+        "lahendamine"
       ],
       "phrases": [
+        "kontrolli all olema",
         "kuuluma ühingusse",
-        "seaduse alusel"
+        "huvide eest seisma"
       ],
       "repeat": [
         "demokraatlik vabariik",
@@ -2661,14 +2740,19 @@
         "loss",
         "peatuma"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "olga",
+        "colleague",
+        "katja"
+      ],
+      "idea": "Monday 4.1.2027. At the hospital the nurses talk about working conditions (töötingimus): long shifts and too few nurses. A colleague (side character) invites Olga to join the nurses' association (ühing). § 29(4): working conditions are under state supervision (kontrolli all olema); (5) membership of employees' and employers' (tööandja) associations and unions is free (kuuluma ühingusse); these associations and unions may stand up for their rights and lawful interests (huvide eest seisma) by means the law does not prohibit; the conditions and procedure for the right to strike (streigiõigus) are set by law; (6) the procedure for resolving labour disputes (töövaidlus) is set by law. In the evening Olga tells Katja; Katja asks whether a foreigner may join such an association: § 29(5) says membership is free, with no citizenship condition. Do not invent a strike, wage numbers, real union names or procedures. Return § 22 in a fact or question. Side characters in cast, voices per docs/writing-texts.md.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0053"
     },
     {
       "id": "s054",
@@ -2683,18 +2767,22 @@
       "returns": [
         "ps-23"
       ],
-      "newWordCount": 8,
+      "newWordCount": 10,
       "newWords": [
-        "erakond",
-        "ettevõtlus",
-        "koonduma",
         "ametikoht",
+        "riigiasutus",
+        "ettevõtlus",
+        "riigiteenistuja",
+        "koonduma",
+        "tulundusühendus",
+        "erakond",
         "mittetulundusühendus",
-        "tulundusühendus"
+        "kategooria",
+        "liik"
       ],
       "phrases": [
-        "erakonda kuuluma",
-        "ettevõtlusega tegelema"
+        "ettevõtlusega tegelema",
+        "erakonda kuuluma"
       ],
       "repeat": [
         "demokraatlik vabariik",
@@ -2706,14 +2794,19 @@
         "loss",
         "peatuma"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "dmitri",
+        "official",
+        "friend"
+      ],
+      "idea": "Side story in Jõhvi. Dmitri (side character), a stateless young man with a degree, sees a job (ametikoht) at the town government. An official (side character) explains § 30(1): posts in state agencies and local governments are filled with Estonian citizens on the basis of and by the procedure of the law; in accordance with the law they may also be filled, as an exception, with foreign citizens and stateless persons. His friend (side character), a civil servant, dreams of opening a small café: § 30(2): the law may restrict the right of some categories of civil servants to engage in enterprise (ettevõtlusega tegelema, ettevõtlus) and to join (koonduma) profit-making associations (tulundusühendus, § 31), and their right to belong to political parties (erakond, erakonda kuuluma) and to some kinds of non-profit associations (mittetulundusühendus, § 48). Do not say which categories or posts are restricted or whether Dmitri gets the job; no real party names. Dmitri decides to apply for citizenship. Return § 23 in a fact or question. Side characters in cast, voices per docs/writing-texts.md.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0054"
     },
     {
       "id": "s055",
@@ -2727,8 +2820,12 @@
         "ps-29",
         "ps-30"
       ],
-      "newWordCount": 7,
-      "newWords": [],
+      "newWordCount": 3,
+      "newWords": [
+        "ehe",
+        "omaalgatuslik",
+        "leiduma"
+      ],
       "phrases": [
         "millisel juhul?",
         "vastupanu põhiseadusliku korra vägivaldsele muutmisele"
@@ -2751,14 +2848,21 @@
         "peaaegu",
         "sünd"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "olga",
+        "sergei",
+        "lisa",
+        "nikolai",
+        "katja"
+      ],
+      "idea": "Summary of § 29-30. Wednesday 6.1, Epiphany (kolmekuningapäev): the family takes down the Christmas tree, as is the custom on this day. While packing the decorations they recall § 29 (free choice of profession: Lisa's choice; no forced work except the listed cases; the state organises vocational training: Sergei's plan; working conditions under state supervision; free membership of associations: Olga's nurses' association) and § 30 (posts in state agencies and local governments are filled with citizens; foreigners and stateless persons by exception, in accordance with the law). Nikolai practises exam questions with Lisa, for example millisel juhul? ('in which case?'). The phrase vastupanu põhiseadusliku korra vägivaldsele muutmisele (§ 54(2)) may come up in his practice. The family does not know the side-story characters of text 54.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0055"
     },
     {
       "id": "s056",
@@ -2773,13 +2877,16 @@
       "returns": [
         "ps-24"
       ],
-      "newWordCount": 8,
+      "newWordCount": 4,
       "newWords": [
-        "vabatahtlik"
+        "puudus",
+        "teisiti",
+        "saladus",
+        "ettevõtja"
       ],
       "phrases": [
-        "mitmeks aastaks?",
-        "tegelema ettevõtlusega"
+        "tegelema ettevõtlusega",
+        "mitmeks aastaks?"
       ],
       "repeat": [
         "riik",
@@ -2791,14 +2898,19 @@
         "tõotama",
         "inimväärikus"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "katja",
+        "maksim",
+        "lisa"
+      ],
+      "idea": "Friday 8.1. Katja's cakes are famous in the building (text 25), and she wants to sell them; in Lasnamäe there is a lack (puudus) of good cakes. Lisa reads § 31: Estonian citizens have the right to engage in enterprise (tegelema ettevõtlusega) and to form profit-making associations and unions; the law may set conditions and procedure; unless the law provides otherwise, this right belongs equally to foreigners and stateless persons in Estonia. Katja, a Ukrainian citizen, can therefore start too, by the conditions the law sets; Maksim already has his small IT company. They talk about renting a small kitchen and for how many years (mitmeks aastaks?). Do not name any business form, registration step, licence, tax or food rule. Return § 24 in a fact or question.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0056"
     },
     {
       "id": "s057",
@@ -2814,18 +2926,23 @@
       "returns": [
         "ps-24"
       ],
-      "newWordCount": 8,
+      "newWordCount": 11,
       "newWords": [
         "omand",
+        "võõrandama",
+        "hüvitus",
+        "nõusolek",
+        "puutumatu",
+        "õiglane",
+        "kohene",
+        "vabalt",
         "valdama",
         "käsutama",
-        "võõrandama",
-        "kitsendus",
-        "pärimisõigus"
+        "kitsendus"
       ],
       "phrases": [
-        "keelt valdama",
-        "kohtusse pöörduma"
+        "kohtusse pöörduma",
+        "keelt valdama"
       ],
       "repeat": [
         "lahutamatu",
@@ -2837,14 +2954,19 @@
         "järgima põhiseaduslikku korda",
         "male"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "nikolai",
+        "olga",
+        "lisa"
+      ],
+      "idea": "Sunday 10.1. Nikolai shows a letter: the state plans a new road past the garden plots outside Tallinn, and part of his neighbour's plot may be taken. Nikolai has a small summer cottage there (a new detail). Lisa reads § 32(1): everyone's property (omand) is inviolable and equally protected; property may be expropriated (võõrandama) without the owner's consent only in the cases and by the procedure the law sets, in the public interest, for fair and immediate compensation; everyone whose property is expropriated without consent may go to court (kohtusse pöörduma) and contest the expropriation, the compensation or its amount. § 32(2): everyone has the right to freely possess (valdama), use and dispose of (käsutama) his or her property; restrictions (kitsendus) are set by law; property may not be used against the public interest. Nikolai also says he masters the Estonian language (keelt valdama) better every week. Do not invent the road project's details, amounts or procedure. Return § 24 in a fact or question.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0057"
     },
     {
       "id": "s058",
@@ -2860,9 +2982,14 @@
       "returns": [
         "ps-25"
       ],
-      "newWordCount": 8,
+      "newWordCount": 6,
       "newWords": [
-        "vanadus"
+        "vanadus",
+        "pärima",
+        "pärimisõigus",
+        "tagama",
+        "liik",
+        "häbi"
       ],
       "phrases": [
         "moraalne kahju",
@@ -2878,14 +3005,20 @@
         "mäng",
         "paragrahv"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "nikolai",
+        "olga",
+        "lisa",
+        "neighbour-mari"
+      ],
+      "idea": "Tuesday 12.1. Nikolai thinks about old age (vanadus) and says his flat will go to Olga and Lisa one day. Olga, stateless, worries whether she can inherit. Mari reads § 32(4): the right of inheritance (pärimisõigus) is guaranteed; and § 32(3): in the public interest the law may set the kinds of property that in Estonia only Estonian citizens, some kinds of legal persons, local governments or the state may acquire. Mari says such kinds are listed by law; she does not say which, and the story does not say whether a flat is one of them. Nikolai: as long as he lives he will possess, use and dispose of (omandit valdama, kasutama ja käsutama) his flat himself. Return § 25: Lisa recalls the shop that paid for her screen (moraalne kahju, § 25). No notary, will or tax details.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0058"
     },
     {
       "id": "s059",
@@ -2900,14 +3033,19 @@
       "returns": [
         "ps-26"
       ],
-      "newWordCount": 8,
+      "newWordCount": 6,
       "newWords": [
-        "valdus",
-        "tungima"
+        "puusepp",
+        "töökoda",
+        "tööriist",
+        "tungima",
+        "eluruum",
+        "valdus"
       ],
       "phrases": [
-        "omandit võõrandama",
-        "tõe väljaselgitamine"
+        "läbi otsima",
+        "tõe väljaselgitamine",
+        "omandit võõrandama"
       ],
       "repeat": [
         "korraldus",
@@ -2919,14 +3057,19 @@
         "tabel",
         "reegel"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "rein",
+        "police",
+        "wife"
+      ],
+      "idea": "Side story near Viljandi. Police officers (side characters) come to the workshop of a carpenter, Rein (side character): tools stolen from a building site were seen there, and the police are looking for the truth in a criminal case. Rein asks whether they may enter (tungima). § 33: the home is inviolable; no one may enter or search anyone's dwelling, property (valdus) or workplace except in the cases and by the procedure the law sets, to protect public order, health or the rights and freedoms of others, to prevent a crime, to catch a criminal or to establish the truth in criminal proceedings (tõe väljaselgitamine). The officers show the documents the law requires (do not say which document or who issued it). The tools turn out to be Rein's own. His wife (side character) jokes about property: nobody may take (omandit võõrandama) her husband's tools. Return § 26 in a fact or question. Side characters in cast, voices per docs/writing-texts.md.",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0059"
     },
     {
       "id": "s060",
@@ -2941,8 +3084,10 @@
         "ps-32",
         "ps-33"
       ],
-      "newWordCount": 7,
-      "newWords": [],
+      "newWordCount": 1,
+      "newWords": [
+        "lahusus"
+      ],
       "phrases": [
         "puudega inimene",
         "võimude tasakaalustatus"
@@ -2965,14 +3110,22 @@
         "käik",
         "seisund"
       ],
-      "characters": [],
-      "idea": "",
+      "characters": [
+        "narrator",
+        "olga",
+        "sergei",
+        "lisa",
+        "nikolai",
+        "maksim",
+        "katja"
+      ],
+      "idea": "Summary of § 31-33. Saturday 16.1: Katja's first cake sale in the stairwell (enterprise, § 31), with Nikolai buying the first cake. Maksim arrives with a letter: the National Archives (Rahvusarhiiv) has answered and sends a certificate that his grandfather Johannes Saar was a citizen of the Republic of Estonia. Maksim now needs the birth certificates that link the generations, and then the PPA will check his case (DESIGN.md 4.2); no promise of a result and no word on his Ukrainian citizenship. They recall § 32 (property inviolable; expropriation only by law, in the public interest, for fair and immediate compensation; inheritance guaranteed: Nikolai's plot and flat) and § 33 (the home is inviolable). Phrases: puudega inimene (person with a disability) and võimude tasakaalustatus (the balance of powers, § 4) may come up in Nikolai's exam practice. Olga says she will submit her citizenship application soon; no details or dates. Tag the text 932 SE (Maksim's case).",
       "length": [
         200,
         300
       ],
       "grammar": "past tense, clauses with et and kui",
-      "textId": null
+      "textId": "0060"
     },
     {
       "id": "s061",
@@ -2995,18 +3148,18 @@
         "looduskeskkond"
       ],
       "phrases": [
-        "põhiseaduse järgi",
-        "võrdne olema"
+        "kuritegu tõkestama",
+        "süüdi mõistma"
       ],
       "repeat": [
-        "riiklik korraldus",
-        "rahvuslik",
-        "mälu",
-        "vangla",
-        "proovima",
-        "pikaajaline",
-        "kontrollima",
-        "ei ole öeldud"
+        "kõrgeim",
+        "seadust avaldama",
+        "joonistama",
+        "ekraan",
+        "kohalik",
+        "karistust kandma",
+        "täidesaatev",
+        "gümnaasium"
       ],
       "characters": [],
       "idea": "",
@@ -3037,17 +3190,17 @@
       ],
       "phrases": [
         "kohtueelne menetlus",
-        "võrdõiguslik olema"
+        "kodakondsust vastu võtma"
       ],
       "repeat": [
-        "põhiseadus",
-        "rikkus",
+        "iseseisev",
+        "seadust avaldama",
+        "joonistama",
         "ekraan",
-        "karistust kandma",
-        "peatuma",
-        "elanik",
-        "võitma",
-        "kooskõlas olema"
+        "kohalik",
+        "vabadus",
+        "riigipea",
+        "tasku"
       ],
       "characters": [],
       "idea": "",
@@ -3082,14 +3235,14 @@
         "Vabariigi Valitsus"
       ],
       "repeat": [
-        "alus",
-        "säästlikult",
+        "põhiseadus",
+        "võim",
+        "lipp",
         "kuulus",
-        "kodakondsus",
-        "peaaegu",
-        "elamisluba",
-        "noorus",
-        "piirang"
+        "kohalik",
+        "vabadus",
+        "riigipea",
+        "tasku"
       ],
       "characters": [],
       "idea": "",
@@ -3129,14 +3282,14 @@
         "hariduse andmine"
       ],
       "repeat": [
-        "teataja",
-        "hoidma",
-        "naeratama",
-        "igaüks",
-        "sünd",
-        "püsivalt",
-        "välisriik",
-        "moonutama"
+        "sõltumatu",
+        "Vabariigi President",
+        "lipp",
+        "kuulus",
+        "piirama",
+        "kohustus",
+        "jalutama",
+        "proovima"
       ],
       "characters": [],
       "idea": "",
@@ -3165,25 +3318,25 @@
       "newWords": [],
       "phrases": [
         "õigusaktide andmine",
-        "välisriigile välja andma"
+        "vastav olema"
       ],
       "repeat": [
-        "avaldama",
-        "kohus",
-        "rahvuslik rikkus",
-        "riigilipp",
+        "demokraatlik",
+        "teataja",
+        "Vabariigi President",
+        "mäletama",
+        "märk",
+        "mälu",
         "uhke",
-        "Eesti kodanik",
-        "vabadus",
-        "täidesaatev",
-        "isik",
-        "kooskõla",
-        "püsiv",
-        "muutmine",
-        "loetlema",
-        "peatükk",
-        "gripp",
-        "asjaolu"
+        "kingitus",
+        "karistus",
+        "vangla",
+        "üldine",
+        "seadusandlik",
+        "jalutama",
+        "gümnaasium",
+        "proovima",
+        "peaaegu"
       ],
       "characters": [],
       "idea": "",
@@ -3215,17 +3368,17 @@
       ],
       "phrases": [
         "eestikeelne õpetus",
-        "välja andma"
+        "võimude lahusus"
       ],
       "repeat": [
-        "põhimõte",
-        "riigikeel",
-        "tunnistama",
-        "kohustus",
-        "muu",
-        "sissetulek",
-        "võrdselt",
-        "ohtlik"
+        "riigivõim",
+        "kordama",
+        "märk",
+        "uhke",
+        "karistus",
+        "üldine",
+        "jalutama",
+        "proovima"
       ],
       "characters": [],
       "idea": "",
@@ -3255,18 +3408,18 @@
         "looming"
       ],
       "phrases": [
-        "otsustav sõna",
-        "võõrandamatu õigus"
+        "lahusus ja tasakaalustatus",
+        "võimude lahususe ja tasakaalustatuse põhimõte"
       ],
       "repeat": [
-        "rahvusvaheline",
-        "haigla",
-        "poolt",
-        "keegi",
-        "saamine",
-        "põhiseaduslik",
-        "juriidiline",
-        "õiguskantsler"
+        "kandja",
+        "kordama",
+        "seaduses sätestama",
+        "liige",
+        "süüdi",
+        "üldine",
+        "loss",
+        "peatuma"
       ],
       "characters": [],
       "idea": "",
@@ -3299,18 +3452,18 @@
         "usuühing"
       ],
       "phrases": [
-        "põhiseaduses pole öeldud",
-        "välja saatma"
+        "maa-ala",
+        "võrdne olema"
       ],
       "repeat": [
-        "õigus",
-        "patsient",
-        "liige",
-        "üldine",
-        "kohaldama",
-        "Eesti Vabariigi põhiseadus",
-        "lõige",
-        "olemus"
+        "demokraatlik vabariik",
+        "tähtis",
+        "seaduses sätestama",
+        "vanus",
+        "hääletamine",
+        "võrdne",
+        "loss",
+        "peatuma"
       ],
       "characters": [],
       "idea": "",
@@ -3341,18 +3494,18 @@
         "truu"
       ],
       "phrases": [
-        "pädev riigiorgan",
+        "omaalgatuslik vastupanu",
         "truuks jääma"
       ],
       "repeat": [
-        "seadust avaldama",
-        "kiitma",
-        "vanus",
-        "võrdne",
-        "veendumus",
-        "ustav",
-        "kogukond",
-        "palat"
+        "demokraatlik vabariik",
+        "tähtis",
+        "teostama",
+        "liit",
+        "hääletamine",
+        "igaühe õigus",
+        "loss",
+        "peatuma"
       ],
       "characters": [],
       "idea": "",
@@ -3380,26 +3533,26 @@
       "newWordCount": 7,
       "newWords": [],
       "phrases": [
-        "pöörduma kohtusse",
-        "vägivalda õhutama"
+        "otsustav sõna",
+        "võrdõiguslik olema"
       ],
       "repeat": [
-        "Riigikogu",
-        "tasakaalustatus",
+        "seadus",
+        "teataja",
+        "tähtis",
         "ajaleht",
-        "riigivapp",
+        "hääleõiguslik",
+        "mälu",
         "liit",
-        "kandma",
-        "igaühe õigus",
-        "riigipea",
-        "vähemalt",
-        "ekskursioon",
-        "kohustama",
-        "vastupanu",
-        "arvamust avaldama",
-        "välistama",
-        "kellegi huvides olema",
-        "varaline"
+        "kingitus",
+        "vangla",
+        "karistust kandma",
+        "kuuluma",
+        "täidesaatev",
+        "gümnaasium",
+        "tasku",
+        "peaaegu",
+        "sünd"
       ],
       "characters": [],
       "idea": "",
@@ -3428,18 +3581,18 @@
         "talletama"
       ],
       "phrases": [
-        "püsivalt Eestis viibima",
-        "õigus elule"
+        "põhiseaduse järgi",
+        "võõrandamatu õigus"
       ],
       "repeat": [
-        "president",
-        "eesti keel",
-        "kingitus",
-        "kuuluma",
-        "kedagi ei tohi",
-        "järgima",
-        "igaühel on õigus",
-        "peab olema"
+        "riik",
+        "eksam",
+        "kodanik",
+        "piirama",
+        "jalutama",
+        "saal",
+        "tõotama",
+        "inimväärikus"
       ],
       "characters": [],
       "idea": "",
@@ -3469,18 +3622,18 @@
         "üldkasutatav"
       ],
       "phrases": [
-        "rahvahääletust korraldama",
-        "õigus koonduda"
+        "põhiseaduses pole öeldud",
+        "välisriigile välja andma"
       ],
       "repeat": [
-        "karistama",
-        "kohtlema",
-        "katse",
-        "tahe",
-        "piinama",
-        "julmalt",
-        "väärikus",
-        "alandavalt"
+        "lahutamatu",
+        "mäletama",
+        "valimine",
+        "karistus",
+        "loss",
+        "vaikne",
+        "järgima põhiseaduslikku korda",
+        "male"
       ],
       "characters": [],
       "idea": "",
@@ -3511,18 +3664,18 @@
         "asutusesisene"
       ],
       "phrases": [
-        "rahvusvaheline õigus",
+        "pädev riigiorgan",
         "välisriigi kodanik"
       ],
       "repeat": [
-        "kasutamine",
-        "eneseteostus",
-        "täitmine",
-        "arvestama",
-        "kitarr",
-        "kõrvaklapp",
-        "austama",
-        "meel"
+        "riiklik",
+        "naaber",
+        "rahvahääletus",
+        "süüdi",
+        "Eesti Vabariik",
+        "otsus",
+        "mäng",
+        "paragrahv"
       ],
       "characters": [],
       "idea": "",
@@ -3552,18 +3705,18 @@
         "ühiskonnakiht"
       ],
       "phrases": [
-        "riigi abi",
-        "õigus luua"
+        "pöörduma kohtusse",
+        "välja andma"
       ],
       "repeat": [
-        "isikupuutumatus",
-        "pakkuminek",
-        "kahtlustatav",
-        "kuritegu",
-        "haldusõiguserikkumine",
-        "õiguserikkumine",
-        "pädev",
-        "riigiorgan"
+        "korraldus",
+        "loodusvara",
+        "otsustama",
+        "mõistma",
+        "gümnaasium",
+        "juus",
+        "tabel",
+        "reegel"
       ],
       "characters": [],
       "idea": "",
@@ -3590,26 +3743,26 @@
       "newWordCount": 7,
       "newWords": [],
       "phrases": [
-        "riigi järelevalve all olema",
-        "õigus riigi kaitsele"
+        "püsivalt Eestis viibima",
+        "välja saatma"
       ],
       "repeat": [
-        "küpsetama",
-        "glasuur",
-        "võti",
-        "julm",
-        "kuuluma kirikusse",
-        "vabaduste kasutamine",
-        "üldine kasutamine",
-        "kinnipidamine",
-        "alaealine",
-        "järelevalve",
-        "kõigi ja igaühe õigused",
-        "kasvatuslik järelevalve",
-        "ebaseaduslik",
-        "ebaseaduslik Eestisse asumine",
-        "vaht",
-        "ilma loata"
+        "sätestama",
+        "valitsus",
+        "loodusressurss",
+        "riigivärv",
+        "kõrgeim riigivõim",
+        "kohalik",
+        "hääletamine",
+        "seadusandlik",
+        "tasku",
+        "tegevus",
+        "sõltumatu olema",
+        "vägivaldne",
+        "keeruline",
+        "käesolev",
+        "käik",
+        "seisund"
       ],
       "characters": [],
       "idea": "",
@@ -3638,18 +3791,18 @@
         "tsensuur"
       ],
       "phrases": [
-        "seaduse ees",
+        "rahvahääletust korraldama",
         "seadusega piirama"
       ],
       "repeat": [
-        "nakkushaige",
-        "vaimuhaige",
-        "alkohoolik",
-        "narkomaan",
-        "kasvatuslik",
-        "ohtlik olema",
-        "asumine",
-        "lähedane"
+        "riiklik korraldus",
+        "rahvuslik",
+        "mälu",
+        "vangla",
+        "proovima",
+        "pikaajaline",
+        "kontrollima",
+        "ei ole öeldud"
       ],
       "characters": [],
       "idea": "",
@@ -3678,18 +3831,18 @@
         "märgukiri"
       ],
       "phrases": [
-        "seaduse järgi",
-        "õigus seaduse kaitsele"
+        "rahvusvaheline õigus",
+        "vägivalda õhutama"
       ],
       "repeat": [
-        "lepinguline",
-        "üksnes",
-        "süüdimõistev",
-        "kohtuotsus",
-        "arest",
-        "määrama",
-        "lepinguline kohustus",
-        "ukraina"
+        "põhiseadus",
+        "rikkus",
+        "ekraan",
+        "karistust kandma",
+        "peatuma",
+        "elanik",
+        "võitma",
+        "kooskõlas olema"
       ],
       "characters": [],
       "idea": "",
@@ -3719,17 +3872,17 @@
       ],
       "phrases": [
         "koosolekut pidama",
-        "õiguslikule vastutusele võtma"
+        "õigus elule"
       ],
       "repeat": [
-        "võtmine",
-        "kriminaalmenetlus",
-        "tõde",
-        "väljaselgitamine",
-        "viivitamatult",
-        "kaitsja",
-        "vahistatu",
-        "ei pea"
+        "alus",
+        "säästlikult",
+        "kuulus",
+        "kodakondsus",
+        "peaaegu",
+        "elamisluba",
+        "noorus",
+        "piirang"
       ],
       "characters": [],
       "idea": "",
@@ -3766,14 +3919,14 @@
         "kuuluma liitu"
       ],
       "repeat": [
-        "rass",
-        "kaklus",
-        "rassiline",
-        "kodakondsuse (ära)võtmine",
-        "kuriteos kahtlustatav",
-        "kergem",
-        "kannatanu",
-        "korraldus"
+        "teataja",
+        "hoidma",
+        "naeratama",
+        "igaüks",
+        "sünd",
+        "püsivalt",
+        "välisriik",
+        "moonutama"
       ],
       "characters": [],
       "idea": "",
@@ -3801,26 +3954,26 @@
       "newWordCount": 7,
       "newWords": [],
       "phrases": [
-        "seadusandlik riigivõim",
-        "ära hoidma"
+        "riigi abi",
+        "õigus luua"
       ],
       "repeat": [
-        "kõrgeima riigivõimu kandja",
-        "vabaduse võtmise põhjus",
-        "varas",
-        "jõustuma",
-        "tõendama",
-        "sundima",
-        "kehtima",
-        "kohustatud olema",
-        "tunnistama sundima",
-        "raskem",
-        "jõus olema",
-        "kohtu alla andma",
-        "õigusemõistmine",
-        "abielupool",
-        "edasi kaebama",
-        "pöörduma kohtusse"
+        "avaldama",
+        "kohus",
+        "rahvuslik rikkus",
+        "riigilipp",
+        "uhke",
+        "Eesti kodanik",
+        "vabadus",
+        "täidesaatev",
+        "isik",
+        "kooskõla",
+        "püsiv",
+        "muutmine",
+        "loetlema",
+        "peatükk",
+        "gripp",
+        "asjaolu"
       ],
       "characters": [],
       "idea": "",
@@ -3847,23 +4000,23 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "lahusus",
+        "asjaajamine",
         "diskrimineerima",
         "ülal"
       ],
       "phrases": [
-        "lahusus ja tasakaalustatus",
-        "põhiseaduslik kord"
+        "põhiseaduslik kord",
+        "õigus koonduda"
       ],
       "repeat": [
-        "olev",
-        "käsitama",
-        "süütus",
-        "süüdimõistev kohtuotsus",
-        "jõus",
-        "lõplikult süüdi mõistma",
-        "alluvus",
-        "kõrgemalseisev kohus"
+        "põhimõte",
+        "riigikeel",
+        "tunnistama",
+        "kohustus",
+        "muu",
+        "sissetulek",
+        "võrdselt",
+        "ohtlik"
       ],
       "characters": [],
       "idea": "",
@@ -3894,18 +4047,18 @@
         "üldhariduskool"
       ],
       "phrases": [
-        "säästlikult kasutama",
-        "võimude lahusus"
+        "riigi järelevalve all olema",
+        "õigus riigi kaitsele"
       ],
       "repeat": [
-        "eelnõu",
-        "lõplikult",
-        "vastavalt",
-        "kohtunik",
-        "tegu",
-        "lõplikult õigeks mõistma",
-        "seaduses sätestatud korras",
-        "telegraaf"
+        "rahvusvaheline",
+        "haigla",
+        "poolt",
+        "keegi",
+        "saamine",
+        "põhiseaduslik",
+        "juriidiline",
+        "õiguskantsler"
       ],
       "characters": [],
       "idea": "",
@@ -3935,18 +4088,18 @@
         "rahvuskultuur"
       ],
       "phrases": [
-        "südametunnistuse vabadus",
-        "võimude lahususe ja tasakaalustatuse põhimõte"
+        "seaduse ees",
+        "vähemusrahvuste kultuurautonoomia"
       ],
       "repeat": [
-        "avalik",
-        "istung",
-        "ärisaladus",
-        "kinnine",
-        "kõlblus",
-        "eraelu",
-        "avalik kohtuotsus",
-        "nõue"
+        "õigus",
+        "patsient",
+        "liige",
+        "üldine",
+        "kohaldama",
+        "Eesti Vabariigi põhiseadus",
+        "lõige",
+        "olemus"
       ],
       "characters": [],
       "idea": "",
@@ -3976,18 +4129,18 @@
         "püsielanik"
       ],
       "phrases": [
-        "süüdi mõistma",
-        "vähemusrahvuste kultuurautonoomia"
+        "seaduse järgi",
+        "õigus seaduse kaitsele"
       ],
       "repeat": [
-        "toimetaja",
-        "kohtuistung",
-        "paat",
-        "kannatanu",
-        "avalikult",
-        "kaebama",
-        "kõrgemalseisev",
-        "ühiskonnakiht"
+        "seadust avaldama",
+        "kiitma",
+        "vanus",
+        "võrdne",
+        "veendumus",
+        "ustav",
+        "kogukond",
+        "palat"
       ],
       "characters": [],
       "idea": "",
@@ -4015,26 +4168,26 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "kuriteos süüdi mõistma",
-        "üks ja sama"
+        "seadusandlik riigivõim",
+        "õiguslikule vastutusele võtma"
       ],
       "repeat": [
-        "jõuluturg",
-        "taotlus",
-        "osutama",
-        "kõrgeimat riigivõimu teostama",
-        "süütust tõendama",
-        "maa-ala",
-        "materiaalne kahju",
-        "varaline seisund",
-        "soodustama",
-        "riigi järelevalve all olema",
-        "õigus riigi kaitsele",
-        "tsensuur",
-        "seaduse ees",
-        "seadusega piirama",
-        "märgukiri",
-        "seaduse järgi"
+        "Riigikogu",
+        "tasakaalustatus",
+        "ajaleht",
+        "riigivapp",
+        "liit",
+        "kandma",
+        "igaühe õigus",
+        "riigipea",
+        "vähemalt",
+        "ekskursioon",
+        "kohustama",
+        "vastupanu",
+        "arvamust avaldama",
+        "välistama",
+        "kellegi huvides olema",
+        "varaline"
       ],
       "characters": [],
       "idea": "",
@@ -4064,18 +4217,18 @@
         "sisemine"
       ],
       "phrases": [
-        "kuriteos süüdi olema",
+        "sisemine asjaajamine",
         "võib olla"
       ],
       "repeat": [
-        "hüvitamine",
-        "materiaalne",
-        "moraalne",
-        "puutumatus",
-        "toitjakaotus",
-        "tsensuur",
-        "seaduse ees",
-        "seadusega piirama"
+        "president",
+        "eesti keel",
+        "kingitus",
+        "kuuluma",
+        "kedagi ei tohi",
+        "järgima",
+        "igaühel on õigus",
+        "peab olema"
       ],
       "characters": [],
       "idea": "",
@@ -4107,17 +4260,17 @@
       ],
       "phrases": [
         "kahju hüvitama",
-        "ülal pidama"
+        "ära hoidma"
       ],
       "repeat": [
-        "sekkuma",
-        "ametiisik",
         "kurjategija",
-        "avalik kord",
-        "töövõimetus",
-        "märgukiri",
-        "seaduse järgi",
-        "õigus seaduse kaitsele"
+        "puutumatus",
+        "ametiisik",
+        "sekkuma",
+        "riigiasutus",
+        "tabamine",
+        "tõkestamine",
+        "muidu"
       ],
       "characters": [],
       "idea": "",
@@ -4143,22 +4296,22 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "omaalgatuslik",
+        "hääleõigus",
         "karistatav"
       ],
       "phrases": [
-        "iseseisvust kaitsma",
-        "omaalgatuslik vastupanu"
+        "hääleõigust saama",
+        "iseseisvust kaitsma"
       ],
       "repeat": [
         "võrdõiguslik",
+        "usutunnistus",
+        "abivajav",
+        "jõululaupäev",
+        "püsimine",
+        "kasvamine",
         "lapsi kasvatama",
-        "riigi kaitse all olema",
-        "lasterikas",
-        "hoole alla olema",
-        "julgeolek",
-        "koosolekut pidama",
-        "õiguslikule vastutusele võtma"
+        "riigi kaitse all olema"
       ],
       "characters": [],
       "idea": "",
@@ -4184,22 +4337,22 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "asjaajamine",
+        "kohtuaste",
         "rikkuma"
       ],
       "phrases": [
-        "seadusega keelatud ja karistatav",
-        "üldistes huvides olema"
+        "esimene kohtuaste",
+        "üks ja sama"
       ],
       "repeat": [
-        "puudus",
-        "hool",
-        "hoolekanne",
+        "lasterikas",
+        "toitjakaotus",
         "puue",
-        "kodakondsuseta isik",
-        "kriminaalvastutus",
-        "suunama",
-        "relv"
+        "hoolekanne",
+        "töövõimetus",
+        "hool",
+        "soodustama",
+        "vabatahtlik"
       ],
       "characters": [],
       "idea": "",
@@ -4227,25 +4380,26 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "sisemine asjaajamine"
+        "seadusega keelatud ja karistatav",
+        "ülal pidama"
       ],
       "repeat": [
+        "kelk",
+        "jõulupüha",
+        "leiduma",
+        "omaalgatuslik",
+        "korraldama",
         "lasterikkad pered",
         "vastupanu osutama",
-        "kaitseväeteenistus",
-        "ühing",
+        "erand",
+        "asendusteenistus",
+        "tõkestama",
         "loodusõnnetus",
-        "streigiõigus",
-        "seaduslik alus",
-        "ettevõtlusega tegelema",
-        "seadusandlik riigivõim",
-        "ära hoidma",
-        "lahusus",
-        "diskrimineerima",
-        "ülal",
-        "lahusus ja tasakaalustatus",
-        "põhiseaduslik kord",
-        "säilitama"
+        "seaduslik",
+        "seaduse alusel",
+        "erakonda kuuluma",
+        "riigi abi",
+        "õigus luua"
       ],
       "characters": [],
       "idea": "",
@@ -4282,16 +4436,16 @@
         "kodakondsuse saamine"
       ],
       "repeat": [
-        "seaduslik",
-        "korraldama",
         "elukutse",
-        "kutseõpe",
+        "kaitseväeteenistus",
+        "vabalt",
+        "teisiti",
+        "teenistus",
+        "nakkushaigus",
+        "levik",
         "elukutset valima",
-        "lahusus",
-        "diskrimineerima",
-        "ülal",
-        "lahusus ja tasakaalustatus",
-        "põhiseaduslik kord"
+        "seaduslik alus",
+        "asjaajamine"
       ],
       "characters": [],
       "idea": "",
@@ -4318,23 +4472,23 @@
       "newWordCount": 10,
       "newWords": [
         "vabastamine",
-        "kauaks"
+        "koosesis"
       ],
       "phrases": [
         "kodakondsusest vabastamine",
         "omandama kodakondsust"
       ],
       "repeat": [
-        "tööandja",
-        "töötingimus",
-        "töövaidlus",
-        "huvide eest seisma",
-        "kontrolli all olema",
-        "säilitama",
-        "rahvuskuuluvus",
-        "üldhariduskool",
-        "säästlikult kasutama",
-        "võimude lahusus"
+        "korraldama",
+        "kutseõpe",
+        "abistama",
+        "tööotsija",
+        "leidmine",
+        "streigiõigus",
+        "lahendamine",
+        "kuuluma ühingusse",
+        "kategooria",
+        "säilitama"
       ],
       "characters": [],
       "idea": "",
@@ -4374,16 +4528,16 @@
         "kodakondsusest loobumine"
       ],
       "repeat": [
-        "usutunnistus",
-        "kuuluma ühingusse",
-        "seaduse alusel",
-        "ametikoht",
-        "tulundusühendus",
-        "kultuurautonoomia",
-        "rahvuskultuur",
-        "südametunnistuse vabadus",
-        "võimude lahususe ja tasakaalustatuse põhimõte",
-        "paikkond"
+        "töötingimus",
+        "tööandja",
+        "ühing",
+        "kuulumine",
+        "streik",
+        "töövaidlus",
+        "kontrolli all olema",
+        "huvide eest seisma",
+        "liik",
+        "kultuurautonoomia"
       ],
       "characters": [],
       "idea": "",
@@ -4410,24 +4564,24 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "hääleõigus",
-        "kogunemine"
+        "piiramine",
+        "kritiseerima"
       ],
       "phrases": [
-        "hääleõigust saama",
-        "ära võtma"
+        "lojaalne olema",
+        "üldistes huvides olema"
       ],
       "repeat": [
-        "erakond",
+        "ametikoht",
+        "riigiasutus",
         "ettevõtlus",
+        "riigiteenistuja",
         "koonduma",
+        "tulundusühendus",
+        "erakond",
         "mittetulundusühendus",
-        "erakonda kuuluma",
-        "paikkond",
-        "püsielanik",
-        "süüdi mõistma",
-        "vähemusrahvuste kultuurautonoomia",
-        "kuriteos süüdi mõistma"
+        "ettevõtlusega tegelema",
+        "paikkond"
       ],
       "characters": [],
       "idea": "",
@@ -4457,25 +4611,25 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "kui kauaks?"
+        "õiguste piiramine"
       ],
       "repeat": [
+        "ehe",
+        "omaalgatuslik",
+        "leiduma",
         "millisel juhul?",
         "vastupanu põhiseadusliku korra vägivaldsele muutmisele",
         "tegelema ettevõtlusega",
-        "käsutama",
-        "pärimisõigus",
-        "õpetus",
-        "õppeasutus",
-        "kuriteos süüdi mõistma",
-        "üks ja sama",
+        "mitmeks aastaks?",
+        "kohene",
+        "vabalt",
+        "kitsendus",
+        "omandit valdama, kasutama ja käsutama",
+        "tõe väljaselgitamine",
+        "seadusandlik riigivõim",
+        "õiguslikule vastutusele võtma",
         "asjaajamiskeel",
-        "sisemine",
-        "kuriteos süüdi olema",
-        "võib olla",
-        "hüvitama",
-        "keskkond",
-        "säästma"
+        "sisemine"
       ],
       "characters": [],
       "idea": "",
@@ -4501,24 +4655,24 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "kohtuaste",
-        "kohtuprotsess"
+        "üksus",
+        "käsitlema"
       ],
       "phrases": [
-        "esimene kohtuaste",
-        "kodakondsuse seadus"
+        "kodakondsuse seadus",
+        "Vabariigi Valitsuse määrus"
       ],
       "repeat": [
-        "vabatahtlik",
-        "mitmeks aastaks?",
-        "võõrandama",
-        "keelt valdama",
-        "hariduse andmine",
+        "puudus",
+        "teisiti",
+        "saladus",
+        "ettevõtja",
+        "puutumatu",
+        "valdama",
+        "kohtusse pöörduma",
+        "omandit võõrandama",
         "asjaajamiskeel",
-        "sisemine",
-        "kuriteos süüdi olema",
-        "võib olla",
-        "hüvitama"
+        "sisemine"
       ],
       "characters": [],
       "idea": "",
@@ -4549,20 +4703,20 @@
         "kodakondsustunnistus"
       ],
       "phrases": [
-        "lojaalne olema",
+        "käsitlema kuriteos süüdi olevana",
         "loobuma kodakondsusest"
       ],
       "repeat": [
         "omand",
-        "valdama",
-        "kitsendus",
-        "kohtusse pöörduma",
+        "võõrandama",
+        "hüvitus",
+        "nõusolek",
+        "õiglane",
+        "käsutama",
+        "keelt valdama",
         "hüvitama",
         "keskkond",
-        "säästma",
-        "kahju hüvitama",
-        "ülal pidama",
-        "omaalgatuslik"
+        "säästma"
       ],
       "characters": [],
       "idea": "",
@@ -4597,15 +4751,15 @@
       ],
       "repeat": [
         "vanadus",
+        "pärima",
+        "pärimisõigus",
+        "tagama",
+        "liik",
+        "häbi",
         "moraalne kahju",
-        "omandit valdama, kasutama ja käsutama",
-        "tõe väljaselgitamine",
-        "omaalgatuslik",
+        "hääleõigus",
         "karistatav",
-        "iseseisvust kaitsma",
-        "omaalgatuslik vastupanu",
-        "asjaajamine",
-        "rikkuma"
+        "hääleõigust saama"
       ],
       "characters": [],
       "idea": "",
@@ -4640,16 +4794,16 @@
         "legaalne püsiv sissetulek"
       ],
       "repeat": [
-        "valdus",
+        "puusepp",
+        "töökoda",
+        "tööriist",
         "tungima",
-        "omandit võõrandama",
-        "võrdõiguslik olema",
-        "asjaajamine",
+        "eluruum",
+        "valdus",
+        "läbi otsima",
+        "kohtuaste",
         "rikkuma",
-        "seadusega keelatud ja karistatav",
-        "üldistes huvides olema",
-        "sisemine asjaajamine",
-        "taastamine"
+        "esimene kohtuaste"
       ],
       "characters": [],
       "idea": "",
@@ -4681,22 +4835,22 @@
         "registreeritud elukoht"
       ],
       "repeat": [
+        "lahusus",
         "puudega inimene",
         "võimude tasakaalustatus",
         "menetlus",
-        "looduskeskkond",
-        "võrdne olema",
-        "otsustav",
-        "vande andmine",
-        "sisemine asjaajamine",
+        "kuritegu tõkestama",
+        "Vabariigi Valitsus",
+        "erakool",
+        "hariduse andmine",
+        "seadusega keelatud ja karistatav",
+        "ülal pidama",
         "taastamine",
         "taastama",
         "jõustumine",
         "kaotamine",
         "kodakondsuse kaotamine",
-        "kodakondsuse saamine",
-        "vabastamine",
-        "kauaks"
+        "kodakondsuse saamine"
       ],
       "characters": [],
       "idea": "",
@@ -4737,14 +4891,14 @@
       "repeat": [
         "riigikaitse",
         "viibima",
-        "põhiseaduse järgi",
-        "lahkuma riigist",
+        "looduskeskkond",
+        "süüdi mõistma",
+        "õpetus",
         "taastamine",
         "taastama",
         "jõustumine",
         "kaotamine",
-        "kodakondsuse kaotamine",
-        "kodakondsuse saamine"
+        "kodakondsuse kaotamine"
       ],
       "characters": [],
       "idea": "",
@@ -4782,13 +4936,13 @@
         "kohtueelne",
         "lahkuma",
         "kohtueelne menetlus",
-        "Vabariigi Valitsus",
+        "kodakondsust vastu võtma",
+        "otsustav",
         "vabastamine",
-        "kauaks",
+        "koosesis",
         "kodakondsusest vabastamine",
         "omandama kodakondsust",
-        "määrus",
-        "esitama"
+        "määrus"
       ],
       "characters": [],
       "idea": "",
@@ -4818,19 +4972,19 @@
         "hüvitis"
       ],
       "phrases": [
-        "sünnilt Eesti kodanik"
+        "säästlikult kasutama"
       ],
       "repeat": [
         "ettenähtud",
         "välisleping",
         "vastav",
-        "õppemaks",
+        "lahkuma riigist",
+        "õppeasutus",
         "määrus",
         "esitama",
         "kehtestama",
         "minister",
-        "tähtaeg",
-        "esindaja"
+        "tähtaeg"
       ],
       "characters": [],
       "idea": "",
@@ -4856,23 +5010,23 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "piiramine",
-        "koosesis"
+        "aegumatu",
+        "kättesaadavus"
       ],
       "phrases": [
-        "õiguste piiramine"
+        "südametunnistuse vabadus"
       ],
       "repeat": [
         "andmine",
         "vähemusrahvus",
         "kohustuslik",
-        "erakool",
-        "hääleõigus",
-        "kogunemine",
-        "hääleõigust saama",
-        "ära võtma",
-        "kui kauaks?",
-        "kohtuaste"
+        "õppemaks",
+        "vande andmine",
+        "piiramine",
+        "kritiseerima",
+        "lojaalne olema",
+        "üldistes huvides olema",
+        "õiguste piiramine"
       ],
       "characters": [],
       "idea": "",
@@ -4900,24 +5054,24 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "teine kohtuaste"
+        "sünnilt Eesti kodanik"
       ],
       "repeat": [
         "õigusaktide andmine",
-        "välisriigile välja andma",
+        "vastav olema",
         "ülikool",
         "eestikeelne õpetus",
-        "võõrandamatu õigus",
-        "välja saatma",
+        "võimude lahususe ja tasakaalustatuse põhimõte",
+        "võrdne olema",
         "truuks jääma",
-        "kui kauaks?",
-        "kohtuaste",
-        "kohtuprotsess",
-        "esimene kohtuaste",
+        "õiguste piiramine",
+        "üksus",
+        "käsitlema",
         "kodakondsuse seadus",
+        "Vabariigi Valitsuse määrus",
         "loobuma",
         "kodakondsustunnistus",
-        "lojaalne olema",
+        "käsitlema kuriteos süüdi olevana",
         "loobuma kodakondsusest"
       ],
       "characters": [],
@@ -4955,12 +5109,12 @@
       "repeat": [
         "teadus",
         "teadusasutus",
-        "välja andma",
+        "võimude lahusus",
         "südametunnistus",
-        "kohtuaste",
-        "kohtuprotsess",
-        "esimene kohtuaste",
+        "üksus",
+        "käsitlema",
         "kodakondsuse seadus",
+        "Vabariigi Valitsuse määrus",
         "loobuma",
         "kodakondsustunnistus"
       ],
@@ -4996,17 +5150,17 @@
         "riigikord"
       ],
       "phrases": [
-        "Vabariigi Valitsuse määrus",
+        "pädevusse kuuluma",
         "vastavalt põhiseadusele"
       ],
       "repeat": [
         "võõrandamatu",
         "looming",
-        "otsustav sõna",
+        "lahusus ja tasakaalustatus",
         "usuühing",
         "loobuma",
         "kodakondsustunnistus",
-        "lojaalne olema",
+        "käsitlema kuriteos süüdi olevana",
         "loobuma kodakondsusest",
         "valitsusasutus",
         "kirjalik"
@@ -5036,7 +5190,7 @@
       "newWordCount": 10,
       "newWords": [
         "teene",
-        "kritiseerima"
+        "lapsendatud"
       ],
       "phrases": [
         "eriline teene",
@@ -5046,7 +5200,7 @@
         "usutalitus",
         "mõttevabadus",
         "riigikirik",
-        "põhiseaduses pole öeldud",
+        "maa-ala",
         "valitsusasutus",
         "kirjalik",
         "kirjalikku nõuet esitama",
@@ -5089,7 +5243,7 @@
         "õiguslik",
         "vastutus",
         "truu",
-        "pädev riigiorgan",
+        "omaalgatuslik vastupanu",
         "alaline",
         "legaalne",
         "elamisõigus",
@@ -5126,10 +5280,10 @@
         "kodakondsuse saamine eriliste teenete eest"
       ],
       "repeat": [
-        "pöörduma kohtusse",
-        "vägivalda õhutama",
-        "õigus elule",
-        "rahvahääletust korraldama",
+        "otsustav sõna",
+        "võrdõiguslik olema",
+        "võõrandamatu õigus",
+        "põhiseaduses pole öeldud",
         "kuuluma liitu",
         "registreeritud elukoht",
         "tulu",
@@ -5167,18 +5321,18 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "tõkestama",
-        "käsitlema"
+        "haldusjaotus",
+        "lojaalsus"
       ],
       "phrases": [
-        "kuritegu tõkestama",
+        "lapsendatud laps",
         "pikaajalise elaniku elamisluba"
       ],
       "repeat": [
         "talletama",
-        "püsivalt Eestis viibima",
-        "õigus koonduda",
-        "võimude lahususe ja tasakaalustatuse põhimõte",
+        "põhiseaduse järgi",
+        "välisriigile välja andma",
+        "vähemusrahvuste kultuurautonoomia",
         "tulu",
         "toetus",
         "elatis",
@@ -5210,18 +5364,17 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "üksus",
-        "kättesaadavus"
+        "jagamatu",
+        "läbiotsimine"
       ],
       "phrases": [
-        "käsitlema kuriteos süüdi olevana",
         "püsivalt elama"
       ],
       "repeat": [
         "telegraaf",
         "üldkasutatav",
-        "rahvusvaheline õigus",
-        "vähemusrahvuste kultuurautonoomia",
+        "pädev riigiorgan",
+        "õigus seaduse kaitsele",
         "koostama",
         "keeleseadus",
         "selgitama",
@@ -5254,23 +5407,23 @@
       "newWordCount": 10,
       "newWords": [
         "piiratud",
-        "lapsendatud"
+        "maakohus"
       ],
       "phrases": [
-        "lapsendatud laps",
-        "piiratud olema"
+        "piiratud olema",
+        "ära võtma"
       ],
       "repeat": [
         "nõue",
         "asutusesisene",
         "välisriigi kodanik",
-        "omaalgatuslik vastupanu",
+        "iseseisvust kaitsma",
         "kinnitama",
         "hüvitis",
-        "sünnilt Eesti kodanik",
-        "piiramine",
-        "koosesis",
-        "õiguste piiramine"
+        "säästlikult kasutama",
+        "aegumatu",
+        "kättesaadavus",
+        "südametunnistuse vabadus"
       ],
       "characters": [],
       "idea": "",
@@ -5297,21 +5450,21 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "aegumatu",
-        "lojaalsus"
+        "kinnipidamiskoht",
+        "meelevaldne"
       ],
       "phrases": [
-        "pädevusse kuuluma"
+        "kuriteos süüdi mõistma"
       ],
       "repeat": [
         "ühiskonnakiht",
-        "riigi abi",
-        "õigus luua",
-        "üldistes huvides olema",
-        "piiramine",
-        "koosesis",
-        "õiguste piiramine",
-        "teine kohtuaste",
+        "pöörduma kohtusse",
+        "välja andma",
+        "üks ja sama",
+        "aegumatu",
+        "kättesaadavus",
+        "südametunnistuse vabadus",
+        "sünnilt Eesti kodanik",
         "vabastama",
         "riigieelarve"
       ],
@@ -5342,15 +5495,15 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "tsensuuri läbima"
+        "kuriteos süüdi olema"
       ],
       "repeat": [
-        "riigi järelevalve all olema",
-        "õigus riigi kaitsele",
+        "püsivalt Eestis viibima",
+        "välja saatma",
         "seadusega piirama",
-        "õigus seaduse kaitsele",
-        "säästlikult kasutama",
-        "teine kohtuaste",
+        "vägivalda õhutama",
+        "riigi järelevalve all olema",
+        "sünnilt Eesti kodanik",
         "vabastama",
         "riigieelarve",
         "läbima",
@@ -5386,8 +5539,8 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "haldusjaotus",
-        "läbiotsimine"
+        "osavõtt",
+        "menetlema"
       ],
       "phrases": [
         "kodakondsuse taastamise otsustamine",
@@ -5395,9 +5548,9 @@
       ],
       "repeat": [
         "tsensuur",
-        "seaduse ees",
-        "õiguslikule vastutusele võtma",
-        "loobumine",
+        "rahvahääletust korraldama",
+        "õigus elule",
+        "esindaja",
         "vabastama",
         "riigieelarve",
         "läbima",
@@ -5429,17 +5582,17 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "jagamatu",
-        "maakohus"
+        "tervik",
+        "moodus"
       ],
       "phrases": [
-        "tulu saama"
+        "osavõtt hääletamisest"
       ],
       "repeat": [
         "märgukiri",
-        "seaduse järgi",
+        "rahvusvaheline õigus",
         "relv",
-        "sõjavägi",
+        "loobumine",
         "koosseis",
         "pädevus",
         "seotud",
@@ -5471,19 +5624,19 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "kinnipidamiskoht",
-        "meelevaldne"
+        "trahv",
+        "omandiõigus"
       ],
       "phrases": [
-        "ustav olema"
+        "omandiõiguse seadus"
       ],
       "repeat": [
         "julgeolek",
         "koosolekut pidama",
         "mittetulundusühing",
-        "kodakondsuse taastamine",
+        "sõjavägi",
         "teene",
-        "kritiseerima",
+        "lapsendatud",
         "eriline teene",
         "kohaldamata jätma",
         "otsustamine",
@@ -5513,24 +5666,24 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "osavõtt",
-        "menetlema"
+        "õhuruum",
+        "parlament"
       ],
       "phrases": [
-        "osavõtt hääletamisest",
+        "teine kohtuaste",
         "Vabariigi Valitsuse korraldus"
       ],
       "repeat": [
         "kriminaalvastutus",
         "suunama",
         "kuuluma erakonda",
-        "kodakondsusest loobumine",
+        "kodakondsuse taastamine",
         "otsustamine",
         "vabastatud",
         "kodakondsuse andmise otsustamine",
         "vabastama kodakondsusest",
         "kodakondsuse saamine eriliste teenete eest",
-        "tõkestama"
+        "haldusjaotus"
       ],
       "characters": [],
       "idea": "",
@@ -5558,25 +5711,25 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "usulised veendumused"
+        "tsensuuri läbima"
       ],
       "repeat": [
-        "seadusandlik riigivõim",
-        "ära hoidma",
+        "riigi abi",
+        "õigus luua",
         "ülal",
-        "lahusus ja tasakaalustatus",
-        "võimude lahusus",
+        "põhiseaduslik kord",
+        "õigus riigi kaitsele",
         "kodakondsuse saamine eriliste teenete eest",
-        "tõkestama",
-        "käsitlema",
-        "kuritegu tõkestama",
+        "haldusjaotus",
+        "lojaalsus",
+        "lapsendatud laps",
         "pikaajalise elaniku elamisluba",
-        "üksus",
-        "kättesaadavus",
-        "käsitlema kuriteos süüdi olevana",
+        "jagamatu",
+        "läbiotsimine",
         "püsivalt elama",
         "piiratud",
-        "lapsendatud"
+        "maakohus",
+        "piiratud olema"
       ],
       "characters": [],
       "idea": "",
@@ -5610,16 +5763,16 @@
         "sünniga omandama"
       ],
       "repeat": [
-        "lahusus",
+        "asjaajamine",
         "diskrimineerima",
-        "põhiseaduslik kord",
-        "tõkestama",
-        "käsitlema",
-        "kuritegu tõkestama",
+        "õigus koonduda",
+        "kodakondsusest loobumine",
+        "haldusjaotus",
+        "lojaalsus",
+        "lapsendatud laps",
         "pikaajalise elaniku elamisluba",
-        "üksus",
-        "kättesaadavus",
-        "käsitlema kuriteos süüdi olevana"
+        "jagamatu",
+        "läbiotsimine"
       ],
       "characters": [],
       "idea": "",
@@ -5647,23 +5800,23 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "tervik",
-        "moodus"
+        "õigussüsteem",
+        "perekonnaelu"
       ],
       "phrases": [
-        "usutalitusel osalema"
+        "tulu saama"
       ],
       "repeat": [
         "säilitama",
         "rahvuskuuluvus",
         "üldhariduskool",
-        "üksus",
-        "kättesaadavus",
-        "käsitlema kuriteos süüdi olevana",
+        "jagamatu",
+        "läbiotsimine",
         "püsivalt elama",
         "piiratud",
-        "lapsendatud",
-        "lapsendatud laps"
+        "maakohus",
+        "piiratud olema",
+        "ära võtma"
       ],
       "characters": [],
       "idea": "",
@@ -5691,23 +5844,24 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "trahv",
-        "omandiõigus"
+        "ühtne",
+        "pereliige"
       ],
       "phrases": [
-        "omandiõiguse seadus"
+        "ustav olema",
+        "ühtne riik"
       ],
       "repeat": [
         "kultuurautonoomia",
         "rahvuskultuur",
-        "südametunnistuse vabadus",
+        "seaduse ees",
         "piiratud",
-        "lapsendatud",
-        "lapsendatud laps",
+        "maakohus",
         "piiratud olema",
-        "aegumatu",
-        "lojaalsus",
-        "pädevusse kuuluma"
+        "ära võtma",
+        "kinnipidamiskoht",
+        "meelevaldne",
+        "kuriteos süüdi mõistma"
       ],
       "characters": [],
       "idea": "",
@@ -5734,22 +5888,22 @@
       "newWordCount": 10,
       "newWords": [
         "astuma",
-        "parlament"
+        "piinamine"
       ],
       "phrases": [
-        "vahi all hoidma",
+        "usulised veendumused",
         "veendumuste pärast"
       ],
       "repeat": [
         "paikkond",
         "püsielanik",
-        "süüdi mõistma",
-        "aegumatu",
-        "lojaalsus",
-        "pädevusse kuuluma",
-        "tsensuuri läbima",
-        "haldusjaotus",
-        "läbiotsimine",
+        "seaduse järgi",
+        "kinnipidamiskoht",
+        "meelevaldne",
+        "kuriteos süüdi mõistma",
+        "kuriteos süüdi olema",
+        "osavõtt",
+        "menetlema",
         "kodakondsuse taastamise otsustamine"
       ],
       "characters": [],
@@ -5782,25 +5936,25 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "vajalik hulk"
+        "usutalitusel osalema"
       ],
       "repeat": [
-        "kuriteos süüdi mõistma",
-        "üks ja sama",
-        "kuriteos süüdi olema",
+        "seadusandlik riigivõim",
+        "õiguslikule vastutusele võtma",
+        "sisemine asjaajamine",
         "võib olla",
-        "ülal pidama",
-        "tsensuuri läbima",
-        "haldusjaotus",
-        "läbiotsimine",
+        "ära hoidma",
+        "kuriteos süüdi olema",
+        "osavõtt",
+        "menetlema",
         "kodakondsuse taastamise otsustamine",
         "vabastatud olema",
-        "jagamatu",
-        "maakohus",
-        "tulu saama",
-        "kinnipidamiskoht",
-        "meelevaldne",
-        "ustav olema"
+        "tervik",
+        "moodus",
+        "osavõtt hääletamisest",
+        "trahv",
+        "omandiõigus",
+        "omandiõiguse seadus"
       ],
       "characters": [],
       "idea": "",
@@ -5828,23 +5982,23 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "õhuruum",
-        "perekonnaelu"
+        "üldsäte",
+        "positsioon"
       ],
       "phrases": [
-        "vastav olema"
+        "vahi all hoidma"
       ],
       "repeat": [
         "asjaajamiskeel",
         "sisemine",
         "säästma",
-        "haldusjaotus",
-        "läbiotsimine",
+        "osavõtt",
+        "menetlema",
         "kodakondsuse taastamise otsustamine",
         "vabastatud olema",
-        "jagamatu",
-        "maakohus",
-        "tulu saama"
+        "tervik",
+        "moodus",
+        "osavõtt hääletamisest"
       ],
       "characters": [],
       "idea": "",
@@ -5883,13 +6037,13 @@
         "hüvitama",
         "keskkond",
         "kahju hüvitama",
-        "jagamatu",
-        "maakohus",
-        "tulu saama",
-        "kinnipidamiskoht",
-        "meelevaldne",
-        "ustav olema",
-        "osavõtt"
+        "tervik",
+        "moodus",
+        "osavõtt hääletamisest",
+        "trahv",
+        "omandiõigus",
+        "omandiõiguse seadus",
+        "õhuruum"
       ],
       "characters": [],
       "idea": "",
@@ -5916,22 +6070,23 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "õigussüsteem",
-        "pereliige"
+        "üldtunnustatud",
+        "prokurör"
       ],
       "phrases": [
-        "seaduse kohaselt"
+        "seaduse kohaselt",
+        "üldtunnustatud põhimõte"
       ],
       "repeat": [
-        "omaalgatuslik",
+        "hääleõigus",
         "karistatav",
-        "iseseisvust kaitsma",
-        "kinnipidamiskoht",
-        "meelevaldne",
-        "ustav olema",
-        "osavõtt",
-        "menetlema",
-        "osavõtt hääletamisest",
+        "hääleõigust saama",
+        "trahv",
+        "omandiõigus",
+        "omandiõiguse seadus",
+        "õhuruum",
+        "parlament",
+        "teine kohtuaste",
         "Vabariigi Valitsuse korraldus"
       ],
       "characters": [],
@@ -5968,14 +6123,14 @@
         "elama asuma"
       ],
       "repeat": [
-        "asjaajamine",
+        "kohtuaste",
         "rikkuma",
-        "seadusega keelatud ja karistatav",
-        "osavõtt",
-        "menetlema",
-        "osavõtt hääletamisest",
+        "esimene kohtuaste",
+        "õhuruum",
+        "parlament",
+        "teine kohtuaste",
         "Vabariigi Valitsuse korraldus",
-        "usulised veendumused",
+        "tsensuuri läbima",
         "valeandmed",
         "sõjaväelane"
       ],
@@ -6008,25 +6163,25 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "kodakondsust vastu võtma"
+        "vajalik hulk"
       ],
       "repeat": [
-        "sisemine asjaajamine",
-        "taastama",
-        "kaotamine",
+        "seadusega keelatud ja karistatav",
+        "ülal pidama",
+        "jõustumine",
+        "kodakondsuse kaotamine",
         "kodakondsuse saamine",
-        "omandama kodakondsust",
-        "usulised veendumused",
+        "tsensuuri läbima",
         "valeandmed",
         "sõjaväelane",
         "vabadusekaotus",
         "sünniga omandama",
-        "tervik",
-        "moodus",
-        "usutalitusel osalema",
-        "trahv",
-        "omandiõigus",
-        "vahi all hoidma"
+        "õigussüsteem",
+        "perekonnaelu",
+        "tulu saama",
+        "ühtne",
+        "pereliige",
+        "ühtne riik"
       ],
       "characters": [],
       "idea": "",
@@ -6069,17 +6224,17 @@
       ],
       "repeat": [
         "taastamine",
-        "jõustumine",
-        "kodakondsuse kaotamine",
-        "minister",
+        "taastama",
+        "kaotamine",
+        "omandama kodakondsust",
         "valeandmed",
         "sõjaväelane",
         "vabadusekaotus",
         "sünniga omandama",
-        "tervik",
-        "moodus",
-        "usutalitusel osalema",
-        "omandiõiguse seadus"
+        "õigussüsteem",
+        "perekonnaelu",
+        "tulu saama",
+        "ustav olema"
       ],
       "characters": [],
       "idea": "",
@@ -6115,17 +6270,17 @@
       ],
       "repeat": [
         "vabastamine",
-        "kauaks",
+        "koosesis",
         "kodakondsusest vabastamine",
-        "tähtaeg",
-        "tervik",
-        "moodus",
-        "usutalitusel osalema",
-        "trahv",
-        "omandiõigus",
-        "omandiõiguse seadus",
-        "astuma",
-        "parlament"
+        "minister",
+        "õigussüsteem",
+        "perekonnaelu",
+        "tulu saama",
+        "ühtne",
+        "pereliige",
+        "ustav olema",
+        "ühtne riik",
+        "astuma"
       ],
       "characters": [],
       "idea": "",
@@ -6165,15 +6320,15 @@
         "määrus",
         "esitama",
         "kehtestama",
-        "esindaja",
-        "trahv",
-        "omandiõigus",
-        "omandiõiguse seadus",
+        "tähtaeg",
+        "ühtne",
+        "pereliige",
+        "ustav olema",
+        "ühtne riik",
         "astuma",
-        "parlament",
-        "vahi all hoidma",
-        "veendumuste pärast",
-        "vajalik hulk"
+        "piinamine",
+        "usulised veendumused",
+        "veendumuste pärast"
       ],
       "characters": [],
       "idea": "",
@@ -6214,18 +6369,18 @@
         "enne tähtaega"
       ],
       "repeat": [
-        "hääleõigus",
-        "kogunemine",
-        "hääleõigust saama",
-        "ära võtma",
+        "piiramine",
+        "kritiseerima",
+        "lojaalne olema",
+        "üldistes huvides olema",
         "astuma",
-        "parlament",
-        "vahi all hoidma",
+        "piinamine",
+        "usulised veendumused",
         "veendumuste pärast",
-        "vajalik hulk",
-        "õhuruum",
-        "perekonnaelu",
-        "vastav olema"
+        "usutalitusel osalema",
+        "üldsäte",
+        "positsioon",
+        "vahi all hoidma"
       ],
       "characters": [],
       "idea": "",
@@ -6255,26 +6410,26 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "riigikaitse kõrgeim juht",
+        "kõrgeim kohus",
         "valimiste väljakuulutamine"
       ],
       "repeat": [
-        "kui kauaks?",
-        "kohtuprotsess",
-        "kodakondsuse seadus",
+        "õiguste piiramine",
+        "käsitlema",
+        "Vabariigi Valitsuse määrus",
         "kodakondsuse andmine",
         "alaline elamisõigus",
-        "vajalik hulk",
-        "õhuruum",
-        "perekonnaelu",
-        "vastav olema",
+        "usutalitusel osalema",
+        "üldsäte",
+        "positsioon",
+        "vahi all hoidma",
         "kehtetu",
         "kohaselt",
         "lähtuma",
         "asutus",
         "omavalitsuse asutus",
         "õiguslik seisund",
-        "õigussüsteem"
+        "üldtunnustatud"
       ],
       "characters": [],
       "idea": "",
@@ -6316,13 +6471,13 @@
         "Eesti Pank"
       ],
       "repeat": [
-        "kohtuaste",
-        "esimene kohtuaste",
-        "lojaalne olema",
+        "üksus",
+        "kodakondsuse seadus",
+        "käsitlema kuriteos süüdi olevana",
         "legaalne püsiv sissetulek",
-        "õhuruum",
-        "perekonnaelu",
-        "vastav olema",
+        "üldsäte",
+        "positsioon",
+        "vahi all hoidma",
         "kehtetu",
         "kohaselt",
         "lähtuma",
@@ -6355,7 +6510,7 @@
       "newWordCount": 10,
       "newWords": [
         "deklaratsioon",
-        "piinamine"
+        "rahumeelne"
       ],
       "phrases": [
         "aruannet kinnitama",
@@ -6372,8 +6527,8 @@
         "asutus",
         "omavalitsuse asutus",
         "õiguslik seisund",
-        "õigussüsteem",
-        "pereliige"
+        "üldtunnustatud",
+        "prokurör"
       ],
       "characters": [],
       "idea": "",
@@ -6400,7 +6555,7 @@
       "newWordCount": 10,
       "newWords": [
         "istungjärk",
-        "positsioon"
+        "redaktsioon"
       ],
       "phrases": [
         "korraline istungjärk",
@@ -6411,14 +6566,14 @@
         "kirjalik",
         "kirjalikku nõuet esitama",
         "omandist saadav tulu",
-        "õigussüsteem",
-        "pereliige",
+        "üldtunnustatud",
+        "prokurör",
         "seaduse kohaselt",
+        "üldtunnustatud põhimõte",
         "moodustama",
         "pöördumine",
         "halduskohus",
-        "käskkiri",
-        "avalik pöördumine"
+        "käskkiri"
       ],
       "characters": [],
       "idea": "",
@@ -6446,7 +6601,7 @@
       "newWordCount": 10,
       "newWords": [
         "viiendik",
-        "prokurör"
+        "referendum"
       ],
       "phrases": [
         "erakorraline istungjärk",
@@ -6463,7 +6618,7 @@
         "käskkiri",
         "avalik pöördumine",
         "elama asuma",
-        "kodakondsust vastu võtma",
+        "vajalik hulk",
         "erakorraline"
       ],
       "characters": [],
@@ -6492,7 +6647,7 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "kõrgeim kohus",
+        "peaministri kandidaati määrama",
         "varaliste kohustuste võtmine"
       ],
       "repeat": [
@@ -6501,7 +6656,7 @@
         "makstav",
         "stipendium",
         "seaduse alusel makstavad toetused",
-        "kodakondsust vastu võtma",
+        "vajalik hulk",
         "erakorraline",
         "korraline",
         "salajane",
@@ -6584,11 +6739,11 @@
       "newWordCount": 10,
       "newWords": [
         "otsustusvõimelisus",
-        "rahumeelne"
+        "registrerim"
       ],
       "phrases": [
-        "peaministri kandidaati määrama",
-        "viiendik Riigikogu koosseisust"
+        "olulised riigielu küsimused",
+        "valima kellegi hulgast"
       ],
       "repeat": [
         "koostama",
@@ -6634,12 +6789,12 @@
       ],
       "phrases": [
         "moodustamise kord",
-        "volitusi andma"
+        "seadusi vastu võtma"
       ],
       "repeat": [
         "kinnitama",
         "hüvitis",
-        "sünnilt Eesti kodanik",
+        "säästlikult kasutama",
         "riigikord",
         "riigiamet",
         "mandaat",
@@ -6679,13 +6834,13 @@
       ],
       "phrases": [
         "avalik istung",
-        "volituste lõppemine"
+        "viiendik Riigikogu koosseisust"
       ],
       "repeat": [
-        "piiramine",
-        "koosesis",
-        "õiguste piiramine",
-        "Vabariigi Valitsuse määrus",
+        "aegumatu",
+        "kättesaadavus",
+        "südametunnistuse vabadus",
+        "pädevusse kuuluma",
         "taastumine",
         "riigikohus",
         "lõppemine",
@@ -6721,16 +6876,16 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "olulised riigielu küsimused",
-        "volituste peatumine"
+        "peaministri kandidaat",
+        "volitusi andma"
       ],
       "repeat": [
-        "teine kohtuaste",
+        "sünnilt Eesti kodanik",
         "riigieelarve",
         "seadusi täitma",
         "koordineerima",
         "vastavalt põhiseadusele",
-        "riigikaitse kõrgeim juht",
+        "kõrgeim kohus",
         "valimiste väljakuulutamine",
         "peaminister",
         "esimees",
@@ -6817,7 +6972,7 @@
       "newWordCount": 10,
       "newWords": [
         "töötulu",
-        "redaktsioon"
+        "riigisaladus"
       ],
       "phrases": [
         "koosseisu enamus",
@@ -6829,11 +6984,11 @@
         "seotud",
         "vabastama kodakondsusest",
         "deklaratsioon",
-        "piinamine",
+        "rahumeelne",
         "aruannet kinnitama",
         "kokku kutsuma",
         "istungjärk",
-        "positsioon",
+        "redaktsioon",
         "korraline istungjärk",
         "valitsust moodustama"
       ],
@@ -6878,15 +7033,15 @@
       ],
       "repeat": [
         "teene",
-        "kritiseerima",
+        "lapsendatud",
         "eriline teene",
-        "elama asuma",
+        "avalik pöördumine",
         "istungjärk",
-        "positsioon",
+        "redaktsioon",
         "korraline istungjärk",
         "valitsust moodustama",
         "viiendik",
-        "prokurör",
+        "referendum",
         "erakorraline istungjärk",
         "Riigikogu esimees"
       ],
@@ -6928,12 +7083,12 @@
         "otsustamine",
         "vabastatud",
         "kodakondsuse andmise otsustamine",
-        "järgnema",
+        "elama asuma",
         "viiendik",
-        "prokurör",
+        "referendum",
         "erakorraline istungjärk",
         "Riigikogu esimees",
-        "kõrgeim kohus",
+        "peaministri kandidaati määrama",
         "varaliste kohustuste võtmine",
         "kodukord",
         "töökord"
@@ -6967,16 +7122,16 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "peaministri kandidaat",
-        "seadusi välja kuulutama"
+        "põhimõtte alusel",
+        "volituste lõppemine"
       ],
       "repeat": [
         "kodakondsuse saamine eriliste teenete eest",
-        "käsitlema",
+        "lojaalsus",
         "pikaajalise elaniku elamisluba",
-        "piiratud olema",
-        "kandideerima",
-        "kõrgeim kohus",
+        "veendumuste pärast",
+        "järgnema",
+        "peaministri kandidaati määrama",
         "varaliste kohustuste võtmine",
         "kodukord",
         "töökord",
@@ -6984,9 +7139,9 @@
         "kodukorra seadus",
         "Riigikogu liige",
         "otsustusvõimelisus",
-        "rahumeelne",
-        "peaministri kandidaati määrama",
-        "viiendik Riigikogu koosseisust"
+        "registrerim",
+        "olulised riigielu küsimused",
+        "valima kellegi hulgast"
       ],
       "characters": [],
       "idea": "",
@@ -7014,25 +7169,25 @@
       "newWordCount": 10,
       "newWords": [
         "ametiaeg",
-        "referendum"
+        "seadusandlus"
       ],
       "phrases": [
-        "põhimõtte alusel",
-        "valimistulemusi välja kuulutama"
+        "põhiseaduse muutmist algatama",
+        "volituste peatumine"
       ],
       "repeat": [
-        "tõkestama",
-        "kuritegu tõkestama",
-        "käsitlema kuriteos süüdi olevana",
-        "proportsionaalsus",
+        "haldusjaotus",
+        "lapsendatud laps",
+        "püsivalt elama",
+        "kandideerima",
         "kodukord",
         "töökord",
         "hulgast",
         "kodukorra seadus",
         "Riigikogu liige",
         "otsustusvõimelisus",
-        "rahumeelne",
-        "peaministri kandidaati määrama"
+        "registrerim",
+        "olulised riigielu küsimused"
       ],
       "characters": [],
       "idea": "",
@@ -7066,14 +7221,14 @@
         "Eesti rahvas"
       ],
       "repeat": [
-        "üksus",
-        "kättesaadavus",
-        "püsivalt elama",
-        "erakorralised valimised",
+        "jagamatu",
+        "läbiotsimine",
+        "piiratud olema",
+        "proportsionaalsus",
         "otsustusvõimelisus",
-        "rahumeelne",
-        "peaministri kandidaati määrama",
-        "viiendik Riigikogu koosseisust",
+        "registrerim",
+        "olulised riigielu küsimused",
+        "valima kellegi hulgast",
         "moodustamine",
         "fraktsioon",
         "ühinema",
@@ -7104,7 +7259,7 @@
       "newWordCount": 10,
       "newWords": [
         "riigilaen",
-        "registrerim"
+        "sisepoliitika"
       ],
       "phrases": [
         "kohtuotsuse jõustumine",
@@ -7112,14 +7267,14 @@
       ],
       "repeat": [
         "piiratud",
-        "lapsendatud",
-        "lapsendatud laps",
-        "korralised valimised",
+        "maakohus",
+        "ära võtma",
+        "erakorralised valimised",
         "moodustamine",
         "fraktsioon",
         "ühinema",
         "moodustamise kord",
-        "volitusi andma",
+        "seadusi vastu võtma",
         "häälteenamus",
         "kahekolmandikuline",
         "avalik istung"
@@ -7149,23 +7304,23 @@
       "newWordCount": 10,
       "newWords": [
         "keelduma",
-        "riigisaladus"
+        "suhtlema"
       ],
       "phrases": [
         "kestvalt võimetu olema",
         "Riigikogu erakorralised valimised"
       ],
       "repeat": [
-        "aegumatu",
-        "lojaalsus",
-        "pädevusse kuuluma",
-        "Riigikogu istungit kokku kutsuma",
+        "kinnipidamiskoht",
+        "meelevaldne",
+        "kuriteos süüdi mõistma",
+        "korralised valimised",
         "häälteenamus",
         "kahekolmandikuline",
         "avalik istung",
-        "volituste lõppemine",
-        "olulised riigielu küsimused",
-        "volituste peatumine",
+        "viiendik Riigikogu koosseisust",
+        "peaministri kandidaat",
+        "volitusi andma",
         "enamus",
         "akt"
       ],
@@ -7195,17 +7350,17 @@
       "newWordCount": 8,
       "newWords": [],
       "phrases": [
-        "põhiseaduse muutmist algatama",
-        "õigus hääletada"
+        "põhiseadusliku järelevalve kohus",
+        "seadusi välja kuulutama"
       ],
       "repeat": [
-        "tsensuuri läbima",
-        "läbiotsimine",
+        "kuriteos süüdi olema",
+        "menetlema",
         "vabastatud olema",
         "õiguslik seisund",
-        "Riigikogu koosseis",
-        "olulised riigielu küsimused",
-        "volituste peatumine",
+        "Riigikogu istungit kokku kutsuma",
+        "peaministri kandidaat",
+        "volitusi andma",
         "enamus",
         "akt",
         "poolthääl",
@@ -7213,7 +7368,7 @@
         "Eesti Panga nõukogu",
         "Eesti Panga president",
         "töötulu",
-        "redaktsioon",
+        "riigisaladus",
         "koosseisu enamus"
       ],
       "characters": [],
@@ -7245,13 +7400,13 @@
       ],
       "phrases": [
         "erakondlik kuuluvus",
-        "õiguslikku vastutust kandma"
+        "valimistulemusi välja kuulutama"
       ],
       "repeat": [
-        "haldusjaotus",
+        "osavõtt",
         "kodakondsuse taastamise otsustamine",
-        "tulu saama",
-        "poliitiline",
+        "osavõtt hääletamisest",
+        "Riigikogu koosseis",
         "enamus",
         "akt",
         "poolthääl",
@@ -7259,7 +7414,7 @@
         "Eesti Panga nõukogu",
         "Eesti Panga president",
         "töötulu",
-        "redaktsioon"
+        "riigisaladus"
       ],
       "characters": [],
       "idea": "",
@@ -7287,19 +7442,19 @@
       "newWordCount": 10,
       "newWords": [
         "volikiri",
-        "seadusandlus"
+        "sünnijärgne"
       ],
       "phrases": [
-        "põhiseadusliku järelevalve kohus",
+        "pühalik tõotus",
         "Riigikogu koosseisu enamus"
       ],
       "repeat": [
-        "jagamatu",
-        "maakohus",
-        "ustav olema",
-        "kaitseväeteenistuse kohustus",
+        "tervik",
+        "moodus",
+        "omandiõiguse seadus",
+        "poliitiline",
         "töötulu",
-        "redaktsioon",
+        "riigisaladus",
         "koosseisu enamus",
         "kriminaalvastutusele võtma",
         "algatama",
@@ -7341,10 +7496,10 @@
         "ellu viima"
       ],
       "repeat": [
-        "kinnipidamiskoht",
-        "meelevaldne",
-        "osavõtt hääletamisest",
-        "mandaadiga seotud olema",
+        "trahv",
+        "omandiõigus",
+        "teine kohtuaste",
+        "kaitseväeteenistuse kohustus",
         "algatama",
         "demobilisatsioon",
         "mobilisatsioon",
@@ -7378,18 +7533,18 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "ühtne",
-        "sisepoliitika"
+        "abivajaja",
+        "tabama"
       ],
       "phrases": [
-        "pühalik tõotus",
+        "kurjategijat tabama",
         "viia ellu riigi sise- ja välispoliitikat"
       ],
       "repeat": [
-        "osavõtt",
-        "menetlema",
+        "õhuruum",
+        "parlament",
         "Vabariigi Valitsuse korraldus",
-        "kestvalt",
+        "mandaadiga seotud olema",
         "hääletama",
         "hääletus",
         "seadma",
@@ -7397,7 +7552,7 @@
         "hääletusvoor",
         "kahekolmandikuline enamus",
         "kandidaatide ülesseadmine",
-        "peaministri kandidaat"
+        "põhimõtte alusel"
       ],
       "characters": [],
       "idea": "",
@@ -7427,20 +7582,20 @@
       "newWords": [],
       "phrases": [
         "rahvusvaheline suhtlemine",
-        "ühtne riik"
+        "õigus hääletada"
       ],
       "repeat": [
-        "usulised veendumused",
+        "tsensuuri läbima",
         "sõjaväelane",
         "sünniga omandama",
-        "käskkiri",
-        "nimetamine",
-        "peaministri kandidaat",
-        "seadusi välja kuulutama",
-        "ametiaeg",
-        "referendum",
+        "üldtunnustatud põhimõte",
+        "kestvalt",
         "põhimõtte alusel",
-        "valimistulemusi välja kuulutama",
+        "volituste lõppemine",
+        "ametiaeg",
+        "seadusandlus",
+        "põhiseaduse muutmist algatama",
+        "volituste peatumine",
         "tõotus",
         "pühalik",
         "ametisse astuma",
@@ -7472,21 +7627,21 @@
       "newWordCount": 10,
       "newWords": [
         "läbirääkimine",
-        "suhtlema"
+        "tagasiastuma"
       ],
       "phrases": [
-        "avalik hääletus",
-        "Vabariigi Valitsuse koosseis"
+        "ametist tagasiastuma",
+        "avalik hääletus"
       ],
       "repeat": [
         "valeandmed",
         "vabadusekaotus",
-        "usutalitusel osalema",
-        "võimetu",
+        "tulu saama",
+        "nimetamine",
         "ametiaeg",
-        "referendum",
-        "põhimõtte alusel",
-        "valimistulemusi välja kuulutama",
+        "seadusandlus",
+        "põhiseaduse muutmist algatama",
+        "volituste peatumine",
         "tõotus",
         "pühalik",
         "ametisse astuma",
@@ -7519,23 +7674,23 @@
       "newWordCount": 10,
       "newWords": [
         "muudatus",
-        "sünnijärgne"
+        "teovõimetus"
       ],
       "phrases": [
-        "riigieelarve täitmine",
-        "üle poole"
+        "Vabariigi Valitsuse koosseis",
+        "õiguslikku vastutust kandma"
       ],
       "repeat": [
-        "tervik",
-        "moodus",
-        "omandiõiguse seadus",
-        "asendusliige",
+        "õigussüsteem",
+        "perekonnaelu",
+        "ustav olema",
+        "võimetu",
         "tõotus",
         "pühalik",
         "ametisse astuma",
         "Eesti rahvas",
         "riigilaen",
-        "registrerim",
+        "sisepoliitika",
         "kohtuotsuse jõustumine",
         "surma korral"
       ],
@@ -7565,23 +7720,23 @@
       "newWordCount": 10,
       "newWords": [
         "umbusaldus",
-        "tabama"
+        "tähtsam"
       ],
       "phrases": [
         "umbusaldust avaldama",
         "tagasi astuma"
       ],
       "repeat": [
-        "trahv",
-        "omandiõigus",
-        "vahi all hoidma",
-        "ennetähtaegne",
+        "ühtne",
+        "pereliige",
+        "ühtne riik",
+        "asendusliige",
         "riigilaen",
-        "registrerim",
+        "sisepoliitika",
         "kohtuotsuse jõustumine",
         "surma korral",
         "keelduma",
-        "riigisaladus",
+        "suhtlema",
         "kestvalt võimetu olema",
         "Riigikogu erakorralised valimised"
       ],
@@ -7611,23 +7766,24 @@
       "newWordCount": 10,
       "newWords": [
         "asendama",
-        "tagasiastuma"
+        "umbusaldama"
       ],
       "phrases": [
-        "ametist tagasiastuma"
+        "kõige tähtsam",
+        "üle poole"
       ],
       "repeat": [
         "astuma",
-        "parlament",
-        "veendumuste pärast",
-        "peatumine",
-        "kandidaatide ülesseadmine",
+        "piinamine",
+        "usulised veendumused",
+        "ennetähtaegne",
+        "kahekolmandikuline enamus",
         "keelduma",
-        "riigisaladus",
+        "suhtlema",
         "kestvalt võimetu olema",
         "Riigikogu erakorralised valimised",
-        "põhiseaduse muutmist algatama",
-        "õigus hääletada",
+        "põhiseadusliku järelevalve kohus",
+        "seadusi välja kuulutama",
         "erakondlik"
       ],
       "characters": [],
@@ -7657,24 +7813,24 @@
       "newWordCount": 6,
       "newWords": [],
       "phrases": [
-        "kurjategijat tabama"
+        "riigieelarve täitmine"
       ],
       "repeat": [
-        "vajalik hulk",
-        "perekonnaelu",
+        "usutalitusel osalema",
+        "positsioon",
         "lähtuma",
-        "avalik pöördumine",
-        "asumine teise riigiametisse",
-        "armuandmine",
-        "põhiseaduse muutmist algatama",
-        "õigus hääletada",
+        "käskkiri",
+        "peatumine",
+        "sõjaväeline",
+        "põhiseadusliku järelevalve kohus",
+        "seadusi välja kuulutama",
         "erakondlik",
         "kuuluvus",
         "erakondlik kuuluvus",
-        "õiguslikku vastutust kandma",
+        "valimistulemusi välja kuulutama",
         "volikiri",
-        "seadusandlus",
-        "põhiseadusliku järelevalve kohus",
+        "sünnijärgne",
+        "pühalik tõotus",
         "Riigikogu koosseisu enamus"
       ],
       "characters": [],
@@ -7702,26 +7858,26 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "üldsäte",
-        "teovõimetus"
+        "ainus",
+        "usaldus"
       ],
       "phrases": [
         "muud ülesanded",
         "ülesandeid täitma"
       ],
       "repeat": [
-        "õhuruum",
-        "vastav olema",
+        "üldsäte",
+        "vahi all hoidma",
         "asutus",
-        "enne tähtaega",
+        "asumine teise riigiametisse",
+        "kandidaatide ülesseadmine",
         "erakondlik",
         "kuuluvus",
         "erakondlik kuuluvus",
-        "õiguslikku vastutust kandma",
+        "valimistulemusi välja kuulutama",
         "volikiri",
-        "seadusandlus",
-        "põhiseadusliku järelevalve kohus",
-        "Riigikogu koosseisu enamus"
+        "sünnijärgne",
+        "pühalik tõotus"
       ],
       "characters": [],
       "idea": "",
@@ -7758,10 +7914,10 @@
         "kehtetu",
         "kohaselt",
         "omavalitsuse asutus",
-        "diplomaatiline",
+        "enne tähtaega",
         "volikiri",
-        "seadusandlus",
-        "põhiseadusliku järelevalve kohus",
+        "sünnijärgne",
+        "pühalik tõotus",
         "Riigikogu koosseisu enamus",
         "seaduseelnõu",
         "välispoliitika",
@@ -7793,26 +7949,26 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "üldtunnustatud",
-        "tähtsam"
+        "autonoomia",
+        "ustavus"
       ],
       "phrases": [
         "kinnine istung",
         "Vabariigi Valitsuse istung"
       ],
       "repeat": [
-        "õigussüsteem",
-        "pereliige",
+        "üldtunnustatud",
+        "prokurör",
         "seaduse kohaselt",
-        "riigielu",
+        "diplomaatiline",
         "seaduseelnõu",
         "välispoliitika",
         "eriolukord",
         "sise",
         "algatama seaduseelnõu",
         "ellu viima",
-        "ühtne",
-        "sisepoliitika"
+        "abivajaja",
+        "tabama"
       ],
       "characters": [],
       "idea": "",
@@ -7839,25 +7995,25 @@
       "newWordCount": 10,
       "newWords": [
         "avaldamine",
-        "umbusaldama"
+        "usund"
       ],
       "phrases": [
-        "kõige tähtsam",
+        "Riigikogu korralised valimised",
         "Riigikogu valimised"
       ],
       "repeat": [
         "moodustama",
         "pöördumine",
         "halduskohus",
-        "riigikontrolör",
-        "ühtne",
-        "sisepoliitika",
-        "pühalik tõotus",
+        "riigielu",
+        "abivajaja",
+        "tabama",
+        "kurjategijat tabama",
         "viia ellu riigi sise- ja välispoliitikat",
         "rahvusvaheline suhtlemine",
-        "ühtne riik",
+        "õigus hääletada",
         "läbirääkimine",
-        "suhtlema"
+        "tagasiastuma"
       ],
       "characters": [],
       "idea": "",
@@ -7885,26 +8041,25 @@
       "newWordCount": 6,
       "newWords": [],
       "phrases": [
-        "Riigikogu korralised valimised",
-        "üldtunnustatud põhimõte"
+        "riigielu küsimus"
       ],
       "repeat": [
-        "kodakondsust vastu võtma",
+        "vajalik hulk",
         "korraline",
         "väljakuulutamine",
         "ühetaoline",
-        "seisukord",
-        "ametist vabastama",
+        "riigikontrolör",
+        "armuandmine",
         "rahvusvaheline suhtlemine",
-        "ühtne riik",
+        "õigus hääletada",
         "läbirääkimine",
-        "suhtlema",
+        "tagasiastuma",
+        "ametist tagasiastuma",
         "avalik hääletus",
-        "Vabariigi Valitsuse koosseis",
         "muudatus",
-        "sünnijärgne",
-        "riigieelarve täitmine",
-        "üle poole"
+        "teovõimetus",
+        "Vabariigi Valitsuse koosseis",
+        "õiguslikku vastutust kandma"
       ],
       "characters": [],
       "idea": "",
@@ -7931,25 +8086,25 @@
       "newWordCount": 10,
       "newWords": [
         "usaldusküsimus",
-        "usaldus"
+        "usuvabadus"
       ],
       "phrases": [
-        "riigielu küsimus",
+        "riiklik autasu",
         "vastu võtma"
       ],
       "repeat": [
         "erakorraline",
         "salajane",
         "otsene",
-        "sõjaseisukord",
+        "seisukord",
         "läbirääkimine",
-        "suhtlema",
+        "tagasiastuma",
+        "ametist tagasiastuma",
         "avalik hääletus",
-        "Vabariigi Valitsuse koosseis",
         "muudatus",
-        "sünnijärgne",
-        "riigieelarve täitmine",
-        "üle poole"
+        "teovõimetus",
+        "Vabariigi Valitsuse koosseis",
+        "õiguslikku vastutust kandma"
       ],
       "characters": [],
       "idea": "",
@@ -7976,8 +8131,8 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "abivajaja",
-        "ustavus"
+        "avalikkus",
+        "valija"
       ],
       "phrases": [
         "riigiametis olema"
@@ -7986,13 +8141,13 @@
         "volitus",
         "valimistulemus",
         "ametivanne",
-        "ametisse nimetama",
+        "sõjaseisukord",
         "muudatus",
-        "sünnijärgne",
-        "riigieelarve täitmine",
-        "üle poole",
+        "teovõimetus",
+        "Vabariigi Valitsuse koosseis",
+        "õiguslikku vastutust kandma",
         "umbusaldus",
-        "tabama",
+        "tähtsam",
         "umbusaldust avaldama",
         "tagasi astuma"
       ],
@@ -8021,26 +8176,26 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "ainus",
-        "usund"
+        "diplomaat",
+        "valitus"
       ],
       "phrases": [
-        "riiklik autasu",
-        "seadusi vastu võtma"
+        "salajane hääletus",
+        "Vabariigi Valituse määrus"
       ],
       "repeat": [
         "riigiamet",
         "mandaat",
         "organ",
-        "Eesti Pank",
+        "ametisse nimetama",
         "umbusaldus",
-        "tabama",
+        "tähtsam",
         "umbusaldust avaldama",
         "tagasi astuma",
         "asendama",
-        "tagasiastuma",
-        "ametist tagasiastuma",
-        "kurjategijat tabama"
+        "umbusaldama",
+        "kõige tähtsam",
+        "üle poole"
       ],
       "characters": [],
       "idea": "",
@@ -8066,25 +8221,26 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "autonoomia",
-        "usuvabadus"
+        "eelistama",
+        "vastane"
       ],
       "phrases": [
-        "salajane hääletus"
+        "seaduste avaldamine ettenähtud korras",
+        "üldiste huvide vastane"
       ],
       "repeat": [
         "taastumine",
         "riigikohus",
         "lõppemine",
-        "kokku kutsuma",
+        "Eesti Pank",
         "asendama",
-        "tagasiastuma",
-        "ametist tagasiastuma",
-        "kurjategijat tabama",
-        "üldsäte",
-        "teovõimetus",
-        "muud ülesanded",
-        "ülesandeid täitma"
+        "umbusaldama",
+        "kõige tähtsam",
+        "üle poole",
+        "riigieelarve täitmine",
+        "ainus",
+        "usaldus",
+        "muud ülesanded"
       ],
       "characters": [],
       "idea": "",
@@ -8114,25 +8270,25 @@
       "newWordCount": 6,
       "newWords": [],
       "phrases": [
-        "seaduste avaldamine ettenähtud korras"
+        "seaduseelnõu algatama"
       ],
       "repeat": [
-        "riigikaitse kõrgeim juht",
+        "kõrgeim kohus",
         "valimiste väljakuulutamine",
         "nõukogu",
         "autasu",
-        "valitsust moodustama",
-        "diplomaatiline esindaja",
-        "kurjategijat tabama",
-        "üldsäte",
-        "teovõimetus",
+        "kokku kutsuma",
+        "ametist vabastama",
+        "riigieelarve täitmine",
+        "ainus",
+        "usaldus",
         "muud ülesanded",
         "ülesandeid täitma",
         "sõnaõigus",
         "riigisekretär",
         "osa võtma",
         "vabastama ametist",
-        "üldtunnustatud"
+        "autonoomia"
       ],
       "characters": [],
       "idea": "",
@@ -8159,7 +8315,7 @@
       "newWordCount": 10,
       "newWords": [
         "kohtumenetlus",
-        "valija"
+        "viibimine"
       ],
       "phrases": [
         "erakorraline seisukord",
@@ -8169,9 +8325,9 @@
         "peaminister",
         "esimees",
         "aruanne",
-        "Riigikogu esimees",
-        "üldsäte",
-        "teovõimetus",
+        "valitsust moodustama",
+        "ainus",
+        "usaldus",
         "muud ülesanded",
         "ülesandeid täitma",
         "sõnaõigus",
@@ -8203,8 +8359,8 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "avalikkus",
-        "valitus"
+        "eelkõige",
+        "võrdsus"
       ],
       "phrases": [
         "kohustuslik olema",
@@ -8212,15 +8368,15 @@
       ],
       "repeat": [
         "deklaratsioon",
-        "piinamine",
+        "rahumeelne",
         "aruannet kinnitama",
-        "viiendik Riigikogu koosseisust",
+        "Riigikogu esimees",
         "sõnaõigus",
         "riigisekretär",
         "osa võtma",
         "vabastama ametist",
-        "üldtunnustatud",
-        "tähtsam",
+        "autonoomia",
+        "ustavus",
         "kinnine istung",
         "Vabariigi Valitsuse istung"
       ],
@@ -8249,26 +8405,26 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "diplomaat",
-        "vastane"
+        "elanikkond",
+        "võrdõiguslikkus"
       ],
       "phrases": [
-        "seaduseelnõu algatama",
+        "seaduslik viibimine",
         "välja kuulutama"
       ],
       "repeat": [
         "istungjärk",
-        "positsioon",
+        "redaktsioon",
         "korraline istungjärk",
-        "moodustamise kord",
+        "valima kellegi hulgast",
         "umbusaldust avaldama",
-        "üldtunnustatud",
-        "tähtsam",
+        "autonoomia",
+        "ustavus",
         "kinnine istung",
         "Vabariigi Valitsuse istung",
         "avaldamine",
-        "umbusaldama",
-        "kõige tähtsam"
+        "usund",
+        "Riigikogu korralised valimised"
       ],
       "characters": [],
       "idea": "",
@@ -8295,26 +8451,25 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "eelistama",
-        "viibimine"
+        "elukeskkond",
+        "õigustama"
       ],
       "phrases": [
-        "seaduslik viibimine",
-        "üldiste huvide vastane"
+        "sisse seadma"
       ],
       "repeat": [
         "viiendik",
-        "prokurör",
+        "referendum",
         "erakorraline istungjärk",
-        "volitusi andma",
+        "moodustamise kord",
         "tagasi astuma",
         "avaldamine",
-        "umbusaldama",
-        "kõige tähtsam",
-        "Riigikogu valimised",
+        "usund",
         "Riigikogu korralised valimised",
-        "üldtunnustatud põhimõte",
-        "usaldusküsimus"
+        "Riigikogu valimised",
+        "riigielu küsimus",
+        "usaldusküsimus",
+        "usuvabadus"
       ],
       "characters": [],
       "idea": "",
@@ -8342,25 +8497,25 @@
       "newWordCount": 6,
       "newWords": [],
       "phrases": [
-        "sisse seadma"
+        "sünnijärgne kodakondsus"
       ],
       "repeat": [
-        "kõrgeim kohus",
+        "peaministri kandidaati määrama",
         "varaliste kohustuste võtmine",
         "hulgast",
         "Riigikogu liige",
-        "volituste lõppemine",
-        "hääletusvoor",
-        "Riigikogu korralised valimised",
-        "üldtunnustatud põhimõte",
-        "usaldusküsimus",
-        "usaldus",
+        "seadusi vastu võtma",
+        "diplomaatiline esindaja",
         "riigielu küsimus",
+        "usaldusküsimus",
+        "usuvabadus",
+        "riiklik autasu",
         "vastu võtma",
-        "abivajaja",
-        "ustavus",
+        "avalikkus",
+        "valija",
         "riigiametis olema",
-        "ainus"
+        "diplomaat",
+        "valitus"
       ],
       "characters": [],
       "idea": "",
@@ -8386,24 +8541,24 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "eelkõige",
-        "võrdsus"
+        "eralelu",
+        "õigusvastane"
       ],
       "phrases": [
-        "sünnijärgne kodakondsus"
+        "kellegi eralellu sekkuma"
       ],
       "repeat": [
         "kodukord",
         "töökord",
         "kodukorra seadus",
-        "Eesti Panga president",
+        "viiendik Riigikogu koosseisust",
         "asendama",
         "usaldusküsimus",
-        "usaldus",
-        "riigielu küsimus",
+        "usuvabadus",
+        "riiklik autasu",
         "vastu võtma",
-        "abivajaja",
-        "ustavus",
+        "avalikkus",
+        "valija",
         "riigiametis olema"
       ],
       "characters": [],
@@ -8431,25 +8586,26 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "elanikkond",
-        "võrdõiguslikkus"
+        "erapooletu",
+        "äranägemine"
       ],
       "phrases": [
-        "volituste taastumine"
+        "erapooletu olema",
+        "äranägemise järgi"
       ],
       "repeat": [
         "otsustusvõimelisus",
-        "rahumeelne",
-        "peaministri kandidaati määrama",
-        "kriminaalvastutusele võtma",
-        "tagasiastuma",
-        "abivajaja",
-        "ustavus",
+        "registrerim",
+        "olulised riigielu küsimused",
+        "Eesti Panga president",
+        "umbusaldama",
+        "avalikkus",
+        "valija",
         "riigiametis olema",
-        "ainus",
-        "usund",
-        "riiklik autasu",
-        "seadusi vastu võtma"
+        "diplomaat",
+        "valitus",
+        "salajane hääletus",
+        "Vabariigi Valituse määrus"
       ],
       "characters": [],
       "idea": "",
@@ -8477,7 +8633,7 @@
       "newWordCount": 10,
       "newWords": [
         "kulu",
-        "õigustama"
+        "ülalpeetav"
       ],
       "phrases": [
         "kulude hüvitamine",
@@ -8487,15 +8643,15 @@
         "moodustamine",
         "fraktsioon",
         "ühinema",
-        "seadlus",
-        "ametist tagasiastuma",
-        "ainus",
-        "usund",
-        "riiklik autasu",
-        "seadusi vastu võtma",
-        "autonoomia",
-        "usuvabadus",
-        "salajane hääletus"
+        "kriminaalvastutusele võtma",
+        "kõige tähtsam",
+        "diplomaat",
+        "valitus",
+        "salajane hääletus",
+        "Vabariigi Valituse määrus",
+        "eelistama",
+        "vastane",
+        "seaduste avaldamine ettenähtud korras"
       ],
       "characters": [],
       "idea": "",
@@ -8522,25 +8678,25 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "elukeskkond",
-        "õigusvastane"
+        "föderatiivne",
+        "üldjoon"
       ],
       "phrases": [
-        "tagasi kutsuma"
+        "volituste taastumine"
       ],
       "repeat": [
         "häälteenamus",
         "kahekolmandikuline",
         "avalik istung",
-        "suhtlemine",
-        "kurjategijat tabama",
-        "autonoomia",
-        "usuvabadus",
-        "salajane hääletus",
+        "seadlus",
+        "üle poole",
+        "Riigikogu valimised",
+        "eelistama",
+        "vastane",
         "seaduste avaldamine ettenähtud korras",
-        "kohtumenetlus",
-        "valija",
-        "erakorraline seisukord"
+        "üldiste huvide vastane",
+        "seaduseelnõu algatama",
+        "kohtumenetlus"
       ],
       "characters": [],
       "idea": "",
@@ -8568,23 +8724,23 @@
       "newWordCount": 6,
       "newWords": [],
       "phrases": [
-        "täidesaatev riigivõim"
+        "tagasi kutsuma"
       ],
       "repeat": [
-        "olulised riigielu küsimused",
-        "volituste peatumine",
+        "peaministri kandidaat",
+        "volitusi andma",
         "poolthääl",
         "Eesti Panga nõukogu",
-        "agressioon",
-        "kahekolmandikuline enamus",
-        "avaldamine",
-        "seaduste avaldamine ettenähtud korras",
+        "suhtlemine",
+        "hääletusvoor",
+        "Vabariigi Valitsuse istung",
+        "seaduseelnõu algatama",
         "kohtumenetlus",
-        "valija",
+        "viibimine",
         "erakorraline seisukord",
         "Riigikogu liikme tasu",
-        "avalikkus",
-        "valitus",
+        "eelkõige",
+        "võrdsus",
         "kohustuslik olema",
         "poolthäälte enamus"
       ],
@@ -8624,15 +8780,15 @@
         "enamus",
         "akt",
         "arupärimine",
-        "auaste",
-        "üldsäte",
-        "Riigikogu korralised valimised",
+        "agressioon",
+        "riigieelarve täitmine",
+        "riigielu küsimus",
         "kohtumenetlus",
-        "valija",
+        "viibimine",
         "erakorraline seisukord",
         "Riigikogu liikme tasu",
-        "avalikkus",
-        "valitus"
+        "eelkõige",
+        "võrdsus"
       ],
       "characters": [],
       "idea": "",
@@ -8659,26 +8815,25 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "eralelu",
-        "äranägemine"
+        "hümn",
+        "üldjuht"
       ],
       "phrases": [
-        "Riigikogu akt",
-        "äranägemise järgi"
+        "Riigikogu akt"
       ],
       "repeat": [
         "töötulu",
-        "redaktsioon",
+        "riigisaladus",
         "koosseisu enamus",
-        "esindama",
-        "teovõimetus",
-        "üldtunnustatud põhimõte",
-        "avalikkus",
-        "valitus",
+        "auaste",
+        "ainus",
+        "usaldusküsimus",
+        "eelkõige",
+        "võrdsus",
         "kohustuslik olema",
         "poolthäälte enamus",
-        "diplomaat",
-        "vastane"
+        "elanikkond",
+        "võrdõiguslikkus"
       ],
       "characters": [],
       "idea": "",
@@ -8705,26 +8860,26 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "erapooletu",
-        "ülalpeetav"
+        "iseloomustama",
+        "ülemjuhataja"
       ],
       "phrases": [
-        "erapooletu olema",
-        "kõrgeim juht"
+        "kõrgeim juht",
+        "riigikaitse kõrgeim juht"
       ],
       "repeat": [
         "algatama",
         "demobilisatsioon",
         "mobilisatsioon",
-        "sõjaväeline",
-        "muud ülesanded",
-        "usaldusküsimus",
-        "diplomaat",
-        "vastane",
-        "seaduseelnõu algatama",
+        "esindama",
+        "usaldus",
+        "usuvabadus",
+        "elanikkond",
+        "võrdõiguslikkus",
+        "seaduslik viibimine",
         "välja kuulutama",
-        "eelistama",
-        "viibimine"
+        "elukeskkond",
+        "õigustama"
       ],
       "characters": [],
       "idea": "",
@@ -8751,8 +8906,7 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "kaitsevägi",
-        "üldjoon"
+        "kaitsevägi"
       ],
       "phrases": [
         "kaitseväe juhataja"
@@ -8762,14 +8916,14 @@
         "hääletus",
         "seadma",
         "ülesseadmine",
-        "ülesandeid täitma",
-        "usaldus",
-        "salajane hääletus",
-        "eelistama",
-        "viibimine",
-        "seaduslik viibimine",
+        "muud ülesanded",
+        "riiklik autasu",
         "üldiste huvide vastane",
-        "sisse seadma"
+        "elukeskkond",
+        "õigustama",
+        "sisse seadma",
+        "sünnijärgne kodakondsus",
+        "eralelu"
       ],
       "characters": [],
       "idea": "",
@@ -8797,25 +8951,25 @@
       "newWordCount": 6,
       "newWords": [],
       "phrases": [
-        "kellegi eralellu sekkuma"
+        "täidesaatev riigivõim"
       ],
       "repeat": [
-        "peaministri kandidaat",
-        "seadusi välja kuulutama",
         "põhimõtte alusel",
+        "volituste lõppemine",
+        "põhiseaduse muutmist algatama",
         "Eesti rahvas",
         "surma korral",
-        "üle poole",
-        "umbusaldama",
-        "seadusi vastu võtma",
-        "seaduste avaldamine ettenähtud korras",
-        "sisse seadma",
-        "eelkõige",
-        "võrdsus",
+        "õiguslikku vastutust kandma",
+        "avaldamine",
+        "eelistama",
+        "seaduseelnõu algatama",
         "sünnijärgne kodakondsus",
-        "elanikkond",
-        "võrdõiguslikkus",
-        "volituste taastumine"
+        "eralelu",
+        "õigusvastane",
+        "kellegi eralellu sekkuma",
+        "erapooletu",
+        "äranägemine",
+        "erapooletu olema"
       ],
       "characters": [],
       "idea": "",
@@ -8842,25 +8996,24 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "föderatiivne",
-        "üldjuht"
+        "juhtkond"
       ],
       "phrases": [
-        "töökorra seadus"
+        "kaitseväe juhtkond"
       ],
       "repeat": [
         "ametiaeg",
-        "referendum",
-        "valimistulemusi välja kuulutama",
+        "seadusandlus",
+        "volituste peatumine",
         "Riigikogu erakorralised valimised",
-        "sõnaõigus",
-        "riigielu küsimus",
+        "ülesandeid täitma",
+        "vastu võtma",
         "kohtumenetlus",
-        "eelkõige",
-        "võrdsus",
-        "sünnijärgne kodakondsus",
-        "elanikkond",
-        "võrdõiguslikkus"
+        "eralelu",
+        "õigusvastane",
+        "kellegi eralellu sekkuma",
+        "erapooletu",
+        "äranägemine"
       ],
       "characters": [],
       "idea": "",
@@ -8887,8 +9040,7 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "hümn",
-        "ülemjuhataja"
+        "järjepidavus"
       ],
       "phrases": [
         "tegevuses sõltumatu olema",
@@ -8899,14 +9051,14 @@
         "pühalik",
         "ametisse astuma",
         "sise",
-        "riigisekretär",
-        "vastu võtma",
-        "valija",
-        "elanikkond",
-        "võrdõiguslikkus",
-        "volituste taastumine",
-        "kulu",
-        "õigustama"
+        "sõnaõigus",
+        "avalikkus",
+        "viibimine",
+        "erapooletu",
+        "äranägemine",
+        "erapooletu olema",
+        "äranägemise järgi",
+        "kulu"
       ],
       "characters": [],
       "idea": "",
@@ -8941,17 +9093,17 @@
       ],
       "repeat": [
         "riigilaen",
-        "registrerim",
+        "sisepoliitika",
         "kohtuotsuse jõustumine",
         "algatama seaduseelnõu",
-        "osa võtma",
-        "abivajaja",
+        "riigisekretär",
+        "valija",
         "erakorraline seisukord",
         "kulu",
-        "õigustama",
+        "ülalpeetav",
         "kulude hüvitamine",
         "riigieelarve eelnõu",
-        "elukeskkond"
+        "föderatiivne"
       ],
       "characters": [],
       "idea": "",
@@ -8988,17 +9140,17 @@
       ],
       "repeat": [
         "keelduma",
-        "riigisaladus",
+        "suhtlema",
         "kestvalt võimetu olema",
         "ellu viima",
-        "vabastama ametist",
-        "ustavus",
+        "osa võtma",
+        "riigiametis olema",
         "Riigikogu liikme tasu",
-        "eelistama",
         "elukeskkond",
-        "õigusvastane",
-        "tagasi kutsuma",
-        "täidesaatev riigivõim"
+        "föderatiivne",
+        "üldjoon",
+        "volituste taastumine",
+        "tagasi kutsuma"
       ],
       "characters": [],
       "idea": "",
@@ -9026,25 +9178,25 @@
       "newWordCount": 6,
       "newWords": [],
       "phrases": [
-        "ustavaks jääma"
+        "töökorra seadus"
       ],
       "repeat": [
-        "põhiseaduse muutmist algatama",
-        "õigus hääletada",
+        "põhiseadusliku järelevalve kohus",
+        "seadusi välja kuulutama",
         "erakondlik kuuluvus",
         "Riigikogu koosseisu enamus",
         "viia ellu riigi sise- ja välispoliitikat",
         "umbusaldus",
-        "kõige tähtsam",
-        "autonoomia",
-        "avalikkus",
-        "seaduseelnõu algatama",
-        "täidesaatev riigivõim",
+        "usund",
+        "vastane",
+        "eelkõige",
+        "seaduslik viibimine",
+        "tagasi kutsuma",
         "ratifitseerima",
         "denonsseerima",
         "ette nägema",
         "rahvusvahelised organisatsioonid",
-        "eralelu"
+        "hümn"
       ],
       "characters": [],
       "idea": "",
@@ -9083,13 +9235,13 @@
       "repeat": [
         "erakondlik",
         "kuuluvus",
-        "õiguslikku vastutust kandma",
-        "avalik hääletus",
-        "üldtunnustatud",
-        "riigiametis olema",
-        "valitus",
-        "viibimine",
+        "valimistulemusi välja kuulutama",
+        "ametist tagasiastuma",
+        "vabastama ametist",
+        "diplomaat",
         "võrdsus",
+        "õigustama",
+        "kellegi eralellu sekkuma",
         "ratifitseerima",
         "denonsseerima",
         "ette nägema"
@@ -9120,23 +9272,23 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "iseloomustama"
+        "kauaks"
       ],
       "phrases": [
-        "ustavus põhiseaduslikule korrale"
+        "kui kauaks?"
       ],
       "repeat": [
         "volikiri",
-        "seadusandlus",
-        "põhiseadusliku järelevalve kohus",
-        "Vabariigi Valitsuse koosseis",
-        "tähtsam",
-        "ainus",
+        "sünnijärgne",
+        "pühalik tõotus",
+        "avalik hääletus",
+        "autonoomia",
+        "valitus",
         "kohustuslik olema",
-        "seaduslik viibimine",
-        "sünnijärgne kodakondsus",
-        "eralelu",
-        "äranägemine",
+        "sisse seadma",
+        "erapooletu",
+        "hümn",
+        "üldjuht",
         "Riigikogu akt"
       ],
       "characters": [],
@@ -9164,10 +9316,9 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "juhtkond"
+        "kogunemine"
       ],
       "phrases": [
-        "kaitseväe juhtkond",
         "kehtetuks tunnistama"
       ],
       "repeat": [
@@ -9175,14 +9326,14 @@
         "välispoliitika",
         "eriolukord",
         "muudatus",
-        "kinnine istung",
-        "usund",
+        "ustavus",
+        "salajane hääletus",
         "poolthäälte enamus",
-        "üldiste huvide vastane",
-        "elanikkond",
+        "sünnijärgne kodakondsus",
+        "äranägemine",
         "kulu",
-        "erapooletu",
-        "ülalpeetav"
+        "iseloomustama",
+        "ülemjuhataja"
       ],
       "characters": [],
       "idea": "",
@@ -9209,24 +9360,24 @@
       ],
       "newWordCount": 10,
       "newWords": [
-        "järjepidavus"
+        "kohtuprotsess"
       ],
       "phrases": [
-        "Vabariigi Valituse määrus"
+        "ustavaks jääma"
       ],
       "repeat": [
-        "ühtne",
-        "sisepoliitika",
-        "pühalik tõotus",
-        "sünnijärgne",
-        "Vabariigi Valitsuse istung",
-        "riiklik autasu",
-        "diplomaat",
-        "sisse seadma",
-        "võrdõiguslikkus",
-        "õigustama",
-        "elukeskkond",
-        "tagasi kutsuma"
+        "abivajaja",
+        "tabama",
+        "kurjategijat tabama",
+        "teovõimetus",
+        "kinnine istung",
+        "Vabariigi Valituse määrus",
+        "elanikkond",
+        "eralelu",
+        "erapooletu olema",
+        "ülalpeetav",
+        "föderatiivne",
+        "volituste taastumine"
       ],
       "characters": [],
       "idea": "",
@@ -9255,25 +9406,25 @@
       "newWordCount": 6,
       "newWords": [],
       "phrases": [
-        "valima kellegi hulgast"
+        "ustavus põhiseaduslikule korrale"
       ],
       "repeat": [
         "rahvusvaheline suhtlemine",
-        "ühtne riik",
+        "õigus hääletada",
         "läbirääkimine",
-        "suhtlema",
-        "riigieelarve täitmine",
-        "tabama",
-        "Riigikogu valimised",
-        "usuvabadus",
-        "vastane",
+        "tagasiastuma",
+        "Vabariigi Valitsuse koosseis",
+        "tähtsam",
+        "Riigikogu korralised valimised",
+        "seaduste avaldamine ettenähtud korras",
+        "võrdõiguslikkus",
         "välja kuulutama",
-        "eelkõige",
-        "volituste taastumine",
+        "õigusvastane",
+        "äranägemise järgi",
         "kulude hüvitamine",
         "riigieelarve eelnõu",
-        "õigusvastane",
-        "täidesaatev riigivõim"
+        "üldjoon",
+        "tagasi kutsuma"
       ],
       "characters": [],
       "idea": "",
@@ -9959,13 +10110,13 @@
         "Eesti Panga nõukogu",
         "suhtlemine",
         "seadma",
-        "üle poole",
-        "teovõimetus",
-        "Vabariigi Valitsuse istung",
+        "õiguslikku vastutust kandma",
+        "ainus",
+        "kinnine istung",
         "vastu võtma",
-        "salajane hääletus",
-        "diplomaat",
-        "võrdsus"
+        "seaduste avaldamine ettenähtud korras",
+        "poolthäälte enamus",
+        "õigusvastane"
       ],
       "characters": [],
       "idea": "",
@@ -10003,19 +10154,19 @@
         "nimetamine",
         "esimees",
         "Eesti Pank",
-        "prokurör",
+        "referendum",
         "otsustusvõimelisus",
         "kahekolmandikuline",
         "Eesti Panga president",
         "agressioon",
         "ülesseadmine",
         "umbusaldus",
-        "muud ülesanded",
-        "avaldamine",
-        "abivajaja",
-        "seaduste avaldamine ettenähtud korras",
-        "vastane",
-        "sünnijärgne kodakondsus"
+        "usaldus",
+        "Vabariigi Valitsuse istung",
+        "avalikkus",
+        "üldiste huvide vastane",
+        "elanikkond",
+        "kellegi eralellu sekkuma"
       ],
       "characters": [],
       "idea": "",
@@ -10054,18 +10205,18 @@
         "nõukogu",
         "deklaratsioon",
         "erakorraline istungjärk",
-        "rahumeelne",
+        "registrerim",
         "avalik istung",
         "töötulu",
         "auaste",
         "hääletusvoor",
-        "tabama",
-        "ülesandeid täitma",
-        "umbusaldama",
-        "ustavus",
-        "kohtumenetlus",
+        "tähtsam",
+        "muud ülesanded",
+        "avaldamine",
+        "valija",
         "seaduseelnõu algatama",
-        "elanikkond"
+        "võrdõiguslikkus",
+        "erapooletu"
       ],
       "characters": [],
       "idea": "",
@@ -10102,20 +10253,20 @@
         "organ",
         "asendusliige",
         "aruanne",
-        "piinamine",
+        "rahumeelne",
         "Riigikogu esimees",
-        "peaministri kandidaati määrama",
-        "volituste lõppemine",
-        "redaktsioon",
+        "olulised riigielu küsimused",
+        "viiendik Riigikogu koosseisust",
+        "riigisaladus",
         "esindama",
         "kahekolmandikuline enamus",
         "umbusaldust avaldama",
-        "sõnaõigus",
-        "kõige tähtsam",
+        "ülesandeid täitma",
+        "usund",
         "riigiametis olema",
-        "valija",
-        "välja kuulutama",
-        "võrdõiguslikkus"
+        "kohtumenetlus",
+        "seaduslik viibimine",
+        "äranägemine"
       ],
       "characters": [],
       "idea": "",
@@ -10153,19 +10304,19 @@
         "ennetähtaegne",
         "autasu",
         "aruannet kinnitama",
-        "kõrgeim kohus",
-        "viiendik Riigikogu koosseisust",
-        "olulised riigielu küsimused",
+        "peaministri kandidaati määrama",
+        "valima kellegi hulgast",
+        "peaministri kandidaat",
         "koosseisu enamus",
         "sõjaväeline",
         "kandidaatide ülesseadmine",
         "tagasi astuma",
-        "riigisekretär",
-        "Riigikogu valimised",
-        "ainus",
-        "erakorraline seisukord",
-        "eelistama",
-        "volituste taastumine"
+        "sõnaõigus",
+        "Riigikogu korralised valimised",
+        "diplomaat",
+        "viibimine",
+        "välja kuulutama",
+        "erapooletu olema"
       ],
       "characters": [],
       "idea": "",
@@ -10205,17 +10356,17 @@
         "kokku kutsuma",
         "varaliste kohustuste võtmine",
         "moodustamine",
-        "volituste peatumine",
+        "volitusi andma",
         "kriminaalvastutusele võtma",
         "armuandmine",
-        "peaministri kandidaat",
+        "põhimõtte alusel",
         "asendama",
-        "osa võtma",
-        "Riigikogu korralised valimised",
-        "usund",
-        "Riigikogu liikme tasu",
-        "viibimine",
-        "kulu"
+        "riigisekretär",
+        "Riigikogu valimised",
+        "valitus",
+        "erakorraline seisukord",
+        "elukeskkond",
+        "äranägemise järgi"
       ],
       "characters": [],
       "idea": "",
@@ -10258,14 +10409,14 @@
         "enamus",
         "algatama",
         "ametist vabastama",
-        "seadusi välja kuulutama",
-        "tagasiastuma",
-        "vabastama ametist",
-        "üldtunnustatud põhimõte",
-        "riiklik autasu",
-        "avalikkus",
-        "seaduslik viibimine",
-        "õigustama"
+        "volituste lõppemine",
+        "umbusaldama",
+        "osa võtma",
+        "riigielu küsimus",
+        "salajane hääletus",
+        "Riigikogu liikme tasu",
+        "õigustama",
+        "kulu"
       ],
       "characters": [],
       "idea": "",
@@ -10302,20 +10453,20 @@
         "taastumine",
         "enne tähtaega",
         "riigikontrolör",
-        "positsioon",
+        "redaktsioon",
         "töökord",
         "ühinema",
         "akt",
         "demobilisatsioon",
         "diplomaatiline esindaja",
         "muudatus",
-        "ametist tagasiastuma",
-        "üldtunnustatud",
+        "kõige tähtsam",
+        "vabastama ametist",
         "usaldusküsimus",
-        "seadusi vastu võtma",
-        "valitus",
-        "üldiste huvide vastane",
-        "kulude hüvitamine"
+        "Vabariigi Valituse määrus",
+        "eelkõige",
+        "sisse seadma",
+        "ülalpeetav"
       ],
       "characters": [],
       "idea": "",
@@ -10350,7 +10501,7 @@
         "väljakuulutamine",
         "ametivanne",
         "riigikohus",
-        "riigikaitse kõrgeim juht",
+        "kõrgeim kohus",
         "seisukord",
         "korraline istungjärk",
         "hulgast",
@@ -10358,14 +10509,14 @@
         "poolthääl",
         "mobilisatsioon",
         "hääletama",
-        "sünnijärgne",
-        "kurjategijat tabama",
-        "tähtsam",
-        "usaldus",
+        "teovõimetus",
+        "üle poole",
         "autonoomia",
-        "kohustuslik olema",
-        "sisse seadma",
-        "riigieelarve eelnõu"
+        "usuvabadus",
+        "eelistama",
+        "võrdsus",
+        "sünnijärgne kodakondsus",
+        "kulude hüvitamine"
       ],
       "characters": [],
       "idea": "",
@@ -10403,18 +10554,18 @@
         "sõjaseisukord",
         "valitsust moodustama",
         "kodukorra seadus",
-        "volitusi andma",
+        "seadusi vastu võtma",
         "arupärimine",
         "seadlus",
         "hääletus",
+        "Vabariigi Valitsuse koosseis",
         "riigieelarve täitmine",
-        "üldsäte",
-        "kinnine istung",
-        "riigielu küsimus",
-        "usuvabadus",
-        "poolthäälte enamus",
-        "eelkõige",
-        "elukeskkond"
+        "ustavus",
+        "riiklik autasu",
+        "vastane",
+        "kohustuslik olema",
+        "eralelu",
+        "riigieelarve eelnõu"
       ],
       "characters": [],
       "idea": "",
@@ -10454,20 +10605,20 @@
         "noorus",
         "vabastamine",
         "minister",
-        "hääleõigus",
-        "esimene kohtuaste",
+        "piiramine",
+        "kodakondsuse seadus",
         "kirjalik",
         "legaalne püsiv sissetulek",
         "stipendium",
         "seaduse alusel makstavad toetused",
-        "õiguste piiramine",
+        "südametunnistuse vabadus",
         "koosseis",
         "vastavalt põhiseadusele",
         "kodakondsuse andmise otsustamine",
-        "üksus",
-        "piiratud olema",
-        "kodakondsuse taastamise otsustamine",
-        "ustav olema"
+        "jagamatu",
+        "kinnipidamiskoht",
+        "vabastatud olema",
+        "õhuruum"
       ],
       "characters": [],
       "idea": "",
@@ -10504,22 +10655,22 @@
         "pikaajaline",
         "Eesti Vabariigi põhiseadus",
         "taastamine",
-        "kauaks",
+        "koosesis",
         "tähtaeg",
-        "kogunemine",
-        "kodakondsuse seadus",
+        "kritiseerima",
+        "Vabariigi Valitsuse määrus",
         "kirjalikku nõuet esitama",
         "registreeritud elukoht",
         "äritegevus",
         "välja selgitama",
-        "teine kohtuaste",
+        "sünnilt Eesti kodanik",
         "pädevus",
         "teene",
         "vabastama kodakondsusest",
-        "kättesaadavus",
-        "aegumatu",
-        "vabastatud olema",
-        "osavõtt"
+        "läbiotsimine",
+        "meelevaldne",
+        "tervik",
+        "parlament"
       ],
       "characters": [],
       "idea": "",
@@ -10558,7 +10709,7 @@
         "taastama",
         "kodakondsusest vabastamine",
         "esindaja",
-        "hääleõigust saama",
+        "lojaalne olema",
         "loobuma",
         "kodakondsuse andmine",
         "tulu",
@@ -10566,12 +10717,12 @@
         "kinnitama",
         "vabastama",
         "seotud",
-        "kritiseerima",
+        "lapsendatud",
         "kodakondsuse saamine eriliste teenete eest",
-        "käsitlema kuriteos süüdi olevana",
-        "lojaalsus",
-        "jagamatu",
-        "menetlema"
+        "püsivalt elama",
+        "kuriteos süüdi mõistma",
+        "moodus",
+        "teine kohtuaste"
       ],
       "characters": [],
       "idea": "",
@@ -10610,7 +10761,7 @@
         "jõustumine",
         "omandama kodakondsust",
         "loobumine",
-        "ära võtma",
+        "üldistes huvides olema",
         "kodakondsustunnistus",
         "alaline",
         "toetus",
@@ -10619,11 +10770,11 @@
         "riigieelarve",
         "koordineerima",
         "eriline teene",
-        "tõkestama",
-        "püsivalt elama",
-        "pädevusse kuuluma",
-        "maakohus",
-        "osavõtt hääletamisest"
+        "haldusjaotus",
+        "piiratud",
+        "kuriteos süüdi olema",
+        "osavõtt hääletamisest",
+        "Vabariigi Valitsuse korraldus"
       ],
       "characters": [],
       "idea": "",
@@ -10662,20 +10813,20 @@
         "kaotamine",
         "määrus",
         "sõjavägi",
-        "kui kauaks?",
-        "lojaalne olema",
+        "õiguste piiramine",
+        "käsitlema kuriteos süüdi olevana",
         "legaalne",
         "elatis",
         "koostama",
-        "sünnilt Eesti kodanik",
+        "säästlikult kasutama",
         "läbima",
         "põhiõigus",
         "kohaldamata jätma",
-        "käsitlema",
-        "piiratud",
-        "tsensuuri läbima",
-        "tulu saama",
-        "Vabariigi Valitsuse korraldus"
+        "lojaalsus",
+        "maakohus",
+        "osavõtt",
+        "trahv",
+        "tsensuuri läbima"
       ],
       "characters": [],
       "idea": "",
@@ -10714,20 +10865,20 @@
         "kodakondsuse kaotamine",
         "esitama",
         "kodakondsuse taastamine",
-        "kohtuaste",
+        "üksus",
         "loobuma kodakondsusest",
         "elamisõigus",
         "makstav",
         "keeleseadus",
-        "piiramine",
+        "aegumatu",
         "seadusi täitma",
         "riigikord",
         "otsustamine",
-        "kuritegu tõkestama",
-        "lapsendatud",
-        "haldusjaotus",
-        "kinnipidamiskoht",
-        "usulised veendumused"
+        "lapsendatud laps",
+        "piiratud olema",
+        "menetlema",
+        "omandiõigus",
+        "valeandmed"
       ],
       "characters": [],
       "idea": "",
@@ -10766,20 +10917,20 @@
         "kodakondsuse saamine",
         "kehtestama",
         "kodakondsusest loobumine",
-        "kohtuprotsess",
+        "käsitlema",
         "valitsusasutus",
         "alaline elamisõigus",
         "saadav",
         "selgitama",
-        "koosesis",
+        "kättesaadavus",
         "tingimused ning kord",
-        "Vabariigi Valitsuse määrus",
+        "pädevusse kuuluma",
         "vabastatud",
         "pikaajalise elaniku elamisluba",
-        "lapsendatud laps",
-        "läbiotsimine",
-        "meelevaldne",
-        "valeandmed"
+        "ära võtma",
+        "kodakondsuse taastamise otsustamine",
+        "omandiõiguse seadus",
+        "sõjaväelane"
       ],
       "characters": [],
       "idea": "",

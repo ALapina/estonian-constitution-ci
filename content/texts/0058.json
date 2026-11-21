@@ -1,0 +1,2249 @@
+{
+  "id": "0058",
+  "slot": "s058",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Kellele jääb korter?",
+  "law": [
+    "ps-32-lg3",
+    "ps-32-lg4"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Teisipäeva õhtul, 12. jaanuaril, mängisid Nikolai ja Lisa köögis lauamängu, kus mängijad ostavad maju ja tänavaid.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Teisipäeva",
+          "l": "teisipäev",
+          "p": "S",
+          "parts": [
+            "teine",
+            "päev"
+          ]
+        },
+        {
+          "f": "õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "12.",
+          "l": "12.",
+          "p": "O"
+        },
+        {
+          "f": "jaanuaril",
+          "l": "jaanuar",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mängisid",
+          "l": "mängima",
+          "p": "V"
+        },
+        {
+          "f": "Nikolai",
+          "l": "Nikolai",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "köögis",
+          "l": "köök",
+          "p": "S"
+        },
+        {
+          "f": "lauamängu",
+          "l": "lauamäng",
+          "p": "S",
+          "parts": [
+            "laud",
+            "mäng"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kus",
+          "l": "kus",
+          "p": "D"
+        },
+        {
+          "f": "mängijad",
+          "l": "mängija",
+          "p": "S"
+        },
+        {
+          "f": "ostavad",
+          "l": "ostma",
+          "p": "V"
+        },
+        {
+          "f": "maju",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tänavaid",
+          "l": "tänav",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa ostis peaaegu kogu linna ja võitis.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "ostis",
+          "l": "ostma",
+          "p": "V"
+        },
+        {
+          "f": "peaaegu",
+          "l": "peaaegu",
+          "p": "D",
+          "parts": [
+            "pea",
+            "aegu"
+          ]
+        },
+        {
+          "f": "kogu",
+          "l": "kogu",
+          "p": "A"
+        },
+        {
+          "f": "linna",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "võitis",
+          "l": "võitma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Mängus on kõik lihtne. Aga elus tuleb vanadus. Ma olen kuuskümmend kaheksa ja mõtlen tihti oma vanadusele.“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mängus",
+          "l": "mäng",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "lihtne",
+          "l": "lihtne",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "elus",
+          "l": "elu",
+          "p": "S"
+        },
+        {
+          "f": "tuleb",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "vanadus",
+          "l": "vanadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kuuskümmend",
+          "l": "kuuskümmend",
+          "p": "N",
+          "parts": [
+            "kuus",
+            "kümmend"
+          ]
+        },
+        {
+          "f": "kaheksa",
+          "l": "kaheksa",
+          "p": "N"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "mõtlen",
+          "l": "mõtlema",
+          "p": "V"
+        },
+        {
+          "f": "tihti",
+          "l": "tihti",
+          "p": "D"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "vanadusele",
+          "l": "vanadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Vanaisa, sa oled veel noor!“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vanaisa",
+          "l": "vanaisa",
+          "p": "S",
+          "parts": [
+            "vana",
+            "isa"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "oled",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "noor",
+          "l": "noor",
+          "p": "A"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Vanadus tuleb kõigile ja selles ei ole keegi süüdi. Ma tean juba, mis saab minu korterist. Kunagi oli see korter riiklik, nüüd on see minu oma. Kui mind enam ei ole, saavad selle Olga ja Lisa.“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vanadus",
+          "l": "vanadus",
+          "p": "S"
+        },
+        {
+          "f": "tuleb",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "kõigile",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "selles",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tean",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "saab",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "korterist",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kunagi",
+          "l": "kunagi",
+          "p": "D"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "korter",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": "riiklik",
+          "l": "riiklik",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "mind",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "enam",
+          "l": "enam",
+          "p": "D"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "saavad",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Isa, ära räägi nii! Ja ma olen kodakondsuseta. Kas ma tohin üldse korterit pärida?“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Isa",
+          "l": "isa",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "V"
+        },
+        {
+          "f": "räägi",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kodakondsuseta",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tohin",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "üldse",
+          "l": "üldse",
+          "p": "D"
+        },
+        {
+          "f": "korterit",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": "pärida",
+          "l": "pärima",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Samal ajal koputas uksele naaber Mari, kes tõi Olgale tagasi tema raamatu.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Samal",
+          "l": "sama",
+          "p": "P"
+        },
+        {
+          "f": "ajal",
+          "l": "aeg",
+          "p": "S"
+        },
+        {
+          "f": "koputas",
+          "l": "koputama",
+          "p": "V"
+        },
+        {
+          "f": "uksele",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "naaber",
+          "l": "naaber",
+          "p": "S"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "tõi",
+          "l": "tooma",
+          "p": "V"
+        },
+        {
+          "f": "Olgale",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "tagasi",
+          "l": "tagasi",
+          "p": "D"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "raamatu",
+          "l": "raamat",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Mari, sa tuled õigel ajal! Kas kodakondsuseta inimene tohib pärida?“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mari",
+          "l": "Mari",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "tuled",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "õigel",
+          "l": "õige",
+          "p": "A"
+        },
+        {
+          "f": "ajal",
+          "l": "aeg",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "kodakondsuseta",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "tohib",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "pärida",
+          "l": "pärima",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mari võttis laualt põhiseaduse ja otsis paragrahvi 32.",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "laualt",
+          "l": "laud",
+          "p": "S"
+        },
+        {
+          "f": "põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "otsis",
+          "l": "otsima",
+          "p": "V"
+        },
+        {
+          "f": "paragrahvi",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "32.",
+          "l": "32.",
+          "p": "O"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Neljas lõige: pärimisõigus on tagatud. Pärimisõigus tähendab, et inimese vara võib pärast tema surma minna teistele, näiteks tema lastele. Kui õigus on tagatud, siis põhiseadus kaitseb seda.“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Neljas",
+          "l": "neljas",
+          "p": "O"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "pärimisõigus",
+          "l": "pärimisõigus",
+          "p": "S",
+          "parts": [
+            "pärimis",
+            "õigus"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tagatud",
+          "l": "tagama",
+          "p": "V",
+          "alt": [
+            "tagatud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Pärimisõigus",
+          "l": "pärimisõigus",
+          "p": "S",
+          "parts": [
+            "pärimis",
+            "õigus"
+          ]
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "inimese",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "vara",
+          "l": "vara",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "surma",
+          "l": "surm",
+          "p": "S"
+        },
+        {
+          "f": "minna",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "teistele",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "näiteks",
+          "l": "näiteks",
+          "p": "D"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "lastele",
+          "l": "laps",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tagatud",
+          "l": "tagama",
+          "p": "V",
+          "alt": [
+            "tagatud"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "siis",
+          "l": "siis",
+          "p": "J"
+        },
+        {
+          "f": "põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "kaitseb",
+          "l": "kaitsma",
+          "p": "V",
+          "alt": [
+            "kaitsema"
+          ]
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kas see õigus on ainult kodanikel?“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "kodanikel",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Neljas lõige kodakondsusest ei räägi. Aga kolmas lõige ütleb: seadus võib üldistes huvides sätestada vara liigid, mida tohivad Eestis omandada ainult Eesti kodanikud, mõnda liiki juriidilised isikud, kohalikud omavalitsused või Eesti riik.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Neljas",
+          "l": "neljas",
+          "p": "O"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": "kodakondsusest",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "räägi",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kolmas",
+          "l": "kolmas",
+          "p": "O"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "üldistes",
+          "l": "üldine",
+          "p": "A"
+        },
+        {
+          "f": "huvides",
+          "l": "huvi",
+          "p": "S"
+        },
+        {
+          "f": "sätestada",
+          "l": "sätestama",
+          "p": "V"
+        },
+        {
+          "f": "vara",
+          "l": "vara",
+          "p": "S"
+        },
+        {
+          "f": "liigid",
+          "l": "liik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "tohivad",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "Eestis",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "omandada",
+          "l": "omandama",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikud",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mõnda",
+          "l": "mõni",
+          "p": "P"
+        },
+        {
+          "f": "liiki",
+          "l": "liik",
+          "p": "S"
+        },
+        {
+          "f": "juriidilised",
+          "l": "juriidiline",
+          "p": "A"
+        },
+        {
+          "f": "isikud",
+          "l": "isik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kohalikud",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsused",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "riik",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Milliseid liike? Kas korter on üks neist?“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Milliseid",
+          "l": "milline",
+          "p": "P"
+        },
+        {
+          "f": "liike",
+          "l": "liik",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "korter",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "neist",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Põhiseadus neid ei loetle. Seadus võib need sätestada.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "neid",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "loetle",
+          "l": "loetlema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "need",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "sätestada",
+          "l": "sätestama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Mina olen Eesti Vabariigi kodanik, aga minu vara on ainult telefon. Ja selle uus ekraan!“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "Vabariigi",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": "kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "vara",
+          "l": "vara",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "telefon",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "uus",
+          "l": "uus",
+          "p": "A"
+        },
+        {
+          "f": "ekraan",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Detsembris maksis pood minu ekraani eest. Katki läinud ekraan oli materiaalne kahju, häbi kõigi inimeste ees oli moraalne kahju.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Detsembris",
+          "l": "detsember",
+          "p": "S"
+        },
+        {
+          "f": "maksis",
+          "l": "maksma",
+          "p": "V"
+        },
+        {
+          "f": "pood",
+          "l": "pood",
+          "p": "S"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ekraani",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "eest",
+          "l": "eest",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Katki",
+          "l": "katki",
+          "p": "D"
+        },
+        {
+          "f": "läinud",
+          "l": "minema",
+          "p": "V",
+          "alt": [
+            "läinud"
+          ]
+        },
+        {
+          "f": "ekraan",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "materiaalne",
+          "l": "materiaalne",
+          "p": "A"
+        },
+        {
+          "f": "kahju",
+          "l": "kahju",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "häbi",
+          "l": "häbi",
+          "p": "S"
+        },
+        {
+          "f": "kõigi",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "inimeste",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "moraalne",
+          "l": "moraalne",
+          "p": "A"
+        },
+        {
+          "f": "kahju",
+          "l": "kahju",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Jah. Paragrahv 25 räägib moraalse ja materiaalse kahju hüvitamisest.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "25",
+          "l": "25",
+          "p": "N"
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "moraalse",
+          "l": "moraalne",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "materiaalse",
+          "l": "materiaalne",
+          "p": "A"
+        },
+        {
+          "f": "kahju",
+          "l": "kahi",
+          "p": "S",
+          "alt": [
+            "kahju"
+          ]
+        },
+        {
+          "f": "hüvitamisest",
+          "l": "hüvitamine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Minu korter on minu vara. Ja seni, kuni ma elan, valdan, kasutan ja käsutan ma oma omandit ise!“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "korter",
+          "l": "korter",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "vara",
+          "l": "vara",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "seni",
+          "l": "seni",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kuni",
+          "l": "kuni",
+          "p": "J"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "elan",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "valdan",
+          "l": "valdama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kasutan",
+          "l": "kasutama",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "käsutan",
+          "l": "käsutama",
+          "p": "V"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "omandit",
+          "l": "omand",
+          "p": "S"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Teeme rahvahääletuse: vanaisa elab sada aastat! Kes on poolt?“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Teeme",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "rahvahääletuse",
+          "l": "rahvahääletus",
+          "p": "S",
+          "parts": [
+            "rahvas",
+            "hääletus"
+          ]
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "vanaisa",
+          "l": "vanaisa",
+          "p": "S",
+          "parts": [
+            "vana",
+            "isa"
+          ]
+        },
+        {
+          "f": "elab",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": "sada",
+          "l": "sada",
+          "p": "N"
+        },
+        {
+          "f": "aastat",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "poolt",
+          "l": "poolt",
+          "p": "K"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kõik tõstsid käe, ka naaber Mari.",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "Kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "tõstsid",
+          "l": "tõstma",
+          "p": "V"
+        },
+        {
+          "f": "käe",
+          "l": "käsi",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "naaber",
+          "l": "naaber",
+          "p": "S"
+        },
+        {
+          "f": "Mari",
+          "l": "Mari",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "nikolai",
+      "text": "„Otsus on selge. Nüüd veel üks mäng!“",
+      "para": 18,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Otsus",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "selge",
+          "l": "selge",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "mäng",
+          "l": "mäng",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "vanadus",
+      "lemma": "vanadus",
+      "translation": "старость"
+    },
+    {
+      "form": "pärida",
+      "lemma": "pärima",
+      "translation": "наследовать"
+    },
+    {
+      "form": "pärimisõigus",
+      "lemma": "pärimisõigus",
+      "translation": "право наследования"
+    },
+    {
+      "form": "tagatud",
+      "lemma": "tagama",
+      "translation": "гарантировать, обеспечивать (on tagatud — гарантировано)"
+    },
+    {
+      "form": "liigid",
+      "lemma": "liik",
+      "translation": "вид, тип"
+    },
+    {
+      "form": "moraalne kahju",
+      "lemma": "moraalne kahju",
+      "translation": "моральный вред"
+    },
+    {
+      "form": "valdan, kasutan ja käsutan ma oma omandit",
+      "lemma": "omandit valdama, kasutama ja käsutama",
+      "translation": "владеть, пользоваться и распоряжаться собственностью"
+    },
+    {
+      "form": "häbi",
+      "lemma": "häbi",
+      "translation": "стыд"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Pärimisõigus on tagatud. (§ 32)",
+      "ref": "ps-32-lg4"
+    },
+    {
+      "text": "Seadus võib üldistes huvides sätestada vara liigid, mida tohivad Eestis omandada ainult Eesti kodanikud, mõnda liiki juriidilised isikud, kohalikud omavalitsused või Eesti riik. (§ 32)",
+      "ref": "ps-32-lg3"
+    },
+    {
+      "text": "Igaühel on õigus enda omandit vabalt vallata, kasutada ja käsutada. (§ 32)",
+      "ref": "ps-32-lg2"
+    },
+    {
+      "text": "Igaühel on õigus talle ükskõik kelle poolt õigusvastaselt tekitatud moraalse ja materiaalse kahju hüvitamisele. (§ 25)",
+      "ref": "ps-25"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Mida võib seadus põhiseaduse § 32 lõike 3 järgi üldistes huvides sätestada?",
+      "options": [
+        "vara liigid, mida tohivad Eestis omandada ainult Eesti kodanikud, mõnda liiki juriidilised isikud, kohalikud omavalitsused või Eesti riik",
+        "et välismaalased ei tohi Eestis üldse vara omada",
+        "et pärimisõigus on ainult Eesti kodanikel",
+        "et omandit võib võõrandada ilma hüvituseta"
+      ],
+      "answer": 0,
+      "explanation": "§ 32 lõige 3 ütleb: seadus võib üldistes huvides sätestada vara liigid, mida tohivad Eestis omandada ainult Eesti kodanikud, mõnda liiki juriidilised isikud, kohalikud omavalitsused või Eesti riik.",
+      "ref": "ps-32-lg3"
+    },
+    {
+      "type": "where",
+      "text": "Kus see on kirjas? „Pärimisõigus on tagatud.“",
+      "options": [
+        "§ 25",
+        "§ 31",
+        "§ 32",
+        "§ 33"
+      ],
+      "answer": 2,
+      "explanation": "See lause on põhiseaduse § 32 neljandas lõikes. § 25 räägib kahju hüvitamisest, § 31 ettevõtlusest ja § 33 kodu puutumatusest.",
+      "ref": "ps-32-lg4"
+    }
+  ],
+  "audio": {
+    "story": "audio/0058/story.mp3",
+    "law": "audio/0058/law.mp3",
+    "timings": "audio/0058/timings.json"
+  }
+}

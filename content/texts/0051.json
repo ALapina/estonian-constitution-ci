@@ -1,0 +1,2407 @@
+{
+  "id": "0051",
+  "slot": "s051",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Õde või jurist?",
+  "law": [
+    "ps-29-lg1",
+    "ps-29-lg2"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Esmaspäeval, 28. detsembril, oli Olgal vaba päev.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Esmaspäeval",
+          "l": "esmaspäev",
+          "p": "S",
+          "parts": [
+            "esmas",
+            "päev"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "28.",
+          "l": "28.",
+          "p": "O"
+        },
+        {
+          "f": "detsembril",
+          "l": "detsember",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Olgal",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": "päev",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa ja Olga jalutasid lumes maja ümber.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "jalutasid",
+          "l": "jalutama",
+          "p": "V"
+        },
+        {
+          "f": "lumes",
+          "l": "lumi",
+          "p": "S"
+        },
+        {
+          "f": "maja",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "ümber",
+          "l": "ümber",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Jaanuaris pidi Lisa gümnaasiumis otsustama, milliseid aineid ta edasi õpib.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Jaanuaris",
+          "l": "jaanuar",
+          "p": "S"
+        },
+        {
+          "f": "pidi",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "gümnaasiumis",
+          "l": "gümnaasium",
+          "p": "S"
+        },
+        {
+          "f": "otsustama",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "milliseid",
+          "l": "milline",
+          "p": "P"
+        },
+        {
+          "f": "aineid",
+          "l": "aine",
+          "p": "S"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "edasi",
+          "l": "edasi",
+          "p": "D"
+        },
+        {
+          "f": "õpib",
+          "l": "õppima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Selleks pidi ta teadma, millise elukutse ta valib: õde nagu ema, jurist nagu naaber Mari või midagi muud.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Selleks",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "pidi",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "teadma",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "millise",
+          "l": "milline",
+          "p": "P"
+        },
+        {
+          "f": "elukutse",
+          "l": "elukutse",
+          "p": "S",
+          "parts": [
+            "elu",
+            "kutse"
+          ]
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "valib",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "õde",
+          "l": "õde",
+          "p": "S"
+        },
+        {
+          "f": "nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "jurist",
+          "l": "jurist",
+          "p": "S"
+        },
+        {
+          "f": "nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "naaber",
+          "l": "naaber",
+          "p": "S"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "midagi",
+          "l": "miski",
+          "p": "P"
+        },
+        {
+          "f": "muud",
+          "l": "muu",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa klassivend Robin teadis juba: pärast gümnaasiumi läheb ta kaitseväeteenistusse ja õpib seal Eestit kaitsma.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "klassivend",
+          "l": "klassivend",
+          "p": "S",
+          "parts": [
+            "klass",
+            "vend"
+          ]
+        },
+        {
+          "f": "Robin",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "teadis",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "gümnaasiumi",
+          "l": "gümnaasium",
+          "p": "S"
+        },
+        {
+          "f": "läheb",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kaitseväeteenistusse",
+          "l": "kaitseväeteenistus",
+          "p": "S",
+          "parts": [
+            "kaitse",
+            "vägi",
+            "teenistus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "õpib",
+          "l": "õppima",
+          "p": "V"
+        },
+        {
+          "f": "seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "Eestit",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kaitsma",
+          "l": "kaitsma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ema, kuidas sina oma elukutse valisid?“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kuidas",
+          "l": "kuidas",
+          "p": "D"
+        },
+        {
+          "f": "sina",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "elukutse",
+          "l": "elukutse",
+          "p": "S",
+          "parts": [
+            "elu",
+            "kutse"
+          ]
+        },
+        {
+          "f": "valisid",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ma tahtsin juba lapsena inimesi aidata.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tahtsin",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": "lapsena",
+          "l": "laps",
+          "p": "S"
+        },
+        {
+          "f": "inimesi",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "aidata",
+          "l": "aitama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Maja ees tuli neile vastu Mari ja nad läksid teed jooma.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Maja",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "neile",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "vastu",
+          "l": "vastu",
+          "p": "K"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "nad",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "läksid",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "teed",
+          "l": "tee",
+          "p": "S"
+        },
+        {
+          "f": "jooma",
+          "l": "jooma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa kirjutas paberile: õde, jurist, õpetaja, kokk.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "paberile",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "õde",
+          "l": "õde",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "jurist",
+          "l": "jurist",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "õpetaja",
+          "l": "õpetaja",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kokk",
+          "l": "kokk",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Iga elukutse juurde tegi ta väikese märgi.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Iga",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "elukutse",
+          "l": "elukutse",
+          "p": "S",
+          "parts": [
+            "elu",
+            "kutse"
+          ]
+        },
+        {
+          "f": "juurde",
+          "l": "juurde",
+          "p": "K"
+        },
+        {
+          "f": "tegi",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "väikese",
+          "l": "väike",
+          "p": "A",
+          "alt": [
+            "väikene"
+          ]
+        },
+        {
+          "f": "märgi",
+          "l": "märk",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Õpetaja peab iga õhtu kontrollima kolmkümmend kodutööd. Mina sellist karistust ei taha!“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Õpetaja",
+          "l": "õpetaja",
+          "p": "S"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "iga",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "õhtu",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "kontrollima",
+          "l": "kontrollima",
+          "p": "V"
+        },
+        {
+          "f": "kolmkümmend",
+          "l": "kolmkümmend",
+          "p": "N",
+          "parts": [
+            "kolm",
+            "kümmend"
+          ]
+        },
+        {
+          "f": "kodutööd",
+          "l": "kodutöö",
+          "p": "S",
+          "parts": [
+            "kodu",
+            "töö"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "sellist",
+          "l": "selline",
+          "p": "P"
+        },
+        {
+          "f": "karistust",
+          "l": "karistus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "taha",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Kuula, mida põhiseadus ütleb. Paragrahv 29: Eesti kodanikul on õigus vabalt valida tegevusala, elukutset ja töökohta. Seadus võib sätestada selle õiguse kasutamise tingimused ja korra.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kuula",
+          "l": "kuulama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "29",
+          "l": "29",
+          "p": "N"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikul",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "vabalt",
+          "l": "vabalt",
+          "p": "D"
+        },
+        {
+          "f": "valida",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": "tegevusala",
+          "l": "tegevusala",
+          "p": "S",
+          "parts": [
+            "tegevus",
+            "ala"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "elukutset",
+          "l": "elukutse",
+          "p": "S",
+          "parts": [
+            "elu",
+            "kutse"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "töökohta",
+          "l": "töökoht",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koht"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "sätestada",
+          "l": "sätestama",
+          "p": "V"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "õiguse",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "kasutamise",
+          "l": "kasutamine",
+          "p": "S"
+        },
+        {
+          "f": "tingimused",
+          "l": "tingimus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korra",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Aga mina ei ole Eesti kodanik.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Kui seadus ei sätesta teisiti, on see õigus võrdselt Eesti kodanikuga ka välisriigi kodanikul ja kodakondsuseta isikul, kes on Eestis.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "sätesta",
+          "l": "sätestama",
+          "p": "V"
+        },
+        {
+          "f": "teisiti",
+          "l": "teisiti",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "võrdselt",
+          "l": "võrdselt",
+          "p": "D"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikuga",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "välisriigi",
+          "l": "välisriik",
+          "p": "S",
+          "parts": [
+            "välis",
+            "riik"
+          ]
+        },
+        {
+          "f": "kodanikul",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kodakondsuseta",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "isikul",
+          "l": "isik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Eestis",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Nii et see on ka minu õigus.“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Aga kas riigivõim võib mind sundida tegema tööd, mida ma ei taha?“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "riigivõim",
+          "l": "riigivõim",
+          "p": "S",
+          "parts": [
+            "riik",
+            "võim"
+          ]
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "mind",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "sundida",
+          "l": "sundima",
+          "p": "V"
+        },
+        {
+          "f": "tegema",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "tööd",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "taha",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Kedagi ei tohi sundida tööle ega teenistusse tema vaba tahte vastu. See on üldine reegel. Aga sellel reeglil on neli erandit.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kedagi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "sundida",
+          "l": "sundima",
+          "p": "V"
+        },
+        {
+          "f": "tööle",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "teenistusse",
+          "l": "teenistus",
+          "p": "S"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": "tahte",
+          "l": "tahe",
+          "p": "S"
+        },
+        {
+          "f": "vastu",
+          "l": "vastu",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "üldine",
+          "l": "üldine",
+          "p": "A"
+        },
+        {
+          "f": "reegel",
+          "l": "reegel",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "sellel",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "reeglil",
+          "l": "reegel",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "neli",
+          "l": "neli",
+          "p": "N"
+        },
+        {
+          "f": "erandit",
+          "l": "erand",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Esimene on kaitseväeteenistus või selle asendusteenistus.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Esimene",
+          "l": "esimene",
+          "p": "O"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kaitseväeteenistus",
+          "l": "kaitseväeteenistus",
+          "p": "S",
+          "parts": [
+            "kaitse",
+            "vägi",
+            "teenistus"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "asendusteenistus",
+          "l": "asendusteenistus",
+          "p": "S",
+          "parts": [
+            "asenduma",
+            "teenistus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Nagu Robin!“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "Robin",
+          "l": "Robin",
+          "p": "H"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Teine on töö, kui on vaja tõkestada nakkushaiguse levikut.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "töö",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vaja",
+          "l": "vaja",
+          "p": "D"
+        },
+        {
+          "f": "tõkestada",
+          "l": "tõkestama",
+          "p": "V"
+        },
+        {
+          "f": "nakkushaiguse",
+          "l": "nakkushaigus",
+          "p": "S",
+          "parts": [
+            "nakkus",
+            "haigus"
+          ]
+        },
+        {
+          "f": "levikut",
+          "l": "levik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Kolmas on töö loodusõnnetuse ja katastroofi korral, näiteks pärast suurt tormi, kui majades ei ole elektrit.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kolmas",
+          "l": "kolmas",
+          "p": "O"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "töö",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "loodusõnnetuse",
+          "l": "loodusõnnetus",
+          "p": "S",
+          "parts": [
+            "loodus",
+            "õnnetus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "katastroofi",
+          "l": "katastroof",
+          "p": "S"
+        },
+        {
+          "f": "korral",
+          "l": "korral",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "näiteks",
+          "l": "näiteks",
+          "p": "D"
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "suurt",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "tormi",
+          "l": "torm",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "majades",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "elektrit",
+          "l": "elekter",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Loodusõnnetuse korral tulen ma ka ise appi!“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Loodusõnnetuse",
+          "l": "loodusõnnetus",
+          "p": "S",
+          "parts": [
+            "loodus",
+            "õnnetus"
+          ]
+        },
+        {
+          "f": "korral",
+          "l": "korral",
+          "p": "K"
+        },
+        {
+          "f": "tulen",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "appi",
+          "l": "abi",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Ja neljas on töö, mida süüdi mõistetud inimene peab tegema seaduse alusel ja korras.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "neljas",
+          "l": "neljas",
+          "p": "O"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "töö",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": "mõistetud",
+          "l": "mõistma",
+          "p": "V",
+          "alt": [
+            "mõistetud"
+          ]
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "tegema",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "alusel",
+          "l": "alus",
+          "p": "S",
+          "alt": [
+            "alune"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Aga mis on seaduslik alus?“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "seaduslik",
+          "l": "seaduslik",
+          "p": "A"
+        },
+        {
+          "f": "alus",
+          "l": "alus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Neljandas erandis on kirjas: seaduse alusel ja korras. Seaduslik alus süüdi mõistetud inimese tööks peab olema seaduses.“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Neljandas",
+          "l": "neljas",
+          "p": "O"
+        },
+        {
+          "f": "erandis",
+          "l": "erand",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kirjas",
+          "l": "kirjas",
+          "p": "D"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "alusel",
+          "l": "alus",
+          "p": "S",
+          "alt": [
+            "alune"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seaduslik",
+          "l": "seaduslik",
+          "p": "A"
+        },
+        {
+          "f": "alus",
+          "l": "alus",
+          "p": "S"
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": "mõistetud",
+          "l": "mõistma",
+          "p": "V",
+          "alt": [
+            "mõistetud"
+          ]
+        },
+        {
+          "f": "inimese",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "tööks",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "olema",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa kordas vaikselt Mari sõnu: vabalt valida.",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "kordas",
+          "l": "kordama",
+          "p": "V"
+        },
+        {
+          "f": "vaikselt",
+          "l": "vaikselt",
+          "p": "D"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "sõnu",
+          "l": "sõna",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "vabalt",
+          "l": "vabalt",
+          "p": "D"
+        },
+        {
+          "f": "valida",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Täna ma veel ei vali. Aga suvel proovin ma ema haiglas vabatahtlikuna aidata.“",
+      "para": 18,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "vali",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "suvel",
+          "l": "suvi",
+          "p": "S"
+        },
+        {
+          "f": "proovin",
+          "l": "proovima",
+          "p": "V"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "haiglas",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "vabatahtlikuna",
+          "l": "vabatahtlik",
+          "p": "A",
+          "parts": [
+            "vaba",
+            "tahtlik"
+          ]
+        },
+        {
+          "f": "aidata",
+          "l": "aitama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga vaatas tütart ja oli uhke.",
+      "para": 19,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "vaatas",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "tütart",
+          "l": "tütar",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "uhke",
+          "l": "uhke",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "elukutse",
+      "lemma": "elukutse",
+      "translation": "профессия"
+    },
+    {
+      "form": "elukutse ta valib",
+      "lemma": "elukutset valima",
+      "translation": "выбирать профессию"
+    },
+    {
+      "form": "kaitseväeteenistusse",
+      "lemma": "kaitseväeteenistus",
+      "translation": "служба в Силах обороны"
+    },
+    {
+      "form": "vabalt",
+      "lemma": "vabalt",
+      "translation": "свободно"
+    },
+    {
+      "form": "teisiti",
+      "lemma": "teisiti",
+      "translation": "иначе (kui seadus ei sätesta teisiti — если законом не установлено иное)"
+    },
+    {
+      "form": "teenistusse",
+      "lemma": "teenistus",
+      "translation": "служба"
+    },
+    {
+      "form": "erandit",
+      "lemma": "erand",
+      "translation": "исключение"
+    },
+    {
+      "form": "asendusteenistus",
+      "lemma": "asendusteenistus",
+      "translation": "альтернативная служба"
+    },
+    {
+      "form": "nakkushaiguse",
+      "lemma": "nakkushaigus",
+      "translation": "инфекционное заболевание"
+    },
+    {
+      "form": "tõkestada",
+      "lemma": "tõkestama",
+      "translation": "препятствовать, предотвращать"
+    },
+    {
+      "form": "levikut",
+      "lemma": "levik",
+      "translation": "распространение"
+    },
+    {
+      "form": "loodusõnnetuse",
+      "lemma": "loodusõnnetus",
+      "translation": "стихийное бедствие"
+    },
+    {
+      "form": "seaduse alusel",
+      "lemma": "seaduse alusel",
+      "translation": "на основании закона"
+    },
+    {
+      "form": "seaduslik",
+      "lemma": "seaduslik",
+      "translation": "законный"
+    },
+    {
+      "form": "seaduslik alus",
+      "lemma": "seaduslik alus",
+      "translation": "законное основание"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Eesti kodanikul on õigus vabalt valida tegevusala, elukutset ja töökohta. (§ 29)",
+      "ref": "ps-29-lg1"
+    },
+    {
+      "text": "Kui seadus ei sätesta teisiti, on see õigus võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul. (§ 29)",
+      "ref": "ps-29-lg1"
+    },
+    {
+      "text": "Kedagi ei tohi sundida tema vaba tahte vastaselt tööle ega teenistusse. Erandid on kaitseväeteenistus või selle asendusteenistus, töö nakkushaiguse leviku tõkestamisel, loodusõnnetuse ja katastroofi korral ning töö, mida seaduse alusel ja korras peab tegema süüdimõistetu. (§ 29)",
+      "ref": "ps-29-lg2"
+    },
+    {
+      "text": "Igaühele, kellelt on võetud vabadus, teatatakse viivitamatult talle arusaadavas keeles ja viisil vabaduse võtmise põhjus ja tema õigused. (§ 21)",
+      "ref": "ps-21-lg1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "truefalse",
+      "text": "Kui seadus ei sätesta teisiti, on Eestis viibival kodakondsuseta isikul õigus vabalt valida elukutset võrdselt Eesti kodanikuga.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 0,
+      "explanation": "§ 29 lõige 1 ütleb: kui seadus ei sätesta teisiti, on õigus vabalt valida tegevusala, elukutset ja töökohta võrdselt Eesti kodanikuga ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul.",
+      "ref": "ps-29-lg1"
+    },
+    {
+      "type": "choice",
+      "text": "Millisel juhul ei kehti põhiseaduse keeld sundida inimest tööle tema vaba tahte vastaselt?",
+      "options": [
+        "loodusõnnetuse ja katastroofi korral",
+        "kui tööandja vajab pühade ajal rohkem töötajaid",
+        "kui inimene ei ole Eesti kodanik",
+        "kui inimesel ei ole tööd"
+      ],
+      "answer": 0,
+      "explanation": "§ 29 lõige 2 ütleb: kedagi ei tohi sundida tema vaba tahte vastaselt tööle ega teenistusse, välja arvatud kaitseväeteenistus või selle asendusteenistus, tööd nakkushaiguse leviku tõkestamisel, loodusõnnetuse ja katastroofi korral ning töö, mida seaduse alusel ja korras peab tegema süüdimõistetu.",
+      "ref": "ps-29-lg2"
+    }
+  ],
+  "audio": {
+    "story": "audio/0051/story.mp3",
+    "law": "audio/0051/law.mp3",
+    "timings": "audio/0051/timings.json"
+  }
+}

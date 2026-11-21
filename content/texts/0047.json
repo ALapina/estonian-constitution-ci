@@ -1,0 +1,2176 @@
+{
+  "id": "0047",
+  "slot": "s047",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Maja, millel on üks uks",
+  "law": [
+    "ps-26"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "police": {
+      "name": "Politseinik",
+      "voice": "albert",
+      "note": "a police officer who asks Olga about a patient's family and visitors at the hospital"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Esmaspäeval, 21. detsembril, oli Olga haiglas tööl.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Esmaspäeval",
+          "l": "esmaspäev",
+          "p": "S",
+          "parts": [
+            "esmas",
+            "päev"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "21.",
+          "l": "21.",
+          "p": "O"
+        },
+        {
+          "f": "detsembril",
+          "l": "detsember",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "haiglas",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "tööl",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Palatis number kolm oli vana mees, kes oli iseseisev ega rääkinud kunagi oma perest.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Palatis",
+          "l": "palat",
+          "p": "S"
+        },
+        {
+          "f": "number",
+          "l": "number",
+          "p": "S"
+        },
+        {
+          "f": "kolm",
+          "l": "kolm",
+          "p": "N"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "iseseisev",
+          "l": "iseseisev",
+          "p": "A",
+          "parts": [
+            "ise",
+            "seisev"
+          ]
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "rääkinud",
+          "l": "rääkima",
+          "p": "V",
+          "alt": [
+            "rääkinud"
+          ]
+        },
+        {
+          "f": "kunagi",
+          "l": "kunagi",
+          "p": "D"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "perest",
+          "l": "pere",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Pärast lõunat tuli osakonda politseinik.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "lõunat",
+          "l": "lõuna",
+          "p": "S"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "osakonda",
+          "l": "osakond",
+          "p": "S"
+        },
+        {
+          "f": "politseinik",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "police",
+      "text": "„Tere. Me otsime üht kurjategijat.“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tere",
+          "l": "tere",
+          "p": "I"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Me",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "otsime",
+          "l": "otsima",
+          "p": "V"
+        },
+        {
+          "f": "üht",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "kurjategijat",
+          "l": "kurjategija",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegija"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta võttis taskust telefoni ja näitas ekraanil noore mehe pilti.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "taskust",
+          "l": "tasku",
+          "p": "S"
+        },
+        {
+          "f": "telefoni",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "näitas",
+          "l": "näitama",
+          "p": "V"
+        },
+        {
+          "f": "ekraanil",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "noore",
+          "l": "noor",
+          "p": "A"
+        },
+        {
+          "f": "mehe",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "pilti",
+          "l": "pilt",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "police",
+      "text": "„Kas see mees käis eile teie patsienti vaatamas? Kes on patsiendi pere? Kus nad elavad?“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "käis",
+          "l": "käima",
+          "p": "V"
+        },
+        {
+          "f": "eile",
+          "l": "eile",
+          "p": "D"
+        },
+        {
+          "f": "teie",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "patsienti",
+          "l": "patsient",
+          "p": "S"
+        },
+        {
+          "f": "vaatamas",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "patsiendi",
+          "l": "patsient",
+          "p": "S"
+        },
+        {
+          "f": "pere",
+          "l": "pere",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kus",
+          "l": "kus",
+          "p": "D"
+        },
+        {
+          "f": "nad",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "elavad",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Vabandust, ma ei tea, mida ma tohin teile öelda. Palun minge osakonna juhataja juurde.“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vabandust",
+          "l": "vabandust",
+          "p": "I"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tea",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tohin",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "teile",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "öelda",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Palun",
+          "l": "paluma",
+          "p": "V"
+        },
+        {
+          "f": "minge",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "osakonna",
+          "l": "osakond",
+          "p": "S"
+        },
+        {
+          "f": "juhataja",
+          "l": "juhataja",
+          "p": "S"
+        },
+        {
+          "f": "juurde",
+          "l": "juurde",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Politseinik tänas ja läks osakonna juhataja juurde.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Politseinik",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "tänas",
+          "l": "tänama",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "osakonna",
+          "l": "osakond",
+          "p": "S"
+        },
+        {
+          "f": "juhataja",
+          "l": "juhataja",
+          "p": "S"
+        },
+        {
+          "f": "juurde",
+          "l": "juurde",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õhtul rääkis Olga sellest naabrile Marile, kes töötab õiguskantsleri juures.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "rääkis",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "sellest",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "naabrile",
+          "l": "naaber",
+          "p": "S"
+        },
+        {
+          "f": "Marile",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "töötab",
+          "l": "töötama",
+          "p": "V"
+        },
+        {
+          "f": "õiguskantsleri",
+          "l": "õiguskantsler",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "kantsler"
+          ]
+        },
+        {
+          "f": "juures",
+          "l": "juures",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Mida põhiseadus sellest ütleb?“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "sellest",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mari avas arvutis Riigi Teataja: seal avaldab riik iga uue seaduse.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "avas",
+          "l": "avama",
+          "p": "V"
+        },
+        {
+          "f": "arvutis",
+          "l": "arvuti",
+          "p": "S"
+        },
+        {
+          "f": "Riigi",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "Teataja",
+          "l": "teataja",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "avaldab",
+          "l": "avaldama",
+          "p": "V"
+        },
+        {
+          "f": "riik",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "iga",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "uue",
+          "l": "uus",
+          "p": "A"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Paragrahv 26: igaühel on õigus perekonna- ja eraelu puutumatusele.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "26",
+          "l": "26",
+          "p": "N"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "perekonna-",
+          "l": "perekond",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "eraelu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": "puutumatusele",
+          "l": "puutumatus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Puutumatus?“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Puutumatus",
+          "l": "puutumatus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Puutumatus tähendab, et see on kaitstud. Paragrahv 20 räägib isikupuutumatusest, paragrahv 26 perekonna- ja eraelu puutumatusest.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Puutumatus",
+          "l": "puutumatus",
+          "p": "S"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kaitstud",
+          "l": "kaitstud",
+          "p": "A",
+          "alt": [
+            "kaitsma"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "20",
+          "l": "20",
+          "p": "N"
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "isikupuutumatusest",
+          "l": "isikupuutumatus",
+          "p": "S",
+          "parts": [
+            "isik",
+            "puutumatus"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "26",
+          "l": "26",
+          "p": "N"
+        },
+        {
+          "f": "perekonna-",
+          "l": "perekond",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "eraelu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": "puutumatusest",
+          "l": "puutumatus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis joonistas Mari paberile maja ja kirjutas maja sisse: perekond ja eraelu.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "joonistas",
+          "l": "joonistama",
+          "p": "V"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "paberile",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": "maja",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "maja",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "sisse",
+          "l": "sisse",
+          "p": "K"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "perekond",
+          "l": "perekond",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "eraelu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Majal oli ainult üks uks.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Majal",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "uks",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi kellegi perekonna- ega eraellu sekkuda muidu, kui seaduses sätestatud juhtudel ja korras.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Riigiasutused",
+          "l": "riigiasutus",
+          "p": "S",
+          "parts": [
+            "riik",
+            "asutus"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kohalikud",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsused",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "nende",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ametiisikud",
+          "l": "ametiisik",
+          "p": "S",
+          "parts": [
+            "amet",
+            "isik"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "kellegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "perekonna-",
+          "l": "perekond",
+          "p": "S"
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "eraellu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": "sekkuda",
+          "l": "sekkuma",
+          "p": "V"
+        },
+        {
+          "f": "muidu",
+          "l": "muidu",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "juhtudel",
+          "l": "juht",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ukse peale kirjutas Mari: seaduses sätestatud juhtudel ja korras.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Ukse",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "peale",
+          "l": "peale",
+          "p": "K"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "juhtudel",
+          "l": "juht",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Ja ainult tervise, kõlbluse, avaliku korra või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks või kurjategija tabamiseks.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "tervise",
+          "l": "tervis",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kõlbluse",
+          "l": "kõlblus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "avaliku",
+          "l": "avalik",
+          "p": "A"
+        },
+        {
+          "f": "korra",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "teiste",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "inimeste",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "õiguste",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vabaduste",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "kaitseks",
+          "l": "kaitse",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kuriteo",
+          "l": "kuritegu",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegu"
+          ]
+        },
+        {
+          "f": "tõkestamiseks",
+          "l": "tõkestamine",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "kurjategija",
+          "l": "kurjategija",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegija"
+          ]
+        },
+        {
+          "f": "tabamiseks",
+          "l": "tabamine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kas politseinik on ka ametiisik?“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "politseinik",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "ametiisik",
+          "l": "ametiisik",
+          "p": "S",
+          "parts": [
+            "amet",
+            "isik"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Jah. Ta on riigiasutuse ametiisik.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "riigiasutuse",
+          "l": "riigiasutus",
+          "p": "S",
+          "parts": [
+            "riik",
+            "asutus"
+          ]
+        },
+        {
+          "f": "ametiisik",
+          "l": "ametiisik",
+          "p": "S",
+          "parts": [
+            "amet",
+            "isik"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Nii et politseinik tohib inimese eraellu sekkuda ainult seaduses sätestatud juhtudel ja korras. Näiteks kurjategija tabamiseks.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "politseinik",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "tohib",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "inimese",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "eraellu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": "sekkuda",
+          "l": "sekkuma",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "juhtudel",
+          "l": "juht",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Näiteks",
+          "l": "näide",
+          "p": "S"
+        },
+        {
+          "f": "kurjategija",
+          "l": "kurjategija",
+          "p": "S",
+          "parts": [
+            "kuri",
+            "tegija"
+          ]
+        },
+        {
+          "f": "tabamiseks",
+          "l": "tabamine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Just.“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Just",
+          "l": "just",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kas eraelu puutumatus on ka vaesel inimesel?“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "eraelu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": "puutumatus",
+          "l": "puutumatus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "vaesel",
+          "l": "vaene",
+          "p": "A"
+        },
+        {
+          "f": "inimesel",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "neighbour-mari",
+      "text": "„Eraelu puutumatus on igaühel: rikkal ja vaesel, patsiendil ja riigipeal. Ja paragrahv 12 ütleb, et kõik on seaduse ees võrdsed, ükskõik milline on nende varaline seisund.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eraelu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": "puutumatus",
+          "l": "puutumatus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "rikkal",
+          "l": "rikas",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vaesel",
+          "l": "vaene",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "patsiendil",
+          "l": "patsient",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "riigipeal",
+          "l": "riigipea",
+          "p": "S",
+          "parts": [
+            "riik",
+            "pea"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "12",
+          "l": "12",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "võrdsed",
+          "l": "võrdne",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ükskõik",
+          "l": "ükskõik",
+          "p": "D",
+          "parts": [
+            "üks",
+            "kõik"
+          ]
+        },
+        {
+          "f": "milline",
+          "l": "milline",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "nende",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "varaline",
+          "l": "varaline",
+          "p": "A"
+        },
+        {
+          "f": "seisund",
+          "l": "seisund",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga vaatas veel kaua Mari pilti: suur maja ja ainult üks uks.",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "vaatas",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "kaua",
+          "l": "kaua",
+          "p": "D"
+        },
+        {
+          "f": "Mari",
+          "l": "mari",
+          "p": "S"
+        },
+        {
+          "f": "pilti",
+          "l": "pilt",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "suur",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "maja",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "uks",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "kurjategijat",
+      "lemma": "kurjategija",
+      "translation": "преступник"
+    },
+    {
+      "form": "puutumatusele",
+      "lemma": "puutumatus",
+      "translation": "неприкосновенность (perekonna- ja eraelu puutumatus — неприкосновенность семейной и частной жизни)"
+    },
+    {
+      "form": "ametiisikud",
+      "lemma": "ametiisik",
+      "translation": "должностное лицо"
+    },
+    {
+      "form": "sekkuda",
+      "lemma": "sekkuma",
+      "translation": "вмешиваться"
+    },
+    {
+      "form": "avaliku korra",
+      "lemma": "avalik kord",
+      "translation": "общественный порядок"
+    },
+    {
+      "form": "varaline seisund",
+      "lemma": "varaline seisund",
+      "translation": "имущественное положение"
+    },
+    {
+      "form": "Riigiasutused",
+      "lemma": "riigiasutus",
+      "translation": "государственное учреждение"
+    },
+    {
+      "form": "tabamiseks",
+      "lemma": "tabamine",
+      "translation": "задержание (kurjategija tabamine — задержание преступника)"
+    },
+    {
+      "form": "tõkestamiseks",
+      "lemma": "tõkestamine",
+      "translation": "пресечение, предотвращение (kuriteo tõkestamine — пресечение преступления)"
+    },
+    {
+      "form": "muidu",
+      "lemma": "muidu",
+      "translation": "иначе (ei tohi ... muidu, kui — не вправе ... иначе как)"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus perekonna- ja eraelu puutumatusele. (§ 26)",
+      "ref": "ps-26"
+    },
+    {
+      "text": "Riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi kellegi perekonna- ega eraellu sekkuda muidu, kui seaduses sätestatud juhtudel ja korras tervise, kõlbluse, avaliku korra või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks või kurjategija tabamiseks. (§ 26)",
+      "ref": "ps-26"
+    },
+    {
+      "text": "Igaühel on õigus vabadusele ja isikupuutumatusele. (§ 20)",
+      "ref": "ps-20-lg1"
+    },
+    {
+      "text": "Kõik on seaduse ees võrdsed. Kedagi ei tohi diskrimineerida ka tema varalise ja sotsiaalse seisundi tõttu. (§ 12)",
+      "ref": "ps-12-lg1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Mis eesmärgil võib ametiisik seaduses sätestatud juhtudel ja korras sekkuda kellegi perekonna- või eraellu?",
+      "options": [
+        "kurjategija tabamiseks",
+        "inimese kodakondsuse kontrollimiseks",
+        "ametiisiku enda huvides",
+        "selleks, et teada saada, kuidas inimene elab"
+      ],
+      "answer": 0,
+      "explanation": "§ 26 ütleb: riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi kellegi perekonna- ega eraellu sekkuda muidu, kui seaduses sätestatud juhtudel ja korras tervise, kõlbluse, avaliku korra või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks või kurjategija tabamiseks.",
+      "ref": "ps-26"
+    },
+    {
+      "type": "truefalse",
+      "text": "Õigus perekonna- ja eraelu puutumatusele on ainult Eesti kodanikel.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 26 ütleb: igaühel on õigus perekonna- ja eraelu puutumatusele. See õigus on igaühel, mitte ainult Eesti kodanikul.",
+      "ref": "ps-26"
+    }
+  ],
+  "audio": {
+    "story": "audio/0047/story.mp3",
+    "law": "audio/0047/law.mp3",
+    "timings": "audio/0047/timings.json"
+  }
+}

@@ -1,0 +1,2494 @@
+{
+  "id": "0054",
+  "slot": "s054",
+  "stage": 1,
+  "area": 2,
+  "type": "side",
+  "title": "Ametikoht Jõhvis",
+  "law": [
+    "ps-30"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "dmitri": {
+      "name": "Dmitri",
+      "voice": "albert",
+      "note": "a stateless young man in Jõhvi with a good education"
+    },
+    "official": {
+      "name": "Proua Kuusk",
+      "voice": "liivika",
+      "note": "an official of the local government in Jõhvi"
+    },
+    "friend": {
+      "name": "Igor",
+      "voice": "indrek",
+      "note": "Dmitri's friend, a civil servant in a state agency who dreams of a café in Toila"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Dmitri oli kakskümmend kaheksa aastat vana ja elas Ida-Virumaal väikeses linnas.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Dmitri",
+          "l": "Dmitri",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kakskümmend",
+          "l": "kakskümmend",
+          "p": "N",
+          "parts": [
+            "kaks",
+            "kümmend"
+          ]
+        },
+        {
+          "f": "kaheksa",
+          "l": "kaheksa",
+          "p": "N"
+        },
+        {
+          "f": "aastat",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "elas",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": "Ida-Virumaal",
+          "l": "Ida-Virumaa",
+          "p": "H"
+        },
+        {
+          "f": "väikeses",
+          "l": "väike",
+          "p": "A",
+          "alt": [
+            "väikene"
+          ]
+        },
+        {
+          "f": "linnas",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Tema vanemad olid tulnud sinna tööle Nõukogude Liidu ajal.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "vanemad",
+          "l": "vanem",
+          "p": "S"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tulnud",
+          "l": "tulema",
+          "p": "V",
+          "alt": [
+            "tulnud"
+          ]
+        },
+        {
+          "f": "sinna",
+          "l": "sinna",
+          "p": "D"
+        },
+        {
+          "f": "tööle",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "Nõukogude",
+          "l": "Nõukogu",
+          "p": "H",
+          "alt": [
+            "Nõukogude"
+          ]
+        },
+        {
+          "f": "Liidu",
+          "l": "Liit",
+          "p": "H",
+          "alt": [
+            "Liidu",
+            "Liidud"
+          ]
+        },
+        {
+          "f": "ajal",
+          "l": "aeg",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta oli sündinud Eestis, aga tal ei olnud ühegi riigi kodakondsust.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sündinud",
+          "l": "sündima",
+          "p": "V",
+          "alt": [
+            "sündinud"
+          ]
+        },
+        {
+          "f": "Eestis",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "tal",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "olnud",
+          "l": "olema",
+          "p": "V",
+          "alt": [
+            "olnud"
+          ]
+        },
+        {
+          "f": "ühegi",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "riigi",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Tal oli hea haridus.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Tal",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "haridus",
+          "l": "haridus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta nägi kuulutust: kohalikus omavalitsuses oli vaba ametikoht noorele spetsialistile.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "nägi",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "kuulutust",
+          "l": "kuulutus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kohalikus",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsuses",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": "ametikoht",
+          "l": "ametikoht",
+          "p": "S",
+          "parts": [
+            "amet",
+            "koht"
+          ]
+        },
+        {
+          "f": "noorele",
+          "l": "noor",
+          "p": "A"
+        },
+        {
+          "f": "spetsialistile",
+          "l": "spetsialist",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Buss peatus omavalitsuse maja ees.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Buss",
+          "l": "buss",
+          "p": "S"
+        },
+        {
+          "f": "peatus",
+          "l": "peatuma",
+          "p": "V"
+        },
+        {
+          "f": "omavalitsuse",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "maja",
+          "l": "maja",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Teda võttis vastu ametnik, proua Kuusk.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Teda",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "vastu",
+          "l": "vastu",
+          "p": "D"
+        },
+        {
+          "f": "ametnik",
+          "l": "ametnik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "proua",
+          "l": "proua",
+          "p": "S"
+        },
+        {
+          "f": "Kuusk",
+          "l": "kuusk",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "dmitri",
+      "text": "„Tere! Ma tahaksin sellele ametikohale tööle tulla.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tere",
+          "l": "tere",
+          "p": "I"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tahaksin",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "sellele",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ametikohale",
+          "l": "ametikoht",
+          "p": "S",
+          "parts": [
+            "amet",
+            "koht"
+          ]
+        },
+        {
+          "f": "tööle",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "tulla",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "official",
+      "text": "„Kas te olete Eesti kodanik?“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "te",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "olete",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "dmitri",
+      "text": "„Ei, ma olen kodakondsuseta isik.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kodakondsuseta",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "isik",
+          "l": "isik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "official",
+      "text": "„Põhiseaduse paragrahv 30 ütleb: ametikohad riigiasutustes ja kohalikes omavalitsustes täidetakse seaduse alusel ja korras Eesti kodanikega. Kooskõlas seadusega võib neid ametikohti erandkorras täita ka välisriigi kodanike ja kodakondsuseta isikutega.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "30",
+          "l": "30",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ametikohad",
+          "l": "ametikoht",
+          "p": "S",
+          "parts": [
+            "amet",
+            "koht"
+          ]
+        },
+        {
+          "f": "riigiasutustes",
+          "l": "riigiasutus",
+          "p": "S",
+          "parts": [
+            "riik",
+            "asutus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kohalikes",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsustes",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "täidetakse",
+          "l": "täitma",
+          "p": "V"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "alusel",
+          "l": "alus",
+          "p": "S",
+          "alt": [
+            "alune"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikega",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kooskõlas",
+          "l": "kooskõla",
+          "p": "S",
+          "parts": [
+            "koos",
+            "kõla"
+          ]
+        },
+        {
+          "f": "seadusega",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "neid",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ametikohti",
+          "l": "ametikoht",
+          "p": "S",
+          "parts": [
+            "amet",
+            "koht"
+          ]
+        },
+        {
+          "f": "erandkorras",
+          "l": "erandkord",
+          "p": "S",
+          "parts": [
+            "erand",
+            "kord"
+          ]
+        },
+        {
+          "f": "täita",
+          "l": "täitma",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "välisriigi",
+          "l": "välisriik",
+          "p": "S",
+          "parts": [
+            "välis",
+            "riik"
+          ]
+        },
+        {
+          "f": "kodanike",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kodakondsuseta",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "isikutega",
+          "l": "isik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "dmitri",
+      "text": "„Erandkorras?“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Erandkorras",
+          "l": "erandkord",
+          "p": "S",
+          "parts": [
+            "erand",
+            "kord"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "official",
+      "text": "„See tähendab: tavaliselt mitte, aga mõnikord võib, kui seadus lubab. Kas te selle ametikoha saate, seda ma ei tea.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tavaliselt",
+          "l": "tavaliselt",
+          "p": "D"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "mõnikord",
+          "l": "mõnikord",
+          "p": "D",
+          "parts": [
+            "mõni",
+            "kord"
+          ]
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "lubab",
+          "l": "lubama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "te",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ametikoha",
+          "l": "ametikoht",
+          "p": "S",
+          "parts": [
+            "amet",
+            "koht"
+          ]
+        },
+        {
+          "f": "saate",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tea",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Hiljem kohtus Dmitri kohvikus oma sõbra Igoriga, kes töötas riigiasutuses.",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "Hiljem",
+          "l": "hiljem",
+          "p": "D"
+        },
+        {
+          "f": "kohtus",
+          "l": "kohtuma",
+          "p": "V"
+        },
+        {
+          "f": "Dmitri",
+          "l": "Dmitri",
+          "p": "H"
+        },
+        {
+          "f": "kohvikus",
+          "l": "kohvik",
+          "p": "S"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "sõbra",
+          "l": "sõber",
+          "p": "S"
+        },
+        {
+          "f": "Igoriga",
+          "l": "Igor",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "töötas",
+          "l": "töötama",
+          "p": "V"
+        },
+        {
+          "f": "riigiasutuses",
+          "l": "riigiasutus",
+          "p": "S",
+          "parts": [
+            "riik",
+            "asutus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Igor tahtis oma plaani teostada: avada Toilas väike kohvik.",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "Igor",
+          "l": "Igor",
+          "p": "H"
+        },
+        {
+          "f": "tahtis",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "plaani",
+          "l": "plaan",
+          "p": "S"
+        },
+        {
+          "f": "teostada",
+          "l": "teostama",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "avada",
+          "l": "avama",
+          "p": "V"
+        },
+        {
+          "f": "Toilas",
+          "l": "Toila",
+          "p": "H"
+        },
+        {
+          "f": "väike",
+          "l": "väike",
+          "p": "A"
+        },
+        {
+          "f": "kohvik",
+          "l": "kohvik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "friend",
+      "text": "„Ma tahan ettevõtlusega tegeleda. Minu kohvik tuleb pargi kõrvale, kus kunagi seisis suur loss. Hea kohv on igaühe õigus!“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tahan",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "ettevõtlusega",
+          "l": "ettevõtlus",
+          "p": "S",
+          "parts": [
+            "ette",
+            "võtlus"
+          ]
+        },
+        {
+          "f": "tegeleda",
+          "l": "tegelema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "kohvik",
+          "l": "kohvik",
+          "p": "S"
+        },
+        {
+          "f": "tuleb",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "pargi",
+          "l": "park",
+          "p": "S"
+        },
+        {
+          "f": "kõrvale",
+          "l": "kõrvale",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kus",
+          "l": "kus",
+          "p": "D"
+        },
+        {
+          "f": "kunagi",
+          "l": "kunagi",
+          "p": "D"
+        },
+        {
+          "f": "seisis",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": "suur",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "loss",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "kohv",
+          "l": "kohv",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "igaühe",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Dmitri leidis telefonist paragrahvi 30 teise lõike.",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "Dmitri",
+          "l": "Dmitri",
+          "p": "H"
+        },
+        {
+          "f": "leidis",
+          "l": "leidma",
+          "p": "V"
+        },
+        {
+          "f": "telefonist",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": "paragrahvi",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "30",
+          "l": "30",
+          "p": "N"
+        },
+        {
+          "f": "teise",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "lõike",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "dmitri",
+      "text": "„Kuula: seadus võib piirata mõne kategooria riigiteenistujate õigust tegelda ettevõtlusega ja koonduda tulundusühendustesse.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kuula",
+          "l": "kuulama",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "piirata",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": "mõne",
+          "l": "mõni",
+          "p": "P"
+        },
+        {
+          "f": "kategooria",
+          "l": "kategooria",
+          "p": "S"
+        },
+        {
+          "f": "riigiteenistujate",
+          "l": "riigiteenistuja",
+          "p": "S",
+          "parts": [
+            "riik",
+            "teenistuja"
+          ]
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "tegelda",
+          "l": "tegelema",
+          "p": "V"
+        },
+        {
+          "f": "ettevõtlusega",
+          "l": "ettevõtlus",
+          "p": "S",
+          "parts": [
+            "ette",
+            "võtlus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "koonduda",
+          "l": "koonduma",
+          "p": "V"
+        },
+        {
+          "f": "tulundusühendustesse",
+          "l": "tulundusühendus",
+          "p": "S",
+          "parts": [
+            "tulundus",
+            "ühendus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "friend",
+      "text": "„Mis on tulundusühendus? Ja mida tähendab koonduda?“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tulundusühendus",
+          "l": "tulundusühendus",
+          "p": "S",
+          "parts": [
+            "tulundus",
+            "ühendus"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": "koonduda",
+          "l": "koonduma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "dmitri",
+      "text": "„Tulundusühendus on ühendus, mille eesmärk on äri, näiteks firma. Koonduda tähendab, et inimesed loovad koos ühenduse või saavad selle liikmeks.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tulundusühendus",
+          "l": "tulundusühendus",
+          "p": "S",
+          "parts": [
+            "tulundus",
+            "ühendus"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ühendus",
+          "l": "ühendus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mille",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "eesmärk",
+          "l": "eesmärk",
+          "p": "S",
+          "parts": [
+            "ees",
+            "märk"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "äri",
+          "l": "äri",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "näiteks",
+          "l": "näide",
+          "p": "S"
+        },
+        {
+          "f": "firma",
+          "l": "firma",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Koonduda",
+          "l": "koonduma",
+          "p": "V"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "inimesed",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "loovad",
+          "l": "looma",
+          "p": "V"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "ühenduse",
+          "l": "ühendus",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "saavad",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "liikmeks",
+          "l": "liige",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "friend",
+      "text": "„Mõne kategooria? Kas ka minu?“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mõne",
+          "l": "mõni",
+          "p": "P"
+        },
+        {
+          "f": "kategooria",
+          "l": "kategooria",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "dmitri",
+      "text": "„Seda ütleb seadus, mitte põhiseadus. Ja seadus võib piirata nende õigust kuuluda erakondadesse ja mõnda liiki mittetulundusühendustesse.“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "piirata",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": "nende",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "kuuluda",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "erakondadesse",
+          "l": "erakond",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "mõnda",
+          "l": "mõni",
+          "p": "P"
+        },
+        {
+          "f": "liiki",
+          "l": "liik",
+          "p": "S"
+        },
+        {
+          "f": "mittetulundusühendustesse",
+          "l": "mittetulundusühendus",
+          "p": "S",
+          "parts": [
+            "mitte",
+            "tulundus",
+            "ühendus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "friend",
+      "text": "„Erakondadesse? Nagu need, kes enne valimisi tänaval kohvi jagavad?“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Erakondadesse",
+          "l": "erakond",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "need",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "enne",
+          "l": "enne",
+          "p": "K"
+        },
+        {
+          "f": "valimisi",
+          "l": "valimine",
+          "p": "S"
+        },
+        {
+          "f": "tänaval",
+          "l": "tänav",
+          "p": "S"
+        },
+        {
+          "f": "kohvi",
+          "l": "kohv",
+          "p": "S"
+        },
+        {
+          "f": "jagavad",
+          "l": "jagama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "dmitri",
+      "text": "„Jah. Mittetulundusühendus on näiteks spordiklubi või koor: selle eesmärk ei ole äri.“",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mittetulundusühendus",
+          "l": "mittetulundusühendus",
+          "p": "S",
+          "parts": [
+            "mitte",
+            "tulundus",
+            "ühendus"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "näiteks",
+          "l": "näide",
+          "p": "S"
+        },
+        {
+          "f": "spordiklubi",
+          "l": "spordiklubi",
+          "p": "S",
+          "parts": [
+            "sport",
+            "klubi"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "koor",
+          "l": "koor",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "eesmärk",
+          "l": "eesmärk",
+          "p": "S",
+          "parts": [
+            "ees",
+            "märk"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "äri",
+          "l": "äri",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "friend",
+      "text": "„Mina erakonda kuuluda ei taha. Aga sina?“",
+      "para": 18,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "erakonda",
+          "l": "erakond",
+          "p": "S"
+        },
+        {
+          "f": "kuuluda",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "taha",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "sina",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "dmitri",
+      "text": "„Mina ei saa. Paragrahv 48 ütleb, et erakondadesse võivad kuuluda ainult Eesti kodanikud. Ja hääletamisel osaleda ma ka ei saa.“",
+      "para": 19,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "saa",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "48",
+          "l": "48",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "erakondadesse",
+          "l": "erakond",
+          "p": "S"
+        },
+        {
+          "f": "võivad",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "kuuluda",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikud",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "hääletamisel",
+          "l": "hääletamine",
+          "p": "S"
+        },
+        {
+          "f": "osaleda",
+          "l": "osalema",
+          "p": "V"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "saa",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "friend",
+      "text": "„Eesti on demokraatlik vabariik. Kas sa ei taha ise kaasa rääkida?“",
+      "para": 20,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "demokraatlik",
+          "l": "demokraatlik",
+          "p": "A",
+          "parts": [
+            "demo",
+            "kraatlik"
+          ]
+        },
+        {
+          "f": "vabariik",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "taha",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "kaasa",
+          "l": "kaasa",
+          "p": "D"
+        },
+        {
+          "f": "rääkida",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õhtul otsustas Dmitri, et taotleb Eesti kodakondsust.",
+      "para": 21,
+      "tokens": [
+        {
+          "f": "Õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "otsustas",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": "Dmitri",
+          "l": "Dmitri",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "taotleb",
+          "l": "taotlema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "See oli tähtis otsus.",
+      "para": 21,
+      "tokens": [
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tähtis",
+          "l": "tähtis",
+          "p": "A"
+        },
+        {
+          "f": "otsus",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "ametikoht",
+      "lemma": "ametikoht",
+      "translation": "должность"
+    },
+    {
+      "form": "riigiasutustes",
+      "lemma": "riigiasutus",
+      "translation": "государственное учреждение"
+    },
+    {
+      "form": "ettevõtlusega",
+      "lemma": "ettevõtlus",
+      "translation": "предпринимательство"
+    },
+    {
+      "form": "ettevõtlusega tegeleda",
+      "lemma": "ettevõtlusega tegelema",
+      "translation": "заниматься предпринимательством"
+    },
+    {
+      "form": "riigiteenistujate",
+      "lemma": "riigiteenistuja",
+      "translation": "государственный служащий"
+    },
+    {
+      "form": "koonduda",
+      "lemma": "koonduma",
+      "translation": "объединяться"
+    },
+    {
+      "form": "tulundusühendustesse",
+      "lemma": "tulundusühendus",
+      "translation": "коммерческое объединение (объединение, извлекающее прибыль)"
+    },
+    {
+      "form": "erakondadesse",
+      "lemma": "erakond",
+      "translation": "партия, политическая партия"
+    },
+    {
+      "form": "kuuluda erakondadesse",
+      "lemma": "erakonda kuuluma",
+      "translation": "состоять в партии"
+    },
+    {
+      "form": "mittetulundusühendustesse",
+      "lemma": "mittetulundusühendus",
+      "translation": "некоммерческое объединение"
+    },
+    {
+      "form": "kategooria",
+      "lemma": "kategooria",
+      "translation": "категория"
+    },
+    {
+      "form": "liiki",
+      "lemma": "liik",
+      "translation": "вид (mõnda liiki — некоторых видов)"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Ametikohad riigiasutustes ja kohalikes omavalitsustes täidetakse seaduse alusel ja korras Eesti kodanikega. (§ 30)",
+      "ref": "ps-30-lg1"
+    },
+    {
+      "text": "Kooskõlas seadusega võib neid ametikohti erandkorras täita ka välisriigi kodanike ja kodakondsuseta isikutega. (§ 30)",
+      "ref": "ps-30-lg1"
+    },
+    {
+      "text": "Seadus võib piirata mõne kategooria riigiteenistujate õigust tegelda ettevõtlusega ja koonduda tulundusühendustesse ning õigust kuuluda erakondadesse ja mõnda liiki mittetulundusühendustesse. (§ 30)",
+      "ref": "ps-30-lg2"
+    },
+    {
+      "text": "Erakondadesse võivad kuuluda ainult Eesti kodanikud. (§ 48)",
+      "ref": "ps-48-lg1"
+    },
+    {
+      "text": "Kedagi ei tohi süüdi mõista teo eest, kui seda tegu ei tunnista kuriteoks seadus, mis oli jõus teo toimepanemise ajal. (§ 23)",
+      "ref": "ps-23-lg1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Kellega täidetakse põhiseaduse järgi ametikohad riigiasutustes ja kohalikes omavalitsustes?",
+      "options": [
+        "seaduse alusel ja korras Eesti kodanikega",
+        "ainult inimestega, kes on sündinud Eestis",
+        "kõigi Eestis elavate inimestega võrdselt",
+        "ainult Euroopa Liidu kodanikega"
+      ],
+      "answer": 0,
+      "explanation": "§ 30 lõige 1 ütleb: ametikohad riigiasutustes ja kohalikes omavalitsustes täidetakse seaduse alusel ja korras Eesti kodanikega. Kooskõlas seadusega võib neid ametikohti erandkorras täita ka välisriigi kodanike ja kodakondsuseta isikutega.",
+      "ref": "ps-30-lg1"
+    },
+    {
+      "type": "truefalse",
+      "text": "Seadus võib piirata mõne kategooria riigiteenistujate õigust tegelda ettevõtlusega.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 0,
+      "explanation": "§ 30 lõige 2 ütleb: seadus võib piirata mõne kategooria riigiteenistujate õigust tegelda ettevõtlusega ja koonduda tulundusühendustesse ning õigust kuuluda erakondadesse ja mõnda liiki mittetulundusühendustesse.",
+      "ref": "ps-30-lg2"
+    }
+  ],
+  "audio": {
+    "story": "audio/0054/story.mp3",
+    "law": "audio/0054/law.mp3",
+    "timings": "audio/0054/timings.json"
+  }
+}

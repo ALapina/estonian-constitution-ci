@@ -1,0 +1,149 @@
+{
+  "story": {
+    "file": "story.mp3",
+    "duration": 134.593,
+    "segments": [
+      {
+        "segment": 0,
+        "start": 0.25,
+        "end": 3.57
+      },
+      {
+        "segment": 1,
+        "start": 3.87,
+        "end": 6.541
+      },
+      {
+        "segment": 2,
+        "start": 6.841,
+        "end": 12.007
+      },
+      {
+        "segment": 3,
+        "start": 12.707,
+        "end": 16.85
+      },
+      {
+        "segment": 4,
+        "start": 17.55,
+        "end": 19.907
+      },
+      {
+        "segment": 5,
+        "start": 20.607,
+        "end": 28.152
+      },
+      {
+        "segment": 6,
+        "start": 28.852,
+        "end": 42.778
+      },
+      {
+        "segment": 7,
+        "start": 43.478,
+        "end": 53.087
+      },
+      {
+        "segment": 8,
+        "start": 53.787,
+        "end": 57.92
+      },
+      {
+        "segment": 9,
+        "start": 58.62,
+        "end": 64.735
+      },
+      {
+        "segment": 10,
+        "start": 65.035,
+        "end": 69.898
+      },
+      {
+        "segment": 11,
+        "start": 70.598,
+        "end": 79.174
+      },
+      {
+        "segment": 12,
+        "start": 79.874,
+        "end": 90.96
+      },
+      {
+        "segment": 13,
+        "start": 91.66,
+        "end": 97.068
+      },
+      {
+        "segment": 14,
+        "start": 97.768,
+        "end": 101.714
+      },
+      {
+        "segment": 15,
+        "start": 102.414,
+        "end": 105.895
+      },
+      {
+        "segment": 16,
+        "start": 106.195,
+        "end": 114.088
+      },
+      {
+        "segment": 17,
+        "start": 114.788,
+        "end": 118.582
+      },
+      {
+        "segment": 18,
+        "start": 119.282,
+        "end": 125.041
+      },
+      {
+        "segment": 19,
+        "start": 125.741,
+        "end": 129.013
+      },
+      {
+        "segment": 20,
+        "start": 129.713,
+        "end": 131.454
+      },
+      {
+        "segment": 21,
+        "start": 131.754,
+        "end": 134.343
+      }
+    ]
+  },
+  "law": {
+    "file": "law.mp3",
+    "duration": 58.007,
+    "segments": [
+      {
+        "fact": 0,
+        "start": 0.25,
+        "end": 6.634
+      },
+      {
+        "fact": 1,
+        "start": 7.334,
+        "end": 25.957
+      },
+      {
+        "fact": 2,
+        "start": 26.657,
+        "end": 32.622
+      },
+      {
+        "fact": 3,
+        "start": 33.322,
+        "end": 42.293
+      },
+      {
+        "fact": 4,
+        "start": 42.993,
+        "end": 57.757
+      }
+    ]
+  }
+}

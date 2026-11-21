@@ -1,0 +1,2397 @@
+{
+  "id": "0046",
+  "slot": "s046",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Katki läinud ekraan",
+  "law": [
+    "ps-25"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "guard": {
+      "name": "Turvatöötaja",
+      "voice": "albert",
+      "note": "a security guard at a shopping centre in Tallinn"
+    },
+    "manager": {
+      "name": "Poe juhataja",
+      "voice": "vesta",
+      "note": "the manager of the clothes shop where Olga bought a scarf for Nikolai"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Pühapäeval, 20. detsembril, läksid Olga ja Lisa kaubanduskeskusesse jõuludeks kingitusi ostma.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Pühapäeval",
+          "l": "pühapäev",
+          "p": "S",
+          "parts": [
+            "püha",
+            "päev"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "20.",
+          "l": "20.",
+          "p": "O"
+        },
+        {
+          "f": "detsembril",
+          "l": "detsember",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "läksid",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "kaubanduskeskusesse",
+          "l": "kaubanduskeskus",
+          "p": "S",
+          "parts": [
+            "kaubandus",
+            "keskus"
+          ]
+        },
+        {
+          "f": "jõuludeks",
+          "l": "jõulud",
+          "p": "S"
+        },
+        {
+          "f": "kingitusi",
+          "l": "kingitus",
+          "p": "S"
+        },
+        {
+          "f": "ostma",
+          "l": "ostma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Keskuse kõrgeimal korrusel ostis Olga Nikolaile kingituse: see oli soe sall.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Keskuse",
+          "l": "keskus",
+          "p": "S"
+        },
+        {
+          "f": "kõrgeimal",
+          "l": "kõrgeim",
+          "p": "U"
+        },
+        {
+          "f": "korrusel",
+          "l": "korrus",
+          "p": "S"
+        },
+        {
+          "f": "ostis",
+          "l": "ostma",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "Nikolaile",
+          "l": "Nikolai",
+          "p": "H"
+        },
+        {
+          "f": "kingituse",
+          "l": "kingitus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "soe",
+          "l": "soe",
+          "p": "A"
+        },
+        {
+          "f": "sall",
+          "l": "sall",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga maksis kassas ja sall läks Lisa kotti.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "maksis",
+          "l": "maksma",
+          "p": "V"
+        },
+        {
+          "f": "kassas",
+          "l": "kassa",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sall",
+          "l": "sall",
+          "p": "S"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "kotti",
+          "l": "kott",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kui Lisa poest välja läks, andis uks signaali.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "poest",
+          "l": "pood",
+          "p": "S"
+        },
+        {
+          "f": "välja",
+          "l": "välja",
+          "p": "D"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "andis",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": "uks",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "signaali",
+          "l": "signaal",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kohe jooksis kohale turvatöötaja.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Kohe",
+          "l": "kohe",
+          "p": "D"
+        },
+        {
+          "f": "jooksis",
+          "l": "jooksma",
+          "p": "V"
+        },
+        {
+          "f": "kohale",
+          "l": "kohale",
+          "p": "D"
+        },
+        {
+          "f": "turvatöötaja",
+          "l": "turvatöötaja",
+          "p": "S",
+          "parts": [
+            "turb",
+            "töötaja"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "guard",
+      "text": "„Seisa! Sa oled varas!“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seisa",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "oled",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "varas",
+          "l": "varas",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta tõmbas kõigi inimeste ees Lisa kotti.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "tõmbas",
+          "l": "tõmbama",
+          "p": "V"
+        },
+        {
+          "f": "kõigi",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "inimeste",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "kotti",
+          "l": "kott",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Koti lukk läks katki ja telefon kukkus põrandale.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Koti",
+          "l": "kott",
+          "p": "S"
+        },
+        {
+          "f": "lukk",
+          "l": "lukk",
+          "p": "S"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "katki",
+          "l": "katki",
+          "p": "D"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "telefon",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": "kukkus",
+          "l": "kukkuma",
+          "p": "V"
+        },
+        {
+          "f": "põrandale",
+          "l": "põrand",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ka ekraan läks katki.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "ekraan",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "katki",
+          "l": "katki",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ma ei ole varas! Ema maksis!“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "varas",
+          "l": "varas",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "maksis",
+          "l": "maksma",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "guard",
+      "text": "„Kõik vargad räägivad nii. Kas tahad vanglas karistust kanda?“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "vargad",
+          "l": "varas",
+          "p": "S"
+        },
+        {
+          "f": "räägivad",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "tahad",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "vanglas",
+          "l": "vangla",
+          "p": "S"
+        },
+        {
+          "f": "karistust",
+          "l": "karistus",
+          "p": "S"
+        },
+        {
+          "f": "kanda",
+          "l": "kandma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Inimesed peatusid ja vaatasid, nende seas kaks tüdrukut Lisa gümnaasiumist.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Inimesed",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "peatusid",
+          "l": "peatuma",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vaatasid",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "nende",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "seas",
+          "l": "seas",
+          "p": "K"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "tüdrukut",
+          "l": "tüdruk",
+          "p": "S"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "gümnaasiumist",
+          "l": "gümnaasium",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa nägu läks punaseks ja ta tundis suurt häbi.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "nägu",
+          "l": "nägu",
+          "p": "S"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "punaseks",
+          "l": "punane",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "tundis",
+          "l": "tundma",
+          "p": "V"
+        },
+        {
+          "f": "suurt",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "häbi",
+          "l": "häbi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis tulid Olga ja poe juhataja.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "tulid",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "poe",
+          "l": "pood",
+          "p": "S"
+        },
+        {
+          "f": "juhataja",
+          "l": "juhataja",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Sall oli makstud, aga selle peal oli veel märk: müüja oli unustanud selle ära võtta.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Sall",
+          "l": "sall",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "makstud",
+          "l": "maksma",
+          "p": "V",
+          "alt": [
+            "makstud"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "peal",
+          "l": "peal",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "märk",
+          "l": "märk",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "müüja",
+          "l": "müüja",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "unustanud",
+          "l": "unustama",
+          "p": "V",
+          "alt": [
+            "unustanud"
+          ]
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "manager",
+      "text": "„Palun vabandust! See oli meie viga. Meie maksame ekraani eest.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Palun",
+          "l": "paluma",
+          "p": "V"
+        },
+        {
+          "f": "vabandust",
+          "l": "vabandust",
+          "p": "I"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "viga",
+          "l": "viga",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "maksame",
+          "l": "maksma",
+          "p": "V"
+        },
+        {
+          "f": "ekraani",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "eest",
+          "l": "eest",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ka turvatöötaja palus vabandust.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "turvatöötaja",
+          "l": "turvatöötaja",
+          "p": "S",
+          "parts": [
+            "turb",
+            "töötaja"
+          ]
+        },
+        {
+          "f": "palus",
+          "l": "paluma",
+          "p": "V"
+        },
+        {
+          "f": "vabandust",
+          "l": "vabandus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õhtul luges Lisa telefonist Riigi Teatajat, mis avaldab kõik seadused.",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "Õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "luges",
+          "l": "lugema",
+          "p": "V"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "telefonist",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": "Riigi",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "Teatajat",
+          "l": "teataja",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "avaldab",
+          "l": "avaldama",
+          "p": "V"
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "seadused",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ema, kuula! Paragrahv 25: igaühel on õigus talle ükskõik kelle poolt õigusvastaselt tekitatud moraalse ja materiaalse kahju hüvitamisele.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kuula",
+          "l": "kuulama",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "25",
+          "l": "25",
+          "p": "N"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "talle",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ükskõik",
+          "l": "ükskõik",
+          "p": "D",
+          "parts": [
+            "üks",
+            "kõik"
+          ]
+        },
+        {
+          "f": "kelle",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "poolt",
+          "l": "poolt",
+          "p": "K"
+        },
+        {
+          "f": "õigusvastaselt",
+          "l": "õigusvastaselt",
+          "p": "D",
+          "parts": [
+            "õigus",
+            "vastaselt"
+          ]
+        },
+        {
+          "f": "tekitatud",
+          "l": "tekitatud",
+          "p": "A",
+          "alt": [
+            "tekitama"
+          ]
+        },
+        {
+          "f": "moraalse",
+          "l": "moraalne",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "materiaalse",
+          "l": "materiaalne",
+          "p": "A"
+        },
+        {
+          "f": "kahju",
+          "l": "kahi",
+          "p": "S",
+          "alt": [
+            "kahju"
+          ]
+        },
+        {
+          "f": "hüvitamisele",
+          "l": "hüvitamine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Õigusvastaselt tähendab: seaduse või teiste inimeste õiguste vastu. Hüvitamine on see, mida juhataja täna lubas: pood maksab ekraani eest.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Õigusvastaselt",
+          "l": "õigusvastaselt",
+          "p": "D",
+          "parts": [
+            "õigus",
+            "vastaselt"
+          ]
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "teiste",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "inimeste",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "õiguste",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "vastu",
+          "l": "vastu",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Hüvitamine",
+          "l": "hüvitamine",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "juhataja",
+          "l": "juhataja",
+          "p": "S"
+        },
+        {
+          "f": "täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "lubas",
+          "l": "lubama",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "pood",
+          "l": "pood",
+          "p": "S"
+        },
+        {
+          "f": "maksab",
+          "l": "maksma",
+          "p": "V"
+        },
+        {
+          "f": "ekraani",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "eest",
+          "l": "eest",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa võttis paberi ja joonistas sellele kaks kasti.",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "paberi",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "joonistas",
+          "l": "joonistama",
+          "p": "V"
+        },
+        {
+          "f": "sellele",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "kasti",
+          "l": "kast",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Esimesse kasti kirjutas ta: „Materiaalne kahju: ekraan ja koti lukk.“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "Esimesse",
+          "l": "esimene",
+          "p": "P"
+        },
+        {
+          "f": "kasti",
+          "l": "kast",
+          "p": "S"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Materiaalne",
+          "l": "materiaalne",
+          "p": "A"
+        },
+        {
+          "f": "kahju",
+          "l": "kahju",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ekraan",
+          "l": "ekraan",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "koti",
+          "l": "kott",
+          "p": "S"
+        },
+        {
+          "f": "lukk",
+          "l": "lukk",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Teise kasti kirjutas ta: „Moraalne kahju: häbi kõigi inimeste ees.“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "Teise",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "kasti",
+          "l": "kast",
+          "p": "S"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Moraalne",
+          "l": "moraalne",
+          "p": "A"
+        },
+        {
+          "f": "kahju",
+          "l": "kahju",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "häbi",
+          "l": "häbi",
+          "p": "S"
+        },
+        {
+          "f": "kõigi",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "inimeste",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ükskõik kelle poolt! Nii et kahju võib tekitada mitte ainult täidesaatev võim või kohalik omavalitsus, vaid ka pood?“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ükskõik",
+          "l": "ükskõik",
+          "p": "D",
+          "parts": [
+            "üks",
+            "kõik"
+          ]
+        },
+        {
+          "f": "kelle",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "poolt",
+          "l": "poolt",
+          "p": "K"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "kahju",
+          "l": "kahju",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "tekitada",
+          "l": "tekitama",
+          "p": "V"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "täidesaatev",
+          "l": "täidesaatev",
+          "p": "A",
+          "parts": [
+            "täis",
+            "saatev"
+          ]
+        },
+        {
+          "f": "võim",
+          "l": "võim",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "kohalik",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsus",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "vaid",
+          "l": "vaid",
+          "p": "J"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "pood",
+          "l": "pood",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Jah. Ükskõik kes.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ükskõik",
+          "l": "ükskõik",
+          "p": "D",
+          "parts": [
+            "üks",
+            "kõik"
+          ]
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Kas turvatöötaja käitus õigusvastaselt?“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "turvatöötaja",
+          "l": "turvatöötaja",
+          "p": "S",
+          "parts": [
+            "turb",
+            "töötaja"
+          ]
+        },
+        {
+          "f": "käitus",
+          "l": "käituma",
+          "p": "V"
+        },
+        {
+          "f": "õigusvastaselt",
+          "l": "õigusvastaselt",
+          "p": "D",
+          "parts": [
+            "õigus",
+            "vastaselt"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Seda ei otsusta meie. Aga paragrahv 19 ütleb: igaüks peab oma õiguste ja vabaduste kasutamisel ning kohustuste täitmisel austama ja arvestama teiste inimeste õigusi ja vabadusi.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "otsusta",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "19",
+          "l": "19",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaüks",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "õiguste",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vabaduste",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": "kasutamisel",
+          "l": "kasutamine",
+          "p": "S"
+        },
+        {
+          "f": "ning",
+          "l": "ning",
+          "p": "J"
+        },
+        {
+          "f": "kohustuste",
+          "l": "kohustus",
+          "p": "S"
+        },
+        {
+          "f": "täitmisel",
+          "l": "täitmine",
+          "p": "S"
+        },
+        {
+          "f": "austama",
+          "l": "austama",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "arvestama",
+          "l": "arvestama",
+          "p": "V"
+        },
+        {
+          "f": "teiste",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "inimeste",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "õigusi",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vabadusi",
+          "l": "vabadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Turvatöötaja pidi kõigepealt kontrollima, mitte kohe kotti tõmbama.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Turvatöötaja",
+          "l": "turvatöötaja",
+          "p": "S",
+          "parts": [
+            "turb",
+            "töötaja"
+          ]
+        },
+        {
+          "f": "pidi",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "kõigepealt",
+          "l": "kõigepealt",
+          "p": "D",
+          "parts": [
+            "kõige",
+            "pealt"
+          ]
+        },
+        {
+          "f": "kontrollima",
+          "l": "kontrollima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "kohe",
+          "l": "kohe",
+          "p": "D"
+        },
+        {
+          "f": "kotti",
+          "l": "kott",
+          "p": "S"
+        },
+        {
+          "f": "tõmbama",
+          "l": "tõmbama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Täna oli kaubanduskeskus nagu riik riigis: oma reeglid ja oma kohtunik.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kaubanduskeskus",
+          "l": "kaubanduskeskus",
+          "p": "S",
+          "parts": [
+            "kaubandus",
+            "keskus"
+          ]
+        },
+        {
+          "f": "nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "riik",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "riigis",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "reeglid",
+          "l": "reegel",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "kohtunik",
+          "l": "kohtunik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ei. Ka kaubanduskeskus on Eesti maa-ala ja turvatöötaja ei ole kohtunik.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "kaubanduskeskus",
+          "l": "kaubanduskeskus",
+          "p": "S",
+          "parts": [
+            "kaubandus",
+            "keskus"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "maa-ala",
+          "l": "maa-ala",
+          "p": "S",
+          "parts": [
+            "maa",
+            "-ala"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "turvatöötaja",
+          "l": "turvatöötaja",
+          "p": "S",
+          "parts": [
+            "turb",
+            "töötaja"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohtunik",
+          "l": "kohtunik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa naeratas ja pani paberi külmkapi uksele.",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "naeratas",
+          "l": "naeratama",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "pani",
+          "l": "panema",
+          "p": "V"
+        },
+        {
+          "f": "paberi",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": "külmkapi",
+          "l": "külmkapp",
+          "p": "S",
+          "parts": [
+            "külm",
+            "kapp"
+          ]
+        },
+        {
+          "f": "uksele",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "hüvitamisele",
+      "lemma": "hüvitamine",
+      "translation": "возмещение, компенсация (kahju hüvitamine — возмещение вреда)"
+    },
+    {
+      "form": "moraalse",
+      "lemma": "moraalne",
+      "translation": "моральный (moraalne kahju — моральный вред)"
+    },
+    {
+      "form": "materiaalse",
+      "lemma": "materiaalne",
+      "translation": "материальный"
+    },
+    {
+      "form": "materiaalse kahju",
+      "lemma": "materiaalne kahju",
+      "translation": "материальный ущерб, материальный вред"
+    },
+    {
+      "form": "maa-ala",
+      "lemma": "maa-ala",
+      "translation": "территория"
+    },
+    {
+      "form": "turvatöötaja",
+      "lemma": "turvatöötaja",
+      "translation": "охранник, сотрудник охраны"
+    },
+    {
+      "form": "kaubanduskeskusesse",
+      "lemma": "kaubanduskeskus",
+      "translation": "торговый центр"
+    },
+    {
+      "form": "õigusvastaselt",
+      "lemma": "õigusvastaselt",
+      "translation": "противоправно"
+    },
+    {
+      "form": "tekitatud",
+      "lemma": "tekitama",
+      "translation": "причинять (kahju tekitama — причинять вред)"
+    },
+    {
+      "form": "häbi",
+      "lemma": "häbi",
+      "translation": "стыд"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus talle ükskõik kelle poolt õigusvastaselt tekitatud moraalse ja materiaalse kahju hüvitamisele. (§ 25)",
+      "ref": "ps-25"
+    },
+    {
+      "text": "Õigus talle õigusvastaselt tekitatud kahju hüvitamisele on igaühel, mitte ainult Eesti kodanikul. (§ 25)",
+      "ref": "ps-25"
+    },
+    {
+      "text": "Kahju võib olla õigusvastaselt tekitanud ükskõik kes, mitte ainult riik. (§ 25)",
+      "ref": "ps-25"
+    },
+    {
+      "text": "Igaüks peab oma õiguste ja vabaduste kasutamisel ning kohustuste täitmisel austama ja arvestama teiste inimeste õigusi ja vabadusi ning järgima seadust. (§ 19)",
+      "ref": "ps-19-lg2"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Millise kahju hüvitamisele on igaühel õigus põhiseaduse § 25 järgi?",
+      "options": [
+        "talle ükskõik kelle poolt õigusvastaselt tekitatud kahju",
+        "ainult riigi poolt õigusvastaselt tekitatud kahju",
+        "ainult kohaliku omavalitsuse poolt tekitatud kahju",
+        "ainult kohtu poolt tekitatud kahju"
+      ],
+      "answer": 0,
+      "explanation": "§ 25 ütleb: igaühel on õigus talle ükskõik kelle poolt õigusvastaselt tekitatud moraalse ja materiaalse kahju hüvitamisele. Kahju võib olla õigusvastaselt tekitanud ükskõik kes, mitte ainult riik.",
+      "ref": "ps-25"
+    },
+    {
+      "type": "truefalse",
+      "text": "Põhiseaduse järgi on igaühel õigus ainult materiaalse kahju hüvitamisele.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 25 räägib moraalsest ja materiaalsest kahjust: igaühel on õigus talle ükskõik kelle poolt õigusvastaselt tekitatud moraalse ja materiaalse kahju hüvitamisele.",
+      "ref": "ps-25"
+    }
+  ],
+  "audio": {
+    "story": "audio/0046/story.mp3",
+    "law": "audio/0046/law.mp3",
+    "timings": "audio/0046/timings.json"
+  }
+}
