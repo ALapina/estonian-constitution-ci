@@ -449,11 +449,13 @@ for (const slot of slots) {
 const seqByLemma = new Map(entries.map((e) => [e.lemma.toLowerCase(), e.lemmas!]));
 const seqOf = (w: string) => seqByLemma.get(w.toLowerCase()) ?? w.toLowerCase().split(/\s+/);
 const lemmasOf = (t: Token) => [t.l, ...(t.alt ?? [])].filter((x): x is string => !!x).map((x) => x.toLowerCase());
+const multiwordKeys = (t: Token) => {
+  const keys = [...lemmasOf(t), t.f.toLowerCase()];
+  return [...keys, ...keys.filter((k) => k.includes('-')).flatMap((k) => k.split('-'))];
+};
 const occursIn = (seq: string[], toks: Token[]) => {
-  // Same matching as scripts/check.ts: words of a multiword item also match surface forms.
-  const sets = toks
-    .filter((t) => t.p !== 'Z')
-    .map((t) => new Set(seq.length > 1 ? [...lemmasOf(t), t.f.toLowerCase()] : lemmasOf(t)));
+  // Same matching as scripts/check.ts: words of a multiword item also match surface forms and hyphen parts.
+  const sets = toks.filter((t) => t.p !== 'Z').map((t) => new Set(seq.length > 1 ? multiwordKeys(t) : lemmasOf(t)));
   const width = seq.length + 3;
   for (let i = 0; i < Math.max(1, sets.length - width + 1); i++) {
     const win = sets.slice(i, i + width);
