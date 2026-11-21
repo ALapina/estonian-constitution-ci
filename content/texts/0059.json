@@ -1,0 +1,2368 @@
+{
+  "id": "0059",
+  "slot": "s059",
+  "stage": 1,
+  "area": 2,
+  "type": "side",
+  "title": "Puusepa tööriistad",
+  "law": [
+    "ps-33"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "rein": {
+      "name": "Rein",
+      "voice": "albert",
+      "note": "a carpenter with a workshop near Viljandi"
+    },
+    "police": {
+      "name": "Politseinik",
+      "voice": "indrek",
+      "note": "a police officer in Viljandi County"
+    },
+    "wife": {
+      "name": "Reinu naine",
+      "voice": "liivika",
+      "note": "Rein's wife"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Rein oli puusepp ja tema töökoda oli vana talu kõrval Viljandi lähedal.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Rein",
+          "l": "Rein",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "puusepp",
+          "l": "puusepp",
+          "p": "S",
+          "parts": [
+            "puu",
+            "sepp"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "töökoda",
+          "l": "töökoda",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koda"
+          ]
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": "talu",
+          "l": "talu",
+          "p": "S"
+        },
+        {
+          "f": "kõrval",
+          "l": "kõrval",
+          "p": "K"
+        },
+        {
+          "f": "Viljandi",
+          "l": "Viljandi",
+          "p": "H"
+        },
+        {
+          "f": "lähedal",
+          "l": "lähedal",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta oli vana mees pikkade hallide juustega.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": "mees",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "pikkade",
+          "l": "pikk",
+          "p": "A"
+        },
+        {
+          "f": "hallide",
+          "l": "hall",
+          "p": "A"
+        },
+        {
+          "f": "juustega",
+          "l": "juus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Mets oli tema jaoks Eesti parim loodusvara.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Mets",
+          "l": "mets",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "jaoks",
+          "l": "jaoks",
+          "p": "K"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "parim",
+          "l": "parim",
+          "p": "U"
+        },
+        {
+          "f": "loodusvara",
+          "l": "loodusvara",
+          "p": "S",
+          "parts": [
+            "loodus",
+            "vara"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Sel hommikul tegi ta suurt lauda kohalikule gümnaasiumile.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Sel",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "hommikul",
+          "l": "hommik",
+          "p": "S"
+        },
+        {
+          "f": "tegi",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "suurt",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "lauda",
+          "l": "laud",
+          "p": "S"
+        },
+        {
+          "f": "kohalikule",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "gümnaasiumile",
+          "l": "gümnaasium",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Reinul oli reegel: igal tööriistal on number.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Reinul",
+          "l": "Rein",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "reegel",
+          "l": "reegel",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igal",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "tööriistal",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "number",
+          "l": "number",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Seinal oli tabel kõigi tööriistade numbritega.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Seinal",
+          "l": "sein",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tabel",
+          "l": "tabel",
+          "p": "S"
+        },
+        {
+          "f": "kõigi",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "tööriistade",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": "numbritega",
+          "l": "number",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kell kümme peatus talu ees politseiauto ja sellest tulid välja kaks politseinikku.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Kell",
+          "l": "kell",
+          "p": "S"
+        },
+        {
+          "f": "kümme",
+          "l": "kümme",
+          "p": "N"
+        },
+        {
+          "f": "peatus",
+          "l": "peatuma",
+          "p": "V"
+        },
+        {
+          "f": "talu",
+          "l": "talu",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "politseiauto",
+          "l": "politseiauto",
+          "p": "S",
+          "parts": [
+            "politsei",
+            "auto"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sellest",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tulid",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "välja",
+          "l": "välja",
+          "p": "D"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "politseinikku",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "police",
+      "text": "„Tere! Eile võttis keegi ühelt ehitusplatsilt tööriistu. Üks inimene nägi samasuguseid tööriistu teie töökojas.“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tere",
+          "l": "tere",
+          "p": "I"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eile",
+          "l": "eile",
+          "p": "D"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ühelt",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "ehitusplatsilt",
+          "l": "ehitusplats",
+          "p": "S",
+          "parts": [
+            "ehitus",
+            "plats"
+          ]
+        },
+        {
+          "f": "tööriistu",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "inimene",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "nägi",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "samasuguseid",
+          "l": "samasugune",
+          "p": "P",
+          "parts": [
+            "sama",
+            "sugune"
+          ]
+        },
+        {
+          "f": "tööriistu",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": "teie",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "töökojas",
+          "l": "töökoda",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koda"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "rein",
+      "text": "„Minu töökojas? Kas te tahate minu töökotta tungida?“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "töökojas",
+          "l": "töökoda",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koda"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "te",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "tahate",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "töökotta",
+          "l": "töökoda",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koda"
+          ]
+        },
+        {
+          "f": "tungida",
+          "l": "tungima",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "police",
+      "text": "„Me ei tungi kellegi töökotta ilma seadusliku aluseta. Põhiseaduse paragrahv 33 ütleb: kodu on puutumatu. Ei tohi tungida kellegi eluruumi, valdusse ega töökohta ega neid ka läbi otsida, välja arvatud seadusega sätestatud juhtudel ja korras.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Me",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tungi",
+          "l": "tungima",
+          "p": "V"
+        },
+        {
+          "f": "kellegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "töökotta",
+          "l": "töökoda",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koda"
+          ]
+        },
+        {
+          "f": "ilma",
+          "l": "ilma",
+          "p": "K"
+        },
+        {
+          "f": "seadusliku",
+          "l": "seaduslik",
+          "p": "A"
+        },
+        {
+          "f": "aluseta",
+          "l": "alune",
+          "p": "S",
+          "alt": [
+            "alus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "33",
+          "l": "33",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kodu",
+          "l": "kodu",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "puutumatu",
+          "l": "puutumatu",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "tungida",
+          "l": "tungima",
+          "p": "V"
+        },
+        {
+          "f": "kellegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "eluruumi",
+          "l": "eluruum",
+          "p": "S",
+          "parts": [
+            "elu",
+            "ruum"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "valdusse",
+          "l": "valdus",
+          "p": "S"
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "töökohta",
+          "l": "töökoht",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koht"
+          ]
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "neid",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "läbi",
+          "l": "läbi",
+          "p": "D"
+        },
+        {
+          "f": "otsida",
+          "l": "otsima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "välja",
+          "l": "välja",
+          "p": "D"
+        },
+        {
+          "f": "arvatud",
+          "l": "arvama",
+          "p": "V",
+          "alt": [
+            "arvatud"
+          ]
+        },
+        {
+          "f": "seadusega",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "juhtudel",
+          "l": "juht",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "rein",
+      "text": "„Aga mis on valdus?“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "valdus",
+          "l": "valdus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "police",
+      "text": "„Valdus on näiteks teie maa ja aed. Aga seadusega sätestatud juhtudel ja korras võib seda teha, näiteks tõe väljaselgitamiseks kriminaalmenetluses. Ja meie töö on praegu just tõe väljaselgitamine.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Valdus",
+          "l": "valdus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "näiteks",
+          "l": "näiteks",
+          "p": "D"
+        },
+        {
+          "f": "teie",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "maa",
+          "l": "maa",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "aed",
+          "l": "aed",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "seadusega",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "juhtudel",
+          "l": "juht",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "teha",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "näiteks",
+          "l": "näiteks",
+          "p": "D"
+        },
+        {
+          "f": "tõe",
+          "l": "tõde",
+          "p": "S",
+          "alt": [
+            "tõsi"
+          ]
+        },
+        {
+          "f": "väljaselgitamiseks",
+          "l": "väljaselgitamine",
+          "p": "S",
+          "parts": [
+            "välja",
+            "selgitamine"
+          ]
+        },
+        {
+          "f": "kriminaalmenetluses",
+          "l": "kriminaalmenetlus",
+          "p": "S",
+          "parts": [
+            "kriminaal",
+            "menetlus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "töö",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "praegu",
+          "l": "praegu",
+          "p": "D"
+        },
+        {
+          "f": "just",
+          "l": "just",
+          "p": "D"
+        },
+        {
+          "f": "tõe",
+          "l": "tõde",
+          "p": "S",
+          "alt": [
+            "tõsi"
+          ]
+        },
+        {
+          "f": "väljaselgitamine",
+          "l": "väljaselgitamine",
+          "p": "S",
+          "parts": [
+            "välja",
+            "selgitamine"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "rein",
+      "text": "„Ja kus on teie paberid?“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kus",
+          "l": "kus",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "teie",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "paberid",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Politseinik näitas dokumenti, mida seadus nõuab, ja Rein luges seda kaua.",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "Politseinik",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "näitas",
+          "l": "näitama",
+          "p": "V"
+        },
+        {
+          "f": "dokumenti",
+          "l": "dokument",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "nõuab",
+          "l": "nõudma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Rein",
+          "l": "Rein",
+          "p": "H"
+        },
+        {
+          "f": "luges",
+          "l": "lugema",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kaua",
+          "l": "kaua",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis otsustas ta ukse avada.",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "otsustas",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ukse",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "avada",
+          "l": "avama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Politseinikud vaatasid töökoja läbi ja leidsid riiulilt kaks tööriista, mis nägid välja nagu ehitusplatsi omad.",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "Politseinikud",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "vaatasid",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "töökoja",
+          "l": "töökoda",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koda"
+          ]
+        },
+        {
+          "f": "läbi",
+          "l": "läbi",
+          "p": "D"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "leidsid",
+          "l": "leidma",
+          "p": "V"
+        },
+        {
+          "f": "riiulilt",
+          "l": "riiul",
+          "p": "S"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "tööriista",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "nägid",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "välja",
+          "l": "välja",
+          "p": "D"
+        },
+        {
+          "f": "nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "ehitusplatsi",
+          "l": "ehitusplats",
+          "p": "S",
+          "parts": [
+            "ehitus",
+            "plats"
+          ]
+        },
+        {
+          "f": "omad",
+          "l": "oma",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "police",
+      "text": "„Need võivad olla need tööriistad, mida me otsime.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Need",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "võivad",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "need",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tööriistad",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "me",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "otsime",
+          "l": "otsima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "rein",
+      "text": "„Ei ole! Need on minu omad.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Need",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "omad",
+          "l": "oma",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis tuli töökotta Reinu naine.",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "töökotta",
+          "l": "töökoda",
+          "p": "S",
+          "parts": [
+            "töö",
+            "koda"
+          ]
+        },
+        {
+          "f": "Reinu",
+          "l": "Rein",
+          "p": "H"
+        },
+        {
+          "f": "naine",
+          "l": "naine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "wife",
+      "text": "„Vaadake seina! Reinul on tabel, kus on iga tööriista number. Ja igal tööriistal on see number peal.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vaadake",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "seina",
+          "l": "sein",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Reinul",
+          "l": "Rein",
+          "p": "H"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tabel",
+          "l": "tabel",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kus",
+          "l": "kus",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "iga",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "tööriista",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": "number",
+          "l": "number",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "igal",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "tööriistal",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "number",
+          "l": "number",
+          "p": "S"
+        },
+        {
+          "f": "peal",
+          "l": "peal",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Politseinik vaatas tabelit ja tööriistu: numbrid olid samad.",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "Politseinik",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "vaatas",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "tabelit",
+          "l": "tabel",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tööriistu",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "numbrid",
+          "l": "number",
+          "p": "S"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "samad",
+          "l": "sama",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "police",
+      "text": "„Vabandust. Nüüd ma mõistan, et tööriistad on teie omad.“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Vabandust",
+          "l": "vabandust",
+          "p": "I"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mõistan",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "tööriistad",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "teie",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "omad",
+          "l": "oma",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "rein",
+      "text": "„Ja mina mõistan, et te tegite oma tööd.“",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mõistan",
+          "l": "mõistma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "te",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "tegite",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "tööd",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "wife",
+      "text": "„Aga minu mehe tööriistu ei tohi keegi lihtsalt ära võtta! Ka riik võib omandit omaniku nõusolekuta võõrandada ainult seaduses sätestatud juhtudel ja korras üldistes huvides õiglase ja kohese hüvituse eest. See on paragrahv 32!“",
+      "para": 18,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mehe",
+          "l": "mees",
+          "p": "S"
+        },
+        {
+          "f": "tööriistu",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "lihtsalt",
+          "l": "lihtsalt",
+          "p": "D"
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "riik",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "omandit",
+          "l": "omand",
+          "p": "S"
+        },
+        {
+          "f": "omaniku",
+          "l": "omanik",
+          "p": "S"
+        },
+        {
+          "f": "nõusolekuta",
+          "l": "nõusolek",
+          "p": "S",
+          "parts": [
+            "nõus",
+            "olek"
+          ]
+        },
+        {
+          "f": "võõrandada",
+          "l": "võõrandama",
+          "p": "V"
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "juhtudel",
+          "l": "juht",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "üldistes",
+          "l": "üldine",
+          "p": "A"
+        },
+        {
+          "f": "huvides",
+          "l": "huvi",
+          "p": "S"
+        },
+        {
+          "f": "õiglase",
+          "l": "õiglane",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kohese",
+          "l": "kohene",
+          "p": "A"
+        },
+        {
+          "f": "hüvituse",
+          "l": "hüvitus",
+          "p": "S"
+        },
+        {
+          "f": "eest",
+          "l": "eest",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "32",
+          "l": "32",
+          "p": "N"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "rein",
+      "text": "„Ja minu tööriistu pole üldistes huvides vaja.“",
+      "para": 19,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tööriistu",
+          "l": "tööriist",
+          "p": "S",
+          "parts": [
+            "töö",
+            "riist"
+          ]
+        },
+        {
+          "f": "pole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "üldistes",
+          "l": "üldine",
+          "p": "A"
+        },
+        {
+          "f": "huvides",
+          "l": "huvi",
+          "p": "S"
+        },
+        {
+          "f": "vaja",
+          "l": "vaja",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Politseinikud naersid.",
+      "para": 20,
+      "tokens": [
+        {
+          "f": "Politseinikud",
+          "l": "politseinik",
+          "p": "S"
+        },
+        {
+          "f": "naersid",
+          "l": "naerma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis andis naine oma korralduse: kõik pesevad käed ja tulevad kohvi jooma.",
+      "para": 20,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "andis",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": "naine",
+          "l": "naine",
+          "p": "S"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "korralduse",
+          "l": "korraldus",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "pesevad",
+          "l": "pesema",
+          "p": "V"
+        },
+        {
+          "f": "käed",
+          "l": "käsi",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tulevad",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "kohvi",
+          "l": "kohv",
+          "p": "S"
+        },
+        {
+          "f": "jooma",
+          "l": "jooma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "puusepp",
+      "lemma": "puusepp",
+      "translation": "столяр, плотник"
+    },
+    {
+      "form": "töökoda",
+      "lemma": "töökoda",
+      "translation": "мастерская"
+    },
+    {
+      "form": "tööriistal",
+      "lemma": "tööriist",
+      "translation": "инструмент"
+    },
+    {
+      "form": "tungida",
+      "lemma": "tungima",
+      "translation": "проникать, вторгаться"
+    },
+    {
+      "form": "eluruumi",
+      "lemma": "eluruum",
+      "translation": "жилое помещение, жилище"
+    },
+    {
+      "form": "valdusse",
+      "lemma": "valdus",
+      "translation": "владение"
+    },
+    {
+      "form": "läbi otsida",
+      "lemma": "läbi otsima",
+      "translation": "обыскивать"
+    },
+    {
+      "form": "tõe väljaselgitamiseks",
+      "lemma": "tõe väljaselgitamine",
+      "translation": "установление истины"
+    },
+    {
+      "form": "omandit võõrandada",
+      "lemma": "omandit võõrandama",
+      "translation": "отчуждать собственность"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Kodu on puutumatu. (§ 33)",
+      "ref": "ps-33"
+    },
+    {
+      "text": "Kellegi eluruumi, valdusse ega töökohta ei tohi tungida ega neid läbi otsida, välja arvatud seadusega sätestatud juhtudel ja korras. (§ 33)",
+      "ref": "ps-33"
+    },
+    {
+      "text": "Seadusega sätestatud juhtudel ja korras võib eluruumi, valdusse või töökohta tungida ja neid läbi otsida avaliku korra, tervise või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks, kurjategija tabamiseks või tõe väljaselgitamiseks kriminaalmenetluses. (§ 33)",
+      "ref": "ps-33"
+    },
+    {
+      "text": "Igaühel on õigus perekonna- ja eraelu puutumatusele. (§ 26)",
+      "ref": "ps-26"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Millal võib põhiseaduse § 33 järgi kellegi eluruumi tungida või seda läbi otsida?",
+      "options": [
+        "alati, kui politsei seda soovib",
+        "ainult seadusega sätestatud juhtudel ja korras, näiteks tõe väljaselgitamiseks kriminaalmenetluses",
+        "ainult siis, kui omanik ei ole kodus",
+        "mitte kunagi"
+      ],
+      "answer": 1,
+      "explanation": "§ 33 ütleb: kodu on puutumatu. Kellegi eluruumi, valdusse ega töökohta ei tohi tungida ega neid läbi otsida, välja arvatud seadusega sätestatud juhtudel ja korras, näiteks tõe väljaselgitamiseks kriminaalmenetluses.",
+      "ref": "ps-33"
+    },
+    {
+      "type": "truefalse",
+      "text": "Riigiasutused ja nende ametiisikud võivad sekkuda kellegi perekonna- või eraellu alati, kui nad seda soovivad.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 26 ütleb: riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi kellegi perekonna- ega eraellu sekkuda muidu, kui seaduses sätestatud juhtudel ja korras tervise, kõlbluse, avaliku korra või teiste inimeste õiguste ja vabaduste kaitseks, kuriteo tõkestamiseks või kurjategija tabamiseks.",
+      "ref": "ps-26"
+    }
+  ],
+  "audio": {
+    "story": "audio/0059/story.mp3",
+    "law": "audio/0059/law.mp3",
+    "timings": "audio/0059/timings.json"
+  }
+}

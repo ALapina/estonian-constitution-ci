@@ -1,0 +1,2151 @@
+{
+  "id": "0053",
+  "slot": "s053",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Õdede ühing",
+  "law": [
+    "ps-29-lg4",
+    "ps-29-lg5",
+    "ps-29-lg6"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "colleague": {
+      "name": "Ülle",
+      "voice": "vesta",
+      "note": "a nurse at Olga's hospital, a member of the nurses' association"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Esmaspäeval, 4. jaanuaril, oli Olgal haiglas raske päev.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Esmaspäeval",
+          "l": "esmaspäev",
+          "p": "S",
+          "parts": [
+            "esmas",
+            "päev"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "4.",
+          "l": "4.",
+          "p": "O"
+        },
+        {
+          "f": "jaanuaril",
+          "l": "jaanuar",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Olgal",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "haiglas",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": "raske",
+          "l": "raske",
+          "p": "A"
+        },
+        {
+          "f": "päev",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kaks õde olid haiged ja patsiente oli palju.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "õde",
+          "l": "õde",
+          "p": "S"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "haiged",
+          "l": "haige",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "patsiente",
+          "l": "patsient",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "palju",
+          "l": "palju",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lõunal jõi Olga kiiresti kohvi koos kolleeg Üllega, kes oli temaga samas vanuses.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Lõunal",
+          "l": "lõuna",
+          "p": "S"
+        },
+        {
+          "f": "jõi",
+          "l": "jooma",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "kiiresti",
+          "l": "kiiresti",
+          "p": "D"
+        },
+        {
+          "f": "kohvi",
+          "l": "kohv",
+          "p": "S"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "kolleeg",
+          "l": "kolleeg",
+          "p": "S"
+        },
+        {
+          "f": "Üllega",
+          "l": "Ülle",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "temaga",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "samas",
+          "l": "sama",
+          "p": "P"
+        },
+        {
+          "f": "vanuses",
+          "l": "vanus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "colleague",
+      "text": "„Meie töötingimused on rasked: pikad päevad ja liiga vähe õdesid. Ma ei jõua enam!“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "töötingimused",
+          "l": "töötingimus",
+          "p": "S",
+          "parts": [
+            "töö",
+            "tingimus"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "rasked",
+          "l": "raske",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "pikad",
+          "l": "pikk",
+          "p": "A"
+        },
+        {
+          "f": "päevad",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "liiga",
+          "l": "liiga",
+          "p": "D"
+        },
+        {
+          "f": "vähe",
+          "l": "vähe",
+          "p": "D"
+        },
+        {
+          "f": "õdesid",
+          "l": "õde",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "jõua",
+          "l": "jõudma",
+          "p": "V"
+        },
+        {
+          "f": "enam",
+          "l": "enam",
+          "p": "D"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kas meie tööandja, haigla, seda ei näe? Ja kas keegi seda kontrollib?“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tööandja",
+          "l": "tööandja",
+          "p": "S",
+          "parts": [
+            "töö",
+            "andja"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "haigla",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "näe",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kontrollib",
+          "l": "kontrollima",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "colleague",
+      "text": "„Põhiseadus ütleb: töötingimused on riigi kontrolli all. Aga ka meie ise saame midagi teha. Ma kuulun õdede ühingusse. Seal räägime koos oma tööst ja muredest. Tule ka!“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "töötingimused",
+          "l": "töötingimus",
+          "p": "S",
+          "parts": [
+            "töö",
+            "tingimus"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "riigi",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "kontrolli",
+          "l": "kontroll",
+          "p": "S"
+        },
+        {
+          "f": "all",
+          "l": "all",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "saame",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "midagi",
+          "l": "miski",
+          "p": "P"
+        },
+        {
+          "f": "teha",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "kuulun",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "õdede",
+          "l": "õde",
+          "p": "S"
+        },
+        {
+          "f": "ühingusse",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "räägime",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "tööst",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "muredest",
+          "l": "mure",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tule",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kas ma pean ühingusse kuuluma?“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "pean",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "ühingusse",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": "kuuluma",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "colleague",
+      "text": "„Ei pea. Paragrahv 29 ütleb, et töötajate ja tööandjate ühingutesse ja liitudesse kuulumine on vaba.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "pea",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "29",
+          "l": "29",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "töötajate",
+          "l": "töötaja",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tööandjate",
+          "l": "tööandja",
+          "p": "S",
+          "parts": [
+            "töö",
+            "andja"
+          ]
+        },
+        {
+          "f": "ühingutesse",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "liitudesse",
+          "l": "liit",
+          "p": "S"
+        },
+        {
+          "f": "kuulumine",
+          "l": "kuulumine",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "colleague",
+      "text": "„Ühingud võivad oma õiguste ja seaduslike huvide eest seista vahenditega, mida seadus ei keela. Näiteks rääkida tööandjaga.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ühingud",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": "võivad",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "õiguste",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "seaduslike",
+          "l": "seaduslik",
+          "p": "A"
+        },
+        {
+          "f": "huvide",
+          "l": "huvi",
+          "p": "S"
+        },
+        {
+          "f": "eest",
+          "l": "eest",
+          "p": "K"
+        },
+        {
+          "f": "seista",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": "vahenditega",
+          "l": "vahend",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "keela",
+          "l": "keelama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Näiteks",
+          "l": "näide",
+          "p": "S"
+        },
+        {
+          "f": "rääkida",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "tööandjaga",
+          "l": "tööandja",
+          "p": "S",
+          "parts": [
+            "töö",
+            "andja"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kas ühing võib ka öelda, et õed ei tule tööle?“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "ühing",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "öelda",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "õed",
+          "l": "õde",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tule",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "tööle",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "colleague",
+      "text": "„Seda nimetatakse streigiks. Põhiseadus räägib streigiõigusest ainult ühe lausega: streigiõiguse kasutamise tingimused ja korra sätestab seadus. Meie räägime praegu tööandjaga.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "nimetatakse",
+          "l": "nimetama",
+          "p": "V"
+        },
+        {
+          "f": "streigiks",
+          "l": "streik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseadus",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "streigiõigusest",
+          "l": "streigiõigus",
+          "p": "S",
+          "parts": [
+            "streik",
+            "õigus"
+          ]
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "ühe",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "lausega",
+          "l": "lause",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "streigiõiguse",
+          "l": "streigiõigus",
+          "p": "S",
+          "parts": [
+            "streik",
+            "õigus"
+          ]
+        },
+        {
+          "f": "kasutamise",
+          "l": "kasutamine",
+          "p": "S"
+        },
+        {
+          "f": "tingimused",
+          "l": "tingimus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "korra",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "sätestab",
+          "l": "sätestama",
+          "p": "V"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Meie",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "räägime",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "praegu",
+          "l": "praegu",
+          "p": "D"
+        },
+        {
+          "f": "tööandjaga",
+          "l": "tööandja",
+          "p": "S",
+          "parts": [
+            "töö",
+            "andja"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "colleague",
+      "text": "„Kui töötaja ja tööandja ei saa kokku leppida, näiteks palga pärast, on see töövaidlus. Ja viimane lõige ütleb: töövaidluste lahendamise korra sätestab seadus.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "töötaja",
+          "l": "töötaja",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tööandja",
+          "l": "tööandja",
+          "p": "S",
+          "parts": [
+            "töö",
+            "andja"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "saa",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "kokku",
+          "l": "kokku",
+          "p": "D"
+        },
+        {
+          "f": "leppida",
+          "l": "leppima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "näiteks",
+          "l": "näiteks",
+          "p": "D"
+        },
+        {
+          "f": "palga",
+          "l": "palk",
+          "p": "S"
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "töövaidlus",
+          "l": "töövaidlus",
+          "p": "S",
+          "parts": [
+            "töö",
+            "vaidlus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "viimane",
+          "l": "viimane",
+          "p": "A"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "töövaidluste",
+          "l": "töövaidlus",
+          "p": "S",
+          "parts": [
+            "töö",
+            "vaidlus"
+          ]
+        },
+        {
+          "f": "lahendamise",
+          "l": "lahendamine",
+          "p": "S"
+        },
+        {
+          "f": "korra",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "sätestab",
+          "l": "sätestama",
+          "p": "V"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ma mõtlen selle üle.“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "mõtlen",
+          "l": "mõtlema",
+          "p": "V"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "üle",
+          "l": "üle",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Õhtul nägi Olga trepil Katjat.",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "Õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "nägi",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "trepil",
+          "l": "trepp",
+          "p": "S"
+        },
+        {
+          "f": "Katjat",
+          "l": "Katja",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Katja peatus ja küsis, kuidas läks.",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "Katja",
+          "l": "Katja",
+          "p": "H"
+        },
+        {
+          "f": "peatus",
+          "l": "peatuma",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "küsis",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kuidas",
+          "l": "kuidas",
+          "p": "D"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Aitäh koogi eest! Sinu Toompea loss oli väga hea. Jaan sõi sellest kaks tükki.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aitäh",
+          "l": "aitäh",
+          "p": "I"
+        },
+        {
+          "f": "koogi",
+          "l": "kook",
+          "p": "S",
+          "alt": [
+            "kubu"
+          ]
+        },
+        {
+          "f": "eest",
+          "l": "eest",
+          "p": "K"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "Toompea",
+          "l": "Toompea",
+          "p": "H"
+        },
+        {
+          "f": "loss",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "väga",
+          "l": "väga",
+          "p": "D"
+        },
+        {
+          "f": "hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jaan",
+          "l": "Jaan",
+          "p": "H"
+        },
+        {
+          "f": "sõi",
+          "l": "sööma",
+          "p": "V"
+        },
+        {
+          "f": "sellest",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "tükki",
+          "l": "tükk",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Siis rääkis Olga Katjale ühingust.",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "rääkis",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "Katjale",
+          "l": "Katja",
+          "p": "H"
+        },
+        {
+          "f": "ühingust",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "katja",
+      "text": "„Aga kas mina, Ukraina kodanik, võin ka sellisesse ühingusse kuuluda? See on minu jaoks tähtis küsimus. Eesti on ju demokraatlik vabariik.“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "mina",
+          "l": "mina",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ukraina",
+          "l": "Ukraina",
+          "p": "H"
+        },
+        {
+          "f": "kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "võin",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "sellisesse",
+          "l": "selline",
+          "p": "P"
+        },
+        {
+          "f": "ühingusse",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": "kuuluda",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "jaoks",
+          "l": "jaoks",
+          "p": "K"
+        },
+        {
+          "f": "tähtis",
+          "l": "tähtis",
+          "p": "A"
+        },
+        {
+          "f": "küsimus",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ju",
+          "l": "ju",
+          "p": "D"
+        },
+        {
+          "f": "demokraatlik",
+          "l": "demokraatlik",
+          "p": "A",
+          "parts": [
+            "demo",
+            "kraatlik"
+          ]
+        },
+        {
+          "f": "vabariik",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Paragrahv 29 ütleb: töötajate ja tööandjate ühingutesse ja liitudesse kuulumine on vaba. Kodakondsust see lõige ei nimeta.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "29",
+          "l": "29",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "töötajate",
+          "l": "töötaja",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tööandjate",
+          "l": "tööandja",
+          "p": "S",
+          "parts": [
+            "töö",
+            "andja"
+          ]
+        },
+        {
+          "f": "ühingutesse",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "liitudesse",
+          "l": "liit",
+          "p": "S"
+        },
+        {
+          "f": "kuulumine",
+          "l": "kuulumine",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "nimeta",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "katja",
+      "text": "„Ja paragrahv 12 ütleb: kõik on seaduse ees võrdsed.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "12",
+          "l": "12",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "võrdsed",
+          "l": "võrdne",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "katja",
+      "text": "„Korraldame hääletamise?“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Korraldame",
+          "l": "korraldama",
+          "p": "V"
+        },
+        {
+          "f": "hääletamise",
+          "l": "hääletamine",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ei ole vaja. Ühingusse kuulumine on vaba: selle otsuse teen ma ise.“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vaja",
+          "l": "vaja",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ühingusse",
+          "l": "ühing",
+          "p": "S"
+        },
+        {
+          "f": "kuulumine",
+          "l": "kuulumine",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "otsuse",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": "teen",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "töötingimused",
+      "lemma": "töötingimus",
+      "translation": "условия труда"
+    },
+    {
+      "form": "tööandja",
+      "lemma": "tööandja",
+      "translation": "работодатель"
+    },
+    {
+      "form": "kontrolli all",
+      "lemma": "kontrolli all olema",
+      "translation": "находиться под контролем, надзором"
+    },
+    {
+      "form": "ühingusse",
+      "lemma": "ühing",
+      "translation": "объединение, общество"
+    },
+    {
+      "form": "kuulun õdede ühingusse",
+      "lemma": "kuuluma ühingusse",
+      "translation": "состоять в объединении, быть членом объединения"
+    },
+    {
+      "form": "kuulumine",
+      "lemma": "kuulumine",
+      "translation": "членство, принадлежность (к объединению)"
+    },
+    {
+      "form": "huvide eest seista",
+      "lemma": "huvide eest seisma",
+      "translation": "отстаивать интересы"
+    },
+    {
+      "form": "streigiks",
+      "lemma": "streik",
+      "translation": "забастовка"
+    },
+    {
+      "form": "streigiõigusest",
+      "lemma": "streigiõigus",
+      "translation": "право на забастовку"
+    },
+    {
+      "form": "töövaidlus",
+      "lemma": "töövaidlus",
+      "translation": "трудовой спор"
+    },
+    {
+      "form": "lahendamise",
+      "lemma": "lahendamine",
+      "translation": "разрешение, решение (спора)"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Töötingimused on riigi kontrolli all. (§ 29)",
+      "ref": "ps-29-lg4"
+    },
+    {
+      "text": "Töötajate ja tööandjate ühingutesse ja liitudesse kuulumine on vaba. (§ 29)",
+      "ref": "ps-29-lg5"
+    },
+    {
+      "text": "Töötajate ja tööandjate ühingud ja liidud võivad oma õiguste ja seaduslike huvide eest seista vahenditega, mida seadus ei keela. (§ 29)",
+      "ref": "ps-29-lg5"
+    },
+    {
+      "text": "Streigiõiguse kasutamise tingimused ja korra ning töövaidluste lahendamise korra sätestab seadus. (§ 29)",
+      "ref": "ps-29"
+    },
+    {
+      "text": "Kedagi ei tohi sundida tunnistama iseenda või oma lähedaste vastu. (§ 22)",
+      "ref": "ps-22-lg3"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Mis on põhiseaduse järgi riigi kontrolli all?",
+      "options": [
+        "töötingimused",
+        "ühingute liikmete nimekirjad",
+        "töötajate eraelu",
+        "tööandjate kasum"
+      ],
+      "answer": 0,
+      "explanation": "§ 29 lõige 4 ütleb: töötingimused on riigi kontrolli all.",
+      "ref": "ps-29-lg4"
+    },
+    {
+      "type": "truefalse",
+      "text": "Töötajate ühingutesse võivad kuuluda ainult Eesti kodanikud.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 29 lõige 5 ütleb: töötajate ja tööandjate ühingutesse ja liitudesse kuulumine on vaba. Kodakondsust see lõige ei nimeta.",
+      "ref": "ps-29-lg5"
+    }
+  ],
+  "audio": {
+    "story": "audio/0053/story.mp3",
+    "law": "audio/0053/law.mp3",
+    "timings": "audio/0053/timings.json"
+  }
+}
