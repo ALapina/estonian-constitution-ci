@@ -1,0 +1,2140 @@
+{
+  "id": "0064",
+  "slot": "s064",
+  "stage": 1,
+  "area": 2,
+  "type": "side",
+  "title": "Otsustav sõna",
+  "law": [
+    "ps-37"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "helen": {
+      "name": "Helen",
+      "voice": "kylli",
+      "note": "a mother in Pärnu whose son Oskar starts school in autumn"
+    },
+    "grandmother": {
+      "name": "Maie",
+      "voice": "liivika",
+      "note": "Helen's mother, Oskar's grandmother"
+    },
+    "headteacher": {
+      "name": "Direktor",
+      "voice": "albert",
+      "note": "the head teacher of a municipal school in Pärnu"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Jaanuari lõpus oli Pärnus ühes linna koolis lahtiste uste päev.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Jaanuari",
+          "l": "jaanuar",
+          "p": "S"
+        },
+        {
+          "f": "lõpus",
+          "l": "lõpp",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Pärnus",
+          "l": "Pärnu",
+          "p": "H"
+        },
+        {
+          "f": "ühes",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "linna",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "koolis",
+          "l": "kool",
+          "p": "S"
+        },
+        {
+          "f": "lahtiste",
+          "l": "lahtine",
+          "p": "A"
+        },
+        {
+          "f": "uste",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "päev",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Helen tuli sinna koos oma ema Maie ja poja Oskariga, kes on kuus aastat vana ja läheb sügisel kooli.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Helen",
+          "l": "Helen",
+          "p": "H"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "sinna",
+          "l": "sinna",
+          "p": "D"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "Maie",
+          "l": "Maie",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "poja",
+          "l": "poeg",
+          "p": "S",
+          "alt": [
+            "poja"
+          ]
+        },
+        {
+          "f": "Oskariga",
+          "l": "Oskar",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kuus",
+          "l": "kuus",
+          "p": "N"
+        },
+        {
+          "f": "aastat",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "läheb",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "sügisel",
+          "l": "sügis",
+          "p": "S"
+        },
+        {
+          "f": "kooli",
+          "l": "kool",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kooliõue piiras madal aed ja koridoris oli suur paberist lipp, mille olid teinud esimese klassi lapsed.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Kooliõue",
+          "l": "kooliõu",
+          "p": "S",
+          "parts": [
+            "kool",
+            "õu"
+          ]
+        },
+        {
+          "f": "piiras",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": "madal",
+          "l": "madal",
+          "p": "A"
+        },
+        {
+          "f": "aed",
+          "l": "aed",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "koridoris",
+          "l": "koridor",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "suur",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "paberist",
+          "l": "paber",
+          "p": "S"
+        },
+        {
+          "f": "lipp",
+          "l": "lipp",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mille",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "teinud",
+          "l": "tegema",
+          "p": "V",
+          "alt": [
+            "teinud"
+          ]
+        },
+        {
+          "f": "esimese",
+          "l": "esimene",
+          "p": "O"
+        },
+        {
+          "f": "klassi",
+          "l": "klass",
+          "p": "S"
+        },
+        {
+          "f": "lapsed",
+          "l": "laps",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Oskar tahtis olla sõltumatu: ta läks esimesena klassi ja proovis kohe õpetaja tooli.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Oskar",
+          "l": "Oskar",
+          "p": "H"
+        },
+        {
+          "f": "tahtis",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sõltumatu",
+          "l": "sõltumatu",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "läks",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "esimesena",
+          "l": "esimene",
+          "p": "O"
+        },
+        {
+          "f": "klassi",
+          "l": "klass",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "proovis",
+          "l": "proovima",
+          "p": "V"
+        },
+        {
+          "f": "kohe",
+          "l": "kohe",
+          "p": "D"
+        },
+        {
+          "f": "õpetaja",
+          "l": "õpetaja",
+          "p": "S"
+        },
+        {
+          "f": "tooli",
+          "l": "tool",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Seinal olid laste pildid ja aknal kasvasid lilled.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Seinal",
+          "l": "sein",
+          "p": "S"
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "laste",
+          "l": "laps",
+          "p": "S"
+        },
+        {
+          "f": "pildid",
+          "l": "pilt",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "aknal",
+          "l": "aken",
+          "p": "S"
+        },
+        {
+          "f": "kasvasid",
+          "l": "kasvama",
+          "p": "V"
+        },
+        {
+          "f": "lilled",
+          "l": "lill",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "grandmother",
+      "text": "„Helen, Oskar peab minema erakooli. Mere lähedal on üks kuulus erakool. See on kallis, aga parim!“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Helen",
+          "l": "Helen",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Oskar",
+          "l": "Oskar",
+          "p": "H"
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "minema",
+          "l": "minema",
+          "p": "V"
+        },
+        {
+          "f": "erakooli",
+          "l": "erakool",
+          "p": "S",
+          "parts": [
+            "era",
+            "kool"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mere",
+          "l": "Mere",
+          "p": "H"
+        },
+        {
+          "f": "lähedal",
+          "l": "lähedal",
+          "p": "K"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "üks",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "kuulus",
+          "l": "kuulus",
+          "p": "A"
+        },
+        {
+          "f": "erakool",
+          "l": "erakool",
+          "p": "S",
+          "parts": [
+            "era",
+            "kool"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kallis",
+          "l": "kallis",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "parim",
+          "l": "parim",
+          "p": "U"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kui direktor seda kuulis, naeratas ta.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "direktor",
+          "l": "direktor",
+          "p": "S"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kuulis",
+          "l": "kuulma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "naeratas",
+          "l": "naeratama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "headteacher",
+      "text": "„Põhiseaduse paragrahv 37 ütleb: igaühel on õigus haridusele. Õppimine on kooliealistel lastel seadusega määratud ulatuses kohustuslik ning riigi ja kohalike omavalitsuste üldhariduskoolides õppemaksuta.“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "37",
+          "l": "37",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "haridusele",
+          "l": "haridus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Õppimine",
+          "l": "õppimine",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kooliealistel",
+          "l": "kooliealine",
+          "p": "A",
+          "parts": [
+            "kool",
+            "ealine"
+          ]
+        },
+        {
+          "f": "lastel",
+          "l": "laps",
+          "p": "S"
+        },
+        {
+          "f": "seadusega",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "määratud",
+          "l": "määratud",
+          "p": "A",
+          "alt": [
+            "määrama",
+            "määratu"
+          ]
+        },
+        {
+          "f": "ulatuses",
+          "l": "ulatus",
+          "p": "S"
+        },
+        {
+          "f": "kohustuslik",
+          "l": "kohustuslik",
+          "p": "A"
+        },
+        {
+          "f": "ning",
+          "l": "ning",
+          "p": "J"
+        },
+        {
+          "f": "riigi",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kohalike",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsuste",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "üldhariduskoolides",
+          "l": "üldhariduskool",
+          "p": "S",
+          "parts": [
+            "üld",
+            "haridus",
+            "kool"
+          ]
+        },
+        {
+          "f": "õppemaksuta",
+          "l": "õppemaks",
+          "p": "S",
+          "parts": [
+            "õpe",
+            "maks"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Oskar küsis, kas jäätis on koolis ka kohustuslik.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Oskar",
+          "l": "Oskar",
+          "p": "H"
+        },
+        {
+          "f": "küsis",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "jäätis",
+          "l": "jäätis",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "koolis",
+          "l": "kool",
+          "p": "S"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "kohustuslik",
+          "l": "kohustuslik",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "helen",
+      "text": "„Kuuled, ema? Siin ei ole õppemaksu, sest see on linna üldhariduskool.“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kuuled",
+          "l": "kuulma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siin",
+          "l": "siin",
+          "p": "D"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õppemaksu",
+          "l": "õppemaks",
+          "p": "S",
+          "parts": [
+            "õpe",
+            "maks"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sest",
+          "l": "sest",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "linna",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "üldhariduskool",
+          "l": "üldhariduskool",
+          "p": "S",
+          "parts": [
+            "üld",
+            "haridus",
+            "kool"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "headteacher",
+      "text": "„Teine lõige ütleb: seaduse alusel võib avada ja pidada ka muid õppeasutusi, sealhulgas erakoole.“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "alusel",
+          "l": "alus",
+          "p": "S",
+          "alt": [
+            "alune"
+          ]
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "avada",
+          "l": "avama",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "pidada",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "muid",
+          "l": "muu",
+          "p": "P"
+        },
+        {
+          "f": "õppeasutusi",
+          "l": "õppeasutus",
+          "p": "S",
+          "parts": [
+            "õpe",
+            "asutus"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sealhulgas",
+          "l": "sealhulgas",
+          "p": "D",
+          "parts": [
+            "seal",
+            "hulgas"
+          ]
+        },
+        {
+          "f": "erakoole",
+          "l": "erakool",
+          "p": "S",
+          "parts": [
+            "era",
+            "kool"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "grandmother",
+      "text": "„Näed, Helen! Erakoolis on õpetus kindlasti parem.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Näed",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Helen",
+          "l": "Helen",
+          "p": "H"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Erakoolis",
+          "l": "erakool",
+          "p": "S",
+          "parts": [
+            "era",
+            "kool"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õpetus",
+          "l": "õpetus",
+          "p": "S"
+        },
+        {
+          "f": "kindlasti",
+          "l": "kindlasti",
+          "p": "D"
+        },
+        {
+          "f": "parem",
+          "l": "parem",
+          "p": "C"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "helen",
+      "text": "„Ema, hea õpetus on ka siin. Aga kes valib?“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "õpetus",
+          "l": "õpetus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "siin",
+          "l": "siin",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "valib",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "headteacher",
+      "text": "„Kolmas lõige: laste hariduse valikul on otsustav sõna vanematel.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kolmas",
+          "l": "kolmas",
+          "p": "O"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "laste",
+          "l": "laps",
+          "p": "S"
+        },
+        {
+          "f": "hariduse",
+          "l": "haridus",
+          "p": "S"
+        },
+        {
+          "f": "valikul",
+          "l": "valik",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "otsustav",
+          "l": "otsustav",
+          "p": "A"
+        },
+        {
+          "f": "sõna",
+          "l": "sõna",
+          "p": "S"
+        },
+        {
+          "f": "vanematel",
+          "l": "vanem",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "grandmother",
+      "text": "„Ja vanaemal?“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vanaemal",
+          "l": "vanaema",
+          "p": "S",
+          "parts": [
+            "vana",
+            "ema"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "helen",
+      "text": "„Sinu arvamus on mulle tähtis. Aga otsustav sõna on minul ja Oskari isal.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "arvamus",
+          "l": "arvamus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "mulle",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "tähtis",
+          "l": "tähtis",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "otsustav",
+          "l": "otsustav",
+          "p": "A"
+        },
+        {
+          "f": "sõna",
+          "l": "sõna",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "minul",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "Oskari",
+          "l": "Oskar",
+          "p": "H"
+        },
+        {
+          "f": "isal",
+          "l": "isa",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "grandmother",
+      "text": "„Aidata on ju vanaema kohustus!“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aidata",
+          "l": "Aidata",
+          "p": "H"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ju",
+          "l": "ju",
+          "p": "D"
+        },
+        {
+          "f": "vanaema",
+          "l": "vanaema",
+          "p": "S",
+          "parts": [
+            "vana",
+            "ema"
+          ]
+        },
+        {
+          "f": "kohustus",
+          "l": "kohustus",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "headteacher",
+      "text": "„Ja neljas lõige: igaühel on õigus saada eestikeelset õpetust. Õppekeele vähemusrahvuse õppeasutuses valib õppeasutus.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "neljas",
+          "l": "neljas",
+          "p": "O"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "saada",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "eestikeelset",
+          "l": "eestikeelne",
+          "p": "A",
+          "parts": [
+            "eesti",
+            "keelne"
+          ]
+        },
+        {
+          "f": "õpetust",
+          "l": "õpetus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Õppekeele",
+          "l": "õppekeel",
+          "p": "S",
+          "parts": [
+            "õpe",
+            "keel"
+          ]
+        },
+        {
+          "f": "vähemusrahvuse",
+          "l": "vähemusrahvus",
+          "p": "S",
+          "parts": [
+            "vähemus",
+            "rahvus"
+          ]
+        },
+        {
+          "f": "õppeasutuses",
+          "l": "õppeasutus",
+          "p": "S",
+          "parts": [
+            "õpe",
+            "asutus"
+          ]
+        },
+        {
+          "f": "valib",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": "õppeasutus",
+          "l": "õppeasutus",
+          "p": "S",
+          "parts": [
+            "õpe",
+            "asutus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "helen",
+      "text": "„Nii et vähemusrahvuse õppeasutus valib õppekeele ise?“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "vähemusrahvuse",
+          "l": "vähemusrahvus",
+          "p": "S",
+          "parts": [
+            "vähemus",
+            "rahvus"
+          ]
+        },
+        {
+          "f": "õppeasutus",
+          "l": "õppeasutus",
+          "p": "S",
+          "parts": [
+            "õpe",
+            "asutus"
+          ]
+        },
+        {
+          "f": "valib",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": "õppekeele",
+          "l": "õppekeel",
+          "p": "S",
+          "parts": [
+            "õpe",
+            "keel"
+          ]
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "headteacher",
+      "text": "„Jah, nii on põhiseaduses kirjas. Ja võib-olla õpib selles klassis kunagi Vabariigi President!“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "põhiseaduses",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "kirjas",
+          "l": "kiri",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "võib-olla",
+          "l": "võib-olla",
+          "p": "D",
+          "parts": [
+            "võima",
+            "-olla"
+          ]
+        },
+        {
+          "f": "õpib",
+          "l": "õppima",
+          "p": "V"
+        },
+        {
+          "f": "selles",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "klassis",
+          "l": "klass",
+          "p": "S"
+        },
+        {
+          "f": "kunagi",
+          "l": "kunagi",
+          "p": "D"
+        },
+        {
+          "f": "Vabariigi",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": "President",
+          "l": "president",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Pärast jalutasid nad mööda randa ja vanaema oli kaua vaikne.",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "Pärast",
+          "l": "pärast",
+          "p": "D"
+        },
+        {
+          "f": "jalutasid",
+          "l": "jalutama",
+          "p": "V"
+        },
+        {
+          "f": "nad",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "mööda",
+          "l": "mööda",
+          "p": "K"
+        },
+        {
+          "f": "randa",
+          "l": "rand",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vanaema",
+          "l": "vanaema",
+          "p": "S",
+          "parts": [
+            "vana",
+            "ema"
+          ]
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kaua",
+          "l": "kaua",
+          "p": "D"
+        },
+        {
+          "f": "vaikne",
+          "l": "vaikne",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "grandmother",
+      "text": "„See kool on päris hea. Ja õpetaja tool oli Oskarile just õige.“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kool",
+          "l": "kool",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "päris",
+          "l": "päris",
+          "p": "D"
+        },
+        {
+          "f": "hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "õpetaja",
+          "l": "õpetaja",
+          "p": "S"
+        },
+        {
+          "f": "tool",
+          "l": "tool",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Oskarile",
+          "l": "Oskar",
+          "p": "H"
+        },
+        {
+          "f": "just",
+          "l": "just",
+          "p": "D"
+        },
+        {
+          "f": "õige",
+          "l": "õige",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "helen",
+      "text": "„Otsustame koos Oskari isaga. Aga sinu arvamust kuulame alati, ema.“",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Otsustame",
+          "l": "otsustama",
+          "p": "V"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "Oskari",
+          "l": "Oskar",
+          "p": "H"
+        },
+        {
+          "f": "isaga",
+          "l": "isa",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "arvamust",
+          "l": "arvamus",
+          "p": "S"
+        },
+        {
+          "f": "kuulame",
+          "l": "kuulama",
+          "p": "V"
+        },
+        {
+          "f": "alati",
+          "l": "alati",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "lahtiste",
+      "lemma": "lahtine",
+      "translation": "открытый (lahtiste uste päev — день открытых дверей)"
+    },
+    {
+      "form": "erakooli",
+      "lemma": "erakool",
+      "translation": "частная школа"
+    },
+    {
+      "form": "Õppimine",
+      "lemma": "õppimine",
+      "translation": "учёба, обучение"
+    },
+    {
+      "form": "kooliealistel",
+      "lemma": "kooliealine",
+      "translation": "школьного возраста"
+    },
+    {
+      "form": "ulatuses",
+      "lemma": "ulatus",
+      "translation": "объём, мера (seadusega määratud ulatuses — в установленном законом объёме)"
+    },
+    {
+      "form": "kohustuslik",
+      "lemma": "kohustuslik",
+      "translation": "обязательный"
+    },
+    {
+      "form": "üldhariduskoolides",
+      "lemma": "üldhariduskool",
+      "translation": "общеобразовательная школа"
+    },
+    {
+      "form": "õppemaksuta",
+      "lemma": "õppemaks",
+      "translation": "плата за обучение (õppemaksuta — без платы за обучение)"
+    },
+    {
+      "form": "õppeasutusi",
+      "lemma": "õppeasutus",
+      "translation": "учебное заведение"
+    },
+    {
+      "form": "õpetus",
+      "lemma": "õpetus",
+      "translation": "обучение, преподавание"
+    },
+    {
+      "form": "otsustav sõna",
+      "lemma": "otsustav sõna",
+      "translation": "решающее слово"
+    },
+    {
+      "form": "otsustav",
+      "lemma": "otsustav",
+      "translation": "решающий"
+    },
+    {
+      "form": "eestikeelset õpetust",
+      "lemma": "eestikeelne õpetus",
+      "translation": "обучение на эстонском языке"
+    },
+    {
+      "form": "vähemusrahvuse",
+      "lemma": "vähemusrahvus",
+      "translation": "национальное меньшинство"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus haridusele. Õppimine on kooliealistel lastel seadusega määratud ulatuses kohustuslik ning riigi ja kohalike omavalitsuste üldhariduskoolides õppemaksuta. (§ 37)",
+      "ref": "ps-37-lg1"
+    },
+    {
+      "text": "Seaduse alusel võib avada ja pidada ka muid õppeasutusi, sealhulgas erakoole. (§ 37)",
+      "ref": "ps-37-lg2"
+    },
+    {
+      "text": "Laste hariduse valikul on otsustav sõna vanematel. (§ 37)",
+      "ref": "ps-37-lg3"
+    },
+    {
+      "text": "Igaühel on õigus saada eestikeelset õpetust. Õppekeele vähemusrahvuse õppeasutuses valib õppeasutus. (§ 37)",
+      "ref": "ps-37-lg4"
+    },
+    {
+      "text": "Eesti kodanikul on õigus vabalt valida tegevusala, elukutset ja töökohta. (§ 29)",
+      "ref": "ps-29-lg1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Kellel on põhiseaduse järgi laste hariduse valikul otsustav sõna?",
+      "options": [
+        "vanematel",
+        "koolil",
+        "kohalikul omavalitsusel",
+        "lastel endal"
+      ],
+      "answer": 0,
+      "explanation": "§ 37 lõige 3 ütleb: laste hariduse valikul on otsustav sõna vanematel.",
+      "ref": "ps-37-lg3"
+    },
+    {
+      "type": "truefalse",
+      "text": "Põhiseaduse järgi tuleb riigi ja kohalike omavalitsuste üldhariduskoolides maksta õppemaksu.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 37 lõige 1 ütleb: õppimine on kooliealistel lastel seadusega määratud ulatuses kohustuslik ning riigi ja kohalike omavalitsuste üldhariduskoolides õppemaksuta.",
+      "ref": "ps-37-lg1"
+    }
+  ],
+  "audio": {
+    "story": "audio/0064/story.mp3",
+    "law": "audio/0064/law.mp3",
+    "timings": "audio/0064/timings.json"
+  }
+}
