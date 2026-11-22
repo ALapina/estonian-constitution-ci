@@ -763,7 +763,7 @@
     "lemma": "andmine",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "предоставление, дача (nõusoleku andmine — дача согласия)",
     "level": null,
     "areas": [
       2,
@@ -792,7 +792,7 @@
       "ps-91"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0065",
     "target": 12,
     "page": 1,
     "tags": [],
@@ -805,12 +805,12 @@
     "lemma": "vande andmine",
     "multiword": true,
     "parent": "ev-0030",
-    "translation": "",
+    "translation": "принесение присяги",
     "level": null,
     "areas": [],
     "refs": [],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0071",
     "target": 12,
     "page": 1,
     "tags": [],
@@ -824,7 +824,7 @@
     "lemma": "hariduse andmine",
     "multiword": true,
     "parent": "ev-0030",
-    "translation": "",
+    "translation": "предоставление образования",
     "level": null,
     "areas": [
       2
@@ -833,7 +833,7 @@
       "ps-37"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0065",
     "target": 12,
     "page": 1,
     "tags": [],
@@ -1234,7 +1234,7 @@
     "lemma": "asutusesisene",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "внутренний (для использования внутри учреждения)",
     "level": null,
     "areas": [
       2,
@@ -1245,7 +1245,7 @@
       "ps-44"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0073",
     "target": 12,
     "page": 2,
     "tags": [],
@@ -2403,7 +2403,7 @@
     "lemma": "eestikeelne õpetus",
     "multiword": true,
     "parent": "ev-0092",
-    "translation": "",
+    "translation": "обучение на эстонском языке",
     "level": null,
     "areas": [
       2
@@ -2412,7 +2412,7 @@
       "ps-37"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0064",
     "target": 12,
     "page": 3,
     "tags": [],
@@ -2939,7 +2939,7 @@
     "lemma": "erakool",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "частная школа",
     "level": "B1",
     "areas": [
       2
@@ -2949,7 +2949,7 @@
       "ps-37"
     ],
     "kind": "general",
-    "introducedIn": null,
+    "introducedIn": "0064",
     "target": 12,
     "page": 4,
     "tags": [],
@@ -4890,7 +4890,7 @@
     "lemma": "kaitsevägi",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "Силы обороны",
     "level": "B1",
     "areas": [],
     "refs": [
@@ -4899,7 +4899,7 @@
       "ps-128"
     ],
     "kind": "general",
-    "introducedIn": null,
+    "introducedIn": "0061",
     "target": 12,
     "page": 6,
     "tags": [],
@@ -5739,7 +5739,7 @@
     "lemma": "kinnipidamiskoht",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "место лишения свободы (тюрьма и т. п.)",
     "level": null,
     "areas": [
       1
@@ -5748,7 +5748,7 @@
       "ps-58"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0070",
     "target": 12,
     "page": 7,
     "tags": [],
@@ -6779,7 +6779,7 @@
     "lemma": "kohtueelne menetlus",
     "multiword": true,
     "parent": "ev-0257",
-    "translation": "",
+    "translation": "досудебное производство",
     "level": null,
     "areas": [
       2
@@ -6789,7 +6789,7 @@
       "ps-52"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0062",
     "target": 12,
     "page": 8,
     "tags": [],
@@ -8071,12 +8071,12 @@
     "lemma": "kuritegu tõkestama",
     "multiword": true,
     "parent": "ev-0305",
-    "translation": "",
+    "translation": "предотвращать преступление",
     "level": null,
     "areas": [],
     "refs": [],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0072",
     "target": 12,
     "page": 9,
     "tags": [],
@@ -8783,12 +8783,12 @@
     "lemma": "lahkuma riigist",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "покинуть государство, уехать из страны",
     "level": null,
     "areas": [],
     "refs": [],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0062",
     "target": 12,
     "page": 10,
     "tags": [],
@@ -8802,7 +8802,7 @@
     "lemma": "lahusus ja tasakaalustatus",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "разделение и сбалансированность (властей)",
     "level": null,
     "areas": [
       1
@@ -8811,7 +8811,7 @@
       "ps-4"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0066",
     "target": 12,
     "page": 10,
     "tags": [],
@@ -9320,7 +9320,7 @@
     "lemma": "looduskeskkond",
     "multiword": false,
     "parent": "ev-0356",
-    "translation": "",
+    "translation": "природная среда",
     "level": null,
     "areas": [
       2
@@ -9330,7 +9330,7 @@
       "ps-53"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0061",
     "target": 12,
     "page": 10,
     "tags": [],
@@ -9412,7 +9412,7 @@
     "lemma": "looming",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "творчество, творение (то, что создал автор)",
     "level": "B1",
     "areas": [
       2
@@ -9421,7 +9421,7 @@
       "ps-39"
     ],
     "kind": "general",
-    "introducedIn": null,
+    "introducedIn": "0067",
     "target": 12,
     "page": 10,
     "tags": [],
@@ -10284,7 +10284,7 @@
     "lemma": "mõttevabadus",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "свобода мысли",
     "level": null,
     "areas": [
       2
@@ -10293,7 +10293,7 @@
       "ps-40"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0068",
     "target": 12,
     "page": 11,
     "tags": [],
@@ -10664,7 +10664,7 @@
     "lemma": "omaalgatuslik vastupanu",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "сопротивление по собственной инициативе",
     "level": null,
     "areas": [
       2
@@ -10673,7 +10673,7 @@
       "ps-54"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0070",
     "target": 12,
     "page": 12,
     "tags": [],
@@ -11131,7 +11131,7 @@
     "lemma": "otsustav sõna",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "решающее слово",
     "level": null,
     "areas": [
       2
@@ -11140,7 +11140,7 @@
       "ps-37"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0064",
     "target": 12,
     "page": 13,
     "tags": [],
@@ -12054,12 +12054,12 @@
     "lemma": "põhiseaduse järgi",
     "multiword": true,
     "parent": "ev-0465",
-    "translation": "",
+    "translation": "согласно Конституции, по Конституции",
     "level": null,
     "areas": [],
     "refs": [],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0071",
     "target": 12,
     "page": 14,
     "tags": [],
@@ -12098,12 +12098,12 @@
     "lemma": "põhiseaduses pole öeldud",
     "multiword": true,
     "parent": "ev-0465",
-    "translation": "",
+    "translation": "в Конституции не сказано",
     "level": null,
     "areas": [],
     "refs": [],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0072",
     "target": 12,
     "page": 14,
     "tags": [],
@@ -12241,7 +12241,7 @@
     "lemma": "pädev riigiorgan",
     "multiword": true,
     "parent": "ev-0473",
-    "translation": "",
+    "translation": "компетентный государственный орган",
     "level": null,
     "areas": [
       2
@@ -12250,7 +12250,7 @@
       "ps-20"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0073",
     "target": 12,
     "page": 14,
     "tags": [],
@@ -12496,12 +12496,12 @@
     "lemma": "püsivalt Eestis viibima",
     "multiword": true,
     "parent": "ev-0483",
-    "translation": "",
+    "translation": "постоянно находиться (жить) в Эстонии",
     "level": null,
     "areas": [],
     "refs": [],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0075",
     "target": 12,
     "page": 14,
     "tags": [],
@@ -13667,7 +13667,7 @@
     "lemma": "riigi järelevalve all olema",
     "multiword": true,
     "parent": "ev-0523",
-    "translation": "",
+    "translation": "находиться под надзором государства",
     "level": null,
     "areas": [
       2
@@ -13676,7 +13676,7 @@
       "ps-37"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0065",
     "target": 12,
     "page": 15,
     "tags": [],
@@ -13789,7 +13789,7 @@
     "lemma": "riigikaitse",
     "multiword": false,
     "parent": "ev-0523",
-    "translation": "",
+    "translation": "государственная оборона",
     "level": null,
     "areas": [
       2,
@@ -13805,7 +13805,7 @@
       "ps-127"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0061",
     "target": 12,
     "page": 15,
     "tags": [],
@@ -13840,7 +13840,7 @@
     "lemma": "riigikirik",
     "multiword": false,
     "parent": "ev-0523",
-    "translation": "",
+    "translation": "государственная церковь",
     "level": null,
     "areas": [
       2
@@ -13849,7 +13849,7 @@
       "ps-40"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0068",
     "target": 12,
     "page": 15,
     "tags": [],
@@ -15889,7 +15889,7 @@
     "lemma": "süüdi mõistma",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "осудить, признать виновным",
     "level": null,
     "areas": [
       1,
@@ -15900,7 +15900,7 @@
       "ps-58"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0062",
     "target": 12,
     "page": 17,
     "tags": [],
@@ -16223,7 +16223,7 @@
     "lemma": "talletama",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "хранить, сохранять (данные)",
     "level": null,
     "areas": [
       2
@@ -16232,7 +16232,7 @@
       "ps-42"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0071",
     "target": 12,
     "page": 18,
     "tags": [],
@@ -16355,7 +16355,7 @@
     "lemma": "teadus",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "наука",
     "level": "B1",
     "areas": [
       2,
@@ -16366,7 +16366,7 @@
       "ps-38"
     ],
     "kind": "general",
-    "introducedIn": null,
+    "introducedIn": "0066",
     "target": 12,
     "page": 18,
     "tags": [],
@@ -16379,7 +16379,7 @@
     "lemma": "teadusasutus",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "научное учреждение",
     "level": null,
     "areas": [
       2
@@ -16388,7 +16388,7 @@
       "ps-38"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0066",
     "target": 12,
     "page": 18,
     "tags": [],
@@ -16571,7 +16571,7 @@
     "lemma": "telegraaf",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "телеграф",
     "level": null,
     "areas": [
       2
@@ -16580,7 +16580,7 @@
       "ps-43"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0072",
     "target": 12,
     "page": 18,
     "tags": [],
@@ -16912,7 +16912,7 @@
     "lemma": "truuks jääma",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "оставаться верным",
     "level": null,
     "areas": [
       2
@@ -16921,7 +16921,7 @@
       "ps-41"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0069",
     "target": 12,
     "page": 18,
     "tags": [],
@@ -17733,7 +17733,7 @@
     "lemma": "usutalitus",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "религиозный обряд",
     "level": null,
     "areas": [
       2
@@ -17742,7 +17742,7 @@
       "ps-40"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0068",
     "target": 12,
     "page": 19,
     "tags": [],
@@ -17814,7 +17814,7 @@
     "lemma": "usuühing",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "религиозное объединение",
     "level": null,
     "areas": [
       2
@@ -17823,7 +17823,7 @@
       "ps-40"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0068",
     "target": 12,
     "page": 19,
     "tags": [],
@@ -18109,7 +18109,7 @@
     "lemma": "Vabariigi Valitsus",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "Правительство Республики",
     "level": null,
     "areas": [
       1,
@@ -18170,7 +18170,7 @@
       "ps-141"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0063",
     "target": 12,
     "page": 20,
     "tags": [],
@@ -19475,7 +19475,7 @@
     "lemma": "veendumuste pärast",
     "multiword": true,
     "parent": "ev-0744",
-    "translation": "",
+    "translation": "за убеждения, из-за своих убеждений",
     "level": null,
     "areas": [
       2,
@@ -19487,7 +19487,7 @@
       "ps-41"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0069",
     "target": 12,
     "page": 21,
     "tags": [],
@@ -19550,7 +19550,7 @@
     "lemma": "viibima",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "находиться, пребывать (seaduslikult Eestis viibima — законно находиться в Эстонии)",
     "level": "B1",
     "areas": [
       2,
@@ -19563,7 +19563,7 @@
       "ps-34"
     ],
     "kind": "general",
-    "introducedIn": null,
+    "introducedIn": "0061",
     "target": 12,
     "page": 21,
     "tags": [],
@@ -19800,7 +19800,7 @@
     "lemma": "võimude lahusus",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "разделение властей",
     "level": null,
     "areas": [
       1
@@ -19809,7 +19809,7 @@
       "ps-4"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0066",
     "target": 12,
     "page": 21,
     "tags": [],
@@ -19823,7 +19823,7 @@
     "lemma": "võimude lahususe ja tasakaalustatuse põhimõte",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "принцип разделения и сбалансированности властей",
     "level": null,
     "areas": [
       1
@@ -19832,7 +19832,7 @@
       "ps-4"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0066",
     "target": 12,
     "page": 21,
     "tags": [],
@@ -19917,7 +19917,7 @@
     "lemma": "võrdne olema",
     "multiword": true,
     "parent": "ev-0762",
-    "translation": "",
+    "translation": "быть равным",
     "level": null,
     "areas": [
       2
@@ -19926,7 +19926,7 @@
       "ps-12"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0068",
     "target": 12,
     "page": 21,
     "tags": [],
@@ -19980,7 +19980,7 @@
     "lemma": "võrdõiguslik olema",
     "multiword": true,
     "parent": "ev-0765",
-    "translation": "",
+    "translation": "быть равноправным (abikaasad on võrdõiguslikud — супруги равноправны)",
     "level": null,
     "areas": [
       2
@@ -19989,7 +19989,7 @@
       "ps-27"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0070",
     "target": 12,
     "page": 21,
     "tags": [],
@@ -20088,7 +20088,7 @@
     "lemma": "võõrandamatu õigus",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "неотчуждаемое право",
     "level": null,
     "areas": [
       2
@@ -20097,7 +20097,7 @@
       "ps-39"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0067",
     "target": 12,
     "page": 22,
     "tags": [],
@@ -20200,7 +20200,7 @@
     "lemma": "vähemusrahvus",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "национальное меньшинство",
     "level": null,
     "areas": [
       2
@@ -20213,7 +20213,7 @@
       "ps-104"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0064",
     "target": 12,
     "page": 22,
     "tags": [],
@@ -20250,7 +20250,7 @@
     "lemma": "välisleping",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "международный договор",
     "level": null,
     "areas": [
       2,
@@ -20267,7 +20267,7 @@
       "ps-123"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0063",
     "target": 12,
     "page": 22,
     "tags": [],
@@ -20364,7 +20364,7 @@
     "lemma": "välisriigi kodanik",
     "multiword": true,
     "parent": "ev-0779",
-    "translation": "",
+    "translation": "иностранный гражданин, гражданин иностранного государства",
     "level": null,
     "areas": [
       2
@@ -20380,7 +20380,7 @@
       "ps-44"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0074",
     "target": 12,
     "page": 22,
     "tags": [],
@@ -20394,7 +20394,7 @@
     "lemma": "välisriigile välja andma",
     "multiword": true,
     "parent": "ev-0779",
-    "translation": "",
+    "translation": "выдать иностранному государству (экстрадировать)",
     "level": null,
     "areas": [
       2
@@ -20403,7 +20403,7 @@
       "ps-36"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0063",
     "target": 12,
     "page": 22,
     "tags": [],
@@ -20443,7 +20443,7 @@
     "lemma": "välja andma",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "выдавать, предоставлять (данные)",
     "level": null,
     "areas": [
       2
@@ -20452,7 +20452,7 @@
       "ps-36"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0073",
     "target": 12,
     "page": 22,
     "tags": [],
@@ -20550,7 +20550,7 @@
     "lemma": "välja saatma",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "выслать (из страны)",
     "level": null,
     "areas": [
       2
@@ -20560,7 +20560,7 @@
       "ps-107"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0063",
     "target": 12,
     "page": 22,
     "tags": [],
@@ -21089,7 +21089,7 @@
     "lemma": "õiguslikule vastutusele võtma",
     "multiword": true,
     "parent": null,
-    "translation": "",
+    "translation": "привлечь к юридической ответственности",
     "level": null,
     "areas": [
       2
@@ -21098,7 +21098,7 @@
       "ps-41"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0069",
     "target": 12,
     "page": 23,
     "tags": [],
@@ -21212,7 +21212,7 @@
     "lemma": "õppeasutus",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "учебное заведение",
     "level": null,
     "areas": [
       2
@@ -21221,7 +21221,7 @@
       "ps-37"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0064",
     "target": 12,
     "page": 23,
     "tags": [],
@@ -21256,7 +21256,7 @@
     "lemma": "õppemaks",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "плата за обучение (õppemaksuta — без платы за обучение)",
     "level": "B1",
     "areas": [
       2,
@@ -21268,7 +21268,7 @@
       "ps-37"
     ],
     "kind": "general",
-    "introducedIn": null,
+    "introducedIn": "0064",
     "target": 12,
     "page": 23,
     "tags": [],
@@ -21475,7 +21475,7 @@
     "lemma": "ühiskonnakiht",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "социальный слой",
     "level": null,
     "areas": [
       2
@@ -21484,7 +21484,7 @@
       "ps-12"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0074",
     "target": 12,
     "page": 23,
     "tags": [],
@@ -21628,7 +21628,7 @@
     "lemma": "üldhariduskool",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "общеобразовательная школа",
     "level": null,
     "areas": [
       2
@@ -21637,7 +21637,7 @@
       "ps-37"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0064",
     "target": 12,
     "page": 23,
     "tags": [],
@@ -21800,7 +21800,7 @@
     "lemma": "üldkasutatav",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "общедоступный, общего пользования",
     "level": null,
     "areas": [
       2
@@ -21809,7 +21809,7 @@
       "ps-43"
     ],
     "kind": "legal",
-    "introducedIn": null,
+    "introducedIn": "0072",
     "target": 12,
     "page": 24,
     "tags": [],
@@ -21966,7 +21966,7 @@
     "lemma": "ülikool",
     "multiword": false,
     "parent": null,
-    "translation": "",
+    "translation": "университет",
     "level": "B1",
     "areas": [
       2
@@ -21975,7 +21975,7 @@
       "ps-38"
     ],
     "kind": "general",
-    "introducedIn": null,
+    "introducedIn": "0066",
     "target": 12,
     "page": 24,
     "tags": [],

@@ -12,6 +12,10 @@
     "translation": "нуждающийся (в помощи)",
     "introducedIn": "0048"
   },
+  "aeglaselt": {
+    "translation": "медленно",
+    "introducedIn": "0071"
+  },
   "ajaleht": {
     "translation": "газета",
     "introducedIn": "0007"
@@ -50,14 +54,27 @@
     "introducedIn": "0054",
     "exam": "ev-0023"
   },
+  "ametlik": {
+    "translation": "официальный",
+    "introducedIn": "0068"
+  },
   "ametnik": {
     "translation": "чиновник, служащий",
     "introducedIn": "0026"
+  },
+  "andmine": {
+    "translation": "предоставление, дача (nõusoleku andmine — дача согласия)",
+    "introducedIn": "0065",
+    "exam": "ev-0030"
   },
   "arest": {
     "translation": "арест",
     "introducedIn": "0037",
     "exam": "ev-0036"
+  },
+  "arhiiv": {
+    "translation": "архив",
+    "introducedIn": "0074"
   },
   "arvamust avaldama": {
     "translation": "высказывать мнение",
@@ -92,6 +109,11 @@
     "translation": "поселение, переезд на жительство",
     "introducedIn": "0037"
   },
+  "asutusesisene": {
+    "translation": "внутренний (для использования внутри учреждения)",
+    "introducedIn": "0073",
+    "exam": "ev-0050"
+  },
   "au": {
     "translation": "честь",
     "introducedIn": "0031",
@@ -100,6 +122,10 @@
   "austama": {
     "translation": "уважать",
     "introducedIn": "0033"
+  },
+  "autonoomne": {
+    "translation": "автономный (сам решает свои дела)",
+    "introducedIn": "0066"
   },
   "avaldama": {
     "translation": "публиковать, обнародовать",
@@ -124,6 +150,10 @@
   "avalikult": {
     "translation": "публично, открыто",
     "introducedIn": "0044"
+  },
+  "broneerima": {
+    "translation": "бронировать, записываться (на время)",
+    "introducedIn": "0071"
   },
   "demokraatlik": {
     "translation": "демократический",
@@ -150,6 +180,10 @@
     "introducedIn": "0044",
     "exam": "ev-0078"
   },
+  "edastatav": {
+    "translation": "передаваемый (edastama — передавать)",
+    "introducedIn": "0072"
+  },
   "eelnõu": {
     "translation": "законопроект, проект",
     "introducedIn": "0042",
@@ -174,6 +208,11 @@
     "translation": "Эстонская Республика",
     "introducedIn": "0014",
     "exam": "ev-0091"
+  },
+  "eestikeelne õpetus": {
+    "translation": "обучение на эстонском языке",
+    "introducedIn": "0064",
+    "exam": "ev-0093"
   },
   "ehe": {
     "translation": "украшение (kuuseehted — ёлочные украшения)",
@@ -245,9 +284,26 @@
     "introducedIn": "0054",
     "exam": "ev-0114"
   },
+  "erakool": {
+    "translation": "частная школа",
+    "introducedIn": "0064",
+    "exam": "ev-0116"
+  },
   "erand": {
     "translation": "исключение",
     "introducedIn": "0051"
+  },
+  "eranditult": {
+    "translation": "исключительно, без исключения",
+    "introducedIn": "0073"
+  },
+  "eraviisiliselt": {
+    "translation": "частным образом, не публично",
+    "introducedIn": "0068"
+  },
+  "ettenähtud": {
+    "translation": "предусмотренный",
+    "introducedIn": "0063"
   },
   "ettevaatlikult": {
     "translation": "осторожно",
@@ -266,6 +322,10 @@
     "translation": "заниматься предпринимательством",
     "introducedIn": "0054",
     "exam": "ev-0133"
+  },
+  "garaaž": {
+    "translation": "гараж",
+    "introducedIn": "0069"
   },
   "glasuur": {
     "translation": "глазурь",
@@ -288,10 +348,23 @@
     "introducedIn": "0034",
     "exam": "ev-0138"
   },
+  "hariduse andmine": {
+    "translation": "предоставление образования",
+    "introducedIn": "0065",
+    "exam": "ev-0032"
+  },
+  "haukuma": {
+    "translation": "лаять",
+    "introducedIn": "0074"
+  },
   "hea nimi": {
     "translation": "доброе имя",
     "introducedIn": "0031",
     "exam": "ev-0141"
+  },
+  "hernesupp": {
+    "translation": "гороховый суп",
+    "introducedIn": "0075"
   },
   "hinne": {
     "translation": "оценка (в школе)",
@@ -385,6 +458,10 @@
     "introducedIn": "0016",
     "exam": "ev-0169"
   },
+  "isikukood": {
+    "translation": "личный код (идентификационный номер)",
+    "introducedIn": "0071"
+  },
   "isikupuutumatus": {
     "translation": "личная неприкосновенность",
     "introducedIn": "0034",
@@ -465,6 +542,10 @@
     "translation": "жаловаться, подавать жалобу",
     "introducedIn": "0044"
   },
+  "kahjustama": {
+    "translation": "наносить ущерб, вредить",
+    "introducedIn": "0068"
+  },
   "kahtlustatav": {
     "translation": "подозреваемый",
     "introducedIn": "0034"
@@ -473,6 +554,11 @@
     "translation": "служба в Силах обороны",
     "introducedIn": "0051",
     "exam": "ev-0190"
+  },
+  "kaitsevägi": {
+    "translation": "Силы обороны",
+    "introducedIn": "0061",
+    "exam": "ev-0192"
   },
   "kaitsja": {
     "translation": "защитник",
@@ -500,6 +586,14 @@
     "translation": "потерпевший",
     "introducedIn": "0043",
     "exam": "ev-0199"
+  },
+  "kaplan": {
+    "translation": "капеллан (священнослужитель в больнице)",
+    "introducedIn": "0068"
+  },
+  "kardin": {
+    "translation": "занавеска",
+    "introducedIn": "0068"
   },
   "karistama": {
     "translation": "наказывать",
@@ -622,6 +716,11 @@
     "introducedIn": "0036",
     "exam": "ev-0225"
   },
+  "kinnipidamiskoht": {
+    "translation": "место лишения свободы (тюрьма и т. п.)",
+    "introducedIn": "0070",
+    "exam": "ev-0226"
+  },
   "kirjand": {
     "translation": "школьное сочинение",
     "introducedIn": "0031"
@@ -716,6 +815,15 @@
     "introducedIn": "0028",
     "exam": "ev-0259"
   },
+  "kohtueelne": {
+    "translation": "досудебный",
+    "introducedIn": "0062"
+  },
+  "kohtueelne menetlus": {
+    "translation": "досудебное производство",
+    "introducedIn": "0062",
+    "exam": "ev-0260"
+  },
   "kohtuistung": {
     "translation": "судебное заседание",
     "introducedIn": "0044",
@@ -765,6 +873,10 @@
     "introducedIn": "0034",
     "exam": "ev-0274"
   },
+  "kohustuslik": {
+    "translation": "обязательный",
+    "introducedIn": "0064"
+  },
   "kontrolli all olema": {
     "translation": "находиться под контролем, надзором",
     "introducedIn": "0053",
@@ -773,6 +885,10 @@
   "kontrollima": {
     "translation": "проверять",
     "introducedIn": "0020"
+  },
+  "kooliealine": {
+    "translation": "школьного возраста",
+    "introducedIn": "0064"
   },
   "koonduma": {
     "translation": "объединяться",
@@ -819,6 +935,10 @@
     "translation": "товарищество собственников квартир",
     "introducedIn": "0025"
   },
+  "kriminaalasi": {
+    "translation": "уголовное дело",
+    "introducedIn": "0061"
+  },
   "kriminaalmenetlus": {
     "translation": "уголовное производство, уголовный процесс",
     "introducedIn": "0038",
@@ -833,6 +953,11 @@
     "translation": "преступление",
     "introducedIn": "0034",
     "exam": "ev-0305"
+  },
+  "kuritegu tõkestama": {
+    "translation": "предотвращать преступление",
+    "introducedIn": "0072",
+    "exam": "ev-0306"
   },
   "kuriteos kahtlustatav": {
     "translation": "подозреваемый в преступлении",
@@ -926,6 +1051,10 @@
     "translation": "считать, рассматривать (кого-либо кем-либо)",
     "introducedIn": "0041"
   },
+  "käsitsi": {
+    "translation": "от руки, вручную",
+    "introducedIn": "0071"
+  },
   "käsutama": {
     "translation": "распоряжаться (имуществом)",
     "introducedIn": "0057",
@@ -935,13 +1064,35 @@
     "translation": "печь (в духовке)",
     "introducedIn": "0035"
   },
+  "küünal": {
+    "translation": "свеча",
+    "introducedIn": "0068"
+  },
   "lahendamine": {
     "translation": "разрешение, решение (спора)",
     "introducedIn": "0053"
   },
+  "lahkuma": {
+    "translation": "покидать, уезжать",
+    "introducedIn": "0062"
+  },
+  "lahkuma riigist": {
+    "translation": "покинуть государство, уехать из страны",
+    "introducedIn": "0062",
+    "exam": "ev-0335"
+  },
+  "lahtine": {
+    "translation": "открытый (lahtiste uste päev — день открытых дверей)",
+    "introducedIn": "0064"
+  },
   "lahusus": {
     "translation": "разделение (võimude lahusus — разделение властей)",
     "introducedIn": "0060"
+  },
+  "lahusus ja tasakaalustatus": {
+    "translation": "разделение и сбалансированность (властей)",
+    "introducedIn": "0066",
+    "exam": "ev-0336"
   },
   "lahutamatu": {
     "translation": "неотделимый, неотъемлемый",
@@ -983,6 +1134,10 @@
     "translation": "распространение",
     "introducedIn": "0051"
   },
+  "levitatav": {
+    "translation": "распространяемый (levitama — распространять)",
+    "introducedIn": "0073"
+  },
   "liige": {
     "translation": "член",
     "introducedIn": "0011",
@@ -997,9 +1152,17 @@
     "introducedIn": "0011",
     "exam": "ev-0349"
   },
+  "lina": {
+    "translation": "лён",
+    "introducedIn": "0075"
+  },
   "lipp": {
     "translation": "флаг",
     "introducedIn": "0008"
+  },
+  "loeng": {
+    "translation": "лекция",
+    "introducedIn": "0066"
   },
   "loetlema": {
     "translation": "перечислять",
@@ -1009,6 +1172,11 @@
   "lojaalne": {
     "translation": "лояльный",
     "introducedIn": "0029"
+  },
+  "looduskeskkond": {
+    "translation": "природная среда",
+    "introducedIn": "0061",
+    "exam": "ev-0357"
   },
   "loodusressurss": {
     "translation": "природный ресурс",
@@ -1024,6 +1192,11 @@
     "translation": "стихийное бедствие",
     "introducedIn": "0051",
     "exam": "ev-0360"
+  },
+  "looming": {
+    "translation": "творчество, творение (то, что создал автор)",
+    "introducedIn": "0067",
+    "exam": "ev-0361"
   },
   "loss": {
     "translation": "замок, дворец",
@@ -1061,6 +1234,10 @@
     "introducedIn": "0046",
     "exam": "ev-0371"
   },
+  "maalima": {
+    "translation": "рисовать красками, писать картину",
+    "introducedIn": "0069"
+  },
   "maha kirjutama": {
     "translation": "списывать",
     "introducedIn": "0031"
@@ -1089,6 +1266,14 @@
   "meelevaldselt": {
     "translation": "произвольно",
     "introducedIn": "0029"
+  },
+  "meenutama": {
+    "translation": "вспоминать",
+    "introducedIn": "0070"
+  },
+  "menetlus": {
+    "translation": "производство (по делу), процедура (kriminaalasja menetlus — производство по уголовному делу)",
+    "introducedIn": "0061"
   },
   "millisel juhul?": {
     "translation": "в каком случае?",
@@ -1139,6 +1324,11 @@
   "mõlema": {
     "translation": "оба (mõlemad — оба, и то и другое)",
     "introducedIn": "0034"
+  },
+  "mõttevabadus": {
+    "translation": "свобода мысли",
+    "introducedIn": "0068",
+    "exam": "ev-0396"
   },
   "mäletama": {
     "translation": "помнить",
@@ -1201,6 +1391,10 @@
     "translation": "молодость",
     "introducedIn": "0020"
   },
+  "nõue": {
+    "translation": "требование (tema nõudel — по его требованию)",
+    "introducedIn": "0073"
+  },
   "nõusolek": {
     "translation": "согласие (nõusolekuta — без согласия)",
     "introducedIn": "0057"
@@ -1225,6 +1419,11 @@
   "omaalgatuslik": {
     "translation": "по собственной инициативе",
     "introducedIn": "0050"
+  },
+  "omaalgatuslik vastupanu": {
+    "translation": "сопротивление по собственной инициативе",
+    "introducedIn": "0070",
+    "exam": "ev-0411"
   },
   "omand": {
     "translation": "собственность",
@@ -1259,6 +1458,14 @@
     "introducedIn": "0026",
     "exam": "ev-0421"
   },
+  "operatsioon": {
+    "translation": "операция",
+    "introducedIn": "0068"
+  },
+  "osavõtt": {
+    "translation": "участие",
+    "introducedIn": "0070"
+  },
   "osutama": {
     "translation": "оказывать (vastupanu osutama — оказывать сопротивление)",
     "introducedIn": "0029"
@@ -1272,9 +1479,22 @@
     "translation": "решать",
     "introducedIn": "0009"
   },
+  "otsustav": {
+    "translation": "решающий",
+    "introducedIn": "0064"
+  },
+  "otsustav sõna": {
+    "translation": "решающее слово",
+    "introducedIn": "0064",
+    "exam": "ev-0429"
+  },
   "paat": {
     "translation": "лодка",
     "introducedIn": "0044"
+  },
+  "pagariäri": {
+    "translation": "пекарня",
+    "introducedIn": "0067"
   },
   "pakkuminek": {
     "translation": "побег (pakku minema — скрыться, сбежать)",
@@ -1285,10 +1505,18 @@
     "translation": "палата (в больнице)",
     "introducedIn": "0023"
   },
+  "palvetama": {
+    "translation": "молиться",
+    "introducedIn": "0068"
+  },
   "paragrahv": {
     "translation": "параграф, статья (§)",
     "introducedIn": "0022",
     "exam": "ev-0433"
+  },
+  "parandus": {
+    "translation": "исправление",
+    "introducedIn": "0071"
   },
   "parim": {
     "translation": "лучший",
@@ -1321,6 +1549,10 @@
     "translation": "обманывать, жульничать",
     "introducedIn": "0031"
   },
+  "pettus": {
+    "translation": "мошенничество, обман",
+    "introducedIn": "0062"
+  },
   "piinama": {
     "translation": "пытать, мучить",
     "introducedIn": "0032"
@@ -1337,6 +1569,10 @@
   "pikaajaline": {
     "translation": "долгосрочный (pikaajalise elaniku elamisluba — вид на жительство долгосрочного резидента)",
     "introducedIn": "0018"
+  },
+  "pildistama": {
+    "translation": "фотографировать",
+    "introducedIn": "0067"
   },
   "poolt": {
     "translation": "со стороны (kohtu poolt — судом)",
@@ -1388,6 +1624,16 @@
     "introducedIn": "0001",
     "exam": "ev-0465"
   },
+  "põhiseaduse järgi": {
+    "translation": "согласно Конституции, по Конституции",
+    "introducedIn": "0071",
+    "exam": "ev-0466"
+  },
+  "põhiseaduses pole öeldud": {
+    "translation": "в Конституции не сказано",
+    "introducedIn": "0072",
+    "exam": "ev-0468"
+  },
   "põhiseadusevastane": {
     "translation": "противоречащий конституции, неконституционный",
     "introducedIn": "0028",
@@ -1401,9 +1647,18 @@
     "translation": "обоснованно",
     "introducedIn": "0034"
   },
+  "põlvnemine": {
+    "translation": "происхождение (lapse põlvnemise saladus — тайна происхождения ребёнка)",
+    "introducedIn": "0074"
+  },
   "pädev": {
     "translation": "компетентный",
     "introducedIn": "0034"
+  },
+  "pädev riigiorgan": {
+    "translation": "компетентный государственный орган",
+    "introducedIn": "0073",
+    "exam": "ev-0474"
   },
   "pärima": {
     "translation": "наследовать",
@@ -1431,6 +1686,11 @@
   "püsivalt": {
     "translation": "постоянно",
     "introducedIn": "0018"
+  },
+  "püsivalt eestis viibima": {
+    "translation": "постоянно находиться (жить) в Эстонии",
+    "introducedIn": "0075",
+    "exam": "ev-0485"
   },
   "rahvahääletus": {
     "translation": "референдум",
@@ -1478,6 +1738,11 @@
     "introducedIn": "0026",
     "exam": "ev-0525"
   },
+  "riigi järelevalve all olema": {
+    "translation": "находиться под надзором государства",
+    "introducedIn": "0065",
+    "exam": "ev-0526"
+  },
   "riigi kaitse all olema": {
     "translation": "находиться под защитой государства",
     "introducedIn": "0048",
@@ -1487,10 +1752,20 @@
     "translation": "государственное учреждение",
     "introducedIn": "0047"
   },
+  "riigikaitse": {
+    "translation": "государственная оборона",
+    "introducedIn": "0061",
+    "exam": "ev-0531"
+  },
   "riigikeel": {
     "translation": "государственный язык",
     "introducedIn": "0007",
     "exam": "ev-0532"
+  },
+  "riigikirik": {
+    "translation": "государственная церковь",
+    "introducedIn": "0068",
+    "exam": "ev-0533"
   },
   "riigikogu": {
     "translation": "Рийгикогу (парламент Эстонии)",
@@ -1575,6 +1850,10 @@
     "translation": "секрет, тайна",
     "introducedIn": "0056"
   },
+  "salaja": {
+    "translation": "тайком, втайне",
+    "introducedIn": "0069"
+  },
   "seadus": {
     "translation": "закон",
     "introducedIn": "0002",
@@ -1609,6 +1888,10 @@
     "translation": "законное основание",
     "introducedIn": "0051",
     "exam": "ev-0020"
+  },
+  "seaduslikult": {
+    "translation": "законно",
+    "introducedIn": "0061"
   },
   "seadust avaldama": {
     "translation": "опубликовать закон",
@@ -1653,6 +1936,14 @@
     "introducedIn": "0041",
     "exam": "ev-0588"
   },
+  "sõdur": {
+    "translation": "солдат",
+    "introducedIn": "0061"
+  },
+  "sõlmima": {
+    "translation": "заключать (договор)",
+    "introducedIn": "0070"
+  },
   "sõltumatu": {
     "translation": "независимый",
     "introducedIn": "0001"
@@ -1675,6 +1966,10 @@
     "translation": "экономно, рационально",
     "introducedIn": "0006"
   },
+  "südametunnistus": {
+    "translation": "совесть",
+    "introducedIn": "0068"
+  },
   "sünd": {
     "translation": "рождение (sünnilt, sünniga — по рождению)",
     "introducedIn": "0016"
@@ -1686,6 +1981,11 @@
   "süüdi": {
     "translation": "виновен",
     "introducedIn": "0012"
+  },
+  "süüdi mõistma": {
+    "translation": "осудить, признать виновным",
+    "introducedIn": "0062",
+    "exam": "ev-0606"
   },
   "süüdi olema": {
     "translation": "быть виновным (ei ole süüdi — не виноват)",
@@ -1731,6 +2031,15 @@
     "translation": "воля (vaba tahe — свободная воля)",
     "introducedIn": "0032"
   },
+  "takistama": {
+    "translation": "препятствовать, мешать",
+    "introducedIn": "0063"
+  },
+  "talletama": {
+    "translation": "хранить, сохранять (данные)",
+    "introducedIn": "0071",
+    "exam": "ev-0620"
+  },
   "taotlema": {
     "translation": "ходатайствовать, подавать заявление",
     "introducedIn": "0029",
@@ -1749,6 +2058,16 @@
   "tasku": {
     "translation": "карман",
     "introducedIn": "0015"
+  },
+  "teadus": {
+    "translation": "наука",
+    "introducedIn": "0066",
+    "exam": "ev-0625"
+  },
+  "teadusasutus": {
+    "translation": "научное учреждение",
+    "introducedIn": "0066",
+    "exam": "ev-0626"
   },
   "teataja": {
     "translation": "вестник; Riigi Teataja — официальное издание, где публикуют законы",
@@ -1779,6 +2098,15 @@
   "tekitama": {
     "translation": "причинять (kahju tekitama — причинять вред)",
     "introducedIn": "0046"
+  },
+  "telegraaf": {
+    "translation": "телеграф",
+    "introducedIn": "0072",
+    "exam": "ev-0634"
+  },
+  "telegramm": {
+    "translation": "телеграмма",
+    "introducedIn": "0072"
   },
   "teostama": {
     "translation": "осуществлять",
@@ -1817,6 +2145,19 @@
   "trepikoda": {
     "translation": "лестничная клетка, подъезд",
     "introducedIn": "0025"
+  },
+  "truu": {
+    "translation": "верный",
+    "introducedIn": "0069"
+  },
+  "truuks jääma": {
+    "translation": "оставаться верным",
+    "introducedIn": "0069",
+    "exam": "ev-0648"
+  },
+  "tulevane": {
+    "translation": "будущий",
+    "introducedIn": "0066"
   },
   "tulundusühendus": {
     "translation": "коммерческое объединение (объединение, извлекающее прибыль)",
@@ -1930,6 +2271,10 @@
     "translation": "украинский",
     "introducedIn": "0038"
   },
+  "ulatus": {
+    "translation": "объём, мера (seadusega määratud ulatuses — в установленном законом объёме)",
+    "introducedIn": "0064"
+  },
   "ustav": {
     "translation": "верный, лояльный",
     "introducedIn": "0019"
@@ -1939,15 +2284,37 @@
     "introducedIn": "0024",
     "exam": "ev-0681"
   },
+  "usutalitus": {
+    "translation": "религиозный обряд",
+    "introducedIn": "0068",
+    "exam": "ev-0684"
+  },
   "usutunnistus": {
     "translation": "вероисповедание",
     "introducedIn": "0048",
     "exam": "ev-0686"
   },
+  "usuühing": {
+    "translation": "религиозное объединение",
+    "introducedIn": "0068",
+    "exam": "ev-0688"
+  },
+  "uudishimulik": {
+    "translation": "любопытный",
+    "introducedIn": "0072"
+  },
+  "uurima": {
+    "translation": "расследовать, изучать",
+    "introducedIn": "0062"
+  },
   "vaba eneseteostus": {
     "translation": "свободная самореализация",
     "introducedIn": "0033",
     "exam": "ev-0690"
+  },
+  "vaba tahte vastaselt": {
+    "translation": "вопреки его свободной воле",
+    "introducedIn": "0071"
   },
   "vabadus": {
     "translation": "свобода",
@@ -1978,6 +2345,11 @@
     "introducedIn": "0004",
     "exam": "ev-0697"
   },
+  "vabariigi valitsus": {
+    "translation": "Правительство Республики",
+    "introducedIn": "0063",
+    "exam": "ev-0698"
+  },
   "vabatahtlik": {
     "translation": "добровольный; доброволец",
     "introducedIn": "0049",
@@ -1996,6 +2368,10 @@
   "vaht": {
     "translation": "стража (vahi all — под стражей)",
     "introducedIn": "0038"
+  },
+  "vaidlustama": {
+    "translation": "оспорить, обжаловать",
+    "introducedIn": "0063"
   },
   "vaikne": {
     "translation": "тихий",
@@ -2030,10 +2406,19 @@
     "introducedIn": "0004",
     "exam": "ev-0726"
   },
+  "vallavalitsus": {
+    "translation": "волостная управа (исполнительный орган волости)",
+    "introducedIn": "0074"
+  },
   "vanadus": {
     "translation": "старость",
     "introducedIn": "0049",
     "exam": "ev-0729"
+  },
+  "vande andmine": {
+    "translation": "принесение присяги",
+    "introducedIn": "0071",
+    "exam": "ev-0031"
   },
   "vangla": {
     "translation": "тюрьма",
@@ -2062,9 +2447,25 @@
     "translation": "вор",
     "introducedIn": "0041"
   },
+  "varastama": {
+    "translation": "красть",
+    "introducedIn": "0067"
+  },
+  "vastav": {
+    "translation": "соответствующий",
+    "introducedIn": "0063"
+  },
   "vastavalt": {
     "translation": "согласно, в соответствии (с чем-либо)",
     "introducedIn": "0042"
+  },
+  "vastlakukkel": {
+    "translation": "масленичная булочка со сливками",
+    "introducedIn": "0075"
+  },
+  "vastlapäev": {
+    "translation": "масленичный вторник (последний вторник перед Великим постом)",
+    "introducedIn": "0075"
   },
   "vastuolu": {
     "translation": "противоречие (vastuolus olema — противоречить)",
@@ -2085,15 +2486,33 @@
     "introducedIn": "0055",
     "exam": "ev-0743"
   },
+  "vastutus": {
+    "translation": "ответственность",
+    "introducedIn": "0069"
+  },
   "veendumus": {
     "translation": "убеждение",
     "introducedIn": "0016",
     "exam": "ev-0744"
   },
+  "veendumuste pärast": {
+    "translation": "за убеждения, из-за своих убеждений",
+    "introducedIn": "0069",
+    "exam": "ev-0745"
+  },
   "vihkamine": {
     "translation": "ненависть",
     "introducedIn": "0024",
     "exam": "ev-0746"
+  },
+  "viibima": {
+    "translation": "находиться, пребывать (seaduslikult Eestis viibima — законно находиться в Эстонии)",
+    "introducedIn": "0061",
+    "exam": "ev-0748"
+  },
+  "viibiv": {
+    "translation": "находящийся, пребывающий (Eestis viibiv — находящийся в Эстонии)",
+    "introducedIn": "0074"
   },
   "viivitamatult": {
     "translation": "незамедлительно, без промедления",
@@ -2103,6 +2522,16 @@
   "võim": {
     "translation": "власть",
     "introducedIn": "0004"
+  },
+  "võimude lahusus": {
+    "translation": "разделение властей",
+    "introducedIn": "0066",
+    "exam": "ev-0758"
+  },
+  "võimude lahususe ja tasakaalustatuse põhimõte": {
+    "translation": "принцип разделения и сбалансированности властей",
+    "introducedIn": "0066",
+    "exam": "ev-0759"
   },
   "võimude tasakaalustatus": {
     "translation": "сбалансированность властей",
@@ -2117,6 +2546,11 @@
     "translation": "равный (seaduse ees võrdsed — равны перед законом)",
     "introducedIn": "0013"
   },
+  "võrdne olema": {
+    "translation": "быть равным",
+    "introducedIn": "0068",
+    "exam": "ev-0763"
+  },
   "võrdselt": {
     "translation": "равно, в равной мере",
     "introducedIn": "0021",
@@ -2125,6 +2559,11 @@
   "võrdõiguslik": {
     "translation": "равноправный",
     "introducedIn": "0048"
+  },
+  "võrdõiguslik olema": {
+    "translation": "быть равноправным (abikaasad on võrdõiguslikud — супруги равноправны)",
+    "introducedIn": "0070",
+    "exam": "ev-0766"
   },
   "võti": {
     "translation": "ключ",
@@ -2138,6 +2577,15 @@
     "translation": "отчуждать (имущество)",
     "introducedIn": "0057",
     "exam": "ev-0769"
+  },
+  "võõrandamatu": {
+    "translation": "неотчуждаемый",
+    "introducedIn": "0067"
+  },
+  "võõrandamatu õigus": {
+    "translation": "неотчуждаемое право",
+    "introducedIn": "0067",
+    "exam": "ev-0770"
   },
   "vägivald": {
     "translation": "насилие",
@@ -2154,6 +2602,26 @@
     "introducedIn": "0016",
     "exam": "ev-0773"
   },
+  "vähemusrahvus": {
+    "translation": "национальное меньшинство",
+    "introducedIn": "0064",
+    "exam": "ev-0774"
+  },
+  "välisleping": {
+    "translation": "международный договор",
+    "introducedIn": "0063",
+    "exam": "ev-0776"
+  },
+  "välisriigi kodanik": {
+    "translation": "иностранный гражданин, гражданин иностранного государства",
+    "introducedIn": "0074",
+    "exam": "ev-0780"
+  },
+  "välisriigile välja andma": {
+    "translation": "выдать иностранному государству (экстрадировать)",
+    "introducedIn": "0063",
+    "exam": "ev-0781"
+  },
   "välisriik": {
     "translation": "иностранное государство",
     "introducedIn": "0021",
@@ -2164,6 +2632,20 @@
     "introducedIn": "0022",
     "exam": "ev-0782"
   },
+  "välja andma": {
+    "translation": "выдавать, предоставлять (данные)",
+    "introducedIn": "0073",
+    "exam": "ev-0783"
+  },
+  "välja saatma": {
+    "translation": "выслать (из страны)",
+    "introducedIn": "0063",
+    "exam": "ev-0787"
+  },
+  "väljaandmine": {
+    "translation": "выдача (экстрадиция)",
+    "introducedIn": "0063"
+  },
   "väljaselgitamine": {
     "translation": "выяснение, установление",
     "introducedIn": "0038"
@@ -2171,6 +2653,10 @@
   "vältima": {
     "translation": "избегать, предотвращать",
     "introducedIn": "0034"
+  },
+  "värviline": {
+    "translation": "цветной, яркий",
+    "introducedIn": "0069"
   },
   "väärikus": {
     "translation": "достоинство",
@@ -2210,6 +2696,15 @@
     "introducedIn": "0023",
     "exam": "ev-0804"
   },
+  "õiguslik": {
+    "translation": "юридический, правовой",
+    "introducedIn": "0069"
+  },
+  "õiguslikule vastutusele võtma": {
+    "translation": "привлечь к юридической ответственности",
+    "introducedIn": "0069",
+    "exam": "ev-0807"
+  },
   "õiguste tagamine": {
     "translation": "обеспечение прав",
     "introducedIn": "0029",
@@ -2218,6 +2713,32 @@
   "õigusvastaselt": {
     "translation": "противоправно",
     "introducedIn": "0046"
+  },
+  "õpetus": {
+    "translation": "обучение, преподавание",
+    "introducedIn": "0064"
+  },
+  "õppeasutus": {
+    "translation": "учебное заведение",
+    "introducedIn": "0064",
+    "exam": "ev-0813"
+  },
+  "õppejõud": {
+    "translation": "преподаватель (вуза)",
+    "introducedIn": "0066"
+  },
+  "õppemaks": {
+    "translation": "плата за обучение (õppemaksuta — без платы за обучение)",
+    "introducedIn": "0064",
+    "exam": "ev-0815"
+  },
+  "õppimine": {
+    "translation": "учёба, обучение",
+    "introducedIn": "0064"
+  },
+  "õppus": {
+    "translation": "учения (военные)",
+    "introducedIn": "0061"
   },
   "ärisaladus": {
     "translation": "коммерческая тайна",
@@ -2233,10 +2754,24 @@
     "introducedIn": "0053",
     "exam": "ev-0824"
   },
+  "ühiskonnakiht": {
+    "translation": "социальный слой",
+    "introducedIn": "0074",
+    "exam": "ev-0825"
+  },
+  "üksinda": {
+    "translation": "единолично, в одиночку",
+    "introducedIn": "0068"
+  },
   "üksnes": {
     "translation": "только, исключительно",
     "introducedIn": "0037",
     "exam": "ev-0828"
+  },
+  "üldhariduskool": {
+    "translation": "общеобразовательная школа",
+    "introducedIn": "0064",
+    "exam": "ev-0832"
   },
   "üldine": {
     "translation": "общий",
@@ -2252,5 +2787,19 @@
     "translation": "всеобщее право, право для всех",
     "introducedIn": "0025",
     "exam": "ev-0835"
+  },
+  "üldkasutatav": {
+    "translation": "общедоступный, общего пользования",
+    "introducedIn": "0072",
+    "exam": "ev-0840"
+  },
+  "ülikool": {
+    "translation": "университет",
+    "introducedIn": "0066",
+    "exam": "ev-0847"
+  },
+  "ümbrik": {
+    "translation": "конверт",
+    "introducedIn": "0065"
   }
 }

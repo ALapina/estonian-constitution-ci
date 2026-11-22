@@ -1,0 +1,2153 @@
+{
+  "id": "0069",
+  "slot": "s069",
+  "stage": 1,
+  "area": 2,
+  "type": "side",
+  "title": "Loss garaaži seinal",
+  "law": [
+    "ps-41"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "cast": {
+    "karl": {
+      "name": "Karl",
+      "voice": "albert",
+      "note": "a young street artist in Rakvere"
+    },
+    "leida": {
+      "name": "Leida",
+      "voice": "vesta",
+      "note": "an old woman in Rakvere whose garage wall Karl painted"
+    },
+    "merit": {
+      "name": "Merit",
+      "voice": "kylli",
+      "note": "Leida's granddaughter, a law student"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Rakveres elas vana naine Leida koos oma kassiga. Kass oli talle truu: igal õhtul ootas kass Leidat ukse juures.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Rakveres",
+          "l": "Rakvere",
+          "p": "H"
+        },
+        {
+          "f": "elas",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": "naine",
+          "l": "naine",
+          "p": "S"
+        },
+        {
+          "f": "Leida",
+          "l": "Leida",
+          "p": "H"
+        },
+        {
+          "f": "koos",
+          "l": "koos",
+          "p": "K"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "kassiga",
+          "l": "kass",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kass",
+          "l": "kass",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "talle",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "truu",
+          "l": "truu",
+          "p": "A"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igal",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "ootas",
+          "l": "ootama",
+          "p": "V"
+        },
+        {
+          "f": "kass",
+          "l": "kass",
+          "p": "S"
+        },
+        {
+          "f": "Leidat",
+          "l": "Leida",
+          "p": "H"
+        },
+        {
+          "f": "ukse",
+          "l": "uks",
+          "p": "S"
+        },
+        {
+          "f": "juures",
+          "l": "juures",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ühel ööl maalis noor tänavakunstnik Karl salaja suure pildi Leida garaaži seinale: loss, sinine taevas ja punane päike.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Ühel",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "ööl",
+          "l": "öö",
+          "p": "S"
+        },
+        {
+          "f": "maalis",
+          "l": "maalima",
+          "p": "V"
+        },
+        {
+          "f": "noor",
+          "l": "noor",
+          "p": "A"
+        },
+        {
+          "f": "tänavakunstnik",
+          "l": "tänavakunstnik",
+          "p": "S",
+          "parts": [
+            "tänav",
+            "kunstnik"
+          ]
+        },
+        {
+          "f": "Karl",
+          "l": "Karl",
+          "p": "H"
+        },
+        {
+          "f": "salaja",
+          "l": "salaja",
+          "p": "D"
+        },
+        {
+          "f": "suure",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "pildi",
+          "l": "pilt",
+          "p": "S"
+        },
+        {
+          "f": "Leida",
+          "l": "Leida",
+          "p": "H"
+        },
+        {
+          "f": "garaaži",
+          "l": "garaaž",
+          "p": "S"
+        },
+        {
+          "f": "seinale",
+          "l": "sein",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "loss",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sinine",
+          "l": "sinine",
+          "p": "A"
+        },
+        {
+          "f": "taevas",
+          "l": "taevas",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "punane",
+          "l": "punane",
+          "p": "A"
+        },
+        {
+          "f": "päike",
+          "l": "päike",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Luba ta ei küsinud. Karl uskus, et kunst kuulub kõigile ja hallid seinad peavad olema värvilised.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Luba",
+          "l": "luba",
+          "p": "S"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "küsinud",
+          "l": "küsima",
+          "p": "V",
+          "alt": [
+            "küsinud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Karl",
+          "l": "Karl",
+          "p": "H"
+        },
+        {
+          "f": "uskus",
+          "l": "uskuma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "kunst",
+          "l": "kunst",
+          "p": "S"
+        },
+        {
+          "f": "kuulub",
+          "l": "kuuluma",
+          "p": "V"
+        },
+        {
+          "f": "kõigile",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "hallid",
+          "l": "hall",
+          "p": "A"
+        },
+        {
+          "f": "seinad",
+          "l": "sein",
+          "p": "S"
+        },
+        {
+          "f": "peavad",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "olema",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "värvilised",
+          "l": "värviline",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta ei kuulunud ühtegi kunstnike liitu, aga ta tahtis teostada oma idee: teha kogu linn värviliseks.",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "kuulunud",
+          "l": "kuulunud",
+          "p": "A",
+          "alt": [
+            "kuuluma"
+          ]
+        },
+        {
+          "f": "ühtegi",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": "kunstnike",
+          "l": "kunstnik",
+          "p": "S"
+        },
+        {
+          "f": "liitu",
+          "l": "liit",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "tahtis",
+          "l": "tahtma",
+          "p": "V"
+        },
+        {
+          "f": "teostada",
+          "l": "teostama",
+          "p": "V"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "idee",
+          "l": "idee",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "teha",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "kogu",
+          "l": "kogu",
+          "p": "A"
+        },
+        {
+          "f": "linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "värviliseks",
+          "l": "värviline",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Hommikul peatusid garaaži ees inimesed ja vaatasid pilti. Leida oli vihane.",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "Hommikul",
+          "l": "hommik",
+          "p": "S"
+        },
+        {
+          "f": "peatusid",
+          "l": "peatuma",
+          "p": "V"
+        },
+        {
+          "f": "garaaži",
+          "l": "garaaž",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "inimesed",
+          "l": "inimene",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vaatasid",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "pilti",
+          "l": "pilt",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Leida",
+          "l": "Leida",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vihane",
+          "l": "vihane",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "leida",
+      "text": "„Kes seda tegi? See on minu garaaž!“",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tegi",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "garaaž",
+          "l": "garaaž",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Karl elas samal tänaval ja tuli ise rääkima.",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "Karl",
+          "l": "Karl",
+          "p": "H"
+        },
+        {
+          "f": "elas",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": "samal",
+          "l": "sama",
+          "p": "P"
+        },
+        {
+          "f": "tänaval",
+          "l": "tänav",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "rääkima",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "karl",
+      "text": "„Mina maalisin selle. Kunst ei küsi luba ega oota hääletamist. Hallid seinad on igavad!“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "maalisin",
+          "l": "maalima",
+          "p": "V"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kunst",
+          "l": "kunst",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "küsi",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": "luba",
+          "l": "luba",
+          "p": "S"
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "oota",
+          "l": "ootama",
+          "p": "V"
+        },
+        {
+          "f": "hääletamist",
+          "l": "hääletamine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Hallid",
+          "l": "hall",
+          "p": "A"
+        },
+        {
+          "f": "seinad",
+          "l": "sein",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "igavad",
+          "l": "igav",
+          "p": "A"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "karl",
+      "text": "„Me elame demokraatlikus vabariigis! Mul on õigus oma arvamusele!“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Me",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "elame",
+          "l": "elama",
+          "p": "V"
+        },
+        {
+          "f": "demokraatlikus",
+          "l": "demokraatlik",
+          "p": "A",
+          "parts": [
+            "demo",
+            "kraatlik"
+          ]
+        },
+        {
+          "f": "vabariigis",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mul",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "arvamusele",
+          "l": "arvamus",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Leida lapselaps Merit õppis ülikoolis õigust. Ta oli just vanaema juures külas.",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "Leida",
+          "l": "Leida",
+          "p": "H"
+        },
+        {
+          "f": "lapselaps",
+          "l": "lapselaps",
+          "p": "S",
+          "parts": [
+            "laps",
+            "laps"
+          ]
+        },
+        {
+          "f": "Merit",
+          "l": "Meri",
+          "p": "H"
+        },
+        {
+          "f": "õppis",
+          "l": "õppima",
+          "p": "V"
+        },
+        {
+          "f": "ülikoolis",
+          "l": "ülikool",
+          "p": "S",
+          "parts": [
+            "üli",
+            "kool"
+          ]
+        },
+        {
+          "f": "õigust",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "just",
+          "l": "just",
+          "p": "D"
+        },
+        {
+          "f": "vanaema",
+          "l": "vanaema",
+          "p": "S",
+          "parts": [
+            "vana",
+            "ema"
+          ]
+        },
+        {
+          "f": "juures",
+          "l": "juures",
+          "p": "K"
+        },
+        {
+          "f": "külas",
+          "l": "küla",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "merit",
+      "text": "„Paragrahv 41 ütleb: igaühel on õigus jääda truuks oma arvamustele ja veendumustele. Kedagi ei tohi sundida neid muutma.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "41",
+          "l": "41",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "jääda",
+          "l": "jääma",
+          "p": "V"
+        },
+        {
+          "f": "truuks",
+          "l": "truu",
+          "p": "A"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "arvamustele",
+          "l": "arvamus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "veendumustele",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kedagi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "sundida",
+          "l": "sundima",
+          "p": "V"
+        },
+        {
+          "f": "neid",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "muutma",
+          "l": "muutma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "karl",
+      "text": "„Näete! Minu veendumus on tähtis.“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Näete",
+          "l": "nägema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "veendumus",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tähtis",
+          "l": "tähtis",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "merit",
+      "text": "„Jah. Jääda truuks oma veendumustele on igaühe õigus. Aga teine lõige ütleb: veendumustega ei saa vabandada õiguserikkumist.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jääda",
+          "l": "jääma",
+          "p": "V"
+        },
+        {
+          "f": "truuks",
+          "l": "truu",
+          "p": "A"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "veendumustele",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "igaühe",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "veendumustega",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "saa",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "vabandada",
+          "l": "vabandama",
+          "p": "V"
+        },
+        {
+          "f": "õiguserikkumist",
+          "l": "õiguserikkumine",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "rikkumine"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "karl",
+      "text": "„Mis see tähendab?“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "merit",
+      "text": "„Kui see, mida sa tegid, on õiguserikkumine, siis sinu veendumus seda ei vabanda.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "tegid",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õiguserikkumine",
+          "l": "õiguserikkumine",
+          "p": "S",
+          "parts": [
+            "õigus",
+            "rikkumine"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "siis",
+          "l": "siis",
+          "p": "J"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "veendumus",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "vabanda",
+          "l": "vabandama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "merit",
+      "text": "„Ja kolmas lõige: kedagi ei saa veendumuste pärast võtta õiguslikule vastutusele.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kolmas",
+          "l": "kolmas",
+          "p": "O"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kedagi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "saa",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "veendumuste",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "õiguslikule",
+          "l": "õiguslik",
+          "p": "A"
+        },
+        {
+          "f": "vastutusele",
+          "l": "vastutus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "karl",
+      "text": "„Nii et mind ei saa võtta õiguslikule vastutusele selle pärast, mida ma usun?“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nii",
+          "l": "nii",
+          "p": "D"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "mind",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "saa",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "võtta",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "õiguslikule",
+          "l": "õiguslik",
+          "p": "A"
+        },
+        {
+          "f": "vastutusele",
+          "l": "vastutus",
+          "p": "S"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "usun",
+          "l": "uskuma",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "merit",
+      "text": "„Veendumuste pärast mitte. Aga garaaž on vanaema omand. Paragrahv 32: igaühe omand on puutumatu ja võrdselt kaitstud.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Veendumuste",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": "pärast",
+          "l": "pärast",
+          "p": "K"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "garaaž",
+          "l": "garaaž",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vanaema",
+          "l": "vanaema",
+          "p": "S",
+          "parts": [
+            "vana",
+            "ema"
+          ]
+        },
+        {
+          "f": "omand",
+          "l": "omand",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "32",
+          "l": "32",
+          "p": "N"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühe",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "omand",
+          "l": "omand",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "puutumatu",
+          "l": "puutumatu",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "võrdselt",
+          "l": "võrdselt",
+          "p": "D"
+        },
+        {
+          "f": "kaitstud",
+          "l": "kaitstud",
+          "p": "A",
+          "alt": [
+            "kaitsma"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Karl vaatas kaua oma lossi.",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "Karl",
+          "l": "Karl",
+          "p": "H"
+        },
+        {
+          "f": "vaatas",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "kaua",
+          "l": "kaua",
+          "p": "D"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "lossi",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "karl",
+      "text": "„Ma võin seina üle värvida. Teie valite värvi.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "võin",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "seina",
+          "l": "sein",
+          "p": "S"
+        },
+        {
+          "f": "üle",
+          "l": "üle",
+          "p": "D"
+        },
+        {
+          "f": "värvida",
+          "l": "värvima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Teie",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "valite",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": "värvi",
+          "l": "värv",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Leida ei öelnud seda kellelegi, aga salaja meeldis loss talle väga.",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "Leida",
+          "l": "Leida",
+          "p": "H"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "öelnud",
+          "l": "ütlema",
+          "p": "V",
+          "alt": [
+            "öelnud"
+          ]
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kellelegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "salaja",
+          "l": "salaja",
+          "p": "D"
+        },
+        {
+          "f": "meeldis",
+          "l": "meeldima",
+          "p": "V"
+        },
+        {
+          "f": "loss",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": "talle",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "väga",
+          "l": "väga",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "leida",
+      "text": "„Ära värvi midagi üle. Aga maali lossi aknale minu kass.“",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ära",
+          "l": "ära",
+          "p": "V"
+        },
+        {
+          "f": "värvi",
+          "l": "värv",
+          "p": "S"
+        },
+        {
+          "f": "midagi",
+          "l": "miski",
+          "p": "P"
+        },
+        {
+          "f": "üle",
+          "l": "üle",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "maali",
+          "l": "maal",
+          "p": "S"
+        },
+        {
+          "f": "lossi",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": "aknale",
+          "l": "aken",
+          "p": "S"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "kass",
+          "l": "kass",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Järgmisel päeval oli lossi aknal suur hall kass. Päris kass istus garaaži ees ja vaatas seda kaua.",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "Järgmisel",
+          "l": "järgmine",
+          "p": "A"
+        },
+        {
+          "f": "päeval",
+          "l": "päev",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lossi",
+          "l": "loss",
+          "p": "S"
+        },
+        {
+          "f": "aknal",
+          "l": "aken",
+          "p": "S"
+        },
+        {
+          "f": "suur",
+          "l": "suur",
+          "p": "A"
+        },
+        {
+          "f": "hall",
+          "l": "hall",
+          "p": "A"
+        },
+        {
+          "f": "kass",
+          "l": "kass",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Päris",
+          "l": "päris",
+          "p": "A"
+        },
+        {
+          "f": "kass",
+          "l": "kass",
+          "p": "S"
+        },
+        {
+          "f": "istus",
+          "l": "istuma",
+          "p": "V"
+        },
+        {
+          "f": "garaaži",
+          "l": "garaaž",
+          "p": "S"
+        },
+        {
+          "f": "ees",
+          "l": "ees",
+          "p": "K"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vaatas",
+          "l": "vaatama",
+          "p": "V"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kaua",
+          "l": "kaua",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "garaaži",
+      "lemma": "garaaž",
+      "translation": "гараж"
+    },
+    {
+      "form": "maalis",
+      "lemma": "maalima",
+      "translation": "рисовать красками, писать картину"
+    },
+    {
+      "form": "värvilised",
+      "lemma": "värviline",
+      "translation": "цветной, яркий"
+    },
+    {
+      "form": "truu",
+      "lemma": "truu",
+      "translation": "верный"
+    },
+    {
+      "form": "jääda truuks",
+      "lemma": "truuks jääma",
+      "translation": "оставаться верным"
+    },
+    {
+      "form": "veendumuste pärast",
+      "lemma": "veendumuste pärast",
+      "translation": "за убеждения, из-за своих убеждений"
+    },
+    {
+      "form": "õiguslikule",
+      "lemma": "õiguslik",
+      "translation": "юридический, правовой"
+    },
+    {
+      "form": "vastutusele",
+      "lemma": "vastutus",
+      "translation": "ответственность"
+    },
+    {
+      "form": "võtta õiguslikule vastutusele",
+      "lemma": "õiguslikule vastutusele võtma",
+      "translation": "привлечь к юридической ответственности"
+    },
+    {
+      "form": "salaja",
+      "lemma": "salaja",
+      "translation": "тайком, втайне"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus jääda truuks oma arvamustele ja veendumustele. Kedagi ei tohi sundida neid muutma. (§ 41)",
+      "ref": "ps-41-lg1"
+    },
+    {
+      "text": "Veendumustega ei saa vabandada õiguserikkumist. (§ 41)",
+      "ref": "ps-41-lg2"
+    },
+    {
+      "text": "Kedagi ei saa veendumuste pärast võtta õiguslikule vastutusele. (§ 41)",
+      "ref": "ps-41-lg3"
+    },
+    {
+      "text": "Igaühe omand on puutumatu ja võrdselt kaitstud. (§ 32)",
+      "ref": "ps-32-lg1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Mida ütleb põhiseaduse § 41 veendumuste ja õiguserikkumise kohta?",
+      "options": [
+        "Veendumustega ei saa vabandada õiguserikkumist.",
+        "Kui inimene teeb midagi oma veendumuste pärast, ei ole see õiguserikkumine.",
+        "Veendumuste pärast võib inimese võtta õiguslikule vastutusele.",
+        "Inimene peab oma veendumusi muutma, kui teised seda nõuavad."
+      ],
+      "answer": 0,
+      "explanation": "§ 41 teine lõige ütleb: veendumustega ei saa vabandada õiguserikkumist. Esimene lõige ütleb, et kedagi ei tohi sundida oma veendumusi muutma, ja kolmas lõige, et kedagi ei saa veendumuste pärast võtta õiguslikule vastutusele.",
+      "ref": "ps-41-lg2"
+    },
+    {
+      "type": "where",
+      "text": "Kus see on kirjas? „Igaühe omand on puutumatu ja võrdselt kaitstud.“",
+      "options": [
+        "§ 32",
+        "§ 33",
+        "§ 39",
+        "§ 41"
+      ],
+      "answer": 0,
+      "explanation": "See lause on põhiseaduse §-s 32 esimeses lõikes. § 33 räägib kodu puutumatusest, § 39 autori õigustest ja § 41 veendumustest.",
+      "ref": "ps-32-lg1"
+    }
+  ],
+  "audio": {
+    "story": "audio/0069/story.mp3",
+    "law": "audio/0069/law.mp3",
+    "timings": "audio/0069/timings.json"
+  }
+}

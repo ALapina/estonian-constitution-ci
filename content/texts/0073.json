@@ -1,0 +1,2402 @@
+{
+  "id": "0073",
+  "slot": "s073",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Miks lambid ei põle?",
+  "law": [
+    "ps-44-lg1",
+    "ps-44-lg2"
+  ],
+  "editions": {
+    "ps": "111042025003"
+  },
+  "tags": [],
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Esmaspäeva õhtul, 8. veebruaril, tuli Olga töölt koju läbi pargi.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Esmaspäeva",
+          "l": "esmaspäev",
+          "p": "S",
+          "parts": [
+            "esmas",
+            "päev"
+          ]
+        },
+        {
+          "f": "õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "8.",
+          "l": "8.",
+          "p": "O"
+        },
+        {
+          "f": "veebruaril",
+          "l": "veebruar",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tuli",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "töölt",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": "koju",
+          "l": "kodu",
+          "p": "S"
+        },
+        {
+          "f": "läbi",
+          "l": "läbi",
+          "p": "K"
+        },
+        {
+          "f": "pargi",
+          "l": "park",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Kelgumäel olid lambid jälle pimedad, nagu kogu talve.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Kelgumäel",
+          "l": "kelgumägi",
+          "p": "S",
+          "parts": [
+            "kelk",
+            "mägi"
+          ]
+        },
+        {
+          "f": "olid",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "lambid",
+          "l": "lamp",
+          "p": "S"
+        },
+        {
+          "f": "jälle",
+          "l": "jälle",
+          "p": "D"
+        },
+        {
+          "f": "pimedad",
+          "l": "pime",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "kogu",
+          "l": "kogu",
+          "p": "A"
+        },
+        {
+          "f": "talve",
+          "l": "talv",
+          "p": "S",
+          "alt": [
+            "tali"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Pimedas ei ole kelguga sõit enam mäng. Keegi võib viga saada.“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Pimedas",
+          "l": "pime",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kelguga",
+          "l": "kelk",
+          "p": "S"
+        },
+        {
+          "f": "sõit",
+          "l": "sõit",
+          "p": "S"
+        },
+        {
+          "f": "enam",
+          "l": "enam",
+          "p": "D"
+        },
+        {
+          "f": "mäng",
+          "l": "mäng",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Keegi",
+          "l": "keegi",
+          "p": "P"
+        },
+        {
+          "f": "võib",
+          "l": "võima",
+          "p": "V"
+        },
+        {
+          "f": "viga",
+          "l": "viga",
+          "p": "S"
+        },
+        {
+          "f": "saada",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ema, sellest tuleb minu ühiskonnaõpetuse projekt! Ma küsin, miks lambid ei põle.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sellest",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "tuleb",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "minu",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ühiskonnaõpetuse",
+          "l": "ühiskonnaõpetus",
+          "p": "S",
+          "parts": [
+            "ühiskond",
+            "õpetus"
+          ]
+        },
+        {
+          "f": "projekt",
+          "l": "projekt",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "küsin",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "miks",
+          "l": "miks",
+          "p": "D"
+        },
+        {
+          "f": "lambid",
+          "l": "lamp",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "põle",
+          "l": "põlema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Aga kellelt? Riigilt? Mõni pädev riigiorgan peab ju teadma.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kellelt",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Riigilt",
+          "l": "Riigilt",
+          "p": "H"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mõni",
+          "l": "mõni",
+          "p": "P"
+        },
+        {
+          "f": "pädev",
+          "l": "pädev",
+          "p": "A"
+        },
+        {
+          "f": "riigiorgan",
+          "l": "riigiorgan",
+          "p": "S",
+          "parts": [
+            "riik",
+            "organ"
+          ]
+        },
+        {
+          "f": "peab",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "ju",
+          "l": "ju",
+          "p": "D"
+        },
+        {
+          "f": "teadma",
+          "l": "teadma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Olga saatis Lisa naabri Jaani juurde, sest Jaan oli Riigikogu liige.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "saatis",
+          "l": "saatma",
+          "p": "V"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "naabri",
+          "l": "naaber",
+          "p": "S"
+        },
+        {
+          "f": "Jaani",
+          "l": "Jaan",
+          "p": "H",
+          "alt": [
+            "Jaani"
+          ]
+        },
+        {
+          "f": "juurde",
+          "l": "juurde",
+          "p": "K"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sest",
+          "l": "sest",
+          "p": "J"
+        },
+        {
+          "f": "Jaan",
+          "l": "Jaan",
+          "p": "H"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Riigikogu",
+          "l": "riigikogu",
+          "p": "S",
+          "parts": [
+            "riik",
+            "kogu"
+          ]
+        },
+        {
+          "f": "liige",
+          "l": "liige",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "jaan",
+      "text": "„Riigikogu teeb seadusi, mitte lampe. Lampe ei paranda ka rahvahääletus.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Riigikogu",
+          "l": "riigikogu",
+          "p": "S",
+          "parts": [
+            "riik",
+            "kogu"
+          ]
+        },
+        {
+          "f": "teeb",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "seadusi",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "lampe",
+          "l": "lamp",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Lampe",
+          "l": "lamp",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "paranda",
+          "l": "parandama",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "rahvahääletus",
+          "l": "rahvahääletus",
+          "p": "S",
+          "parts": [
+            "rahvas",
+            "hääletus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "jaan",
+      "text": "„Park ja lambid on linna asi, mitte riiklik asi. Ja linn ei ole riigiorgan, vaid kohalik omavalitsus. Kirjuta Tallinna linnavalitsusele.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Park",
+          "l": "Park",
+          "p": "H"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "lambid",
+          "l": "lamp",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "linna",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "asi",
+          "l": "asi",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "riiklik",
+          "l": "riiklik",
+          "p": "A"
+        },
+        {
+          "f": "asi",
+          "l": "asi",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "riigiorgan",
+          "l": "riigiorgan",
+          "p": "S",
+          "parts": [
+            "riik",
+            "organ"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "vaid",
+          "l": "vaid",
+          "p": "J"
+        },
+        {
+          "f": "kohalik",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsus",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kirjuta",
+          "l": "Kirjuta",
+          "p": "H"
+        },
+        {
+          "f": "Tallinna",
+          "l": "Tallinn",
+          "p": "H"
+        },
+        {
+          "f": "linnavalitsusele",
+          "l": "linnavalitsus",
+          "p": "S",
+          "parts": [
+            "linn",
+            "valitsus"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Aga kas linnal on kohustus mulle vastata?“",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "linnal",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohustus",
+          "l": "kohustus",
+          "p": "S"
+        },
+        {
+          "f": "mulle",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "vastata",
+          "l": "vastama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Jaan võttis riiulilt põhiseaduse ja otsis üles paragrahvi 44.",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "Jaan",
+          "l": "Jaan",
+          "p": "H"
+        },
+        {
+          "f": "võttis",
+          "l": "võtma",
+          "p": "V"
+        },
+        {
+          "f": "riiulilt",
+          "l": "riiul",
+          "p": "S"
+        },
+        {
+          "f": "põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "otsis",
+          "l": "otsima",
+          "p": "V"
+        },
+        {
+          "f": "üles",
+          "l": "üles",
+          "p": "D"
+        },
+        {
+          "f": "paragrahvi",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "44.",
+          "l": "44.",
+          "p": "O"
+        }
+      ]
+    },
+    {
+      "speaker": "jaan",
+      "text": "„Esimene lõige: igaühel on õigus vabalt saada üldiseks kasutamiseks levitatavat informatsiooni. Näiteks seda, mis on linna kodulehel.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Esimene",
+          "l": "esimene",
+          "p": "O"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "vabalt",
+          "l": "vabalt",
+          "p": "D"
+        },
+        {
+          "f": "saada",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "üldiseks",
+          "l": "üldine",
+          "p": "A"
+        },
+        {
+          "f": "kasutamiseks",
+          "l": "kasutamine",
+          "p": "S"
+        },
+        {
+          "f": "levitatavat",
+          "l": "levitatav",
+          "p": "A"
+        },
+        {
+          "f": "informatsiooni",
+          "l": "informatsioon",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Näiteks",
+          "l": "näiteks",
+          "p": "D"
+        },
+        {
+          "f": "seda",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "linna",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "kodulehel",
+          "l": "koduleht",
+          "p": "S",
+          "parts": [
+            "kodu",
+            "leht"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Seal on palju üldiseks kasutamiseks levitatavat informatsiooni, aga lampidest mitte midagi.“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "palju",
+          "l": "palju",
+          "p": "D"
+        },
+        {
+          "f": "üldiseks",
+          "l": "üldine",
+          "p": "A"
+        },
+        {
+          "f": "kasutamiseks",
+          "l": "kasutamine",
+          "p": "S"
+        },
+        {
+          "f": "levitatavat",
+          "l": "levitatav",
+          "p": "A"
+        },
+        {
+          "f": "informatsiooni",
+          "l": "informatsioon",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "lampidest",
+          "l": "lamp",
+          "p": "S"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": "midagi",
+          "l": "miski",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "jaan",
+      "text": "„Siis aitab teine lõige. Kõik riigiasutused, kohalikud omavalitsused ja nende ametiisikud on kohustatud seaduses sätestatud korras andma Eesti kodanikule tema nõudel informatsiooni oma tegevuse kohta.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "aitab",
+          "l": "aitama",
+          "p": "V"
+        },
+        {
+          "f": "teine",
+          "l": "teine",
+          "p": "P"
+        },
+        {
+          "f": "lõige",
+          "l": "lõige",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "riigiasutused",
+          "l": "riigiasutus",
+          "p": "S",
+          "parts": [
+            "riik",
+            "asutus"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kohalikud",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsused",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "nende",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ametiisikud",
+          "l": "ametiisik",
+          "p": "S",
+          "parts": [
+            "amet",
+            "isik"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kohustatud",
+          "l": "kohustama",
+          "p": "V",
+          "alt": [
+            "kohustatud"
+          ]
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": "andma",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikule",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "nõudel",
+          "l": "nõue",
+          "p": "S",
+          "alt": [
+            "nõu"
+          ]
+        },
+        {
+          "f": "informatsiooni",
+          "l": "informatsioon",
+          "p": "S"
+        },
+        {
+          "f": "oma",
+          "l": "oma",
+          "p": "P"
+        },
+        {
+          "f": "tegevuse",
+          "l": "tegevus",
+          "p": "S"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Tema nõudel? Mina nõuan ja nemad peavad vastama? Ma olen ju Eesti Vabariigi kodanik!“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "nõudel",
+          "l": "nõue",
+          "p": "S",
+          "alt": [
+            "nõu"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "nõuan",
+          "l": "nõudma",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "nemad",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "peavad",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "vastama",
+          "l": "vastama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ju",
+          "l": "ju",
+          "p": "D"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "Vabariigi",
+          "l": "vabariik",
+          "p": "S",
+          "parts": [
+            "vaba",
+            "riik"
+          ]
+        },
+        {
+          "f": "kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "jaan",
+      "text": "„Jah, seaduses sätestatud korras. Aga on kaks erandit: andmed, mille väljaandmine on seadusega keelatud, ja eranditult asutusesiseseks kasutamiseks mõeldud andmed.“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Jah",
+          "l": "jah",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "seaduses",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "sätestatud",
+          "l": "sätestatud",
+          "p": "A",
+          "alt": [
+            "sätestama"
+          ]
+        },
+        {
+          "f": "korras",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kaks",
+          "l": "kaks",
+          "p": "N"
+        },
+        {
+          "f": "erandit",
+          "l": "erand",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "andmed",
+          "l": "andmed",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mille",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "väljaandmine",
+          "l": "väljaandmine",
+          "p": "S",
+          "parts": [
+            "välja",
+            "andmine"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "seadusega",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "keelatud",
+          "l": "keelama",
+          "p": "V",
+          "alt": [
+            "keelatud"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "eranditult",
+          "l": "eranditult",
+          "p": "D"
+        },
+        {
+          "f": "asutusesiseseks",
+          "l": "asutusesisene",
+          "p": "A",
+          "parts": [
+            "asutus",
+            "sisene"
+          ]
+        },
+        {
+          "f": "kasutamiseks",
+          "l": "kasutamine",
+          "p": "S"
+        },
+        {
+          "f": "mõeldud",
+          "l": "mõtlema",
+          "p": "V",
+          "alt": [
+            "mõeldud"
+          ]
+        },
+        {
+          "f": "andmed",
+          "l": "andmed",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Asutusesiseseks?“",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Asutusesiseseks",
+          "l": "asutusesisene",
+          "p": "A",
+          "parts": [
+            "asutus",
+            "sisene"
+          ]
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "jaan",
+      "text": "„Asutusesisene tähendab, et andmed on mõeldud ainult riigiasutuse või omavalitsuse enda tööks. Neid ja andmeid, mida seadus keelab välja anda, ei pea linn sulle andma.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Asutusesisene",
+          "l": "Asutusesisene",
+          "p": "H"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "andmed",
+          "l": "andmed",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "mõeldud",
+          "l": "mõtlema",
+          "p": "V",
+          "alt": [
+            "mõeldud"
+          ]
+        },
+        {
+          "f": "ainult",
+          "l": "ainult",
+          "p": "D"
+        },
+        {
+          "f": "riigiasutuse",
+          "l": "riigiasutus",
+          "p": "S",
+          "parts": [
+            "riik",
+            "asutus"
+          ]
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "omavalitsuse",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "enda",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "tööks",
+          "l": "töö",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Neid",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "andmeid",
+          "l": "andmed",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "seadus",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "keelab",
+          "l": "keelama",
+          "p": "V"
+        },
+        {
+          "f": "välja",
+          "l": "välja",
+          "p": "D"
+        },
+        {
+          "f": "anda",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "pea",
+          "l": "pidama",
+          "p": "V"
+        },
+        {
+          "f": "linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "sulle",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "andma",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Kas ma küsin ka, kes on süüdi?“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "küsin",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "süüdi",
+          "l": "süüdi",
+          "p": "D"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "jaan",
+      "text": "„Küsi parem, mida linn edasi teeb.“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Küsi",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": "parem",
+          "l": "parem",
+          "p": "C"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "mida",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "linn",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "edasi",
+          "l": "edasi",
+          "p": "D"
+        },
+        {
+          "f": "teeb",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa tegi otsuse ja kirjutas linnavalitsusele lühikese kirja.",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "tegi",
+          "l": "tegema",
+          "p": "V"
+        },
+        {
+          "f": "otsuse",
+          "l": "otsus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "linnavalitsusele",
+          "l": "linnavalitsus",
+          "p": "S",
+          "parts": [
+            "linn",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "lühikese",
+          "l": "lühike",
+          "p": "A"
+        },
+        {
+          "f": "kirja",
+          "l": "kiri",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Teisipäeva hommikul oli vastus juba tema telefonis.",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "Teisipäeva",
+          "l": "teisipäev",
+          "p": "S",
+          "parts": [
+            "teine",
+            "päev"
+          ]
+        },
+        {
+          "f": "hommikul",
+          "l": "hommik",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vastus",
+          "l": "vastus",
+          "p": "S"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "telefonis",
+          "l": "telefon",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Linnavalitsus kirjutas, et lambid on katki ja need parandatakse kevadel.",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "Linnavalitsus",
+          "l": "linnavalitsus",
+          "p": "S",
+          "parts": [
+            "linn",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "et",
+          "l": "et",
+          "p": "J"
+        },
+        {
+          "f": "lambid",
+          "l": "lamp",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "katki",
+          "l": "katki",
+          "p": "D"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "need",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "parandatakse",
+          "l": "parandama",
+          "p": "V"
+        },
+        {
+          "f": "kevadel",
+          "l": "kevad",
+          "p": "S",
+          "alt": [
+            "kevade"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ema! Kuusteist aastat vana ja juba vastus linnalt!“",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ema",
+          "l": "ema",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kuusteist",
+          "l": "kuusteist",
+          "p": "N",
+          "parts": [
+            "kuus",
+            "teist"
+          ]
+        },
+        {
+          "f": "aastat",
+          "l": "aasta",
+          "p": "S"
+        },
+        {
+          "f": "vana",
+          "l": "vana",
+          "p": "A"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": "vastus",
+          "l": "vastus",
+          "p": "S"
+        },
+        {
+          "f": "linnalt",
+          "l": "linn",
+          "p": "S"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kevadel jalutame seal õhtul jälle valges.“",
+      "para": 18,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kevadel",
+          "l": "kevad",
+          "p": "S",
+          "alt": [
+            "kevade"
+          ]
+        },
+        {
+          "f": "jalutame",
+          "l": "jalutama",
+          "p": "V"
+        },
+        {
+          "f": "seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "jälle",
+          "l": "jälle",
+          "p": "D"
+        },
+        {
+          "f": "valges",
+          "l": "valge",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Paragrahv 34 ütleb: igaühel, kes viibib seaduslikult Eestis, on õigus vabalt liikuda ja elukohta valida. Ka pimedas pargis, aga valges on parem!“",
+      "para": 19,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "34",
+          "l": "34",
+          "p": "N"
+        },
+        {
+          "f": "ütleb",
+          "l": "ütlema",
+          "p": "V"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "viibib",
+          "l": "viibima",
+          "p": "V"
+        },
+        {
+          "f": "seaduslikult",
+          "l": "seaduslikult",
+          "p": "D"
+        },
+        {
+          "f": "Eestis",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "vabalt",
+          "l": "vabalt",
+          "p": "D"
+        },
+        {
+          "f": "liikuda",
+          "l": "liikuma",
+          "p": "V"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "elukohta",
+          "l": "elukoht",
+          "p": "S",
+          "parts": [
+            "elu",
+            "koht"
+          ]
+        },
+        {
+          "f": "valida",
+          "l": "valima",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "pimedas",
+          "l": "pime",
+          "p": "A"
+        },
+        {
+          "f": "pargis",
+          "l": "park",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "valges",
+          "l": "valge",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "parem",
+          "l": "parem",
+          "p": "C"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "nõudel",
+      "lemma": "nõue",
+      "translation": "требование (tema nõudel — по его требованию)"
+    },
+    {
+      "form": "asutusesiseseks",
+      "lemma": "asutusesisene",
+      "translation": "внутренний (для использования внутри учреждения)"
+    },
+    {
+      "form": "pädev riigiorgan",
+      "lemma": "pädev riigiorgan",
+      "translation": "компетентный государственный орган"
+    },
+    {
+      "form": "välja anda",
+      "lemma": "välja andma",
+      "translation": "выдавать, предоставлять (данные)"
+    },
+    {
+      "form": "levitatavat",
+      "lemma": "levitatav",
+      "translation": "распространяемый (levitama — распространять)"
+    },
+    {
+      "form": "eranditult",
+      "lemma": "eranditult",
+      "translation": "исключительно, без исключения"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Igaühel on õigus vabalt saada üldiseks kasutamiseks levitatavat informatsiooni. (§ 44)",
+      "ref": "ps-44-lg1"
+    },
+    {
+      "text": "Kõik riigiasutused, kohalikud omavalitsused ja nende ametiisikud on kohustatud seaduses sätestatud korras andma Eesti kodanikule tema nõudel informatsiooni oma tegevuse kohta. (§ 44)",
+      "ref": "ps-44-lg2"
+    },
+    {
+      "text": "Erandid on andmed, mille väljaandmine on seadusega keelatud, ja eranditult asutusesiseseks kasutamiseks mõeldud andmed. (§ 44)",
+      "ref": "ps-44-lg2"
+    },
+    {
+      "text": "Igaühel, kes viibib seaduslikult Eestis, on õigus vabalt liikuda ja elukohta valida. (§ 34)",
+      "ref": "ps-34"
+    }
+  ],
+  "questions": [
+    {
+      "type": "choice",
+      "text": "Millist informatsiooni ei pea riigiasutus põhiseaduse § 44 lõike 2 järgi Eesti kodanikule tema nõudel andma?",
+      "options": [
+        "eranditult asutusesiseseks kasutamiseks mõeldud andmeid",
+        "informatsiooni oma tegevuse kohta",
+        "informatsiooni, mida küsib 16-aastane kodanik",
+        "informatsiooni, mida kodanik küsib kirjaga"
+      ],
+      "answer": 0,
+      "explanation": "§ 44 lõige 2 ütleb: riigiasutused, kohalikud omavalitsused ja nende ametiisikud on kohustatud seaduses sätestatud korras andma Eesti kodanikule tema nõudel informatsiooni oma tegevuse kohta, välja arvatud andmed, mille väljaandmine on seadusega keelatud, ja eranditult asutusesiseseks kasutamiseks mõeldud andmed.",
+      "ref": "ps-44-lg2"
+    },
+    {
+      "type": "truefalse",
+      "text": "Õigust vabalt liikuda ei tohi piirata mitte kunagi.",
+      "options": [
+        "õige",
+        "vale"
+      ],
+      "answer": 1,
+      "explanation": "§ 34 ütleb: õigust vabalt liikuda võib seaduses sätestatud juhtudel ja korras piirata, näiteks teiste inimeste õiguste ja vabaduste kaitseks, riigikaitse huvides või looduskeskkonna kaitseks.",
+      "ref": "ps-34"
+    }
+  ],
+  "audio": {
+    "story": "audio/0073/story.mp3",
+    "law": "audio/0073/law.mp3",
+    "timings": "audio/0073/timings.json"
+  }
+}

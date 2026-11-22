@@ -1,0 +1,2336 @@
+{
+  "id": "0071",
+  "slot": "s071",
+  "stage": 1,
+  "area": 2,
+  "type": "serial",
+  "title": "Ilma parandusteta",
+  "law": [
+    "ps-42"
+  ],
+  "editions": {
+    "ps": "111042025003",
+    "kods": "126062025008"
+  },
+  "tags": [
+    "932 SE"
+  ],
+  "segments": [
+    {
+      "speaker": "narrator",
+      "text": "Neljapäeva õhtul, 4. veebruaril, korjas Lisa köögilaualt ära kõik pliiatsid ja pastakad peale ühe.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "Neljapäeva",
+          "l": "neljapäev",
+          "p": "S",
+          "parts": [
+            "neli",
+            "päev"
+          ]
+        },
+        {
+          "f": "õhtul",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "4.",
+          "l": "4.",
+          "p": "O"
+        },
+        {
+          "f": "veebruaril",
+          "l": "veebruar",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "korjas",
+          "l": "korjama",
+          "p": "V"
+        },
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "köögilaualt",
+          "l": "köögilaud",
+          "p": "S",
+          "parts": [
+            "köök",
+            "laud"
+          ]
+        },
+        {
+          "f": "ära",
+          "l": "ära",
+          "p": "D"
+        },
+        {
+          "f": "kõik",
+          "l": "kõik",
+          "p": "P"
+        },
+        {
+          "f": "pliiatsid",
+          "l": "pliiats",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "pastakad",
+          "l": "pastakas",
+          "p": "S"
+        },
+        {
+          "f": "peale",
+          "l": "peale",
+          "p": "K"
+        },
+        {
+          "f": "ühe",
+          "l": "üks",
+          "p": "P"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "See oli tume pastakas ja selle kõrval oli Olga Eesti kodakondsuse taotlus.",
+      "para": 0,
+      "tokens": [
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "tume",
+          "l": "tume",
+          "p": "A"
+        },
+        {
+          "f": "pastakas",
+          "l": "pastakas",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "kõrval",
+          "l": "kõrval",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodakondsuse",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "taotlus",
+          "l": "taotlus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Taotlus täidetakse eesti keeles ja tumeda pastakaga. Ja parandusi ei tohi olla!“",
+      "para": 1,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Taotlus",
+          "l": "taotlus",
+          "p": "S"
+        },
+        {
+          "f": "täidetakse",
+          "l": "täitma",
+          "p": "V"
+        },
+        {
+          "f": "eesti",
+          "l": "eesti",
+          "p": "G"
+        },
+        {
+          "f": "keeles",
+          "l": "keel",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tumeda",
+          "l": "tume",
+          "p": "A"
+        },
+        {
+          "f": "pastakaga",
+          "l": "pastakas",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "parandusi",
+          "l": "parandus",
+          "p": "S"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ilma parandusteta? Siis kirjutan ma aeglaselt.“",
+      "para": 2,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ilma",
+          "l": "ilma",
+          "p": "K"
+        },
+        {
+          "f": "parandusteta",
+          "l": "parandus",
+          "p": "S"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "kirjutan",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "aeglaselt",
+          "l": "aeglaselt",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Taotlus küsis palju andmeid: nimed, isikukood, sünniaeg ja sünnikoht, emakeel, haridus, elukohad, perekond ja sugulased.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Taotlus",
+          "l": "taotlus",
+          "p": "S"
+        },
+        {
+          "f": "küsis",
+          "l": "küsima",
+          "p": "V"
+        },
+        {
+          "f": "palju",
+          "l": "palju",
+          "p": "D"
+        },
+        {
+          "f": "andmeid",
+          "l": "andmed",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "nimed",
+          "l": "nimi",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "isikukood",
+          "l": "isikukood",
+          "p": "S",
+          "parts": [
+            "isik",
+            "kood"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sünniaeg",
+          "l": "sünniaeg",
+          "p": "S",
+          "parts": [
+            "sünd",
+            "aeg"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sünnikoht",
+          "l": "sünnikoht",
+          "p": "S",
+          "parts": [
+            "sünd",
+            "koht"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "emakeel",
+          "l": "emakeel",
+          "p": "S",
+          "parts": [
+            "ema",
+            "keel"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "haridus",
+          "l": "haridus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "elukohad",
+          "l": "elukoht",
+          "p": "S",
+          "parts": [
+            "elu",
+            "koht"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "perekond",
+          "l": "perekond",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sugulased",
+          "l": "sugulane",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Iga vastuse jaoks oli vähe ruumi ja see piiras Olga vastuseid.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Iga",
+          "l": "iga",
+          "p": "P"
+        },
+        {
+          "f": "vastuse",
+          "l": "vastus",
+          "p": "S"
+        },
+        {
+          "f": "jaoks",
+          "l": "jaoks",
+          "p": "K"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vähe",
+          "l": "vähe",
+          "p": "D"
+        },
+        {
+          "f": "ruumi",
+          "l": "ruum",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "piiras",
+          "l": "piirama",
+          "p": "V"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "vastuseid",
+          "l": "vastus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Ta kirjutas aeglaselt, täht tähe järel.",
+      "para": 3,
+      "tokens": [
+        {
+          "f": "Ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "aeglaselt",
+          "l": "aeglaselt",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "täht",
+          "l": "täht",
+          "p": "S"
+        },
+        {
+          "f": "tähe",
+          "l": "täht",
+          "p": "S"
+        },
+        {
+          "f": "järel",
+          "l": "järel",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Sünnikoht: Tallinn. Ma olen siin sündinud.“",
+      "para": 4,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sünnikoht",
+          "l": "sünnikoht",
+          "p": "S",
+          "parts": [
+            "sünd",
+            "koht"
+          ]
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Tallinn",
+          "l": "Tallinn",
+          "p": "H"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "siin",
+          "l": "siin",
+          "p": "D"
+        },
+        {
+          "f": "sündinud",
+          "l": "sündima",
+          "p": "V",
+          "alt": [
+            "sündinud"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Isikukoodi kirjutas ta peast.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Isikukoodi",
+          "l": "isikukood",
+          "p": "S",
+          "parts": [
+            "isik",
+            "kood"
+          ]
+        },
+        {
+          "f": "kirjutas",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "peast",
+          "l": "pea",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Eksamil oli ta vaikses saalis rahulik, aga nüüd mitte.",
+      "para": 5,
+      "tokens": [
+        {
+          "f": "Eksamil",
+          "l": "eksam",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ta",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "vaikses",
+          "l": "vaikne",
+          "p": "A"
+        },
+        {
+          "f": "saalis",
+          "l": "saal",
+          "p": "S"
+        },
+        {
+          "f": "rahulik",
+          "l": "rahulik",
+          "p": "A"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "mitte",
+          "l": "mitte",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Kas siin on ka küsimus usu või veendumuste kohta?“",
+      "para": 6,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Kas",
+          "l": "kas",
+          "p": "D"
+        },
+        {
+          "f": "siin",
+          "l": "siin",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "küsimus",
+          "l": "küsimus",
+          "p": "S"
+        },
+        {
+          "f": "usu",
+          "l": "usk",
+          "p": "S"
+        },
+        {
+          "f": "või",
+          "l": "või",
+          "p": "J"
+        },
+        {
+          "f": "veendumuste",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Ei ole. Aga paragrahv 42 räägib veendumustest. Põhiseaduse järgi ei tohi riigiasutused, kohalikud omavalitsused ja nende ametiisikud Eesti kodaniku vaba tahte vastaselt koguda ega talletada andmeid tema veendumuste kohta.“",
+      "para": 7,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "42",
+          "l": "42",
+          "p": "N"
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "veendumustest",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Põhiseaduse",
+          "l": "põhiseadus",
+          "p": "S",
+          "parts": [
+            "põhi",
+            "seadus"
+          ]
+        },
+        {
+          "f": "järgi",
+          "l": "järgi",
+          "p": "K"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tohi",
+          "l": "tohtima",
+          "p": "V"
+        },
+        {
+          "f": "riigiasutused",
+          "l": "riigiasutus",
+          "p": "S",
+          "parts": [
+            "riik",
+            "asutus"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kohalikud",
+          "l": "kohalik",
+          "p": "A"
+        },
+        {
+          "f": "omavalitsused",
+          "l": "omavalitsus",
+          "p": "S",
+          "parts": [
+            "oma",
+            "valitsus"
+          ]
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "nende",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "ametiisikud",
+          "l": "ametiisik",
+          "p": "S",
+          "parts": [
+            "amet",
+            "isik"
+          ]
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodaniku",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": "tahte",
+          "l": "tahe",
+          "p": "S"
+        },
+        {
+          "f": "vastaselt",
+          "l": "vastaselt",
+          "p": "D"
+        },
+        {
+          "f": "koguda",
+          "l": "koguma",
+          "p": "V"
+        },
+        {
+          "f": "ega",
+          "l": "ega",
+          "p": "J"
+        },
+        {
+          "f": "talletada",
+          "l": "talletama",
+          "p": "V"
+        },
+        {
+          "f": "andmeid",
+          "l": "andmed",
+          "p": "S"
+        },
+        {
+          "f": "tema",
+          "l": "tema",
+          "p": "P"
+        },
+        {
+          "f": "veendumuste",
+          "l": "veendumus",
+          "p": "S"
+        },
+        {
+          "f": "kohta",
+          "l": "kohta",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Talletada?“",
+      "para": 8,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Talletada",
+          "l": "talletama",
+          "p": "V"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Talletama tähendab hoidma. Nagu sina haiglas: sa talletad patsientide andmeid arvutis. Ja vaba tahte vastaselt on sama mis vaba tahte vastu.“",
+      "para": 9,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Talletama",
+          "l": "talletama",
+          "p": "V"
+        },
+        {
+          "f": "tähendab",
+          "l": "tähendama",
+          "p": "V"
+        },
+        {
+          "f": "hoidma",
+          "l": "hoidma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Nagu",
+          "l": "nagu",
+          "p": "J"
+        },
+        {
+          "f": "sina",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "haiglas",
+          "l": "haigla",
+          "p": "S"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "talletad",
+          "l": "talletama",
+          "p": "V"
+        },
+        {
+          "f": "patsientide",
+          "l": "patsient",
+          "p": "S"
+        },
+        {
+          "f": "andmeid",
+          "l": "andmed",
+          "p": "S"
+        },
+        {
+          "f": "arvutis",
+          "l": "arvuti",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": "tahte",
+          "l": "tahe",
+          "p": "S"
+        },
+        {
+          "f": "vastaselt",
+          "l": "vastaselt",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sama",
+          "l": "sama",
+          "p": "P"
+        },
+        {
+          "f": "mis",
+          "l": "mis",
+          "p": "P"
+        },
+        {
+          "f": "vaba",
+          "l": "vaba",
+          "p": "A"
+        },
+        {
+          "f": "tahte",
+          "l": "tahe",
+          "p": "S"
+        },
+        {
+          "f": "vastu",
+          "l": "vastu",
+          "p": "K"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Aga siin on kirjas „Eesti kodaniku“. Mina ei ole veel kodanik.“",
+      "para": 10,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aga",
+          "l": "aga",
+          "p": "J"
+        },
+        {
+          "f": "siin",
+          "l": "siin",
+          "p": "D"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kirjas",
+          "l": "kiri",
+          "p": "S"
+        },
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodaniku",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mina",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "ole",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "veel",
+          "l": "veel",
+          "p": "D"
+        },
+        {
+          "f": "kodanik",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Mõni paragrahv räägib igaühest. Näiteks paragrahv 26: igaühel on õigus perekonna- ja eraelu puutumatusele. Paragrahv 42 räägib Eesti kodanikust. Varsti räägib see ka sinust!“",
+      "para": 11,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Mõni",
+          "l": "mõni",
+          "p": "P"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "igaühest",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Näiteks",
+          "l": "näide",
+          "p": "S"
+        },
+        {
+          "f": "paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "26",
+          "l": "26",
+          "p": "N"
+        },
+        {
+          "f": ":",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "igaühel",
+          "l": "igaüks",
+          "p": "P",
+          "parts": [
+            "iga",
+            "üks"
+          ]
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "õigus",
+          "l": "õigus",
+          "p": "S"
+        },
+        {
+          "f": "perekonna-",
+          "l": "perekond",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "eraelu",
+          "l": "eraelu",
+          "p": "S",
+          "parts": [
+            "era",
+            "elu"
+          ]
+        },
+        {
+          "f": "puutumatusele",
+          "l": "puutumatus",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Paragrahv",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "42",
+          "l": "42",
+          "p": "N"
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodanikust",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Varsti",
+          "l": "varsti",
+          "p": "D"
+        },
+        {
+          "f": "räägib",
+          "l": "rääkima",
+          "p": "V"
+        },
+        {
+          "f": "see",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ka",
+          "l": "ka",
+          "p": "D"
+        },
+        {
+          "f": "sinust",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Taotluse lõpus oli vanne. Olga luges selle ette.",
+      "para": 12,
+      "tokens": [
+        {
+          "f": "Taotluse",
+          "l": "taotlus",
+          "p": "S"
+        },
+        {
+          "f": "lõpus",
+          "l": "lõpp",
+          "p": "S"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vanne",
+          "l": "vanne",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Olga",
+          "l": "Olga",
+          "p": "H"
+        },
+        {
+          "f": "luges",
+          "l": "lugema",
+          "p": "V"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "ette",
+          "l": "ette",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Taotledes Eesti kodakondsust, tõotan olla ustav Eesti põhiseaduslikule korrale.“",
+      "para": 13,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Taotledes",
+          "l": "taotlema",
+          "p": "V"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "kodakondsust",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "tõotan",
+          "l": "tõotama",
+          "p": "V"
+        },
+        {
+          "f": "olla",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ustav",
+          "l": "ustav",
+          "p": "A"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "põhiseaduslikule",
+          "l": "põhiseaduslik",
+          "p": "A",
+          "parts": [
+            "põhi",
+            "seaduslik"
+          ]
+        },
+        {
+          "f": "korrale",
+          "l": "kord",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„See vanne on kodakondsuse seaduse paragrahvis 6. Kui sa kirjutad taotlusele käsitsi alla, annad sa selle vande. Allkiri ongi vande andmine.“",
+      "para": 14,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "See",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "vanne",
+          "l": "vanne",
+          "p": "S"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kodakondsuse",
+          "l": "kodakondsus",
+          "p": "S"
+        },
+        {
+          "f": "seaduse",
+          "l": "seadus",
+          "p": "S"
+        },
+        {
+          "f": "paragrahvis",
+          "l": "paragrahv",
+          "p": "S"
+        },
+        {
+          "f": "6.",
+          "l": "6.",
+          "p": "O"
+        },
+        {
+          "f": "Kui",
+          "l": "kui",
+          "p": "J"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "kirjutad",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "taotlusele",
+          "l": "taotlus",
+          "p": "S"
+        },
+        {
+          "f": "käsitsi",
+          "l": "käsitsi",
+          "p": "D"
+        },
+        {
+          "f": "alla",
+          "l": "alla",
+          "p": "D"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "annad",
+          "l": "andma",
+          "p": "V"
+        },
+        {
+          "f": "sa",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "selle",
+          "l": "see",
+          "p": "P"
+        },
+        {
+          "f": "vande",
+          "l": "vanne",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Allkiri",
+          "l": "allkiri",
+          "p": "S",
+          "parts": [
+            "all",
+            "kiri"
+          ]
+        },
+        {
+          "f": "ongi",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "vande",
+          "l": "vanne",
+          "p": "S"
+        },
+        {
+          "f": "andmine",
+          "l": "andmine",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Siis ma täna alla ei kirjuta. Märtsis viin ma taotluse ise PPA-sse ja kirjutan seal käsitsi alla. Aja broneerisin ma juba.“",
+      "para": 15,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Siis",
+          "l": "siis",
+          "p": "D"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "täna",
+          "l": "täna",
+          "p": "D"
+        },
+        {
+          "f": "alla",
+          "l": "alla",
+          "p": "D"
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "kirjuta",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Märtsis",
+          "l": "märts",
+          "p": "S"
+        },
+        {
+          "f": "viin",
+          "l": "viima",
+          "p": "V"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "taotluse",
+          "l": "taotlus",
+          "p": "S"
+        },
+        {
+          "f": "ise",
+          "l": "ise",
+          "p": "P"
+        },
+        {
+          "f": "PPA-sse",
+          "l": "ppa",
+          "p": "Y"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "kirjutan",
+          "l": "kirjutama",
+          "p": "V"
+        },
+        {
+          "f": "seal",
+          "l": "seal",
+          "p": "D"
+        },
+        {
+          "f": "käsitsi",
+          "l": "käsitsi",
+          "p": "D"
+        },
+        {
+          "f": "alla",
+          "l": "alla",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Aja",
+          "l": "aeg",
+          "p": "S"
+        },
+        {
+          "f": "broneerisin",
+          "l": "broneerima",
+          "p": "V"
+        },
+        {
+          "f": "ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "juba",
+          "l": "juba",
+          "p": "D"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Sergei, kes oli kogu õhtu mööda kööki jalutanud, jäi seisma.",
+      "para": 16,
+      "tokens": [
+        {
+          "f": "Sergei",
+          "l": "Sergei",
+          "p": "H"
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "kes",
+          "l": "kes",
+          "p": "P"
+        },
+        {
+          "f": "oli",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "kogu",
+          "l": "kogu",
+          "p": "A"
+        },
+        {
+          "f": "õhtu",
+          "l": "õhtu",
+          "p": "S"
+        },
+        {
+          "f": "mööda",
+          "l": "mööda",
+          "p": "K"
+        },
+        {
+          "f": "kööki",
+          "l": "köök",
+          "p": "S"
+        },
+        {
+          "f": "jalutanud",
+          "l": "jalutama",
+          "p": "V",
+          "alt": [
+            "jalutanud"
+          ]
+        },
+        {
+          "f": ",",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "jäi",
+          "l": "jääma",
+          "p": "V"
+        },
+        {
+          "f": "seisma",
+          "l": "seisma",
+          "p": "V"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Broneeritud aeg PPA-s! Ma olen sinu üle uhke. Eesti riik saab hea kodaniku.“",
+      "para": 17,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Broneeritud",
+          "l": "broneeritud",
+          "p": "A",
+          "alt": [
+            "broneerima"
+          ]
+        },
+        {
+          "f": "aeg",
+          "l": "aeg",
+          "p": "S"
+        },
+        {
+          "f": "PPA-s",
+          "l": "ppa",
+          "p": "Y"
+        },
+        {
+          "f": "!",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ma",
+          "l": "mina",
+          "p": "P"
+        },
+        {
+          "f": "olen",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "sinu",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "üle",
+          "l": "üle",
+          "p": "K"
+        },
+        {
+          "f": "uhke",
+          "l": "uhke",
+          "p": "A"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Eesti",
+          "l": "Eesti",
+          "p": "H"
+        },
+        {
+          "f": "riik",
+          "l": "riik",
+          "p": "S"
+        },
+        {
+          "f": "saab",
+          "l": "saama",
+          "p": "V"
+        },
+        {
+          "f": "hea",
+          "l": "hea",
+          "p": "A"
+        },
+        {
+          "f": "kodaniku",
+          "l": "kodanik",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "olga",
+      "text": "„Ja sina? Sinul on ikka hall pass.“",
+      "para": 18,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "sina",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "?",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Sinul",
+          "l": "sina",
+          "p": "P"
+        },
+        {
+          "f": "on",
+          "l": "olema",
+          "p": "V"
+        },
+        {
+          "f": "ikka",
+          "l": "ikka",
+          "p": "D"
+        },
+        {
+          "f": "hall",
+          "l": "hall",
+          "p": "A"
+        },
+        {
+          "f": "pass",
+          "l": "pass",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "sergei",
+      "text": "„Inimväärikus ei tule passiga.“",
+      "para": 19,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Inimväärikus",
+          "l": "inimväärikus",
+          "p": "S",
+          "parts": [
+            "inim",
+            "väärikus"
+          ]
+        },
+        {
+          "f": "ei",
+          "l": "ei",
+          "p": "V"
+        },
+        {
+          "f": "tule",
+          "l": "tulema",
+          "p": "V"
+        },
+        {
+          "f": "passiga",
+          "l": "pass",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "narrator",
+      "text": "Lisa pani taotluse ja tumeda pastaka riiulile.",
+      "para": 20,
+      "tokens": [
+        {
+          "f": "Lisa",
+          "l": "lisa",
+          "p": "S"
+        },
+        {
+          "f": "pani",
+          "l": "panema",
+          "p": "V"
+        },
+        {
+          "f": "taotluse",
+          "l": "taotlus",
+          "p": "S"
+        },
+        {
+          "f": "ja",
+          "l": "ja",
+          "p": "J"
+        },
+        {
+          "f": "tumeda",
+          "l": "tume",
+          "p": "A"
+        },
+        {
+          "f": "pastaka",
+          "l": "pastakas",
+          "p": "S"
+        },
+        {
+          "f": "riiulile",
+          "l": "riiul",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    },
+    {
+      "speaker": "lisa",
+      "text": "„Pastakas puhkab nüüd märtsini.“",
+      "para": 21,
+      "tokens": [
+        {
+          "f": "„",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "Pastakas",
+          "l": "pastakas",
+          "p": "S"
+        },
+        {
+          "f": "puhkab",
+          "l": "puhkama",
+          "p": "V"
+        },
+        {
+          "f": "nüüd",
+          "l": "nüüd",
+          "p": "D"
+        },
+        {
+          "f": "märtsini",
+          "l": "märts",
+          "p": "S"
+        },
+        {
+          "f": ".",
+          "l": null,
+          "p": "Z"
+        },
+        {
+          "f": "“",
+          "l": null,
+          "p": "Z"
+        }
+      ]
+    }
+  ],
+  "newWords": [
+    {
+      "form": "talletada",
+      "lemma": "talletama",
+      "translation": "хранить, сохранять (данные)"
+    },
+    {
+      "form": "vande andmine",
+      "lemma": "vande andmine",
+      "translation": "принесение присяги"
+    },
+    {
+      "form": "Põhiseaduse järgi",
+      "lemma": "põhiseaduse järgi",
+      "translation": "согласно Конституции, по Конституции"
+    },
+    {
+      "form": "vaba tahte vastaselt",
+      "lemma": "vaba tahte vastaselt",
+      "translation": "вопреки его свободной воле"
+    },
+    {
+      "form": "parandusi",
+      "lemma": "parandus",
+      "translation": "исправление"
+    },
+    {
+      "form": "aeglaselt",
+      "lemma": "aeglaselt",
+      "translation": "медленно"
+    },
+    {
+      "form": "isikukood",
+      "lemma": "isikukood",
+      "translation": "личный код (идентификационный номер)"
+    },
+    {
+      "form": "käsitsi",
+      "lemma": "käsitsi",
+      "translation": "от руки, вручную"
+    },
+    {
+      "form": "broneerisin",
+      "lemma": "broneerima",
+      "translation": "бронировать, записываться (на время)"
+    }
+  ],
+  "facts": [
+    {
+      "text": "Riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi Eesti kodaniku vaba tahte vastaselt koguda ega talletada andmeid tema veendumuste kohta. (§ 42)",
+      "ref": "ps-42"
+    },
+    {
+      "text": "Välismaalane, kes soovib saada Eesti kodakondsust, peab andma vande: „Taotledes Eesti kodakondsust, tõotan olla ustav Eesti põhiseaduslikule korrale.“ (KodS § 6)",
+      "ref": "kods-6-lg1-p7"
+    },
+    {
+      "text": "Igaühe omand on puutumatu ja võrdselt kaitstud. (§ 32)",
+      "ref": "ps-32-lg1"
+    }
+  ],
+  "questions": [
+    {
+      "type": "where",
+      "text": "Kus see on kirjas? „Riigiasutused, kohalikud omavalitsused ja nende ametiisikud ei tohi Eesti kodaniku vaba tahte vastaselt koguda ega talletada andmeid tema veendumuste kohta.“",
+      "options": [
+        "§ 40",
+        "§ 41",
+        "§ 42",
+        "§ 45"
+      ],
+      "answer": 2,
+      "explanation": "See lause on põhiseaduse §-s 42. § 40 räägib südametunnistuse-, usu- ja mõttevabadusest, § 41 õigusest jääda truuks oma arvamustele ja veendumustele ning § 45 õigusest vabalt levitada ideid, arvamusi, veendumusi ja muud informatsiooni.",
+      "ref": "ps-42"
+    },
+    {
+      "type": "choice",
+      "text": "Mida tõotab kodakondsuse seaduse § 6 järgi välismaalane, kes soovib saada Eesti kodakondsust?",
+      "options": [
+        "olla ustav Eesti põhiseaduslikule korrale",
+        "olla ustav Vabariigi Valitsusele",
+        "kaitsta Eesti iseseisvust",
+        "elada alati Eestis"
+      ],
+      "answer": 0,
+      "explanation": "Kodakondsuse seaduse § 6 ütleb: välismaalane, kes soovib saada Eesti kodakondsust, peab andma vande: „Taotledes Eesti kodakondsust, tõotan olla ustav Eesti põhiseaduslikule korrale.“",
+      "ref": "kods-6-lg1-p7"
+    }
+  ],
+  "audio": {
+    "story": "audio/0071/story.mp3",
+    "law": "audio/0071/law.mp3",
+    "timings": "audio/0071/timings.json"
+  }
+}
